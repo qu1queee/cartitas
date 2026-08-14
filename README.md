@@ -92,9 +92,18 @@ python scripts/publish.py --topic geography
 |----------|---------|--------------|
 | [Publish](.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves queue → cards, commits |
 | [Validate](.github/workflows/validate.yml) | Push / PR | Syntax + hashcards check |
-| [Generate](.github/workflows/generate.yml) | Manual | LLM drafts → PR in `draft/` |
+| [Generate](.github/workflows/generate.yml) | Manual | OpenAI drafts → PR in `draft/` (optional) |
 
-For generation, add `OPENAI_API_KEY` as a repository secret.
+### Cursor Automation (recommended for draft)
+
+Use a **scheduled Cursor Automation** so a cloud agent writes cards into `draft/` with Cursor’s model — no OpenAI API key in GitHub.
+
+1. Follow the runbook: [.cursor/automation-generate-draft.md](.cursor/automation-generate-draft.md)
+2. Schedule: daily **06:00 UTC** (see `generate.schedule` in [publish.yaml](publish.yaml))
+3. Repo: `qu1queee/cartitas`, branch `main`
+4. After each run: review `draft/`, move good cards to `queue/`
+
+Rates per topic are in `publish.yaml` under each topic’s `generate.cards`.
 
 ## Topics
 

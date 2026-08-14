@@ -1,9 +1,15 @@
 # Per-topic publishing configuration.
 # Each enabled topic releases up to `rate` cards per run from queue/{Topic}/ into cards/{Topic}/.
+# Draft generation (LLM → draft/) runs on its own schedule; see `generate` below.
 
 defaults:
   cards_per_publish: 2
   schedule: "0 8 * * *"  # daily at 08:00 UTC
+
+generate:
+  schedule: "0 6 * * *"  # daily at 06:00 UTC (before publish)
+  defaults:
+    cards: 5
 
 topics:
   geography:
@@ -11,27 +17,42 @@ topics:
     rate: 2
     age_bands: [early, middle]
     subtopics: [continents, oceans, countries]
+    generate:
+      enabled: true
+      cards: 5
 
   space:
     enabled: true
     rate: 2
     age_bands: [early, middle, teen]
     subtopics: [solar_system, moon, stars]
+    generate:
+      enabled: true
+      cards: 5
 
   animals:
     enabled: true
     rate: 2
     age_bands: [early, middle]
     subtopics: [pets, farm, ocean]
+    generate:
+      enabled: true
+      cards: 5
 
   sports:
     enabled: true
     rate: 1
     age_bands: [early, middle]
     subtopics: [football, basketball, olympics]
+    generate:
+      enabled: true
+      cards: 4
 
   science:
     enabled: true
     rate: 2
     age_bands: [early, middle]
     subtopics: [body, plants, weather]
+    generate:
+      enabled: true
+      cards: 5
