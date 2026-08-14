@@ -1,13 +1,15 @@
 name: Generate draft cards
 
-# Optional: creates a PR with draft cards from topic seeds.
-# Requires OPENAI_API_KEY (or adapt the script for another provider).
+# Generates draft cards into a shared PR branch (one open PR at a time).
+# Requires OPENAI_API_KEY.
 
 on:
+  schedule:
+    - cron: "0 7 * * *"
   workflow_dispatch:
     inputs:
       topic:
-        description: Topic key (geography, space, animals, sports, science)
+        description: Topic key
         type: choice
         options:
           - geography
@@ -16,12 +18,20 @@ on:
           - sports
           - science
         required: true
+      lang:
+        description: Language code
+        type: choice
+        options:
+          - en
+          - es
+          - de
+        default: en
       count:
         description: Number of cards to generate
         type: number
         default: 5
       age_band:
-        description: Age band (early, middle, teen)
+        description: Age band
         type: choice
         options:
           - early
@@ -38,6 +48,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -52,23 +64,45 @@ jobs:
         run: |
           python scripts/generate.py \
             --topic "${{ inputs.topic }}" \
+            --lang "${{ inputs.lang }}" \
             --count "${{ inputs.count }}" \
             --age-band "${{ inputs.age_band }}"
 
       - name: Validate drafts
         run: python scripts/validate.py
 
-      - name: Create pull request
+      - name: Open or update draft PR
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "draft(${{ inputs.topic }}): generate ${{ inputs.count }} cards"
-          branch: "draft/${{ inputs.topic }}-${{ github.run_id }}"
-          title: "Draft: ${{ inputs.count }} ${{ inputs.topic }} cards (${{ inputs.age_band }})"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: automation/draft-cards
+          delete-branch: false
+          commit-message: "draft(${{ inputs.lang }}/${{ inputs.topic }}): generate ${{ inputs.count }} cards"
+          title: "Draft cards (automation)"
           body: |
-            Auto-generated draft cards for review.
+            Automated draft flashcards for review.
 
+            **Latest run**
+            - Language: `${{ inputs.lang }}`
             - Topic: `${{ inputs.topic }}`
             - Age band: `${{ inputs.age_band }}`
             - Count: `${{ inputs.count }}`
 
-            Move approved cards from `draft/` to `queue/` after review.
+            ## Review
+
+            1. Check `draft/${{ inputs.lang }}/` for new cards
+            2. Move approved files to `queue/${{ inputs.lang }}/{Topic}/`
+            3. Merge when ready
+
+            Supported languages: `en`, `es`, `de` (see [languages.yaml](languages.yaml)).
+
+      - name: Ensure PR is open
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pr=$(gh pr list --head automation/draft-cards --base main --state open --json url -q '.[0].url')
+          if [ -z "$pr" ]; then
+            echo "No open PR found (create-pull-request should have created one)"
+            exit 1
+          fi
+          echo "Open PR: $pr"

@@ -1,0 +1,19 @@
+{
+  "name": "Cartitas draft generator",
+  "description": "Daily agent writes kid flashcards into draft/{lang}/ and keeps one open PR for review.",
+  "triggers": [
+    { "cron": { "cron": "0 6 * * *" } }
+  ],
+  "actions": [],
+  "prompts": [
+    {
+      "prompt": "Follow .cursor/automation-generate-draft.md exactly.\n\nEach run pick ONE language (en, es, de — rotate) and ONE topic from publish.yaml where generate.enabled is true.\n\n1. Read languages.yaml, publish.yaml, templates/card-style.md, templates/topic-seeds/{topic}.md.\n2. Scan cards/{lang}/, queue/{lang}/, draft/{lang}/ for duplicates.\n3. Write ~generate.cards hashcards into draft/{lang}/{Topic}/ (PascalCase topics). Metadata must include lang: {code}.\n4. Run: python3 scripts/validate.py\n5. Do NOT push to main. Run:\n   python3 scripts/draft_pr.py --message \"draft({lang}/{topic}): add {n} cards ({subtopic}, {age_band})\" --pr-note \"Language: {lang} | Topic: {topic}\"\n6. Confirm an open PR exists: gh pr list --head automation/draft-cards --state open\n\nNever edit cards/ or queue/. One language per file. Reuse the same PR branch until merged."
+    }
+  ],
+  "gitConfig": {
+    "repo": "qu1queee/cartitas",
+    "repos": ["qu1queee/cartitas"],
+    "branch": "main"
+  },
+  "memoryEnabled": true
+}

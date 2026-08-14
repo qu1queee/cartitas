@@ -1,88 +1,119 @@
 # Cursor Automation: generate draft cards
 
-Runbook for the scheduled Cursor agent that writes kid flashcards into `draft/`.
+Runbook for the scheduled Cursor agent that writes kid flashcards into `draft/` and **updates one open PR** (never pushes to `main` directly).
 
 ## Goal
 
-Each run: use your model to create new hashcards markdown for **one topic in one language**, write files under `draft/{lang}/{Topic}/`, validate, commit, and push to `main`. Do **not** move cards to `queue/` or `cards/` — a human reviews `draft/` first.
+Each run: create new hashcards markdown for **one topic in one language**, write under `draft/{lang}/{Topic}/`, validate, commit to branch `automation/draft-cards`, push, and **ensure an open PR** exists targeting `main`.
+
+Do **not** move cards to `queue/` or `cards/` — a human reviews the PR first.
+
+## Languages (required)
+
+Read [languages.yaml](../languages.yaml): `en`, `es`, `de`.
+
+Every run targets **exactly one language**. Rotate across runs:
+
+```
+en → es → de → en → …
+```
+
+Also rotate **topic** (geography, space, animals, sports, science). Prefer the `(lang, topic)` pair with the fewest files in `draft/{lang}/` + `queue/{lang}/` combined.
+
+When writing `es` or `de`, match the age band and subtopic of existing `en` content when possible so facts stay aligned across languages.
 
 ## Before writing
 
-1. Read `languages.yaml` — supported codes: `en`, `es`, `de`.
-2. Read `publish.yaml` — use the `generate` section and each topic's settings.
-3. Read `templates/card-style.md` for tone and format.
-4. Read `templates/topic-seeds/{topic}.md` for ideas.
-5. Scan `cards/{lang}/`, `queue/{lang}/`, and `draft/{lang}/` for the chosen topic so you **do not duplicate** questions or clozes.
+1. Read `languages.yaml` and `publish.yaml` (`generate` section).
+2. Read `templates/card-style.md` and `templates/topic-seeds/{topic}.md`.
+3. Scan `cards/{lang}/`, `queue/{lang}/`, and `draft/{lang}/` for duplicates.
+4. Check for an existing open PR: `gh pr list --head automation/draft-cards --state open`
 
-## Pick one language and topic per run
+## Pick content for this run
 
-Rotate **language** (`en` → `es` → `de` → …) and **topic** where `generate.enabled: true`. Prefer combinations with the fewest files in `draft/` + `queue/`.
+- **Language:** one of `en`, `es`, `de` (rotate).
+- **Topic:** one with `generate.enabled: true`.
+- **Age band:** from topic's `age_bands` (rotate).
+- **Subtopic:** underrepresented in that lang/topic.
+- **Count:** `generate.cards` from publish.yaml (topic override if set).
+- Write in the **target language only** — natural kid-friendly prose, not literal translationese.
 
-Within the topic:
-
-- Pick an **age band** from the topic's `age_bands` (rotate across runs).
-- Pick a **subtopic** from `subtopics` that is underrepresented.
-- Write exactly `generate.cards` cards (or the topic override).
-- Write in the **target language only** (natural kid-friendly Spanish or German, not word-for-word calques).
-
-## Card format (hashcards)
+## Card format
 
 ```markdown
 # {Subtopic} — {age band label}
 
 <!-- age: early | lang: es | topic: geography | subtopic: continents -->
 
-Q: Simple question?
-A: Short kid-friendly answer.
+Q: ¿Cuántos continentes hay?
+A: Siete: África, Antártida, Asia, Europa, América del Norte, Oceanía y América del Sur.
 
 ---
 
 C: La Tierra tiene [siete] continentes.
 ```
 
-Rules:
-
-- Separate cards with `---` on its own line.
-- Use `Q:` / `A:` pairs or `C:` cloze lines only.
-- One idea per card; short answers (see `templates/card-style.md`).
 - Path: `draft/{lang}/{Topic}/{subtopic}_{age_band}.md`
+- Topic folders: `Geography`, `Space`, `Animals`, `Sports`, `Science` (PascalCase).
 
-Topic folder names use PascalCase: `Geography`, `Space`, `Animals`, `Sports`, `Science`.
-
-## After writing
+## Validate
 
 ```sh
 python3 scripts/validate.py
 ```
 
-Fix any validation errors before committing.
+Fix errors before committing.
 
-## Commit and push
+## Commit via PR branch (do not push to main)
 
-Only commit files under `draft/`.
+Use the helper script — it rebases on `main`, pushes `automation/draft-cards`, and opens a PR if none exists:
 
 ```sh
-git add draft/
-git commit -m "draft({lang}/{topic}): add {n} cards ({subtopic}, {age_band})"
-git push origin main
+python3 scripts/draft_pr.py \
+  --message "draft(es/geography): add 5 cards (continents, early)" \
+  --pr-note "Language: es | Topic: geography | Band: early | Subtopic: continents"
 ```
 
-If nothing new was written, exit without an empty commit.
+Dry run first if unsure:
+
+```sh
+python3 scripts/draft_pr.py --dry-run --message "draft(es/geography): ..."
+```
+
+### Manual equivalent (only if script fails)
+
+```sh
+git fetch origin main
+git checkout automation/draft-cards 2>/dev/null || git checkout -b automation/draft-cards origin/main
+git pull --rebase origin automation/draft-cards 2>/dev/null || true
+git rebase origin/main
+git add draft/
+git commit -m "draft({lang}/{topic}): add {n} cards ({subtopic}, {age_band})"
+git push -u origin automation/draft-cards
+gh pr list --head automation/draft-cards --state open || \
+  gh pr create --base main --head automation/draft-cards \
+    --title "Draft cards (automation)" \
+    --body "Automated draft flashcards. Review draft/{lang}/ then move to queue/{lang}/."
+```
+
+## After merge (human)
+
+1. Review the PR on GitHub.
+2. Move approved files: `draft/{lang}/` → `queue/{lang}/`.
+3. Publish workflow moves `queue/` → `cards/`.
+4. Kids drill: `python scripts/drill.py --lang es`
 
 ## Do not
 
+- Push to `main` directly.
 - Edit `cards/` or `queue/` in this automation.
 - Mix languages in one file.
-- Delete existing draft files.
-- Use external APIs; write cards with your own model.
-- Commit `.venv/`, `*.db`, or secrets.
+- Close the draft PR after each run — **reuse the same open PR** until merged.
 
-## Full pipeline (for humans)
+## Pipeline
 
 ```
-draft/{lang}/  →  queue/{lang}/  →  cards/{lang}/
-      ↑                ↑                  ↑
-   this automation   you move         publish.yml
+automation → draft/{lang}/ → PR (automation/draft-cards)
+                                    ↓ merge + you move files
+                              queue/{lang}/ → cards/{lang}/
 ```
-
-Kids drill with: `python scripts/drill.py --lang es`

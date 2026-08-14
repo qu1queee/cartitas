@@ -90,7 +90,14 @@ python scripts/publish.py                     # all languages
 
 ### Cursor Automation (draft)
 
-Scheduled agent writes to `draft/{lang}/` — see [.cursor/automation-generate-draft.md](.cursor/automation-generate-draft.md).
+Scheduled agent writes to `draft/{lang}/` and **opens/updates one PR** (`automation/draft-cards`) — never pushes to `main` directly.
+
+1. Runbook: [.cursor/automation-generate-draft.md](.cursor/automation-generate-draft.md)
+2. Helper: `python scripts/draft_pr.py --message "draft(es/animals): ..."`
+3. Rotates **language** (`en` → `es` → `de`) and **topic** each run
+4. After merge: move approved cards to `queue/{lang}/`, then publish
+
+Re-open the automation editor with prefilled settings: [.cursor/automation-prefill.json](.cursor/automation-prefill.json)
 
 ## Topics
 
