@@ -24,15 +24,18 @@ def load_seed(topic: str) -> str:
     return seed_path.read_text(encoding="utf-8")
 
 
-def build_prompt(topic: str, age_band: str, count: int) -> str:
+def build_prompt(topic: str, age_band: str, count: int, lang: str) -> str:
     style = STYLE.read_text(encoding="utf-8") if STYLE.is_file() else ""
     seed = load_seed(topic)
+    lang_names = {"en": "English", "es": "Spanish", "de": "German"}
+    lang_label = lang_names.get(lang, lang)
     return f"""You write flashcards for kids using hashcards markdown syntax.
 
 Rules:
 - Output ONLY markdown cards, no preamble or explanation.
 - Separate each card with --- on its own line.
 - Use Q:/A: pairs or C: cloze lines.
+- Write entirely in {lang_label} (language code: {lang}).
 - Age band: {age_band}
 - Topic: {topic}
 - Write exactly {count} cards.
@@ -48,7 +51,7 @@ Start with a single # section header line, then optional metadata comment, then 
 Example header:
 # {{Subtopic}} — {age_band}
 
-<!-- age: {age_band} | topic: {topic} | subtopic: generated -->
+<!-- age: {age_band} | lang: {lang} | topic: {topic} | subtopic: generated -->
 """
 
 
@@ -73,9 +76,9 @@ def generate_with_openai(prompt: str) -> str:
     return text + "\n"
 
 
-def write_draft(topic: str, age_band: str, content: str) -> Path:
+def write_draft(topic: str, age_band: str, lang: str, content: str) -> Path:
     topic_name = topic_dir_name(topic)
-    out_dir = ROOT / "draft" / topic_name
+    out_dir = ROOT / "draft" / lang / topic_name
     out_dir.mkdir(parents=True, exist_ok=True)
 
     existing = sorted(out_dir.glob(f"*_{age_band}.md"))
@@ -91,10 +94,11 @@ def main() -> int:
         "geography", "space", "animals", "sports", "science"
     ])
     parser.add_argument("--age-band", default="early", choices=["early", "middle", "teen"])
+    parser.add_argument("--lang", default="en", choices=["en", "es", "de"])
     parser.add_argument("--count", type=int, default=5)
     args = parser.parse_args()
 
-    prompt = build_prompt(args.topic, args.age_band, args.count)
+    prompt = build_prompt(args.topic, args.age_band, args.count, args.lang)
     content = generate_with_openai(prompt)
 
     if "Q:" not in content and "C:" not in content:
@@ -102,7 +106,7 @@ def main() -> int:
         print(content, file=sys.stderr)
         return 1
 
-    path = write_draft(args.topic, args.age_band, content)
+    path = write_draft(args.topic, args.age_band, args.lang, content)
     print(f"Wrote draft: {path.relative_to(ROOT)}")
     return 0
 

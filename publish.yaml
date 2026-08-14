@@ -1,6 +1,6 @@
 # Per-topic publishing configuration.
-# Each enabled topic releases up to `rate` cards per run from queue/{Topic}/ into cards/{Topic}/.
-# Draft generation (LLM → draft/) runs on its own schedule; see `generate` below.
+# Paths: queue/{lang}/{Topic}/ → cards/{lang}/{Topic}/
+# Languages: see languages.yaml (en, es, de). Publish runs for each language unless --lang is set.
 
 defaults:
   cards_per_publish: 2

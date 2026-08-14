@@ -1,0 +1,11 @@
+# Supported drill languages. Content lives under cards/{lang}/, queue/{lang}/, draft/{lang}/.
+
+default: en
+
+languages:
+  en:
+    name: English
+  es:
+    name: Español
+  de:
+    name: Deutsch

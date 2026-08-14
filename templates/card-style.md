@@ -41,14 +41,32 @@ Use cloze for names, colors, numbers, and simple facts.
 ## Optional metadata (ignored by hashcards)
 
 ```markdown
-<!-- age: early | topic: space | subtopic: planets -->
+<!-- age: early | lang: en | topic: space | subtopic: planets -->
 ```
+
+Use `lang: en`, `lang: es`, or `lang: de`. **One language per file** — translate the same facts into separate files.
+
+## Languages
+
+| Code | Language |
+|------|----------|
+| en | English |
+| es | Español |
+| de | Deutsch |
+
+Content paths include the language code first:
+
+- `cards/{lang}/{Topic}/{subtopic}_{band}.md`
+- `queue/{lang}/{Topic}/`
+- `draft/{lang}/{Topic}/`
+
+Drill one language: `python scripts/drill.py --lang es`
 
 ## File layout
 
-- `cards/{Topic}/{subtopic}_{band}.md` — published, ready to drill
-- `queue/{Topic}/{subtopic}_{band}.md` — approved, waiting to publish
-- `draft/{Topic}/` — work in progress
+- `cards/{lang}/{Topic}/{subtopic}_{band}.md` — published, ready to drill
+- `queue/{lang}/{Topic}/` — approved, waiting to publish
+- `draft/{lang}/{Topic}/` — work in progress
 
 Separate cards with `---` on its own line.
 
@@ -61,7 +79,7 @@ Use `# Title` at the top of a file for humans. hashcards does not turn headers i
 ```markdown
 # Planets — early (5–7)
 
-<!-- age: early | topic: space | subtopic: planets -->
+<!-- age: early | lang: en | topic: space | subtopic: planets -->
 
 Q: What is the biggest planet?
 A: Jupiter. It is so big that all the other planets could fit inside it.
