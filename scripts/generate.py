@@ -5,16 +5,25 @@ from __future__ import annotations
 
 import argparse
 import os
-import re
 import sys
 from pathlib import Path
 
+import yaml
+
 ROOT = Path(__file__).resolve().parent.parent
 STYLE = ROOT / "templates" / "card-style.md"
+TOPICS = ["geography", "space", "animals", "sports", "science"]
 
 
 def topic_dir_name(topic_key: str) -> str:
     return topic_key.replace("_", " ").title().replace(" ", "")
+
+
+def load_languages() -> list[str]:
+    path = ROOT / "languages.yaml"
+    with path.open(encoding="utf-8") as f:
+        cfg = yaml.safe_load(f)
+    return list(cfg.get("languages", {}).keys())
 
 
 def load_seed(topic: str) -> str:
@@ -24,22 +33,42 @@ def load_seed(topic: str) -> str:
     return seed_path.read_text(encoding="utf-8")
 
 
-def build_prompt(topic: str, age_band: str, count: int, lang: str) -> str:
+def lang_label(code: str) -> str:
+    return {"en": "English", "es": "Spanish", "de": "German"}.get(code, code)
+
+
+def build_prompt(
+    topic: str,
+    age_band: str,
+    count: int,
+    lang: str,
+    *,
+    subtopic: str,
+    en_reference: str | None = None,
+) -> str:
     style = STYLE.read_text(encoding="utf-8") if STYLE.is_file() else ""
     seed = load_seed(topic)
-    lang_names = {"en": "English", "es": "Spanish", "de": "German"}
-    lang_label = lang_names.get(lang, lang)
+    reference_block = ""
+    if en_reference and lang != "en":
+        reference_block = f"""
+The English version (same facts, same card count — adapt naturally to {lang_label(lang)}):
+
+{en_reference}
+"""
     return f"""You write flashcards for kids using hashcards markdown syntax.
 
 Rules:
 - Output ONLY markdown cards, no preamble or explanation.
 - Separate each card with --- on its own line.
 - Use Q:/A: pairs or C: cloze lines.
-- Write entirely in {lang_label} (language code: {lang}).
+- Write entirely in {lang_label(lang)} (language code: {lang}).
 - Age band: {age_band}
 - Topic: {topic}
+- Subtopic: {subtopic}
 - Write exactly {count} cards.
-- Follow this style guide:
+- Same facts and card order as the English set when translating.
+{reference_block}
+Follow this style guide:
 
 {style}
 
@@ -47,11 +76,10 @@ Topic seeds and ideas:
 
 {seed}
 
-Start with a single # section header line, then optional metadata comment, then cards.
-Example header:
-# {{Subtopic}} — {age_band}
+Start with:
+# {subtopic.replace("_", " ").title()} — {age_band}
 
-<!-- age: {age_band} | lang: {lang} | topic: {topic} | subtopic: generated -->
+<!-- age: {age_band} | lang: {lang} | topic: {topic} | subtopic: {subtopic} -->
 """
 
 
@@ -76,38 +104,69 @@ def generate_with_openai(prompt: str) -> str:
     return text + "\n"
 
 
-def write_draft(topic: str, age_band: str, lang: str, content: str) -> Path:
+def write_draft(
+    topic: str,
+    age_band: str,
+    lang: str,
+    subtopic: str,
+    content: str,
+) -> Path:
     topic_name = topic_dir_name(topic)
     out_dir = ROOT / "draft" / lang / topic_name
     out_dir.mkdir(parents=True, exist_ok=True)
-
-    existing = sorted(out_dir.glob(f"*_{age_band}.md"))
-    n = len(existing) + 1
-    path = out_dir / f"generated_{n}_{age_band}.md"
+    path = out_dir / f"{subtopic}_{age_band}.md"
     path.write_text(content, encoding="utf-8")
+    return path
+
+
+def generate_one(
+    topic: str,
+    age_band: str,
+    lang: str,
+    count: int,
+    subtopic: str,
+    en_reference: str | None = None,
+) -> Path:
+    prompt = build_prompt(
+        topic, age_band, count, lang, subtopic=subtopic, en_reference=en_reference
+    )
+    content = generate_with_openai(prompt)
+    if "Q:" not in content and "C:" not in content:
+        raise RuntimeError(f"Model output missing cards for lang={lang}")
+    path = write_draft(topic, age_band, lang, subtopic, content)
+    print(f"Wrote draft: {path.relative_to(ROOT)}")
     return path
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Generate draft cartitas cards.")
-    parser.add_argument("--topic", required=True, choices=[
-        "geography", "space", "animals", "sports", "science"
-    ])
+    parser.add_argument("--topic", required=True, choices=TOPICS)
+    parser.add_argument("--subtopic", required=True, help="Subtopic slug, e.g. continents")
     parser.add_argument("--age-band", default="early", choices=["early", "middle", "teen"])
-    parser.add_argument("--lang", default="en", choices=["en", "es", "de"])
+    parser.add_argument("--lang", choices=["en", "es", "de"], help="Single language (ignored if --all-langs)")
+    parser.add_argument("--all-langs", action="store_true", help="Generate en, es, and de together")
     parser.add_argument("--count", type=int, default=5)
     args = parser.parse_args()
 
-    prompt = build_prompt(args.topic, args.age_band, args.count, args.lang)
-    content = generate_with_openai(prompt)
+    langs = load_languages() if args.all_langs else [args.lang or "en"]
 
-    if "Q:" not in content and "C:" not in content:
-        print("Model output missing cards:", file=sys.stderr)
-        print(content, file=sys.stderr)
-        return 1
+    en_content: str | None = None
+    for lang in langs:
+        if lang == "en":
+            path = generate_one(
+                args.topic, args.age_band, lang, args.count, args.subtopic
+            )
+            en_content = path.read_text(encoding="utf-8")
+        else:
+            generate_one(
+                args.topic,
+                args.age_band,
+                lang,
+                args.count,
+                args.subtopic,
+                en_reference=en_content,
+            )
 
-    path = write_draft(args.topic, args.age_band, args.lang, content)
-    print(f"Wrote draft: {path.relative_to(ROOT)}")
     return 0
 
 

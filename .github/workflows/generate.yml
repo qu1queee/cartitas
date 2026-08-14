@@ -1,6 +1,6 @@
 name: Generate draft cards
 
-# Generates draft cards into a shared PR branch (one open PR at a time).
+# Generates the same draft cards in en, es, and de into one shared PR branch.
 # Requires OPENAI_API_KEY.
 
 on:
@@ -18,16 +18,12 @@ on:
           - sports
           - science
         required: true
-      lang:
-        description: Language code
-        type: choice
-        options:
-          - en
-          - es
-          - de
-        default: en
+      subtopic:
+        description: Subtopic slug (e.g. continents, moon, pets)
+        type: string
+        required: true
       count:
-        description: Number of cards to generate
+        description: Number of cards per language
         type: number
         default: 5
       age_band:
@@ -58,15 +54,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt openai
 
-      - name: Generate draft cards
+      - name: Generate draft cards (en, es, de)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python scripts/generate.py \
             --topic "${{ inputs.topic }}" \
-            --lang "${{ inputs.lang }}" \
+            --subtopic "${{ inputs.subtopic }}" \
             --count "${{ inputs.count }}" \
-            --age-band "${{ inputs.age_band }}"
+            --age-band "${{ inputs.age_band }}" \
+            --all-langs
 
       - name: Validate drafts
         run: python scripts/validate.py
@@ -77,24 +74,28 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: automation/draft-cards
           delete-branch: false
-          commit-message: "draft(${{ inputs.lang }}/${{ inputs.topic }}): generate ${{ inputs.count }} cards"
+          commit-message: "draft(${{ inputs.topic }}/${{ inputs.subtopic }}): generate ${{ inputs.count }} cards x3 langs"
           title: "Draft cards (automation)"
           body: |
-            Automated draft flashcards for review.
+            Automated trilingual draft flashcards for review.
 
             **Latest run**
-            - Language: `${{ inputs.lang }}`
             - Topic: `${{ inputs.topic }}`
+            - Subtopic: `${{ inputs.subtopic }}`
             - Age band: `${{ inputs.age_band }}`
-            - Count: `${{ inputs.count }}`
+            - Cards per language: `${{ inputs.count }}`
+            - Languages: `en`, `es`, `de`
+
+            Files:
+            - `draft/en/{Topic}/${{ inputs.subtopic }}_${{ inputs.age_band }}.md`
+            - `draft/es/{Topic}/${{ inputs.subtopic }}_${{ inputs.age_band }}.md`
+            - `draft/de/{Topic}/${{ inputs.subtopic }}_${{ inputs.age_band }}.md`
 
             ## Review
 
-            1. Check `draft/${{ inputs.lang }}/` for new cards
-            2. Move approved files to `queue/${{ inputs.lang }}/{Topic}/`
+            1. Check all three language files share the same facts
+            2. Move approved files to `queue/{lang}/{Topic}/`
             3. Merge when ready
-
-            Supported languages: `en`, `es`, `de` (see [languages.yaml](languages.yaml)).
 
       - name: Ensure PR is open
         env:

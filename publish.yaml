@@ -9,7 +9,7 @@ defaults:
 generate:
   schedule: "0 6 * * *"  # daily at 06:00 UTC (before publish)
   branch: automation/draft-cards  # shared PR branch for draft automation
-  languages: [en, es, de]
+  languages: [en, es, de]  # every generate run produces all three
   defaults:
     cards: 5
 

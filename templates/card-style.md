@@ -44,7 +44,15 @@ Use cloze for names, colors, numbers, and simple facts.
 <!-- age: early | lang: en | topic: space | subtopic: planets -->
 ```
 
-Use `lang: en`, `lang: es`, or `lang: de`. **One language per file** — translate the same facts into separate files.
+Use `lang: en`, `lang: es`, or `lang: de`. **One language per file.**
+
+When adding new content, always create **matching files in all three languages** with the same `{subtopic}_{band}.md` filename:
+
+```
+draft/en/Geography/continents_early.md
+draft/es/Geography/continents_early.md
+draft/de/Geography/continents_early.md
+```
 
 ## Languages
 
