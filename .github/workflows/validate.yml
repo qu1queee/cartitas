@@ -2,9 +2,12 @@ name: Validate cards
 
 on:
   push:
-    branches: [main]
+    branches: [main, automation/draft-cards]
   pull_request:
     branches: [main]
+
+permissions:
+  contents: read
 
 jobs:
   validate:
@@ -16,8 +19,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Basic card validation
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Card syntax validation
         run: python scripts/validate.py
+
+      - name: Trilingual draft validation
+        run: python scripts/validate_trilingual.py --stage draft
 
       - name: Install hashcards
         run: cargo install hashcards --locked
@@ -26,7 +35,11 @@ jobs:
       - name: hashcards check
         run: |
           if command -v hashcards >/dev/null; then
-            hashcards check cards/
+            for lang in en es de; do
+              if [ -d "cards/$lang" ]; then
+                hashcards check "cards/$lang/"
+              fi
+            done
           else
             echo "hashcards not installed; skipped collection check"
           fi

@@ -120,7 +120,7 @@ def main() -> int:
     # Block incomplete language sets before commit
     run([sys.executable, str(ROOT / "scripts" / "validate.py")])
     tri = run(
-        [sys.executable, str(ROOT / "scripts" / "validate_trilingual.py")],
+        [sys.executable, str(ROOT / "scripts" / "validate_trilingual.py"), "--stage", "draft"],
         check=False,
     )
     if tri.returncode != 0:

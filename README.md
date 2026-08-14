@@ -84,9 +84,9 @@ python scripts/publish.py                     # all languages
 
 | Workflow | Trigger | What it does |
 |----------|---------|--------------|
-| [Publish](.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves queue → cards, commits |
-| [Validate](.github/workflows/validate.yml) | Push / PR | Syntax + hashcards check |
-| [Generate](.github/workflows/generate.yml) | Manual | OpenAI drafts → PR (optional) |
+| [Generate](.github/workflows/generate.yml) | Daily 07:00 UTC + manual | OpenAI → en/es/de drafts → PR `automation/draft-cards` |
+| [Validate](.github/workflows/validate.yml) | Push / PR | Syntax + trilingual draft check + hashcards |
+| [Publish](.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves `queue/{lang}/` → `cards/{lang}/` |
 
 ### Cursor Automation (draft)
 
@@ -95,9 +95,9 @@ Scheduled agent writes **the same new cards in en, es, and de** each run, then *
 1. Runbook: [.cursor/automation-generate-draft.md](.cursor/automation-generate-draft.md)
 2. Each run creates three files: `draft/{en,es,de}/{Topic}/{subtopic}_{band}.md`
 3. Helper: `python scripts/draft_pr.py --message "draft(geography/continents): add 5 cards x3 langs (early)"`
-4. After merge: move all three to `queue/{lang}/`, then publish
+4. After merge: move **all three language files together** to `queue/{lang}/`, then publish
 
-Prefill: [.cursor/automation-prefill.json](.cursor/automation-prefill.json)
+Prefill: [.cursor/automation-prefill.json](.cursor/automation-prefill.json) — re-save automation after pulling latest `main`.
 
 ## Topics
 

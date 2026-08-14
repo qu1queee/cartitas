@@ -13,6 +13,14 @@ on:
         description: Optional single topic key (e.g. geography)
         type: string
         required: false
+      lang:
+        description: Optional language (en, es, de). Default all.
+        type: choice
+        options:
+          - en
+          - es
+          - de
+        required: false
 
 permissions:
   contents: write
@@ -33,24 +41,24 @@ jobs:
       - name: Dry run
         if: github.event_name == 'workflow_dispatch' && inputs.dry_run
         run: |
-          if [ -n "${{ inputs.topic }}" ]; then
-            python scripts/publish.py --dry-run --topic "${{ inputs.topic }}"
-          else
-            python scripts/publish.py --dry-run
-          fi
+          ARGS=""
+          [ -n "${{ inputs.topic }}" ] && ARGS="$ARGS --topic ${{ inputs.topic }}"
+          [ -n "${{ inputs.lang }}" ] && ARGS="$ARGS --lang ${{ inputs.lang }}"
+          python scripts/publish.py --dry-run $ARGS
 
       - name: Publish queued cards
         if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
         run: |
-          if [ -n "${{ inputs.topic }}" ]; then
-            python scripts/publish.py --topic "${{ inputs.topic }}"
-          else
-            python scripts/publish.py
-          fi
+          ARGS=""
+          [ -n "${{ inputs.topic }}" ] && ARGS="$ARGS --topic ${{ inputs.topic }}"
+          [ -n "${{ inputs.lang }}" ] && ARGS="$ARGS --lang ${{ inputs.lang }}"
+          python scripts/publish.py $ARGS
 
-      - name: Validate card syntax
+      - name: Validate published cards
         if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
-        run: python scripts/validate.py
+        run: |
+          python scripts/validate.py
+          hashcards check cards/ 2>/dev/null || true
 
       - name: Commit and push
         if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
@@ -63,9 +71,9 @@ jobs:
           fi
           git add cards/ queue/
           git commit -m "$(cat <<'EOF'
-publish: release queued cards
+publish: release queued cards (all languages)
 
-Automated publish from queue/ per publish.yaml rates.
+Automated publish from queue/{lang}/ per publish.yaml rates.
 EOF
 )"
           git push

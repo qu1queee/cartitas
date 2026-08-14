@@ -1,7 +1,8 @@
 name: Generate draft cards
 
 # Generates the same draft cards in en, es, and de into one shared PR branch.
-# Requires OPENAI_API_KEY.
+# Scheduled runs auto-pick topic/subtopic; manual runs use workflow inputs.
+# Requires OPENAI_API_KEY for scheduled/manual generation.
 
 on:
   schedule:
@@ -9,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       topic:
-        description: Topic key
+        description: Topic key (leave empty on schedule — auto-picked)
         type: choice
         options:
           - geography
@@ -54,21 +55,36 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt openai
 
+      - name: Resolve generate target
+        id: target
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            {
+              echo "topic=${{ inputs.topic }}"
+              echo "subtopic=${{ inputs.subtopic }}"
+              echo "age_band=${{ inputs.age_band }}"
+              echo "count=${{ inputs.count }}"
+            } >> "$GITHUB_OUTPUT"
+          else
+            python scripts/pick_generate_target.py --github-output "$GITHUB_OUTPUT"
+          fi
+          cat "$GITHUB_OUTPUT"
+
       - name: Generate draft cards (en, es, de)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python scripts/generate.py \
-            --topic "${{ inputs.topic }}" \
-            --subtopic "${{ inputs.subtopic }}" \
-            --count "${{ inputs.count }}" \
-            --age-band "${{ inputs.age_band }}" \
+            --topic "${{ steps.target.outputs.topic }}" \
+            --subtopic "${{ steps.target.outputs.subtopic }}" \
+            --count "${{ steps.target.outputs.count }}" \
+            --age-band "${{ steps.target.outputs.age_band }}" \
             --all-langs
 
       - name: Validate drafts
         run: |
           python scripts/validate.py
-          python scripts/validate_trilingual.py
+          python scripts/validate_trilingual.py --stage draft
 
       - name: Open or update draft PR
         uses: peter-evans/create-pull-request@v6
@@ -76,28 +92,25 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: automation/draft-cards
           delete-branch: false
-          commit-message: "draft(${{ inputs.topic }}/${{ inputs.subtopic }}): generate ${{ inputs.count }} cards x3 langs"
+          base: main
+          commit-message: "draft(${{ steps.target.outputs.topic }}/${{ steps.target.outputs.subtopic }}): ${{ steps.target.outputs.count }} cards x3 langs"
           title: "Draft cards (automation)"
           body: |
-            Automated trilingual draft flashcards for review.
+            Automated **trilingual** draft flashcards for review.
 
-            **Latest run**
-            - Topic: `${{ inputs.topic }}`
-            - Subtopic: `${{ inputs.subtopic }}`
-            - Age band: `${{ inputs.age_band }}`
-            - Cards per language: `${{ inputs.count }}`
-            - Languages: `en`, `es`, `de`
+            **This run**
+            - Topic: `${{ steps.target.outputs.topic }}`
+            - Subtopic: `${{ steps.target.outputs.subtopic }}`
+            - Age band: `${{ steps.target.outputs.age_band }}`
+            - Cards per language: `${{ steps.target.outputs.count }}`
+            - Languages: `en`, `es`, `de` (all required)
 
-            Files:
-            - `draft/en/{Topic}/${{ inputs.subtopic }}_${{ inputs.age_band }}.md`
-            - `draft/es/{Topic}/${{ inputs.subtopic }}_${{ inputs.age_band }}.md`
-            - `draft/de/{Topic}/${{ inputs.subtopic }}_${{ inputs.age_band }}.md`
+            ## Review checklist
 
-            ## Review
-
-            1. Check all three language files share the same facts
-            2. Move approved files to `queue/{lang}/{Topic}/`
-            3. Merge when ready
+            - [ ] All three files exist with the same filename
+            - [ ] Same facts and card count in en / es / de
+            - [ ] Move approved sets to `queue/{lang}/{Topic}/`
+            - [ ] Merge when ready
 
       - name: Ensure PR is open
         env:
@@ -105,7 +118,7 @@ jobs:
         run: |
           pr=$(gh pr list --head automation/draft-cards --base main --state open --json url -q '.[0].url')
           if [ -z "$pr" ]; then
-            echo "No open PR found (create-pull-request should have created one)"
+            echo "::error::No open PR on automation/draft-cards"
             exit 1
           fi
           echo "Open PR: $pr"

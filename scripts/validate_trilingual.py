@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ensure draft card sets exist in en, es, and de with matching filenames."""
+"""Ensure card sets in draft/ and queue/ exist in en, es, and de."""
 
 from __future__ import annotations
 
@@ -10,6 +10,7 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
+STAGES = ("draft", "queue")
 
 
 def load_languages(path: Path) -> list[str]:
@@ -18,17 +19,7 @@ def load_languages(path: Path) -> list[str]:
     return list(cfg.get("languages", {}).keys())
 
 
-def relative_key(path: Path) -> str:
-    """e.g. Animals/ocean_early.md (lang-agnostic)."""
-    parts = path.parts
-    # draft/{lang}/{Topic}/file.md
-    if len(parts) < 4 or parts[0] != "draft":
-        return str(path)
-    return str(Path(*parts[2:]))
-
-
-def find_draft_files(base: Path) -> dict[str, set[str]]:
-    """Map relative key -> set of language codes present."""
+def find_lang_groups(base: Path) -> dict[str, set[str]]:
     groups: dict[str, set[str]] = {}
     if not base.is_dir():
         return groups
@@ -38,41 +29,43 @@ def find_draft_files(base: Path) -> dict[str, set[str]]:
         lang = lang_dir.name
         for md in lang_dir.rglob("*.md"):
             rel = md.relative_to(base)
-            key = str(Path(*rel.parts[1:]))  # drop lang segment
+            key = str(Path(*rel.parts[1:]))
             groups.setdefault(key, set()).add(lang)
     return groups
 
 
-def validate_draft(base: Path, required_langs: list[str]) -> list[str]:
+def validate_stage(stage: str, required_langs: list[str]) -> list[str]:
     errors: list[str] = []
-    groups = find_draft_files(base)
+    groups = find_lang_groups(ROOT / stage)
     for key, present in sorted(groups.items()):
         missing = [lang for lang in required_langs if lang not in present]
         if missing:
             have = ", ".join(sorted(present))
             need = ", ".join(missing)
             errors.append(
-                f"draft/{key}: has [{have}], missing [{need}] — "
-                f"every new set needs all languages: {', '.join(required_langs)}"
+                f"{stage}/{key}: has [{have}], missing [{need}] — "
+                f"needs all languages: {', '.join(required_langs)}"
             )
     return errors
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Validate trilingual draft sets.")
+    parser = argparse.ArgumentParser(description="Validate trilingual card sets.")
+    parser.add_argument("--languages-config", type=Path, default=ROOT / "languages.yaml")
     parser.add_argument(
-        "--languages-config",
-        type=Path,
-        default=ROOT / "languages.yaml",
+        "--stage",
+        action="append",
+        choices=STAGES,
+        help="Stage to check (default: draft and queue)",
     )
-    parser.add_argument(
-        "--only",
-        help="Check only this relative path, e.g. Animals/ocean_early.md",
-    )
+    parser.add_argument("--only", help="Filter to paths containing this string")
     args = parser.parse_args()
 
     required = load_languages(args.languages_config)
-    errors = validate_draft(ROOT / "draft", required)
+    stages = args.stage or list(STAGES)
+    errors: list[str] = []
+    for stage in stages:
+        errors.extend(validate_stage(stage, required))
 
     if args.only:
         errors = [e for e in errors if args.only in e]
@@ -81,12 +74,13 @@ def main() -> int:
         for err in errors:
             print(err, file=sys.stderr)
         print(
-            f"\nFix: add matching files under draft/{{en,es,de}}/ for each incomplete set.",
+            f"\nFix: add matching files under {{stage}}/{{en,es,de}}/ for each incomplete set.",
             file=sys.stderr,
         )
         return 1
 
-    print(f"All draft sets complete for: {', '.join(required)}")
+    checked = ", ".join(stages)
+    print(f"All {checked} sets complete for: {', '.join(required)}")
     return 0
 
 

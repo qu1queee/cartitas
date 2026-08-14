@@ -81,8 +81,8 @@ python3 scripts/draft_pr.py \
 ## After merge (human)
 
 1. Review all three files in the PR.
-2. Move approved sets: `draft/{lang}/` → `queue/{lang}/` for each language.
-3. Publish workflow moves `queue/` → `cards/`.
+2. Move approved sets together: all three files `draft/{en,es,de}/{Topic}/{file}.md` → `queue/{en,es,de}/{Topic}/`
+3. Publish workflow moves `queue/` → `cards/` (per language).
 4. Kids drill: `python scripts/drill.py --lang es`
 
 ## Do not
