@@ -66,7 +66,9 @@ jobs:
             --all-langs
 
       - name: Validate drafts
-        run: python scripts/validate.py
+        run: |
+          python scripts/validate.py
+          python scripts/validate_trilingual.py
 
       - name: Open or update draft PR
         uses: peter-evans/create-pull-request@v6

@@ -117,6 +117,16 @@ def main() -> int:
         print(f"Would commit on branch {DRAFT_BRANCH} and update open PR.")
         return 0
 
+    # Block incomplete language sets before commit
+    run([sys.executable, str(ROOT / "scripts" / "validate.py")])
+    tri = run(
+        [sys.executable, str(ROOT / "scripts" / "validate_trilingual.py")],
+        check=False,
+    )
+    if tri.returncode != 0:
+        print("Trilingual validation failed. Add en, es, and de for each new draft set.", file=sys.stderr)
+        return tri.returncode
+
     checkout_draft_branch()
     run(["git", "add", "draft/"])
     run(["git", "commit", "-m", args.message])

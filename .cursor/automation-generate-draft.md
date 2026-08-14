@@ -59,13 +59,16 @@ Spanish and German files use the same header/subtopic slug and matching cards wi
 - Path pattern: `draft/{lang}/{Topic}/{subtopic}_{age_band}.md`
 - Topic folders: `Geography`, `Space`, `Animals`, `Sports`, `Science`
 
-## Validate
+## Validate (both required)
 
 ```sh
 python3 scripts/validate.py
+python3 scripts/validate_trilingual.py
 ```
 
-All three language files must pass before committing.
+`validate_trilingual.py` **must pass** — it fails if any draft file is missing a matching `en`, `es`, or `de` sibling with the same path under `draft/{lang}/`.
+
+Do not commit if trilingual validation fails.
 
 ## Commit via PR branch (do not push to main)
 
@@ -86,7 +89,8 @@ python3 scripts/draft_pr.py \
 
 - Push to `main` directly.
 - Create cards in only one language per run.
-- Edit `cards/` or `queue/` in this automation.
+- Run `gh pr create` on `cursor/*` branches — **always** use `scripts/draft_pr.py` (branch `automation/draft-cards` only).
+- Skip `validate_trilingual.py`.
 - Mix languages in one file.
 - Use different filenames across languages for the same card set.
 
