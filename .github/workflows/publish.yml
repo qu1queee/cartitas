@@ -1,0 +1,71 @@
+name: Publish cards
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Dry run (no commit)
+        type: boolean
+        default: false
+      topic:
+        description: Optional single topic key (e.g. geography)
+        type: string
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Dry run
+        if: github.event_name == 'workflow_dispatch' && inputs.dry_run
+        run: |
+          if [ -n "${{ inputs.topic }}" ]; then
+            python scripts/publish.py --dry-run --topic "${{ inputs.topic }}"
+          else
+            python scripts/publish.py --dry-run
+          fi
+
+      - name: Publish queued cards
+        if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
+        run: |
+          if [ -n "${{ inputs.topic }}" ]; then
+            python scripts/publish.py --topic "${{ inputs.topic }}"
+          else
+            python scripts/publish.py
+          fi
+
+      - name: Validate card syntax
+        if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
+        run: python scripts/validate.py
+
+      - name: Commit and push
+        if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
+        run: |
+          git config user.name "cartitas-bot"
+          git config user.email "cartitas-bot@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "Nothing to publish."
+            exit 0
+          fi
+          git add cards/ queue/
+          git commit -m "$(cat <<'EOF'
+publish: release queued cards
+
+Automated publish from queue/ per publish.yaml rates.
+EOF
+)"
+          git push

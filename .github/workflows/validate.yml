@@ -1,0 +1,32 @@
+name: Validate cards
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Basic card validation
+        run: python scripts/validate.py
+
+      - name: Install hashcards
+        run: cargo install hashcards --locked
+        continue-on-error: true
+
+      - name: hashcards check
+        run: |
+          if command -v hashcards >/dev/null; then
+            hashcards check cards/
+          else
+            echo "hashcards not installed; skipped collection check"
+          fi

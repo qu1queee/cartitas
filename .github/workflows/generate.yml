@@ -1,0 +1,74 @@
+name: Generate draft cards
+
+# Optional: creates a PR with draft cards from topic seeds.
+# Requires OPENAI_API_KEY (or adapt the script for another provider).
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: Topic key (geography, space, animals, sports, science)
+        type: choice
+        options:
+          - geography
+          - space
+          - animals
+          - sports
+          - science
+        required: true
+      count:
+        description: Number of cards to generate
+        type: number
+        default: 5
+      age_band:
+        description: Age band (early, middle, teen)
+        type: choice
+        options:
+          - early
+          - middle
+          - teen
+        default: early
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt openai
+
+      - name: Generate draft cards
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/generate.py \
+            --topic "${{ inputs.topic }}" \
+            --count "${{ inputs.count }}" \
+            --age-band "${{ inputs.age_band }}"
+
+      - name: Validate drafts
+        run: python scripts/validate.py
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "draft(${{ inputs.topic }}): generate ${{ inputs.count }} cards"
+          branch: "draft/${{ inputs.topic }}-${{ github.run_id }}"
+          title: "Draft: ${{ inputs.count }} ${{ inputs.topic }} cards (${{ inputs.age_band }})"
+          body: |
+            Auto-generated draft cards for review.
+
+            - Topic: `${{ inputs.topic }}`
+            - Age band: `${{ inputs.age_band }}`
+            - Count: `${{ inputs.count }}`
+
+            Move approved cards from `draft/` to `queue/` after review.
