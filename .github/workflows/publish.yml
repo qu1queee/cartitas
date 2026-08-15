@@ -70,10 +70,7 @@ jobs:
             exit 0
           fi
           git add cards/ queue/
-          git commit -m "$(cat <<'EOF'
-publish: release queued cards (all languages)
-
-Automated publish from queue/{lang}/ per publish.yaml rates.
-EOF
-)"
+          git commit \
+            -m "publish: release queued cards (all languages)" \
+            -m "Automated publish from queue/{lang}/ per publish.yaml rates."
           git push
