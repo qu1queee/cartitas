@@ -63,7 +63,7 @@ Spanish and German files use the same header/subtopic slug and matching cards wi
 
 ```sh
 python3 scripts/validate.py
-python3 scripts/validate_trilingual.py
+python3 scripts/validate_trilingual.py --stage draft
 ```
 
 `validate_trilingual.py` **must pass** — it fails if any draft file is missing a matching `en`, `es`, or `de` sibling with the same path under `draft/{lang}/`.
