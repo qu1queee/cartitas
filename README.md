@@ -1,141 +1,27 @@
 # Cartitas
 
-A kid-friendly flashcard knowledge base — like [cartas](https://github.com/qu1queee/cartas), but for children from toddler years through adolescence.
+## What
 
-Topics start with **geography**, **space**, **animals**, **sports**, and **science**. Cards are available in **English**, **Español**, and **Deutsch**. [hashcards](https://github.com/SimonPersson/hashcards) handles spaced repetition locally.
+Kid-friendly flashcards for geography, space, animals, sports, and science. Cards are in English, Español, and Deutsch. [hashcards](https://github.com/SimonPersson/hashcards) runs spaced repetition on your machine.
 
-## Quick start
+Published decks live in `cards/{lang}/{Topic}/`.
 
-**Needs [Go](https://go.dev/dl/) 1.23+** for the cartitas CLI.
+## Why
 
-**Install hashcards** (once):
+Same idea as [cartas](https://github.com/qu1queee/cartas), aimed at kids from toddler years through adolescence. Short facts, one idea per card, in the language each child drills.
+
+## How
+
+Needs [Go](https://go.dev/dl/) 1.23+ and hashcards:
 
 ```sh
 cargo install hashcards --locked
-```
 
-**Drill in a language:**
-
-```sh
-go run ./cmd/cartitas drill --lang en          # English (default)
-go run ./cmd/cartitas drill --lang es          # Español
+go run ./cmd/cartitas drill --lang en
+go run ./cmd/cartitas drill --lang es
 go run ./cmd/cartitas drill --lang de --topic Animals
-go run ./cmd/cartitas drill --list               # show languages
 ```
 
-Or directly with hashcards:
+The drill UI is at `http://127.0.0.1:8000`.
 
-```sh
-hashcards drill cards/es/ --new-card-limit 5 --answer-controls binary
-hashcards drill cards/de/Animals/
-```
-
-The drill UI runs at `http://127.0.0.1:8000`.
-
-## Content layout
-
-| Path | Purpose |
-|------|---------|
-| `cards/{lang}/{Topic}/` | Published cards, ready to drill |
-| `queue/{lang}/{Topic}/` | Approved cards waiting for auto-publish |
-| `draft/{lang}/{Topic}/` | Work in progress |
-| `languages.yaml` | Supported languages and default |
-| `templates/` | Style guide and topic seeds |
-| `publish.yaml` | Per-topic publish rates |
-
-Languages: `en` (English), `es` (Español), `de` (Deutsch). See [languages.yaml](languages.yaml).
-
-### Card format
-
-```markdown
-Q: What is the biggest planet?
-A: Jupiter. It is so big that all the other planets could fit inside it.
-
----
-
-C: Earth goes around the [Sun] once every year.
-```
-
-One language per file. Metadata: `<!-- age: early | lang: en | topic: space | subtopic: planets -->`
-
-See [templates/card-style.md](templates/card-style.md) for age bands and writing rules.
-
-## Publishing workflow
-
-```
-draft/{lang}/  →  queue/{lang}/  →  cards/{lang}/
-         (you)           (automated)
-```
-
-1. Write or generate cards in `draft/{lang}/`
-2. Review and move good ones to `queue/{lang}/{Topic}/`
-3. GitHub Actions (or `go run ./cmd/cartitas publish`) publishes into `cards/{lang}/`
-
-### Publish locally
-
-```sh
-go run ./cmd/cartitas publish --dry-run
-go run ./cmd/cartitas publish --lang es          # one language
-go run ./cmd/cartitas publish                     # all languages
-```
-
-### GitHub Actions
-
-| Workflow | Trigger | What it does |
-|----------|---------|--------------|
-| [Validate](.github/workflows/validate.yml) | Push / PR | Syntax + trilingual draft check + hashcards |
-| [Publish](.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves `queue/{lang}/` → `cards/{lang}/` |
-
-Drafts are **not** generated in GitHub Actions. The Cursor Automation (prompt + selected agent) writes `draft/` and opens the PR.
-
-### Cursor Automation (draft)
-
-Scheduled agent writes **the same new cards in en, es, and de** each run, then **opens/updates one PR** (`automation/draft-cards`).
-
-1. Runbook: [.cursor/automation-generate-draft.md](.cursor/automation-generate-draft.md)
-2. Each run creates three files: `draft/{en,es,de}/{Topic}/{subtopic}_{band}.md`
-3. Helper: `go run ./cmd/cartitas draft-pr --message "draft(geography/continents): add 5 cards x3 langs (early)"`
-4. After merge: move **all three language files together** to `queue/{lang}/`, then publish
-
-Prefill: [.cursor/automation-prefill.json](.cursor/automation-prefill.json) — re-save automation after pulling latest `main`.
-
-## Topics
-
-Each topic has decks in `cards/{lang}/{Topic}/` for every supported language.
-
-| Topic | Example decks |
-|-------|---------------|
-| Geography | continents, oceans |
-| Space | solar system, moon |
-| Animals | pets, farm, ocean |
-| Sports | football, basketball |
-| Science | body, plants |
-
-## Age bands
-
-| Band | Ages | Use |
-|------|------|-----|
-| toddler | 2–4 | Naming, cloze |
-| early | 5–7 | Simple Q/A |
-| middle | 8–11 | Why and compare |
-| teen | 12+ | Deeper facts, still plain language |
-
-Filename: `{subtopic}_{band}.md` inside each language folder.
-
-## Daily routine (suggested)
-
-1. Each kid drills in their language: `go run ./cmd/cartitas drill --lang es --new-card-limit 5`
-2. Review `draft/` or add cards to `queue/{lang}/`
-3. Publish workflow releases new cards overnight
-
-## Validation
-
-```sh
-go run ./cmd/cartitas validate
-hashcards check cards/
-```
-
-## Related
-
-- [cartas](https://github.com/qu1queee/cartas) — adult technical flashcards (same format)
-- [hashcards](https://github.com/SimonPersson/hashcards) — spaced repetition engine
+Adding or publishing cards: [docs/contributing.md](docs/contributing.md).
