@@ -14,12 +14,14 @@ on:
         type: string
         required: false
       lang:
-        description: Optional language (en, es, de). Default all.
+        description: Language to publish (all = every language)
         type: choice
         options:
+          - all
           - en
           - es
           - de
+        default: all
         required: false
 
 permissions:
@@ -40,7 +42,9 @@ jobs:
         run: |
           ARGS=""
           [ -n "${{ inputs.topic }}" ] && ARGS="$ARGS --topic ${{ inputs.topic }}"
-          [ -n "${{ inputs.lang }}" ] && ARGS="$ARGS --lang ${{ inputs.lang }}"
+          case "${{ inputs.lang }}" in
+            en|es|de) ARGS="$ARGS --lang ${{ inputs.lang }}" ;;
+          esac
           go run ./cmd/cartitas publish --dry-run $ARGS
 
       - name: Publish queued cards
@@ -48,7 +52,9 @@ jobs:
         run: |
           ARGS=""
           [ -n "${{ inputs.topic }}" ] && ARGS="$ARGS --topic ${{ inputs.topic }}"
-          [ -n "${{ inputs.lang }}" ] && ARGS="$ARGS --lang ${{ inputs.lang }}"
+          case "${{ inputs.lang }}" in
+            en|es|de) ARGS="$ARGS --lang ${{ inputs.lang }}" ;;
+          esac
           go run ./cmd/cartitas publish $ARGS
 
       - name: Validate published cards
