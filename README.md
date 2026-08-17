@@ -84,7 +84,6 @@ python scripts/publish.py                     # all languages
 
 | Workflow | Trigger | What it does |
 |----------|---------|--------------|
-| [Generate](.github/workflows/generate.yml) | Daily 07:00 UTC + manual | OpenAI → en/es/de drafts → PR `automation/draft-cards` |
 | [Validate](.github/workflows/validate.yml) | Push / PR | Syntax + trilingual draft check + hashcards |
 | [Publish](.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves `queue/{lang}/` → `cards/{lang}/` |
 
