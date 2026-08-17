@@ -31,12 +31,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-go@v5
         with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+          go-version: "1.23"
 
       - name: Dry run
         if: github.event_name == 'workflow_dispatch' && inputs.dry_run
@@ -44,7 +41,7 @@ jobs:
           ARGS=""
           [ -n "${{ inputs.topic }}" ] && ARGS="$ARGS --topic ${{ inputs.topic }}"
           [ -n "${{ inputs.lang }}" ] && ARGS="$ARGS --lang ${{ inputs.lang }}"
-          python scripts/publish.py --dry-run $ARGS
+          go run ./cmd/cartitas publish --dry-run $ARGS
 
       - name: Publish queued cards
         if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
@@ -52,12 +49,12 @@ jobs:
           ARGS=""
           [ -n "${{ inputs.topic }}" ] && ARGS="$ARGS --topic ${{ inputs.topic }}"
           [ -n "${{ inputs.lang }}" ] && ARGS="$ARGS --lang ${{ inputs.lang }}"
-          python scripts/publish.py $ARGS
+          go run ./cmd/cartitas publish $ARGS
 
       - name: Validate published cards
         if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
         run: |
-          python scripts/validate.py
+          go run ./cmd/cartitas validate
           hashcards check cards/ 2>/dev/null || true
 
       - name: Commit and push

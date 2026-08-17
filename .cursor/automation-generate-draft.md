@@ -62,18 +62,18 @@ Spanish and German files use the same header/subtopic slug and matching cards wi
 ## Validate (both required)
 
 ```sh
-python3 scripts/validate.py
-python3 scripts/validate_trilingual.py
+go run ./cmd/cartitas validate
+go run ./cmd/cartitas validate-trilingual
 ```
 
-`validate_trilingual.py` **must pass** — it fails if any draft file is missing a matching `en`, `es`, or `de` sibling with the same path under `draft/{lang}/`.
+`validate-trilingual` **must pass** — it fails if any draft file is missing a matching `en`, `es`, or `de` sibling with the same path under `draft/{lang}/`.
 
 Do not commit if trilingual validation fails.
 
 ## Commit via PR branch (do not push to main)
 
 ```sh
-python3 scripts/draft_pr.py \
+go run ./cmd/cartitas draft-pr \
   --message "draft(geography/continents): add 5 cards x3 langs (early)" \
   --pr-note "Topic: geography | Subtopic: continents | Band: early | Langs: en, es, de"
 ```
@@ -83,14 +83,14 @@ python3 scripts/draft_pr.py \
 1. Review all three files in the PR.
 2. Move approved sets together: all three files `draft/{en,es,de}/{Topic}/{file}.md` → `queue/{en,es,de}/{Topic}/`
 3. Publish workflow moves `queue/` → `cards/` (per language).
-4. Kids drill: `python scripts/drill.py --lang es`
+4. Kids drill: `go run ./cmd/cartitas drill --lang es`
 
 ## Do not
 
 - Push to `main` directly.
 - Create cards in only one language per run.
-- Run `gh pr create` on `cursor/*` branches — **always** use `scripts/draft_pr.py` (branch `automation/draft-cards` only).
-- Skip `validate_trilingual.py`.
+- Run `gh pr create` on `cursor/*` branches — **always** use `go run ./cmd/cartitas draft-pr` (branch `automation/draft-cards` only).
+- Skip `validate-trilingual`.
 - Mix languages in one file.
 - Use different filenames across languages for the same card set.
 

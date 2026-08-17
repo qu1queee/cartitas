@@ -6,6 +6,8 @@ Topics start with **geography**, **space**, **animals**, **sports**, and **scien
 
 ## Quick start
 
+**Needs [Go](https://go.dev/dl/) 1.23+** for the cartitas CLI.
+
 **Install hashcards** (once):
 
 ```sh
@@ -15,10 +17,10 @@ cargo install hashcards --locked
 **Drill in a language:**
 
 ```sh
-python3 scripts/drill.py --lang en          # English (default)
-python3 scripts/drill.py --lang es          # Español
-python3 scripts/drill.py --lang de --topic Animals
-python3 scripts/drill.py --list               # show languages
+go run ./cmd/cartitas drill --lang en          # English (default)
+go run ./cmd/cartitas drill --lang es          # Español
+go run ./cmd/cartitas drill --lang de --topic Animals
+go run ./cmd/cartitas drill --list               # show languages
 ```
 
 Or directly with hashcards:
@@ -67,26 +69,24 @@ draft/{lang}/  →  queue/{lang}/  →  cards/{lang}/
 
 1. Write or generate cards in `draft/{lang}/`
 2. Review and move good ones to `queue/{lang}/{Topic}/`
-3. GitHub Actions (or `scripts/publish.py`) publishes into `cards/{lang}/`
+3. GitHub Actions (or `go run ./cmd/cartitas publish`) publishes into `cards/{lang}/`
 
 ### Publish locally
 
 ```sh
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r scripts/requirements.txt
-
-python scripts/publish.py --dry-run
-python scripts/publish.py --lang es          # one language
-python scripts/publish.py                     # all languages
+go run ./cmd/cartitas publish --dry-run
+go run ./cmd/cartitas publish --lang es          # one language
+go run ./cmd/cartitas publish                     # all languages
 ```
 
 ### GitHub Actions
 
 | Workflow | Trigger | What it does |
 |----------|---------|--------------|
-| [Generate](.github/workflows/generate.yml) | Daily 07:00 UTC + manual | OpenAI → en/es/de drafts → PR `automation/draft-cards` |
 | [Validate](.github/workflows/validate.yml) | Push / PR | Syntax + trilingual draft check + hashcards |
 | [Publish](.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves `queue/{lang}/` → `cards/{lang}/` |
+
+Drafts are **not** generated in GitHub Actions. The Cursor Automation (prompt + selected agent) writes `draft/` and opens the PR.
 
 ### Cursor Automation (draft)
 
@@ -94,7 +94,7 @@ Scheduled agent writes **the same new cards in en, es, and de** each run, then *
 
 1. Runbook: [.cursor/automation-generate-draft.md](.cursor/automation-generate-draft.md)
 2. Each run creates three files: `draft/{en,es,de}/{Topic}/{subtopic}_{band}.md`
-3. Helper: `python scripts/draft_pr.py --message "draft(geography/continents): add 5 cards x3 langs (early)"`
+3. Helper: `go run ./cmd/cartitas draft-pr --message "draft(geography/continents): add 5 cards x3 langs (early)"`
 4. After merge: move **all three language files together** to `queue/{lang}/`, then publish
 
 Prefill: [.cursor/automation-prefill.json](.cursor/automation-prefill.json) — re-save automation after pulling latest `main`.
@@ -124,14 +124,14 @@ Filename: `{subtopic}_{band}.md` inside each language folder.
 
 ## Daily routine (suggested)
 
-1. Each kid drills in their language: `python scripts/drill.py --lang es --new-card-limit 5`
+1. Each kid drills in their language: `go run ./cmd/cartitas drill --lang es --new-card-limit 5`
 2. Review `draft/` or add cards to `queue/{lang}/`
 3. Publish workflow releases new cards overnight
 
 ## Validation
 
 ```sh
-python scripts/validate.py
+go run ./cmd/cartitas validate
 hashcards check cards/
 ```
 

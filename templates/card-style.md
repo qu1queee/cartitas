@@ -68,7 +68,7 @@ Content paths include the language code first:
 - `queue/{lang}/{Topic}/`
 - `draft/{lang}/{Topic}/`
 
-Drill one language: `python scripts/drill.py --lang es`
+Drill one language: `go run ./cmd/cartitas drill --lang es`
 
 ## File layout
 
