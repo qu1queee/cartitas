@@ -2,7 +2,7 @@
 
 ## What
 
-Kid-friendly flashcards for geography, space, animals, sports, and science. Cards are in English, Español, and Deutsch. [hashcards](https://github.com/SimonPersson/hashcards) runs spaced repetition on your machine.
+Kid-friendly flashcards for geography, space, animals, sports, and science. Cards are in English, Español, and Deutsch. [hashcards](https://github.com/eudoxia0/hashcards) runs spaced repetition on your machine.
 
 Published decks live in `cards/{lang}/{Topic}/`.
 

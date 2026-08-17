@@ -1,7 +1,7 @@
 # Cartitas card style guide
 
 Cartitas cards are short, friendly facts for kids from about age 2 through adolescence.
-They use the same syntax as [hashcards](https://github.com/SimonPersson/hashcards).
+They use the same syntax as [hashcards](https://github.com/eudoxia0/hashcards).
 
 ## Card types
 
