@@ -1,16 +1,3 @@
-# Bauernhoftiere — middle (8–11)
-
-<!-- age: middle | lang: de | topic: animals | subtopic: farm -->
-
-Q: Warum kauen Kühe ihr Futter mehr als einmal?
-A: Kühe sind Wiederkäuer. Sie schlucken Gras und holen es später wieder in den Mund, um es noch einmal zu kauen. So holen sie aus hartem Gras mehr Nährstoffe.
-
----
-
-C: Bienen helfen den Pflanzen auf dem Bauernhof, indem sie [Pollen] von Blüte zu Blüte tragen.
-
----
-
 Q: Warum suhlen sich Schweine im Schlamm?
 A: Schweine schwitzen kaum, deshalb kühlt eine Schlammschicht sie ab und schützt ihre Haut vor der Sonne. Sie wollen nicht schmutzig sein — sie bleiben so sicher und wohl.
 

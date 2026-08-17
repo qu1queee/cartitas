@@ -1,17 +1,3 @@
-# Sonnensystem — middle (8–11)
-
-<!-- age: middle | lang: de | topic: space | subtopic: solar_system -->
-
-Q: Was ist das Sonnensystem?
-A: Es ist die Sonne und alles, was um sie kreist — acht Planeten, ihre Monde, plus Asteroiden und Kometen. Die Erde ist einer dieser Planeten.
-
----
-
-Q: Warum gibt es Tag und Nacht?
-A: Die Erde dreht sich wie ein Kreisel. Die Seite zur Sonne hat Tag, die abgewandte Seite hat Nacht. Eine volle Drehung dauert etwa 24 Stunden.
-
----
-
 C: In unserem Sonnensystem gibt es [acht] Planeten.
 
 ---

@@ -1,16 +1,3 @@
-# Farm animals — middle (8–11)
-
-<!-- age: middle | lang: en | topic: animals | subtopic: farm -->
-
-Q: Why do cows chew their food more than once?
-A: Cows are ruminants. They swallow grass, then bring it back up and chew it again. That extra chewing helps them get more nutrients from tough plants.
-
----
-
-C: Bees help farm plants by carrying [pollen] from flower to flower.
-
----
-
 Q: Why do pigs roll in mud?
 A: Pigs do not sweat much, so a coat of mud cools them down and shields their skin from the sun. They are not trying to be messy — they are staying safe and comfortable.
 
