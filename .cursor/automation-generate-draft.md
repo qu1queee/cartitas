@@ -63,7 +63,7 @@ Spanish and German files use the same header/subtopic slug and matching cards wi
 
 ```sh
 go run ./cmd/cartitas validate
-go run ./cmd/cartitas validate-trilingual
+go run ./cmd/cartitas validate-trilingual --stage draft
 ```
 
 `validate-trilingual` **must pass** — it fails if any draft file is missing a matching `en`, `es`, or `de` sibling with the same path under `draft/{lang}/`.

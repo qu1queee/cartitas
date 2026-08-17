@@ -9,3 +9,7 @@ A: Asia. More than half of all people on Earth live there.
 
 Q: Why is Europe sometimes called a peninsula?
 A: Because it is mostly one large piece of land connected to Asia, with oceans and seas on most sides.
+
+---
+
+C: Australia is both a country and part of the continent called [Oceania].
