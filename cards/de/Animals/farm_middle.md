@@ -5,3 +5,8 @@ A: Schweine schwitzen kaum, deshalb kühlt eine Schlammschicht sie ab und schüt
 
 Q: Worin unterscheidet sich ein Pferdehuf von einer Hundepfote?
 A: Ein Huf ist eine harte Schutzschicht um den Zeh des Pferdes. Pferde laufen auf einem großen Zeh an jedem Fuß, und das hilft ihnen, auf hartem Boden schnell zu rennen.
+
+---
+
+Q: Welche Bauernhoftiere sind Säugetiere?
+A: Kühe, Schweine, Pferde, Schafe und Ziegen sind Säugetiere. Sie haben Haare oder Fell, atmen Luft und füttern ihre Jungen mit Milch. Hühner sind Vögel, keine Säugetiere.
