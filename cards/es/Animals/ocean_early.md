@@ -4,3 +4,12 @@
 
 Q: ¿Dónde viven muchos peces, delfines y ballenas?
 A: En el océano. El océano es el mar enorme y salado que cubre gran parte de la Tierra.
+
+---
+
+C: Los peces usan las [aletas] para nadar.
+
+---
+
+Q: ¿Qué tiene una tortuga marina en la espalda?
+A: Un caparazón duro. Es como un escudo que la protege en el agua.

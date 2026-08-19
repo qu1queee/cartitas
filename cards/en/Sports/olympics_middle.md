@@ -4,3 +4,12 @@
 
 Q: How often are the Summer Olympics held?
 A: Every four years. Cities take turns hosting the games.
+
+---
+
+# Olympics — middle (8–11)
+
+<!-- age: middle | lang: en | topic: sports | subtopic: olympics -->
+
+Q: How often are the Summer Olympics held?
+A: Every four years. Each time a different city hosts the games and invites athletes from around the world.

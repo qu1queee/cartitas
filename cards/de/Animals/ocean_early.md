@@ -4,3 +4,12 @@
 
 Q: Wo leben viele Fische, Delfine und Wale?
 A: Im Ozean. Der Ozean ist das riesige salzige Meer, das einen großen Teil der Erde bedeckt.
+
+---
+
+C: Fische benutzen ihre [Flossen] zum Schwimmen.
+
+---
+
+Q: Was hat eine Meeresschildkröte auf dem Rücken?
+A: Einen harten Panzer. Er schützt sie im Wasser wie ein Schild.
