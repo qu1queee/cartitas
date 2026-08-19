@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qu1queee/cartitas/internal/draftpr"
+	"github.com/qu1queee/cartitas/internal/queuepr"
 	"github.com/qu1queee/cartitas/internal/pick"
 	"github.com/qu1queee/cartitas/internal/publish"
 	"github.com/qu1queee/cartitas/internal/repo"
@@ -34,8 +34,8 @@ func Run(args []string) int {
 		return cmdPublish(rest)
 	case "pick-generate-target":
 		return cmdPick(rest)
-	case "draft-pr":
-		return cmdDraftPR(rest)
+	case "queue-pr", "draft-pr":
+		return cmdQueuePR(rest)
 	case "-h", "--help", "help":
 		usage()
 		return 0
@@ -58,7 +58,7 @@ Commands:
   validate-trilingual    Require en/es/de siblings in draft/queue
   publish                Move queue/{lang}/ into cards/{lang}/
   pick-generate-target   Next topic/subtopic/age band
-  draft-pr               Commit draft/ and open automation PR
+  queue-pr               Commit queue/ and open automation PR
 `)
 }
 
@@ -359,12 +359,12 @@ func cmdPick(args []string) int {
 	return 0
 }
 
-func cmdDraftPR(args []string) int {
+func cmdQueuePR(args []string) int {
 	root, code := mustRoot()
 	if code != 0 {
 		return code
 	}
-	fs := flag.NewFlagSet("draft-pr", flag.ContinueOnError)
+	fs := flag.NewFlagSet("queue-pr", flag.ContinueOnError)
 	message := fs.String("message", "", "Commit message")
 	prNote := fs.String("pr-note", "", "Extra line for PR body")
 	dryRun := fs.Bool("dry-run", false, "Show status only")
@@ -375,58 +375,58 @@ func cmdDraftPR(args []string) int {
 		fmt.Fprintln(os.Stderr, "--message is required")
 		return 2
 	}
-	has, err := draftpr.HasDraftChanges(root)
+	has, err := queuepr.HasQueueChanges(root)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		return 1
 	}
 	if !has {
-		fmt.Println("No changes under draft/; nothing to commit.")
-		draftpr.ListOpenPR(root)
+		fmt.Println("No changes under queue/; nothing to commit.")
+		queuepr.ListOpenPR(root)
 		return 0
 	}
 	if *dryRun {
-		cmd := exec.Command("git", "status", "--short", "draft/")
+		cmd := exec.Command("git", "status", "--short", "queue/")
 		cmd.Dir = root
 		cmd.Stdout = os.Stdout
 		cmd.Stderr = os.Stderr
 		_ = cmd.Run()
-		fmt.Printf("Would commit on branch %s and update open PR.\n", draftpr.DraftBranch)
+		fmt.Printf("Would commit on branch %s and update open PR.\n", queuepr.QueueBranch)
 		return 0
 	}
 	if code := cmdValidate(nil); code != 0 {
 		return code
 	}
-	if code := cmdValidateTrilingual([]string{"-stage", "draft"}); code != 0 {
-		fmt.Fprintln(os.Stderr, "Trilingual validation failed. Add en, es, and de for each new draft set.")
+	if code := cmdValidateTrilingual([]string{"-stage", "queue"}); code != 0 {
+		fmt.Fprintln(os.Stderr, "Trilingual validation failed. Add en, es, and de for each new queue set.")
 		return code
 	}
-	if err := draftpr.CheckoutDraftBranch(root); err != nil {
+	if err := queuepr.CheckoutQueueBranch(root); err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		return 1
 	}
-	if out, _, code, err := draftpr.Run(root, "git", "add", "draft/"); err != nil || code != 0 {
+	if out, _, code, err := queuepr.Run(root, "git", "add", "queue/"); err != nil || code != 0 {
 		fmt.Fprintln(os.Stderr, strings.TrimSpace(out))
 		if err != nil {
 			fmt.Fprintln(os.Stderr, err)
 		}
 		return 1
 	}
-	if out, _, code, err := draftpr.Run(root, "git", "commit", "-m", *message); err != nil || code != 0 {
+	if out, _, code, err := queuepr.Run(root, "git", "commit", "-m", *message); err != nil || code != 0 {
 		fmt.Fprintln(os.Stderr, strings.TrimSpace(out))
 		if err != nil {
 			fmt.Fprintln(os.Stderr, err)
 		}
 		return 1
 	}
-	if out, _, code, err := draftpr.Run(root, "git", "push", "-u", "origin", draftpr.DraftBranch); err != nil || code != 0 {
+	if out, _, code, err := queuepr.Run(root, "git", "push", "-u", "origin", queuepr.QueueBranch); err != nil || code != 0 {
 		fmt.Fprintln(os.Stderr, strings.TrimSpace(out))
 		if err != nil {
 			fmt.Fprintln(os.Stderr, err)
 		}
 		return 1
 	}
-	if _, err := draftpr.OpenPR(root, *message, *prNote); err != nil {
+	if _, err := queuepr.OpenPR(root, *message, *prNote); err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		return 1
 	}

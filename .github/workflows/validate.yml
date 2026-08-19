@@ -2,7 +2,7 @@ name: Validate cards
 
 on:
   push:
-    branches: [main, automation/draft-cards]
+    branches: [main, automation/queue-cards]
   pull_request:
     branches: [main]
 
@@ -25,8 +25,8 @@ jobs:
       - name: Card syntax validation
         run: go run ./cmd/cartitas validate
 
-      - name: Trilingual draft validation
-        run: go run ./cmd/cartitas validate-trilingual --stage draft
+      - name: Trilingual queue validation
+        run: go run ./cmd/cartitas validate-trilingual --stage queue
 
       - name: Install hashcards
         run: cargo install hashcards --locked

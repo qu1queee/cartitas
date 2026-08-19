@@ -7,8 +7,8 @@ Internal notes for writing, reviewing, and publishing cards.
 | Path | Purpose |
 |------|---------|
 | `cards/{lang}/{Topic}/` | Published cards, ready to drill |
-| `queue/{lang}/{Topic}/` | Approved cards waiting for auto-publish |
-| `draft/{lang}/{Topic}/` | Work in progress |
+| `queue/{lang}/{Topic}/` | Cards waiting for auto-publish |
+| `draft/{lang}/{Topic}/` | Human work in progress (not used by automation) |
 | `languages.yaml` | Supported languages and default |
 | `templates/` | Style guide and topic seeds |
 | `publish.yaml` | Per-topic publish rates |
@@ -42,15 +42,15 @@ Age bands and writing rules: [templates/card-style.md](../templates/card-style.m
 ## Pipeline
 
 ```
-draft/{lang}/  →  queue/{lang}/  →  cards/{lang}/
-         (you)           (automated)
+you (optional):  draft/{lang}/  →  queue/{lang}/
+automation:      queue/{lang}/  (via PR automation/queue-cards)
+then:            queue/{lang}/  →  cards/{lang}/
+                         (publish workflow)
 ```
 
-1. Write or generate cards in `draft/{lang}/`
-2. Review and move good ones to `queue/{lang}/{Topic}/`
-3. GitHub Actions (or `go run ./cmd/cartitas publish`) publishes into `cards/{lang}/`
-
-After a draft PR merges, move **all three language files together** to `queue/{lang}/`.
+1. **You:** write in `draft/{lang}/`, review in your own PR, then move all three language files together to `queue/{lang}/{Topic}/`.
+2. **Automation:** writes straight to `queue/{lang}/` and opens/updates one PR. Merge when you want those files to publish.
+3. GitHub Actions (or `go run ./cmd/cartitas publish`) publishes `queue/{lang}/` into `cards/{lang}/`.
 
 ### Publish locally
 
@@ -64,18 +64,18 @@ go run ./cmd/cartitas publish
 
 | Workflow | Trigger | What it does |
 |----------|---------|--------------|
-| [Validate](../.github/workflows/validate.yml) | Push / PR | Syntax + trilingual draft check + hashcards |
+| [Validate](../.github/workflows/validate.yml) | Push / PR | Syntax + trilingual queue check + hashcards |
 | [Publish](../.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves `queue/{lang}/` → `cards/{lang}/` |
 
-Drafts are **not** generated in GitHub Actions. The Cursor Automation writes `draft/` and opens the PR.
+Queued cards are **not** generated in GitHub Actions. The Cursor Automation writes `queue/` and opens the PR.
 
-## Cursor Automation (draft)
+## Cursor Automation (queue)
 
-Scheduled agent writes **the same new cards in en, es, and de** each run, then **opens/updates one PR** (`automation/draft-cards`).
+Scheduled agent writes **the same new cards in en, es, and de** each run, then **opens/updates one PR** (`automation/queue-cards`).
 
-1. Runbook: [.cursor/automation-generate-draft.md](../.cursor/automation-generate-draft.md)
-2. Each run creates three files: `draft/{en,es,de}/{Topic}/{subtopic}_{band}.md`
-3. Helper: `go run ./cmd/cartitas draft-pr --message "draft(geography/continents): add 5 cards x3 langs (early)"`
+1. Runbook: [.cursor/automation-generate-queue.md](../.cursor/automation-generate-queue.md)
+2. Each run creates three files: `queue/{en,es,de}/{Topic}/{subtopic}_{band}.md`
+3. Helper: `go run ./cmd/cartitas queue-pr --message "queue(geography/continents): add 5 cards x3 langs (early)"` — PR is **ready for review**, not a GitHub draft.
 
 Prefill: [.cursor/automation-prefill.json](../.cursor/automation-prefill.json) — re-save the automation after pulling latest `main`.
 

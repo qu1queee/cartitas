@@ -46,12 +46,14 @@ Use cloze for names, colors, numbers, and simple facts.
 
 Use `lang: en`, `lang: es`, or `lang: de`. **One language per file.**
 
-When adding new content, always create **matching files in all three languages** with the same `{subtopic}_{band}.md` filename:
+When adding new content, always create **matching files in all three languages** with the same `{subtopic}_{band}.md` filename.
+
+Automation writes to `queue/`. Human WIP uses `draft/`:
 
 ```
-draft/en/Geography/continents_early.md
-draft/es/Geography/continents_early.md
-draft/de/Geography/continents_early.md
+queue/en/Geography/continents_early.md
+queue/es/Geography/continents_early.md
+queue/de/Geography/continents_early.md
 ```
 
 ## Languages
