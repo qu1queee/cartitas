@@ -1,8 +1,3 @@
-Q: ¿Qué representan los cinco anillos olímpicos?
-A: Representan cinco partes del mundo que se unen en el deporte. Los anillos están entrelazados para mostrar amistad.
-
----
-
 C: Deportistas de muchos países compiten en los [Juegos Olímpicos].
 
 ---
