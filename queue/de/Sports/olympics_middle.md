@@ -1,8 +1,3 @@
-Q: Wofür stehen die fünf olympischen Ringe?
-A: Sie stehen für fünf Teile der Welt, die im Sport zusammenkommen. Die Ringe sind ineinander verschlungen und sollen Freundschaft zeigen.
-
----
-
 C: Sportlerinnen und Sportler aus vielen Ländern treten bei den [Olympischen Spielen] an.
 
 ---
