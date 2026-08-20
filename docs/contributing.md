@@ -66,6 +66,7 @@ go run ./cmd/cartitas publish
 |----------|---------|--------------|
 | [Validate](../.github/workflows/validate.yml) | Push / PR | Syntax + trilingual queue check + hashcards |
 | [Publish](../.github/workflows/publish.yml) | Daily 08:00 UTC + manual | Moves `queue/{lang}/` → `cards/{lang}/` |
+| [Pages](../.github/workflows/pages.yml) | Push to `main` | Builds `docs/data/cards.json` and deploys GitHub Pages |
 
 Queued cards are **not** generated in GitHub Actions. The Cursor Automation writes `queue/` and opens the PR.
 

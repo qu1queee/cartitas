@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cartitas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <header class="hero">
+      <p class="eyebrow">Kid flashcards</p>
+      <h1>Cartitas</h1>
+      <p class="lede">Pick a language, topic, and age, then run the deck.</p>
+    </header>
+
+    <section class="panel" id="prefs">
+      <div class="fields">
+        <label>
+          Language
+          <select id="lang">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="de">Deutsch</option>
+          </select>
+        </label>
+        <label>
+          Topic
+          <select id="topic">
+            <option value="">All topics</option>
+          </select>
+        </label>
+        <label>
+          Age
+          <select id="age">
+            <option value="">All ages</option>
+          </select>
+        </label>
+      </div>
+      <div class="row start-row">
+        <button type="button" id="start" class="primary">Start</button>
+        <p class="status" id="status" role="status"></p>
+      </div>
+    </section>
+
+    <section class="panel drill" id="drill" hidden>
+      <p class="deck" id="deck"></p>
+      <p class="progress" id="progress"></p>
+      <article class="card" id="card">
+        <p class="question" id="question"></p>
+        <p class="answer" id="answer" hidden></p>
+      </article>
+      <div class="row" id="reveal-row">
+        <button type="button" id="reveal" class="primary">Show answer</button>
+      </div>
+      <div class="row grade" id="grade-row" hidden>
+        <button type="button" id="missed">I missed it</button>
+        <button type="button" id="got-it" class="primary">I got it</button>
+      </div>
+      <button type="button" id="end" class="text">End session</button>
+    </section>
+  </main>
+  <canvas id="confetti" hidden></canvas>
+  <script src="app.js"></script>
+</body>
+</html>

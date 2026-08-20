@@ -1,0 +1,140 @@
+:root {
+  --ink: #1c1914;
+  --paper: #f6efe4;
+  --card: #fffdf8;
+  --line: #e4d8c4;
+  --accent: #c45c26;
+  --good: #2f6f4e;
+  --muted: #6d6256;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 500px at 10% -10%, #ffe7c2 0%, transparent 55%),
+    var(--paper);
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+.app {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.4rem, 6vw, 3.4rem);
+  margin: 0.15rem 0 0.4rem;
+  letter-spacing: -0.03em;
+}
+
+.eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.lede, .hint, .meta, .status, .deck, .progress {
+  color: var(--muted);
+}
+
+.panel {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 1.25rem;
+  padding: 1.25rem;
+  margin-top: 1rem;
+  box-shadow: 0 10px 30px rgba(80, 50, 20, 0.06);
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-weight: 650;
+  flex: 1;
+  min-width: 8rem;
+}
+
+.fields {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.row {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.start-row {
+  align-items: center;
+}
+
+input, select, button {
+  font: inherit;
+}
+
+input, select {
+  flex: 1;
+  min-width: 10rem;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+  background: #fff;
+}
+
+button {
+  border: 0;
+  border-radius: 0.85rem;
+  padding: 0.75rem 1.1rem;
+  background: var(--ink);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 650;
+}
+
+button.primary { background: var(--accent); }
+button.text {
+  background: transparent;
+  color: var(--muted);
+  padding-left: 0;
+  margin-top: 0.75rem;
+}
+#missed { background: #8a3b2a; }
+#got-it { background: var(--good); }
+
+#confetti {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 20;
+}
+
+.status { margin: 0; }
+.card {
+  background: var(--paper);
+  border-radius: 1rem;
+  padding: 1.25rem;
+  min-height: 8rem;
+}
+.question { font-size: 1.25rem; margin: 0 0 0.75rem; }
+.answer { margin: 0; font-size: 1.1rem; color: var(--good); }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}

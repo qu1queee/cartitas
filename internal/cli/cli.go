@@ -9,12 +9,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qu1queee/cartitas/internal/queuepr"
 	"github.com/qu1queee/cartitas/internal/pick"
 	"github.com/qu1queee/cartitas/internal/publish"
+	"github.com/qu1queee/cartitas/internal/queuepr"
 	"github.com/qu1queee/cartitas/internal/repo"
 	"github.com/qu1queee/cartitas/internal/trilingual"
 	"github.com/qu1queee/cartitas/internal/validate"
+	"github.com/qu1queee/cartitas/internal/webexport"
 )
 
 func Run(args []string) int {
@@ -36,6 +37,8 @@ func Run(args []string) int {
 		return cmdPick(rest)
 	case "queue-pr", "draft-pr":
 		return cmdQueuePR(rest)
+	case "web-export":
+		return cmdWebExport(rest)
 	case "-h", "--help", "help":
 		usage()
 		return 0
@@ -59,6 +62,7 @@ Commands:
   publish                Move queue/{lang}/ into cards/{lang}/
   pick-generate-target   Next topic/subtopic/age band
   queue-pr               Commit queue/ and open automation PR
+  web-export             Write docs/data/cards.json for GitHub Pages
 `)
 }
 
@@ -356,6 +360,24 @@ func cmdPick(args []string) int {
 		fmt.Printf("topic=%s subtopic=%s age_band=%s count=%d (lang coverage %d/3)\n",
 			target.Topic, target.Subtopic, target.AgeBand, target.Count, target.Coverage)
 	}
+	return 0
+}
+
+func cmdWebExport(args []string) int {
+	root, code := mustRoot()
+	if code != 0 {
+		return code
+	}
+	fs := flag.NewFlagSet("web-export", flag.ContinueOnError)
+	if err := fs.Parse(args); err != nil {
+		return 2
+	}
+	path, n, err := webexport.WriteCards(root)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, err)
+		return 1
+	}
+	fmt.Printf("Wrote %s (%d cards)\n", path, n)
 	return 0
 }
 
