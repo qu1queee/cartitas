@@ -65,12 +65,12 @@ Spanish and German files use the same header/subtopic slug and matching cards wi
 
 ```sh
 go run ./cmd/cartitas validate
-go run ./cmd/cartitas validate-trilingual --stage queue
+go run ./cmd/cartitas validate-trilingual --stage queue --changed-from HEAD
 ```
 
-`validate-trilingual` **must pass** — it fails if any queue file is missing a matching `en`, `es`, or `de` sibling with the same path under `queue/{lang}/`.
+`validate-trilingual` **must pass for the files this run adds** — it fails if a touched queue set is missing a matching `en`, `es`, or `de` sibling. Leftover incomplete files already in `queue/` are ignored.
 
-Do not commit if trilingual validation fails.
+Do not commit if trilingual validation fails for the new set.
 
 ## Commit via PR branch (do not push to main)
 
