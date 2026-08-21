@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-go@v5
         with:
@@ -26,7 +28,21 @@ jobs:
         run: go run ./cmd/cartitas validate
 
       - name: Trilingual queue validation
-        run: go run ./cmd/cartitas validate-trilingual --stage queue
+        env:
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          BASE="$PR_BASE"
+          if [ -z "$BASE" ]; then
+            BASE="$PUSH_BEFORE"
+          fi
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            echo "No PR/push base; checking working tree changes vs HEAD"
+            go run ./cmd/cartitas validate-trilingual --stage queue --changed-from HEAD
+          else
+            echo "Checking queue sets changed since $BASE"
+            go run ./cmd/cartitas validate-trilingual --stage queue --changed-from "$BASE"
+          fi
 
       - name: Install hashcards
         run: cargo install hashcards --locked

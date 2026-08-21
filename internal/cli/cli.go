@@ -58,7 +58,7 @@ Usage:
 Commands:
   drill                  Drill cards in one language (hashcards)
   validate               Basic Q/A and cloze checks
-  validate-trilingual    Require en/es/de siblings in draft/queue
+  validate-trilingual    Require en/es/de siblings in draft/queue (--changed-from for PR diffs)
   publish                Move queue/{lang}/ into cards/{lang}/
   pick-generate-target   Next topic/subtopic/age band
   queue-pr               Commit queue/ and open automation PR
@@ -194,6 +194,7 @@ func cmdValidateTrilingual(args []string) int {
 	var stages stringList
 	fs.Var(&stages, "stage", "Stage to check (default: draft and queue)")
 	only := fs.String("only", "", "Filter to paths containing this string")
+	changedFrom := fs.String("changed-from", "", "Git ref: only check sets touched since this commit (PR base)")
 	if err := fs.Parse(args); err != nil {
 		return 2
 	}
@@ -207,9 +208,29 @@ func cmdValidateTrilingual(args []string) int {
 	if len(check) == 0 {
 		check = append([]string{}, trilingual.Stages...)
 	}
+	var changedPaths []string
+	if *changedFrom != "" {
+		changedPaths, err = gitChangedPaths(root, *changedFrom)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, err)
+			return 1
+		}
+	}
 	var errs []string
+	checked := 0
 	for _, stage := range check {
-		errs = append(errs, trilingual.ValidateStage(root, stage, required)...)
+		var onlyKeys []string
+		if *changedFrom != "" {
+			onlyKeys = trilingual.KeysFromPaths(stage, changedPaths)
+			checked += len(onlyKeys)
+		}
+		var stageErrs []string
+		if *changedFrom != "" {
+			stageErrs = trilingual.ValidateStageFilter(root, stage, required, onlyKeys)
+		} else {
+			stageErrs = trilingual.ValidateStage(root, stage, required)
+		}
+		errs = append(errs, stageErrs...)
 	}
 	if *only != "" {
 		filtered := errs[:0]
@@ -227,8 +248,60 @@ func cmdValidateTrilingual(args []string) int {
 		fmt.Fprintln(os.Stderr, "\nFix: add matching files under {stage}/{en,es,de}/ for each incomplete set.")
 		return 1
 	}
+	if *changedFrom != "" && checked == 0 {
+		fmt.Printf("No changed .md files under %s since %s; trilingual check skipped.\n", strings.Join(check, ", "), *changedFrom)
+		return 0
+	}
+	if *changedFrom != "" {
+		fmt.Printf("Changed %s sets since %s are complete for: %s\n", strings.Join(check, ", "), *changedFrom, strings.Join(required, ", "))
+		return 0
+	}
 	fmt.Printf("All %s sets complete for: %s\n", strings.Join(check, ", "), strings.Join(required, ", "))
 	return 0
+}
+
+func gitChangedPaths(root, from string) ([]string, error) {
+	var args []string
+	if from == "HEAD" {
+		args = []string{"diff", "--name-only", "--diff-filter=ACDMRT", "HEAD"}
+	} else {
+		args = []string{"diff", "--name-only", "--diff-filter=ACDMRT", from + "...HEAD"}
+	}
+	cmd := exec.Command("git", args...)
+	cmd.Dir = root
+	out, err := cmd.Output()
+	if err != nil {
+		msg := strings.TrimSpace(string(out))
+		if ee, ok := err.(*exec.ExitError); ok {
+			msg = strings.TrimSpace(string(ee.Stderr))
+		}
+		if msg == "" {
+			msg = err.Error()
+		}
+		return nil, fmt.Errorf("git diff %s: %s", from, msg)
+	}
+	var paths []string
+	for _, line := range strings.Split(string(out), "\n") {
+		line = strings.TrimSpace(line)
+		if line != "" {
+			paths = append(paths, line)
+		}
+	}
+	if from == "HEAD" {
+		u := exec.Command("git", "ls-files", "--others", "--exclude-standard")
+		u.Dir = root
+		extra, err := u.Output()
+		if err != nil {
+			return nil, fmt.Errorf("git ls-files: %w", err)
+		}
+		for _, line := range strings.Split(string(extra), "\n") {
+			line = strings.TrimSpace(line)
+			if line != "" {
+				paths = append(paths, line)
+			}
+		}
+	}
+	return paths, nil
 }
 
 func cmdPublish(args []string) int {
@@ -419,7 +492,7 @@ func cmdQueuePR(args []string) int {
 	if code := cmdValidate(nil); code != 0 {
 		return code
 	}
-	if code := cmdValidateTrilingual([]string{"-stage", "queue"}); code != 0 {
+	if code := cmdValidateTrilingual([]string{"-stage", "queue", "-changed-from", "HEAD"}); code != 0 {
 		fmt.Fprintln(os.Stderr, "Trilingual validation failed. Add en, es, and de for each new queue set.")
 		return code
 	}

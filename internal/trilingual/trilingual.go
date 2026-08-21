@@ -50,15 +50,60 @@ func FindLangGroups(base string) map[string]map[string]struct{} {
 }
 
 func ValidateStage(root, stage string, required []string) []string {
-	var errors []string
-	groups := FindLangGroups(filepath.Join(root, stage))
-	keys := make([]string, 0, len(groups))
-	for k := range groups {
-		keys = append(keys, k)
+	return ValidateStageFilter(root, stage, required, nil)
+}
+
+// KeysFromPaths maps repo paths like queue/en/Animals/pets_middle.md to
+// relative keys (Animals/pets_middle.md) for the given stage.
+func KeysFromPaths(stage string, paths []string) []string {
+	prefix := stage + "/"
+	seen := map[string]struct{}{}
+	var keys []string
+	for _, p := range paths {
+		p = filepath.ToSlash(strings.TrimSpace(p))
+		if p == "" || !strings.HasPrefix(p, prefix) {
+			continue
+		}
+		parts := strings.Split(strings.TrimPrefix(p, prefix), "/")
+		if len(parts) < 2 {
+			continue
+		}
+		key := strings.Join(parts[1:], "/")
+		if !strings.HasSuffix(key, ".md") {
+			continue
+		}
+		if _, ok := seen[key]; ok {
+			continue
+		}
+		seen[key] = struct{}{}
+		keys = append(keys, key)
 	}
 	sort.Strings(keys)
+	return keys
+}
+
+// ValidateStageFilter checks trilingual completeness. If onlyKeys is nil, every
+// set under the stage is checked. If onlyKeys is non-nil, only those keys are
+// checked (empty means nothing to check). Keys with no remaining files are skipped.
+func ValidateStageFilter(root, stage string, required []string, onlyKeys []string) []string {
+	var errors []string
+	groups := FindLangGroups(filepath.Join(root, stage))
+	var keys []string
+	if onlyKeys != nil {
+		keys = append([]string{}, onlyKeys...)
+		sort.Strings(keys)
+	} else {
+		keys = make([]string, 0, len(groups))
+		for k := range groups {
+			keys = append(keys, k)
+		}
+		sort.Strings(keys)
+	}
 	for _, key := range keys {
 		present := groups[key]
+		if onlyKeys != nil && len(present) == 0 {
+			continue
+		}
 		var missing []string
 		for _, lang := range required {
 			if _, ok := present[lang]; !ok {
