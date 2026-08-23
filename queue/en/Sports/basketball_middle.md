@@ -1,7 +1,3 @@
-C: A basketball game has four [quarters]. Teams switch which basket they shoot at at halftime.
-
----
-
 Q: What is the difference between a two-point and a three-point shot?
 A: A shot from close to the basket is worth two points. A shot from behind the three-point line is worth three points because it is much farther from the hoop.
 

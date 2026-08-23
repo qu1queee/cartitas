@@ -1,7 +1,3 @@
-C: Un partido de baloncesto tiene cuatro [cuartos]. Los equipos cambian de canasta en el descanso.
-
----
-
 Q: ¿Cuál es la diferencia entre un tiro de dos y un tiro de tres puntos?
 A: Un tiro cerca de la canasta vale dos puntos. Un tiro desde detrás de la línea de tres puntos vale tres puntos porque está mucho más lejos del aro.
 

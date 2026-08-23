@@ -4,3 +4,7 @@
 
 Q: ¿Cuántos jugadores de cada equipo están en la cancha a la vez?
 A: Cinco. Los suplentes esperan en el banquillo y pueden entrar en las pausas del partido.
+
+---
+
+C: Un partido de baloncesto tiene cuatro [cuartos]. Los equipos cambian de canasta en el descanso.
