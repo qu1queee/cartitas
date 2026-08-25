@@ -13,3 +13,17 @@ A: An island is land with water all around it. Ireland and Japan are islands.
 ---
 
 C: A [country] is a place with its own name and rules, like France or Brazil.
+
+---
+
+# Countries — middle (8–11)
+
+<!-- age: middle | lang: en | topic: geography | subtopic: countries -->
+
+Q: How is a country different from a continent?
+A: A continent is a huge piece of land, like Africa or South America. A country is one nation inside a continent, like Kenya in Africa or Chile in South America.
+
+---
+
+Q: What is a national flag?
+A: A flag is a colorful cloth that represents a country. People fly flags on buildings and at celebrations to show pride in their nation.
