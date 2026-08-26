@@ -27,3 +27,12 @@ A: A continent is a huge piece of land, like Africa or South America. A country 
 
 Q: What is a national flag?
 A: A flag is a colorful cloth that represents a country. People fly flags on buildings and at celebrations to show pride in their nation.
+
+---
+
+Q: Why do countries have different languages?
+A: Languages grew over thousands of years in different places. People in neighboring countries often speak different languages, or sometimes the same one.
+
+---
+
+C: Mexico City is the capital of [Mexico].

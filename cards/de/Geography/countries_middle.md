@@ -9,3 +9,12 @@ A: Ein Kontinent ist eine riesige Landmasse, wie Afrika oder Südamerika. Ein La
 
 Q: Was ist eine Nationalflagge?
 A: Eine Flagge ist ein buntes Tuch, das ein Land darstellt. Menschen hängen Flaggen an Gebäude und bei Festen, um Freude über ihre Nation zu zeigen.
+
+---
+
+Q: Warum haben Länder verschiedene Sprachen?
+A: Sprachen wuchsen über viele Tausende Jahre an verschiedenen Orten. In benachbarten Ländern sprechen Menschen oft verschiedene Sprachen, manchmal die gleiche.
+
+---
+
+C: Mexiko-Stadt ist die Hauptstadt von [Mexiko].

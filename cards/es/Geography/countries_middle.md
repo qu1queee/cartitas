@@ -9,3 +9,12 @@ A: Un continente es una gran masa de tierra, como África o América del Sur. Un
 
 Q: ¿Qué es una bandera nacional?
 A: Una bandera es una tela con colores que representa un país. La gente la pone en edificios y en fiestas para mostrar orgullo de su nación.
+
+---
+
+Q: ¿Por qué los países tienen idiomas distintos?
+A: Los idiomas crecieron durante miles de años en sitios diferentes. En países vecinos la gente suele hablar idiomas distintos, o a veces el mismo.
+
+---
+
+C: Ciudad de México es la capital de [México].
