@@ -8,3 +8,13 @@ A: An klaren Nächten, wenn der Himmel dunkel ist. Tagsüber versteckt die helle
 ---
 
 C: Sterne sehen aus wie kleine helle [Punkte] am Nachthimmel.
+
+---
+
+Q: Warum scheinen Sterne zu funkeln?
+A: Sternenlicht wird ein wenig gebogen, wenn es durch die Luft um die Erde geht. Deshalb funkeln sie.
+
+---
+
+Q: Was ist ein Sternbild?
+A: Ein Sternbild ist eine Gruppe von Sternen, die am Himmel ein Bild formt. Ein bekanntes ist der Große Wagen.

@@ -1,7 +1,3 @@
-C: Die Olympischen Spiele finden alle [vier] Jahre statt.
-
----
-
 Q: Was gewinnen Sportler bei den Olympischen Spielen?
 A: Medaillen. Die Besten können Gold, Silber oder Bronze gewinnen.
 

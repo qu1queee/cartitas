@@ -4,3 +4,7 @@
 
 Q: Welche Farben haben die fünf olympischen Ringe?
 A: Blau, Gelb, Schwarz, Grün und Rot. Jeder Ring hat eine andere Farbe.
+
+---
+
+C: Die Olympischen Spiele finden alle [vier] Jahre statt.

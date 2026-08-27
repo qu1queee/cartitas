@@ -8,3 +8,13 @@ A: En noches despejadas, cuando el cielo está oscuro. El Sol brillante las esco
 ---
 
 C: Las estrellas parecen pequeños [puntos] brillantes en el cielo nocturno.
+
+---
+
+Q: ¿Por qué parece que las estrellas titilan?
+A: La luz de las estrellas se dobla un poco al pasar por el aire alrededor de la Tierra. Eso las hace brillar.
+
+---
+
+Q: ¿Qué es una constelación?
+A: Una constelación es un grupo de estrellas que forma una figura en el cielo. Una famosa es la Osa Mayor.
