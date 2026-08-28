@@ -9,3 +9,12 @@ A: Wasser, das aus Wolken fällt, wenn die Tropfen in der Wolke schwer genug wer
 
 Q: Warum gibt es Jahreszeiten?
 A: Die Erde ist geneigt, während sie um die Sonne läuft. Durch diese Neigung trifft das Sonnenlicht im Laufe des Jahres unterschiedlich direkt auf verschiedene Teile der Erde.
+
+---
+
+C: Eine [Wolke] besteht aus winzigen Wassertropfen oder Eiskristallen, die in der Luft schweben.
+
+---
+
+Q: Was ist der Wasserkreislauf?
+A: Wasser bewegt sich im Kreis. Es verdunstet aus Meeren und Seen, bildet Wolken, fällt als Regen oder Schnee und fließt zurück in Flüsse und Meere.
