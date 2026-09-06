@@ -1,16 +1,3 @@
-# Dein Körper — middle (8–11)
-
-<!-- age: middle | lang: de | topic: science | subtopic: body -->
-
-Q: Warum müssen wir atmen?
-A: Unser Körper braucht Sauerstoff aus der Luft. Sauerstoff hilft, die Nahrung, die wir essen, in Energie umzuwandeln, damit wir uns bewegen, denken und leben können.
-
----
-
-C: Beim Einatmen nimmt deine Lunge [Sauerstoff] aus der Luft auf.
-
----
-
 Q: Was macht dein Gehirn?
 A: Dein Gehirn steuert deinen Körper. Es hilft dir zu denken, dir Dinge zu merken, Gefühle zu haben und Muskeln bewusst zu bewegen.
 

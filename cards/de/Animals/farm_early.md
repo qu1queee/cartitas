@@ -13,3 +13,16 @@ C: [Hühner] legen Eier, die viele Menschen zum Frühstück essen.
 
 Q: Welches Geräusch macht ein Schaf?
 A: Mäh! Schafe leben auf Bauernhöfen und geben uns Wolle für warme Kleidung.
+
+---
+
+# Bauernhoftiere — early (5–7)
+
+<!-- age: early | lang: de | topic: animals | subtopic: farm -->
+
+Q: Welches Geräusch macht eine Kuh?
+A: Muh! Kühe sagen muh, wenn sie miteinander sprechen.
+
+---
+
+C: Baby-Hühner nennt man [Küken].

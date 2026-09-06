@@ -9,3 +9,16 @@ A: Sweat helps cool your body down when you get hot from exercise.
 
 Q: What do bones do for your body?
 A: They give shape and support, protect organs like the brain, and work with muscles to help you move.
+
+---
+
+# Your body — middle (8–11)
+
+<!-- age: middle | lang: en | topic: science | subtopic: body -->
+
+Q: Why do we need to breathe?
+A: Our body needs oxygen from the air. Oxygen helps turn the food we eat into energy so we can move, think, and stay alive.
+
+---
+
+C: When you breathe in, your lungs take in [oxygen] from the air.

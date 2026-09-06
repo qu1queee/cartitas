@@ -1,16 +1,3 @@
-# Farm animals — early (5–7)
-
-<!-- age: early | lang: en | topic: animals | subtopic: farm -->
-
-Q: What sound does a cow make?
-A: Moo! Cows say moo when they talk to each other.
-
----
-
-C: Baby chickens are called [chicks].
-
----
-
 Q: What do farmers often use horses for?
 A: Horses can pull carts, carry riders, and help with work on the farm.
 
