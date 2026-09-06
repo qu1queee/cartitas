@@ -1,16 +1,3 @@
-# Your body — middle (8–11)
-
-<!-- age: middle | lang: en | topic: science | subtopic: body -->
-
-Q: Why do we need to breathe?
-A: Our body needs oxygen from the air. Oxygen helps turn the food we eat into energy so we can move, think, and stay alive.
-
----
-
-C: When you breathe in, your lungs take in [oxygen] from the air.
-
----
-
 Q: What does your brain do?
 A: Your brain controls your body. It helps you think, remember things, feel emotions, and move your muscles on purpose.
 

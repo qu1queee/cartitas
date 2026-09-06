@@ -13,3 +13,16 @@ C: [Chickens] lay eggs that many people eat for breakfast.
 
 Q: What sound does a sheep make?
 A: Baa! Sheep live on farms and give us wool for warm clothes.
+
+---
+
+# Farm animals — early (5–7)
+
+<!-- age: early | lang: en | topic: animals | subtopic: farm -->
+
+Q: What sound does a cow make?
+A: Moo! Cows say moo when they talk to each other.
+
+---
+
+C: Baby chickens are called [chicks].

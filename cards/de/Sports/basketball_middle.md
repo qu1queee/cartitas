@@ -18,3 +18,12 @@ A: Ein Wurf nahe am Korb zählt zwei Punkte. Ein Wurf von hinter der Dreierlinie
 
 Q: Was ist die NBA?
 A: Die NBA ist eine professionelle Basketballliga in den USA und Kanada. Einige der besten Spieler der Welt treten dort an.
+
+---
+
+# Basketball — middle (8–11)
+
+<!-- age: middle | lang: de | topic: sports | subtopic: basketball -->
+
+Q: Was ist ein Rebound im Basketball?
+A: Wenn ein Wurf den Korb verfehlt, schnappt sich ein Spieler den springenden Ball, bevor das andere Team ihn bekommt. Rebounds helfen einer Mannschaft, im Angriff zu bleiben.

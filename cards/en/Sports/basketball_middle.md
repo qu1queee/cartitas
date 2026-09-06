@@ -18,3 +18,12 @@ A: A shot from close to the basket is worth two points. A shot from behind the t
 
 Q: What is the NBA?
 A: The NBA is a professional basketball league in the United States and Canada. Some of the best players in the world compete in it.
+
+---
+
+# Basketball — middle (8–11)
+
+<!-- age: middle | lang: en | topic: sports | subtopic: basketball -->
+
+Q: What is a rebound in basketball?
+A: When a shot misses the hoop, a player grabs the bouncing ball before the other team gets it. Getting rebounds helps a team keep possession.

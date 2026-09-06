@@ -1,12 +1,3 @@
-# Basketball — middle (8–11)
-
-<!-- age: middle | lang: en | topic: sports | subtopic: basketball -->
-
-Q: What is a rebound in basketball?
-A: When a shot misses the hoop, a player grabs the bouncing ball before the other team gets it. Getting rebounds helps a team keep possession.
-
----
-
 C: After a foul, a player may shoot [free throws] from the free-throw line without defenders blocking them.
 
 ---

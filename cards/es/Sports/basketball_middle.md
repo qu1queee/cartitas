@@ -18,3 +18,12 @@ A: Un tiro cerca de la canasta vale dos puntos. Un tiro desde detrás de la lín
 
 Q: ¿Qué es la NBA?
 A: La NBA es una liga profesional de baloncesto en Estados Unidos y Canadá. Algunos de los mejores jugadores del mundo compiten en ella.
+
+---
+
+# Baloncesto — middle (8–11)
+
+<!-- age: middle | lang: es | topic: sports | subtopic: basketball -->
+
+Q: ¿Qué es un rebote en baloncesto?
+A: Cuando un tiro falla la canasta, un jugador atrapa el balón que rebota antes de que lo tome el otro equipo. Conseguir rebotes ayuda a un equipo a seguir atacando.

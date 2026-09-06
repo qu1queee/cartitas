@@ -1,16 +1,3 @@
-# Tu cuerpo — middle (8–11)
-
-<!-- age: middle | lang: es | topic: science | subtopic: body -->
-
-Q: ¿Por qué necesitamos respirar?
-A: Nuestro cuerpo necesita oxígeno del aire. El oxígeno ayuda a convertir la comida que comemos en energía para movernos, pensar y mantenernos vivos.
-
----
-
-C: Cuando inhalas, tus pulmones absorben [oxígeno] del aire.
-
----
-
 Q: ¿Qué hace tu cerebro?
 A: Tu cerebro controla tu cuerpo. Te ayuda a pensar, recordar cosas, sentir emociones y mover los músculos cuando quieres.
 
