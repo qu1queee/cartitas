@@ -22,3 +22,13 @@ A: Our body needs oxygen from the air. Oxygen helps turn the food we eat into en
 ---
 
 C: When you breathe in, your lungs take in [oxygen] from the air.
+
+---
+
+Q: What does your brain do?
+A: Your brain controls your body. It helps you think, remember things, feel emotions, and move your muscles on purpose.
+
+---
+
+Q: What are muscles for?
+A: Muscles pull on your bones to make you move. They help you walk, run, smile, and even blink your eyes.

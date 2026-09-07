@@ -26,3 +26,13 @@ A: Moo! Cows say moo when they talk to each other.
 ---
 
 C: Baby chickens are called [chicks].
+
+---
+
+Q: What do farmers often use horses for?
+A: Horses can pull carts, carry riders, and help with work on the farm.
+
+---
+
+Q: Where do ducks like to swim?
+A: In ponds. Ducks have webbed feet that help them paddle through the water.

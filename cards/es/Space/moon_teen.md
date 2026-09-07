@@ -9,3 +9,12 @@ A: Los científicos creen que hace unos 4.500 millones de años un objeto del ta
 
 Q: ¿La Luna tiene aire o clima como la Tierra?
 A: No. La Luna casi no tiene atmósfera. Sin aire, la temperatura cambia muchísimo entre el día y la noche, y no hay viento ni lluvia.
+
+---
+
+C: Durante un eclipse solar, la [Luna] pasa entre la Tierra y el Sol y bloquea la luz del Sol por un rato.
+
+---
+
+Q: ¿Hay agua en la Luna?
+A: Sí. En algunos cráteres siempre a la sombra cerca de los polos, el agua está congelada como hielo. Los exploradores del futuro podrían derretirla para beber o separarla para hacer combustible de cohetes.

@@ -22,3 +22,13 @@ A: Nuestro cuerpo necesita oxígeno del aire. El oxígeno ayuda a convertir la c
 ---
 
 C: Cuando inhalas, tus pulmones absorben [oxígeno] del aire.
+
+---
+
+Q: ¿Qué hace tu cerebro?
+A: Tu cerebro controla tu cuerpo. Te ayuda a pensar, recordar cosas, sentir emociones y mover los músculos cuando quieres.
+
+---
+
+Q: ¿Para qué sirven los músculos?
+A: Los músculos tiran de tus huesos para que te muevas. Te ayudan a caminar, correr, sonreír e incluso parpadear.

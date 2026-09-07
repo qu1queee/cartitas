@@ -27,3 +27,7 @@ A: Die NBA ist eine professionelle Basketballliga in den USA und Kanada. Einige 
 
 Q: Was ist ein Rebound im Basketball?
 A: Wenn ein Wurf den Korb verfehlt, schnappt sich ein Spieler den springenden Ball, bevor das andere Team ihn bekommt. Rebounds helfen einer Mannschaft, im Angriff zu bleiben.
+
+---
+
+C: Nach einem Foul darf ein Spieler [Freiwürfe] von der Freiwurflinie werfen, ohne dass Verteidiger ihn blockieren.

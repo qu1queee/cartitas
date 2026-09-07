@@ -9,3 +9,12 @@ A: Forscher vermuten, dass vor etwa 4,5 Milliarden Jahren ein marsgroßer Körpe
 
 Q: Hat der Mond Luft oder Wetter wie die Erde?
 A: Nein. Der Mond hat fast keine Atmosphäre. Ohne Luft schwanken die Temperaturen zwischen Tag und Nacht stark, und es gibt keinen Wind oder Regen.
+
+---
+
+C: Bei einer Sonnenfinsternis wandert der [Mond] zwischen Erde und Sonne und blockiert kurz das Sonnenlicht.
+
+---
+
+Q: Gibt es Wasser auf dem Mond?
+A: Ja. In einigen dauerhaft schattigen Kratern nahe den Polen ist Wasser als Eis gefroren. Zukünftige Forscher könnten es schmelzen zum Trinken oder spalten für Raketentreibstoff.
