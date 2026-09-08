@@ -1,7 +1,2 @@
-Q: ¿A qué altura está una canasta de baloncesto estándar?
-A: A diez pies (unos tres metros) del suelo. Por eso los jugadores altos y los que saltan bien llegan más fácil al aro.
-
----
-
 Q: ¿Qué es una volcada?
 A: Un jugador salta muy alto y empuja el balón hacia abajo a través de la canasta. Es una de las jugadas más emocionantes del baloncesto.

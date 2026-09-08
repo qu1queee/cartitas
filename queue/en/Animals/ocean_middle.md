@@ -1,12 +1,3 @@
-# Ocean animals — middle (8–11)
-
-<!-- age: middle | lang: en | topic: animals | subtopic: ocean -->
-
-Q: How do fish breathe underwater?
-A: Fish pull water through their gills. The gills take oxygen from the water so the fish can stay alive.
-
----
-
 C: [Seahorses] are fish, but they swim upright and grip plants with their curly tail.
 
 ---

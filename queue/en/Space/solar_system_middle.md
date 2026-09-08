@@ -1,12 +1,3 @@
-# Solar system — middle (8–11)
-
-<!-- age: middle | lang: en | topic: space | subtopic: solar_system -->
-
-Q: Which planet is the biggest in our solar system?
-A: Jupiter. It is so big that all the other planets could fit inside it.
-
----
-
 C: The planet closest to the Sun is [Mercury].
 
 ---

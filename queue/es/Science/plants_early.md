@@ -1,12 +1,3 @@
-# Plantas — early (5–7)
-
-<!-- age: early | lang: es | topic: science | subtopic: plants -->
-
-Q: ¿Qué sostiene a la planta erguida?
-A: El tallo. Lleva el agua desde las raíces hasta las hojas.
-
----
-
 C: Muchas flores se convierten en [fruta] después de que las abejas ayudan a formar semillas.
 
 ---

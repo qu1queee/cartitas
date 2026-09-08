@@ -13,3 +13,12 @@ C: A new plant often starts from a [seed].
 
 Q: Why are leaves usually green?
 A: They have a substance called chlorophyll that helps the plant make food from sunlight.
+
+---
+
+# Plants — early (5–7)
+
+<!-- age: early | lang: en | topic: science | subtopic: plants -->
+
+Q: What holds a plant up straight?
+A: The stem. It carries water from the roots up to the leaves.

@@ -36,3 +36,8 @@ A: Los caballos pueden tirar de carros, llevar jinetes y ayudar con el trabajo e
 
 Q: ¿Dónde les gusta nadar a los patos?
 A: En estanques. Los patos tienen patas palmeadas que les ayudan a remar en el agua.
+
+---
+
+Q: ¿Qué hace un gallo por la mañana?
+A: Canta fuerte. Su canto suena como "quiquiriquí".

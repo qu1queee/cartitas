@@ -31,3 +31,8 @@ A: When a shot misses the hoop, a player grabs the bouncing ball before the othe
 ---
 
 C: After a foul, a player may shoot [free throws] from the free-throw line without defenders blocking them.
+
+---
+
+Q: How high is a standard basketball hoop?
+A: Ten feet (about three meters) above the floor. That is why tall players and strong jumpers can reach the rim more easily.

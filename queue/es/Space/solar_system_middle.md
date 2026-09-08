@@ -1,12 +1,3 @@
-# Sistema solar — middle (8–11)
-
-<!-- age: middle | lang: es | topic: space | subtopic: solar_system -->
-
-Q: ¿Cuál es el planeta más grande de nuestro sistema solar?
-A: Júpiter. Es tan grande que todos los demás planetas cabrían dentro de él.
-
----
-
 C: El planeta más cercano al Sol es [Mercurio].
 
 ---

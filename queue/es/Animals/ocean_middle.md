@@ -1,12 +1,3 @@
-# Animales del océano — middle (8–11)
-
-<!-- age: middle | lang: es | topic: animals | subtopic: ocean -->
-
-Q: ¿Cómo respiran los peces bajo el agua?
-A: El agua pasa por sus branquias. Las branquias sacan oxígeno del agua para que el pez pueda vivir.
-
----
-
 C: Los [caballitos de mar] son peces, pero nadan erguidos y se agarran a las plantas con su cola rizada.
 
 ---

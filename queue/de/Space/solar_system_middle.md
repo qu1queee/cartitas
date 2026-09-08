@@ -1,12 +1,3 @@
-# Sonnensystem — middle (8–11)
-
-<!-- age: middle | lang: de | topic: space | subtopic: solar_system -->
-
-Q: Welcher Planet ist der größte in unserem Sonnensystem?
-A: Jupiter. Er ist so groß, dass alle anderen Planeten hineinpassen würden.
-
----
-
 C: Der Planet, der der Sonne am nächsten ist, heißt [Merkur].
 
 ---
