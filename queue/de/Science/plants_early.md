@@ -1,12 +1,3 @@
-# Pflanzen — early (5–7)
-
-<!-- age: early | lang: de | topic: science | subtopic: plants -->
-
-Q: Was hält eine Pflanze gerade?
-A: Der Stängel. Er trägt Wasser von den Wurzeln bis zu den Blättern.
-
----
-
 C: Viele Blüten werden zu [Frucht], nachdem Bienen beim Samenmachen helfen.
 
 ---

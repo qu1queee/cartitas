@@ -36,3 +36,8 @@ A: Pferde können Wagen ziehen, Reiter tragen und bei der Arbeit auf dem Hof hel
 
 Q: Wo schwimmen Enten am liebsten?
 A: In Teichen. Enten haben Schwimmhäute an den Füßen, die ihnen beim Paddeln im Wasser helfen.
+
+---
+
+Q: Was macht ein Hahn am Morgen?
+A: Er kräht laut. Sein Ruf klingt wie "kikeriki".

@@ -1,12 +1,3 @@
-# Meerestiere — middle (8–11)
-
-<!-- age: middle | lang: de | topic: animals | subtopic: ocean -->
-
-Q: Wie atmen Fische unter Wasser?
-A: Wasser strömt durch ihre Kiemen. Die Kiemen holen Sauerstoff aus dem Wasser, damit der Fisch leben kann.
-
----
-
 C: [Seepferdchen] sind Fische, aber sie schwimmen aufrecht und halten sich mit dem geschwungenen Schwanz an Pflanzen fest.
 
 ---

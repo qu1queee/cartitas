@@ -1,12 +1,3 @@
-# Plants — early (5–7)
-
-<!-- age: early | lang: en | topic: science | subtopic: plants -->
-
-Q: What holds a plant up straight?
-A: The stem. It carries water from the roots up to the leaves.
-
----
-
 C: Many flowers turn into [fruit] after bees help them make seeds.
 
 ---

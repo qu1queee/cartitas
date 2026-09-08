@@ -9,3 +9,12 @@ A: Mercury, Venus, Earth, and Mars are rocky and closer to the Sun. Jupiter, Sat
 
 Q: Which planet is the hottest?
 A: Venus. Mercury is closer to the Sun, but Venus has a thick blanket of clouds that traps heat, so it stays hotter.
+
+---
+
+# Solar system — middle (8–11)
+
+<!-- age: middle | lang: en | topic: space | subtopic: solar_system -->
+
+Q: Which planet is the biggest in our solar system?
+A: Jupiter. It is so big that all the other planets could fit inside it.
