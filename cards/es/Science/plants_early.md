@@ -22,3 +22,12 @@ A: Tienen clorofila, que ayuda a la planta a hacer alimento con la luz del Sol.
 
 Q: ¿Qué sostiene a la planta erguida?
 A: El tallo. Lleva el agua desde las raíces hasta las hojas.
+
+---
+
+C: Muchas flores se convierten en [fruta] después de que las abejas ayudan a formar semillas.
+
+---
+
+Q: ¿Qué es el polen?
+A: Un polvo amarillo muy pequeño en las flores. Las abejas lo llevan de flor en flor para que crezcan semillas nuevas.
