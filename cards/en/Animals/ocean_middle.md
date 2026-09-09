@@ -22,3 +22,12 @@ C: [Octopuses] have eight arms and can change color to hide.
 
 Q: How do fish breathe underwater?
 A: Fish pull water through their gills. The gills take oxygen from the water so the fish can stay alive.
+
+---
+
+C: [Seahorses] are fish, but they swim upright and grip plants with their curly tail.
+
+---
+
+Q: What is a school of fish?
+A: It is a big group of fish swimming together. Swimming in a group can help them hide from predators.

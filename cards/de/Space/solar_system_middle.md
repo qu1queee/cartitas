@@ -18,3 +18,12 @@ A: Die Venus. Merkur ist näher an der Sonne, aber die Venus hat eine dicke Wolk
 
 Q: Welcher Planet ist der größte in unserem Sonnensystem?
 A: Jupiter. Er ist so groß, dass alle anderen Planeten hineinpassen würden.
+
+---
+
+C: Der Planet, der der Sonne am nächsten ist, heißt [Merkur].
+
+---
+
+Q: Warum gibt es auf der Erde Tag und Nacht?
+A: Die Erde dreht sich einmal in 24 Stunden um ihre Achse. Wenn dein Teil der Erde zur Sonne zeigt, ist es Tag. Wenn er wegzeigt, ist es Nacht.

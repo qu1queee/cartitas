@@ -22,3 +22,12 @@ A: They have a substance called chlorophyll that helps the plant make food from 
 
 Q: What holds a plant up straight?
 A: The stem. It carries water from the roots up to the leaves.
+
+---
+
+C: Many flowers turn into [fruit] after bees help them make seeds.
+
+---
+
+Q: What is pollen?
+A: Tiny yellow dust on flowers. Bees carry it from flower to flower so new seeds can grow.
