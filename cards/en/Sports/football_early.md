@@ -13,3 +13,12 @@ C: In football, you mostly use your [feet] to move the ball.
 
 Q: How many players from one team are on the field at once in a normal football match?
 A: Eleven.
+
+---
+
+# Football — early (5–7)
+
+<!-- age: early | lang: en | topic: sports | subtopic: football -->
+
+Q: Who guards the goal in football?
+A: The goalkeeper. They try to stop the other team from scoring.
