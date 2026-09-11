@@ -22,3 +22,7 @@ A: Eleven.
 
 Q: Who guards the goal in football?
 A: The goalkeeper. They try to stop the other team from scoring.
+
+---
+
+C: Only the [goalkeeper] may use their hands to stop the ball during a football match.

@@ -1,7 +1,3 @@
-C: Nur der [Torwart] darf während eines Fußballspiels die Hände benutzen, um den Ball zu stoppen.
-
----
-
 Q: Was macht ein Schiedsrichter beim Fußball?
 A: Der Schiedsrichter achtet darauf, dass alle die Regeln einhalten. Er pfeift und kann bei Fouls gelbe oder rote Karten zeigen.
 
