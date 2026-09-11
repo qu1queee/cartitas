@@ -22,3 +22,7 @@ A: Once.
 
 Q: ¿Quién defiende la portería en el fútbol?
 A: El portero. Intenta impedir que el otro equipo marque goles.
+
+---
+
+C: Solo el [portero] puede usar las manos para parar el balón durante un partido de fútbol.
