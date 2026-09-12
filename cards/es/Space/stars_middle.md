@@ -8,3 +8,13 @@ A: Próxima Centauri. Forma parte de un grupo de tres estrellas llamado Alfa Cen
 ---
 
 C: Una [estrella fugaz] no es realmente una estrella. Es un pequeño trozo de roca o polvo que se quema en la atmósfera de la Tierra.
+
+---
+
+Q: ¿Por qué las estrellas se ven blancas o de distintos colores?
+A: Las estrellas tienen distintas temperaturas. Las más calientes pueden verse blanco azulado. Las más frías se ven más amarillas o rojas.
+
+---
+
+Q: ¿Cuántas estrellas puede haber en la galaxia Vía Láctea?
+A: Los científicos creen que hay cientos de miles de millones de estrellas. Son tantas que nadie podría contarlas todas a mano.

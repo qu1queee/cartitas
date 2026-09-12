@@ -8,3 +8,13 @@ A: Proxima Centauri. Er gehört zu einer Gruppe von drei Sternen namens Alpha Ce
 ---
 
 C: Eine [Sternschnuppe] ist gar kein Stern. Es ist ein kleines Stück Gestein oder Staub, das in der Erdatmosphäre verglüht.
+
+---
+
+Q: Warum sehen Sterne weiß oder in verschiedenen Farben aus?
+A: Sterne haben unterschiedliche Temperaturen. Heißere Sterne wirken bläulich-weiß. Kühlere Sterne sehen eher gelb oder rot aus.
+
+---
+
+Q: Wie viele Sterne könnte es in der Milchstraße geben?
+A: Forscher schätzen, dass es Hunderte von Milliarden Sterne gibt. So viele, dass niemand sie alle von Hand zählen könnte.
