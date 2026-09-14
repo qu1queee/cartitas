@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:07:26Z",
+  "generatedAt": "2026-09-14T17:59:57Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -30,6 +30,56 @@
       "kind": "qa",
       "question": "Welches Geräusch macht ein Schaf?",
       "answer": "Mäh! Schafe leben auf Bauernhöfen und geben uns Wolle für warme Kleidung."
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:4:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welches Geräusch macht eine Kuh?",
+      "answer": "Muh! Kühe sagen muh, wenn sie miteinander sprechen."
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:5:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Baby-Hühner nennt man _____.",
+      "answer": "Küken"
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:6:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wofür benutzen Bauern oft Pferde?",
+      "answer": "Pferde können Wagen ziehen, Reiter tragen und bei der Arbeit auf dem Hof helfen."
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:7:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wo schwimmen Enten am liebsten?",
+      "answer": "In Teichen. Enten haben Schwimmhäute an den Füßen, die ihnen beim Paddeln im Wasser helfen."
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:8:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was macht ein Hahn am Morgen?",
+      "answer": "Er kräht laut. Sein Ruf klingt wie \"kikeriki\"."
     },
     {
       "id": "cards/de/Animals/farm_middle.md:1:1",
@@ -132,6 +182,56 @@
       "answer": "Haie verlieren oft Zähne und bekommen neue. Viele Zahnreihen helfen beim Fangen von Beute im Meer."
     },
     {
+      "id": "cards/de/Animals/ocean_middle.md:3:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie atmen Fische unter Wasser?",
+      "answer": "Wasser strömt durch ihre Kiemen. Die Kiemen holen Sauerstoff aus dem Wasser, damit der Fisch leben kann."
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:4:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "_____ sind Fische, aber sie schwimmen aufrecht und halten sich mit dem geschwungenen Schwanz an Pflanzen fest.",
+      "answer": "Seepferdchen"
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:5:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Fischschwarm?",
+      "answer": "Das ist eine große Gruppe von Fischen, die zusammen schwimmt. Im Schwarm können sie sich besser vor Feinden verstecken."
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:6:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum kommen Robben an Strände hoch?",
+      "answer": "Robben sind Säugetiere und brauchen Luft zum Atmen. Auf dem Land ruhen sie, pflegen ihre Jungen und wärmen sich zwischen den Schwimmgängen auf."
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:7:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ein _____ kann langsam einen neuen Arm nachwachsen lassen, wenn einer abbricht.",
+      "answer": "Seestern"
+    },
+    {
       "id": "cards/de/Animals/pets_early.md:1:1",
       "lang": "de",
       "topic": "Animals",
@@ -160,6 +260,76 @@
       "kind": "qa",
       "question": "Was solltest du immer tun, bevor du isst, nachdem du ein Haustier angefasst hast?",
       "answer": "Hände mit Seife und Wasser waschen."
+    },
+    {
+      "id": "cards/de/Animals/pets_early.md:4:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welches Geräusch macht ein Hund oft?",
+      "answer": "Wuff! Hunde bellen, um Menschen zu begrüßen oder zu zeigen, dass sie etwas überrascht hat."
+    },
+    {
+      "id": "cards/de/Animals/pets_early.md:5:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Ein _____ als Haustier lebt in einem Aquarium mit sauberem Wasser.",
+      "answer": "Fisch"
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:1:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum brauchen Hunde jeden Tag Spaziergänge?",
+      "answer": "Spaziergänge geben Hunden Bewegung und die Möglichkeit, draußen ihr Geschäft zu machen. Beim Schnüffeln bleibt ihr Kopf beschäftigt und sie sind zufrieden."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:2:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was macht ein Tierarzt?",
+      "answer": "Ein Tierarzt ist ein Arzt für Tiere. Er untersucht Haustiere, wenn sie krank sind, und hält sie mit Impfungen und Kontrollen gesund."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:3:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum haben Katzen Schnurrhaare?",
+      "answer": "Schnurrhaare sind lange, steife Haare, mit denen Katzen nahe Gegenstände spüren können, sogar im Dunkeln. Sie warnen die Katze, wenn ein Spalt zu eng zum Durchgehen ist."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:4:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Hamster brauchen ein _____ zum Laufen, frisches Wasser und einen sauberen Käfig mit Einstreu.",
+      "answer": "Laufrad"
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:5:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum solltest du einen Hund nie allein in einem heißen Auto lassen?",
+      "answer": "Autos werden sehr schnell heiß, selbst mit gekippten Fenstern. Ein Hund kann schon nach wenigen Minuten lebensgefährlich überhitzen."
     },
     {
       "id": "cards/de/Geography/continents_early.md:1:1",
@@ -192,6 +362,56 @@
       "answer": "Auf der Antarktis. Dort ist es sehr kalt und viel Eis."
     },
     {
+      "id": "cards/de/Geography/continents_early.md:4:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist ein Kontinent?",
+      "answer": "Ein Kontinent ist ein sehr großes Stück Land auf der Erde. Es gibt insgesamt sieben Kontinente."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:5:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ ist der größte Kontinent der Erde.",
+      "answer": "Asien"
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:6:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent liegt die Sahara-Wüste?",
+      "answer": "In Afrika. Die Sahara ist eine riesige heiße Wüste im Norden Afrikas."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:7:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent leben Kängurus in der Natur?",
+      "answer": "In Ozeanien. Kängurus leben in Australien, das zum Kontinent Ozeanien gehört."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:8:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Nordamerika und Südamerika sind zwei verschiedene _____.",
+      "answer": "Kontinente"
+    },
+    {
       "id": "cards/de/Geography/continents_middle.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -210,6 +430,26 @@
       "kind": "qa",
       "question": "Warum nennt man Europa manchmal eine Halbinsel?",
       "answer": "Weil es meist ein großes Stück Land ist, das mit Asien verbunden ist, und Ozeane und Meere fast ringsherum liegen."
+    },
+    {
+      "id": "cards/de/Geography/continents_middle.md:3:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent liegen die Himalaya-Berge?",
+      "answer": "In Asien. Der Himalaya hat die höchsten Berge der Erde, und dort liegt der Mount Everest."
+    },
+    {
+      "id": "cards/de/Geography/continents_middle.md:4:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent liegt der Amazonas-Regenwald?",
+      "answer": "In Südamerika. Er ist der größte Regenwald der Welt und Heimat von Jaguaren, Affen und bunten Vögeln."
     },
     {
       "id": "cards/de/Geography/countries_early.md:1:1",
@@ -242,6 +482,56 @@
       "answer": "Ja. In einem Land können Millionen Menschen in vielen Städten und Dörfern leben. Manche Länder haben weniger Menschen und mehr offenes Land."
     },
     {
+      "id": "cards/de/Geography/countries_middle.md:1:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der Unterschied zwischen einem Land und einem Kontinent?",
+      "answer": "Ein Kontinent ist eine riesige Landmasse, wie Afrika oder Südamerika. Ein Land ist eine Nation innerhalb eines Kontinents, wie Kenia in Afrika oder Chile in Südamerika."
+    },
+    {
+      "id": "cards/de/Geography/countries_middle.md:2:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Nationalflagge?",
+      "answer": "Eine Flagge ist ein buntes Tuch, das ein Land darstellt. Menschen hängen Flaggen an Gebäude und bei Festen, um Freude über ihre Nation zu zeigen."
+    },
+    {
+      "id": "cards/de/Geography/countries_middle.md:3:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum haben Länder verschiedene Sprachen?",
+      "answer": "Sprachen wuchsen über viele Tausende Jahre an verschiedenen Orten. In benachbarten Ländern sprechen Menschen oft verschiedene Sprachen, manchmal die gleiche."
+    },
+    {
+      "id": "cards/de/Geography/countries_middle.md:4:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Mexiko-Stadt ist die Hauptstadt von _____.",
+      "answer": "Mexiko"
+    },
+    {
+      "id": "cards/de/Geography/countries_middle.md:5:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was heißt es, wenn zwei Länder Nachbarn sind?",
+      "answer": "Sie teilen eine Grenze und liegen auf der Karte direkt nebeneinander. Zum Beispiel sind Frankreich und Deutschland Nachbarländer in Europa."
+    },
+    {
       "id": "cards/de/Geography/oceans_early.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -270,6 +560,56 @@
       "kind": "qa",
       "question": "Kann man Meerwasser trinken?",
       "answer": "Nein. Meerwasser ist salzig. Menschen brauchen Süßwasser aus Flüssen, Seen oder Regen."
+    },
+    {
+      "id": "cards/de/Geography/oceans_middle.md:1:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie viele Ozeane gibt es auf der Erde?",
+      "answer": "Fünf: der Pazifik, der Atlantik, der Indische Ozean, der Südliche Ozean und der Arktische Ozean. Sie sind alle verbunden, deshalb nennen manche Wissenschaftler sie einen Weltmeer."
+    },
+    {
+      "id": "cards/de/Geography/oceans_middle.md:2:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Etwa _____ der Erdoberfläche sind mit Meerwasser bedeckt.",
+      "answer": "71 Prozent"
+    },
+    {
+      "id": "cards/de/Geography/oceans_middle.md:3:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum ist Meerwasser salzig?",
+      "answer": "Flüsse tragen winzige Fels- und Salzpartikel ins Meer. Über Millionen Jahre hat sich das Salz angesammelt. Die Sonne verdunstet Wasser, aber das Salz bleibt zurück."
+    },
+    {
+      "id": "cards/de/Geography/oceans_middle.md:4:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der tiefste Teil des Ozeans?",
+      "answer": "Der Marianengraben im Pazifik. Er ist etwa 11.000 Meter (36.000 Fuß) tief — tiefer, als der Mount Everest hoch ist."
+    },
+    {
+      "id": "cards/de/Geography/oceans_middle.md:5:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Korallenriff?",
+      "answer": "Ein Korallenriff ist eine Unterwasserheimat, die von winzigen Tieren namens Korallen gebaut wird. Riffe geben Fischen Schutz und helfen Küsten vor großen Wellen zu schützen."
     },
     {
       "id": "cards/de/Science/body_early.md:1:1",
@@ -302,6 +642,26 @@
       "answer": "Die Lungen. Sie nehmen Sauerstoff aus der Luft auf."
     },
     {
+      "id": "cards/de/Science/body_early.md:4:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was macht deine Haut für dich?",
+      "answer": "Sie bedeckt deinen Körper und schützt dich vor Keimen, Sonne und kleinen Stößen."
+    },
+    {
+      "id": "cards/de/Science/body_early.md:5:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Mit deinen _____ siehst du Licht, Formen und Farben um dich herum.",
+      "answer": "Augen"
+    },
+    {
       "id": "cards/de/Science/body_middle.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -320,6 +680,56 @@
       "kind": "qa",
       "question": "Wofür sind Knochen da?",
       "answer": "Sie geben Form und Halt, schützen Organe wie das Gehirn und helfen mit Muskeln beim Bewegen."
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:3:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum müssen wir atmen?",
+      "answer": "Unser Körper braucht Sauerstoff aus der Luft. Sauerstoff hilft, die Nahrung, die wir essen, in Energie umzuwandeln, damit wir uns bewegen, denken und leben können."
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:4:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Beim Einatmen nimmt deine Lunge _____ aus der Luft auf.",
+      "answer": "Sauerstoff"
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:5:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was macht dein Gehirn?",
+      "answer": "Dein Gehirn steuert deinen Körper. Es hilft dir zu denken, dir Dinge zu merken, Gefühle zu haben und Muskeln bewusst zu bewegen."
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:6:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wofür brauchen wir Muskeln?",
+      "answer": "Muskeln ziehen an deinen Knochen und lassen dich dich bewegen. Sie helfen dir beim Gehen, Laufen, Lächeln und sogar beim Blinzeln."
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:7:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was macht dein Magen mit dem Essen?",
+      "answer": "Dein Magen zerlegt das Essen in kleinere Stücke, damit dein Körper die Nährstoffe aufnehmen kann, die er für Energie und Wachstum braucht."
     },
     {
       "id": "cards/de/Science/plants_early.md:1:1",
@@ -352,6 +762,56 @@
       "answer": "Sie enthalten Chlorophyll, das der Pflanze hilft, aus Sonnenlicht Nahrung zu machen."
     },
     {
+      "id": "cards/de/Science/plants_early.md:4:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was hält eine Pflanze gerade?",
+      "answer": "Der Stängel. Er trägt Wasser von den Wurzeln bis zu den Blättern."
+    },
+    {
+      "id": "cards/de/Science/plants_early.md:5:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Viele Blüten werden zu _____, nachdem Bienen beim Samenmachen helfen.",
+      "answer": "Frucht"
+    },
+    {
+      "id": "cards/de/Science/plants_early.md:6:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist Pollen?",
+      "answer": "Winziger gelber Staub auf Blüten. Bienen tragen ihn von Blüte zu Blüte, damit neue Samen wachsen können."
+    },
+    {
+      "id": "cards/de/Science/plants_early.md:7:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Können Pflanzen ohne Wasser wachsen?",
+      "answer": "Nein. Die meisten brauchen jeden Tag Wasser, sonst welken sie und wachsen nicht mehr."
+    },
+    {
+      "id": "cards/de/Science/plants_early.md:8:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Eine Karotte ist ein _____gemüse, das unter der Erde wächst.",
+      "answer": "Wurzel"
+    },
+    {
       "id": "cards/de/Science/plants_middle.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -370,6 +830,136 @@
       "kind": "qa",
       "question": "Warum brauchen Menschen und Tiere Pflanzen zum Atmen?",
       "answer": "Bei der Fotosynthese geben Pflanzen Sauerstoff in die Luft ab. Diesen Sauerstoff atmen wir ein, um zu leben."
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:3:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Bei der Fotosynthese nehmen Pflanzen Kohlenstoffdioxid auf und geben _____ ab.",
+      "answer": "Sauerstoff"
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:4:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was machen Wurzeln für eine Pflanze?",
+      "answer": "Wurzeln halten die Pflanze im Boden und nehmen Wasser und Mineralstoffe auf. Sie speichern auch etwas von der Nahrung, die die Pflanze herstellt."
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:5:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Worin unterscheidet sich eine Pflanze von einem Tier beim Essen?",
+      "answer": "Pflanzen können mit Sonnenlicht ihre eigene Nahrung herstellen. Tiere können das nicht, deshalb essen sie Pflanzen oder andere Tiere."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:1:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wie entsteht Regen?",
+      "answer": "Winzige Wassertropfen in Wolken werden größer und schwerer, bis sie zu Boden fallen."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:2:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Wenn es sehr kalt ist, kann Regen gefrieren und als _____ fallen.",
+      "answer": "Schnee"
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:3:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wie viele Jahreszeiten gibt es in einem Jahr?",
+      "answer": "Vier: Frühling, Sommer, Herbst und Winter."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:4:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was benutzt du, um im Regen trocken zu bleiben?",
+      "answer": "Einen Regenschirm oder eine Regenjacke schützt dich vor dem Regen."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:5:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist ein Regenbogen?",
+      "answer": "Farben am Himmel, die erscheinen, wenn Sonnenlicht durch Regentropfen scheint."
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:1:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Regen?",
+      "answer": "Wasser, das aus Wolken fällt, wenn die Tropfen in der Wolke schwer genug werden."
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:2:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum gibt es Jahreszeiten?",
+      "answer": "Die Erde ist geneigt, während sie um die Sonne läuft. Durch diese Neigung trifft das Sonnenlicht im Laufe des Jahres unterschiedlich direkt auf verschiedene Teile der Erde."
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:3:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Eine _____ besteht aus winzigen Wassertropfen oder Eiskristallen, die in der Luft schweben.",
+      "answer": "Wolke"
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:4:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der Wasserkreislauf?",
+      "answer": "Wasser bewegt sich im Kreis. Es verdunstet aus Meeren und Seen, bildet Wolken, fällt als Regen oder Schnee und fließt zurück in Flüsse und Meere."
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:5:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Wind?",
+      "answer": "Wind ist bewegte Luft. Warme Luft steigt auf und kühle Luft strömt nach, wodurch sich die Luft bewegt."
     },
     {
       "id": "cards/de/Space/moon_early.md:1:1",
@@ -400,6 +990,126 @@
       "kind": "qa",
       "question": "Ist schon jemand auf dem Mond gelaufen?",
       "answer": "Ja. Astronauten der NASA waren 1969 auf dem Mond. Insgesamt zwölf Menschen."
+    },
+    {
+      "id": "cards/de/Space/moon_early.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist der Mond?",
+      "answer": "Eine große Felskugel, die die Erde umkreist. Er ist viel kleiner als unser Planet."
+    },
+    {
+      "id": "cards/de/Space/moon_early.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "cloze",
+      "question": "In der _____ sehen wir oft den Mond am Himmel leuchten.",
+      "answer": "Nacht"
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:1:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie weit ist der Mond entfernt?",
+      "answer": "Etwa 384.400 Kilometer (238.900 Meilen). Das klingt riesig, aber er ist noch nah genug, dass Astronauten in wenigen Tagen hinfliegen können."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:2:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Die Schwerkraft des Mondes ist etwa _____ so stark wie die der Erde.",
+      "answer": "ein Sechstel"
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:3:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was verursacht die Gezeiten im Ozean?",
+      "answer": "Vor allem die Schwerkraft des Mondes, die an den Ozeanen der Erde zieht. Die Sonne zieht auch, aber der Mond hat den größeren Effekt."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Erzeugt der Mond eigenes Licht?",
+      "answer": "Nein. Der Mond spiegelt Sonnenlicht, wie ein heller Spiegel am Himmel. Der beleuchtete Teil, den wir sehen, ist Sonnenlicht, das von ihm zurückprallt."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum sehen wir von der Erde immer dieselbe Seite des Mondes?",
+      "answer": "Der Mond braucht für eine Umdrehung ungefähr so lange wie für eine Umkreisung der Erde. Deshalb bleibt dieselbe Seite zu uns gewandt."
+    },
+    {
+      "id": "cards/de/Space/moon_teen.md:1:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Wie ist der Mond wohl entstanden?",
+      "answer": "Forscher vermuten, dass vor etwa 4,5 Milliarden Jahren ein marsgroßer Körper die junge Erde traf. Trümmer blieben in der Umlaufbahn und bildeten den Mond."
+    },
+    {
+      "id": "cards/de/Space/moon_teen.md:2:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Hat der Mond Luft oder Wetter wie die Erde?",
+      "answer": "Nein. Der Mond hat fast keine Atmosphäre. Ohne Luft schwanken die Temperaturen zwischen Tag und Nacht stark, und es gibt keinen Wind oder Regen."
+    },
+    {
+      "id": "cards/de/Space/moon_teen.md:3:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Bei einer Sonnenfinsternis wandert der _____ zwischen Erde und Sonne und blockiert kurz das Sonnenlicht.",
+      "answer": "Mond"
+    },
+    {
+      "id": "cards/de/Space/moon_teen.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Gibt es Wasser auf dem Mond?",
+      "answer": "Ja. In einigen dauerhaft schattigen Kratern nahe den Polen ist Wasser als Eis gefroren. Zukünftige Forscher könnten es schmelzen zum Trinken oder spalten für Raketentreibstoff."
+    },
+    {
+      "id": "cards/de/Space/moon_teen.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Was brachten die Apollo-Astronauten vom Mond mit?",
+      "answer": "Mondgestein und Bodenproben. Ihre Untersuchung zeigte, dass der Mond etwa 4,5 Milliarden Jahre alt ist und half, Ideen über seine Entstehung zu prüfen."
     },
     {
       "id": "cards/de/Space/solar_system_early.md:1:1",
@@ -462,6 +1172,56 @@
       "answer": "Die Venus. Merkur ist näher an der Sonne, aber die Venus hat eine dicke Wolkendecke, die Wärme festhält. Deshalb bleibt sie heißer."
     },
     {
+      "id": "cards/de/Space/solar_system_middle.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welcher Planet ist der größte in unserem Sonnensystem?",
+      "answer": "Jupiter. Er ist so groß, dass alle anderen Planeten hineinpassen würden."
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Der Planet, der der Sonne am nächsten ist, heißt _____.",
+      "answer": "Merkur"
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:6:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum gibt es auf der Erde Tag und Nacht?",
+      "answer": "Die Erde dreht sich einmal in 24 Stunden um ihre Achse. Wenn dein Teil der Erde zur Sonne zeigt, ist es Tag. Wenn er wegzeigt, ist es Nacht."
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:7:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welcher Planet ist dafür bekannt, auf der Seite zu rotieren?",
+      "answer": "Uranus. Die meisten Planeten drehen sich wie ein Kreisel, aber Uranus rollt eher wie ein Ball um die Sonne."
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:8:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Neptun ist der Planet, der in unserem Sonnensystem am _____ von der Sonne entfernt ist.",
+      "answer": "weitesten"
+    },
+    {
       "id": "cards/de/Space/solar_system_teen.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -482,6 +1242,156 @@
       "answer": "Ein Ring aus Felsbrocken zwischen Mars und Jupiter. Die meisten bleiben dort und treffen keine Planeten."
     },
     {
+      "id": "cards/de/Space/stars_early.md:1:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wann kann man Sterne am Himmel sehen?",
+      "answer": "An klaren Nächten, wenn der Himmel dunkel ist. Tagsüber versteckt die helle Sonne sie."
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:2:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Sterne sehen aus wie kleine helle _____ am Nachthimmel.",
+      "answer": "Punkte"
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:3:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Warum scheinen Sterne zu funkeln?",
+      "answer": "Sternenlicht wird ein wenig gebogen, wenn es durch die Luft um die Erde geht. Deshalb funkeln sie."
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist ein Sternbild?",
+      "answer": "Ein Sternbild ist eine Gruppe von Sternen, die am Himmel ein Bild formt. Ein bekanntes ist der Große Wagen."
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Sind Sterne nah an der Erde?",
+      "answer": "Die meisten Sterne sind sehr, sehr weit weg. Sie wirken klein, weil sie so weit von uns entfernt sind."
+    },
+    {
+      "id": "cards/de/Space/stars_middle.md:1:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welcher Stern ist der Erde am nächsten – außer der Sonne?",
+      "answer": "Proxima Centauri. Er gehört zu einer Gruppe von drei Sternen namens Alpha Centauri. Er ist trotzdem Billionen von Kilometern entfernt – viel zu weit, um ihn in einem Leben zu besuchen."
+    },
+    {
+      "id": "cards/de/Space/stars_middle.md:2:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Eine _____ ist gar kein Stern. Es ist ein kleines Stück Gestein oder Staub, das in der Erdatmosphäre verglüht.",
+      "answer": "Sternschnuppe"
+    },
+    {
+      "id": "cards/de/Space/stars_middle.md:3:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum sehen Sterne weiß oder in verschiedenen Farben aus?",
+      "answer": "Sterne haben unterschiedliche Temperaturen. Heißere Sterne wirken bläulich-weiß. Kühlere Sterne sehen eher gelb oder rot aus."
+    },
+    {
+      "id": "cards/de/Space/stars_middle.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie viele Sterne könnte es in der Milchstraße geben?",
+      "answer": "Forscher schätzen, dass es Hunderte von Milliarden Sterne gibt. So viele, dass niemand sie alle von Hand zählen könnte."
+    },
+    {
+      "id": "cards/de/Space/stars_middle.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum sieht man in einer Stadt nachts schwache Sterne schlecht?",
+      "answer": "Straßenlaternen und Autolichter hellen den Himmel auf. Diese Lichtverschmutzung verdeckt schwächere Sterne, deshalb siehst du weniger als auf dem Land."
+    },
+    {
+      "id": "cards/de/Space/stars_teen.md:1:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Wie erzeugen Sterne ihr eigenes Licht?",
+      "answer": "Sterne sind riesige Kugeln aus heißem Gas. Tief im Inneren verschmelzen Wasserstoffatome bei der Kernfusion. Dabei entsteht viel Energie, die als Licht und Wärme hinausstrahlt."
+    },
+    {
+      "id": "cards/de/Space/stars_teen.md:2:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Astronomen messen Entfernungen zu Sternen in _____. Ein Lichtjahr ist die Strecke, die Licht in einem Jahr zurücklegt.",
+      "answer": "Lichtjahren"
+    },
+    {
+      "id": "cards/de/Space/stars_teen.md:3:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Was passiert, wenn ein sehr großer Stern keinen Brennstoff mehr hat?",
+      "answer": "Der Kern kollabiert und der Stern kann in einer Supernova explodieren. Die Explosion kann schwere Elemente erzeugen und manchmal einen Neutronenstern oder ein schwarzes Loch hinterlassen."
+    },
+    {
+      "id": "cards/de/Space/stars_teen.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Was ist ein Nebel?",
+      "answer": "Ein Nebel ist eine Wolke aus Gas und Staub im Weltall. In manchen Nebeln entstehen neue Sterne. Andere sind Überreste von alten Sternen, die gestorben sind."
+    },
+    {
+      "id": "cards/de/Space/stars_teen.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Können Planeten andere Sterne als die Sonne umkreisen?",
+      "answer": "Ja. Planeten um andere Sterne heißen Exoplaneten. Forscher haben Tausende gefunden, indem sie beobachteten, wie ein Stern leicht wackelt oder dunkler wird, wenn ein Planet davor vorbeigeht."
+    },
+    {
       "id": "cards/de/Sports/basketball_early.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -490,6 +1400,96 @@
       "kind": "qa",
       "question": "Wohin wirfst du den Ball, um im Basketball zu punkten?",
       "answer": "In den Korb über dem Spielfeld."
+    },
+    {
+      "id": "cards/de/Sports/basketball_early.md:2:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welche Farbe hat ein Basketball meistens?",
+      "answer": "Orange mit schwarzen Linien. So sieht man ihn gut, wenn er sich schnell bewegt."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:1:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie viele Spieler von jedem Team stehen gleichzeitig auf dem Feld?",
+      "answer": "Fünf. Ersatzspieler warten auf der Bank und können in Spielpausen eingewechselt werden."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:2:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ein Basketballspiel hat vier _____. In der Halbzeit wechseln die Teams die Seite.",
+      "answer": "Viertel"
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:3:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der Unterschied zwischen einem Zwei- und einem Dreipunktewurf?",
+      "answer": "Ein Wurf nahe am Korb zählt zwei Punkte. Ein Wurf von hinter der Dreierlinie zählt drei Punkte, weil er viel weiter vom Korb entfernt ist."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:4:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist die NBA?",
+      "answer": "Die NBA ist eine professionelle Basketballliga in den USA und Kanada. Einige der besten Spieler der Welt treten dort an."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:5:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Rebound im Basketball?",
+      "answer": "Wenn ein Wurf den Korb verfehlt, schnappt sich ein Spieler den springenden Ball, bevor das andere Team ihn bekommt. Rebounds helfen einer Mannschaft, im Angriff zu bleiben."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:6:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Nach einem Foul darf ein Spieler _____ von der Freiwurflinie werfen, ohne dass Verteidiger ihn blockieren.",
+      "answer": "Freiwürfe"
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:7:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie hoch hängt ein normales Basketballkorb?",
+      "answer": "Zehn Fuß (etwa drei Meter) über dem Boden. Darum können große Spieler und starke Springer den Korb leichter erreichen."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:8:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Dunk?",
+      "answer": "Ein Spieler springt hoch und drückt den Ball nach unten durch den Korb. Es ist einer der aufregendsten Spielzüge im Basketball."
     },
     {
       "id": "cards/de/Sports/football_early.md:1:1",
@@ -522,6 +1522,46 @@
       "answer": "Elf."
     },
     {
+      "id": "cards/de/Sports/football_early.md:4:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wer bewacht das Tor beim Fußball?",
+      "answer": "Der Torwart. Er versucht zu verhindern, dass die andere Mannschaft Tore schießt."
+    },
+    {
+      "id": "cards/de/Sports/football_early.md:5:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Nur der _____ darf während eines Fußballspiels die Hände benutzen, um den Ball zu stoppen.",
+      "answer": "Torwart"
+    },
+    {
+      "id": "cards/de/Sports/football_early.md:6:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was macht ein Schiedsrichter beim Fußball?",
+      "answer": "Der Schiedsrichter achtet darauf, dass alle die Regeln einhalten. Er pfeift und kann bei Fouls gelbe oder rote Karten zeigen."
+    },
+    {
+      "id": "cards/de/Sports/football_early.md:7:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Spieler passen den Ball an ihre _____, um gemeinsam das Spielfeld nach vorne zu erobern.",
+      "answer": "Mitspieler"
+    },
+    {
       "id": "cards/de/Sports/football_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -552,6 +1592,46 @@
       "answer": "Damit jeder den Torwart von den anderen Spielern unterscheiden kann. Nur der Torwart darf im Strafraum die Hände benutzen, um Schüsse abzuwehren."
     },
     {
+      "id": "cards/de/Sports/olympics_early.md:1:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welche Farben haben die fünf olympischen Ringe?",
+      "answer": "Blau, Gelb, Schwarz, Grün und Rot. Jeder Ring hat eine andere Farbe."
+    },
+    {
+      "id": "cards/de/Sports/olympics_early.md:2:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Die Olympischen Spiele finden alle _____ Jahre statt.",
+      "answer": "vier"
+    },
+    {
+      "id": "cards/de/Sports/olympics_early.md:3:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was gewinnen Sportler bei den Olympischen Spielen?",
+      "answer": "Medaillen. Die Besten können Gold, Silber oder Bronze gewinnen."
+    },
+    {
+      "id": "cards/de/Sports/olympics_early.md:4:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wer nimmt an den Olympischen Spielen teil?",
+      "answer": "Sportlerinnen und Sportler aus vielen Ländern auf der Welt. Sie reisen in eine Stadt und treten in verschiedenen Sportarten an."
+    },
+    {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -560,6 +1640,36 @@
       "kind": "qa",
       "question": "Wie oft finden die Olympischen Sommerspiele statt?",
       "answer": "Alle vier Jahre. Jedes Mal richtet eine andere Stadt die Spiele aus und lädt Sportlerinnen und Sportler aus der ganzen Welt ein."
+    },
+    {
+      "id": "cards/de/Sports/olympics_middle.md:2:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wofür stehen die fünf olympischen Ringe?",
+      "answer": "Sie stehen für fünf Teile der Welt, die im Sport zusammenkommen. Die Ringe sind ineinander verschlungen und sollen Freundschaft zeigen."
+    },
+    {
+      "id": "cards/de/Sports/olympics_middle.md:3:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Sportlerinnen und Sportler aus vielen Ländern treten bei den _____ an.",
+      "answer": "Olympischen Spielen"
+    },
+    {
+      "id": "cards/de/Sports/olympics_middle.md:4:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der Unterschied zwischen Sommer- und Winterspielen?",
+      "answer": "Bei den Sommerspielen gibt es Sportarten wie Laufen und Schwimmen. Bei den Winterspielen geht es um Schnee und Eis, zum Beispiel Skifahren und Eislaufen. Beide finden alle vier Jahre statt."
     },
     {
       "id": "cards/en/Animals/farm_early.md:1:1",
@@ -590,6 +1700,56 @@
       "kind": "qa",
       "question": "What sound does a sheep make?",
       "answer": "Baa! Sheep live on farms and give us wool for warm clothes."
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:4:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "What sound does a cow make?",
+      "answer": "Moo! Cows say moo when they talk to each other."
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:5:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Baby chickens are called _____.",
+      "answer": "chicks"
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:6:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "What do farmers often use horses for?",
+      "answer": "Horses can pull carts, carry riders, and help with work on the farm."
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:7:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Where do ducks like to swim?",
+      "answer": "In ponds. Ducks have webbed feet that help them paddle through the water."
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:8:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "What does a rooster do in the morning?",
+      "answer": "It crows loudly. Its call sounds like \"cock-a-doodle-doo.\""
     },
     {
       "id": "cards/en/Animals/farm_middle.md:1:1",
@@ -702,6 +1862,56 @@
       "answer": "Octopuses"
     },
     {
+      "id": "cards/en/Animals/ocean_middle.md:4:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How do fish breathe underwater?",
+      "answer": "Fish pull water through their gills. The gills take oxygen from the water so the fish can stay alive."
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:5:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "_____ are fish, but they swim upright and grip plants with their curly tail.",
+      "answer": "Seahorses"
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:6:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a school of fish?",
+      "answer": "It is a big group of fish swimming together. Swimming in a group can help them hide from predators."
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:7:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do seals come up onto beaches?",
+      "answer": "Seals are mammals that need air. They rest, nurse their babies, and warm up on land between swims."
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:8:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "A _____ can slowly grow a new arm if one breaks off.",
+      "answer": "starfish"
+    },
+    {
       "id": "cards/en/Animals/pets_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -732,6 +1942,26 @@
       "answer": "Wash your hands with soap and water."
     },
     {
+      "id": "cards/en/Animals/pets_early.md:4:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "What sound does a dog often make?",
+      "answer": "Woof! Dogs bark to greet people and to say that something surprised them."
+    },
+    {
+      "id": "cards/en/Animals/pets_early.md:5:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "cloze",
+      "question": "A pet _____ lives in a tank with clean water.",
+      "answer": "fish"
+    },
+    {
       "id": "cards/en/Animals/pets_middle.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -750,6 +1980,56 @@
       "kind": "qa",
       "question": "What does it mean to adopt a pet from a shelter?",
       "answer": "You give a home to an animal that needs one instead of buying from a shop."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:3:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do dogs need walks every day?",
+      "answer": "Walks give dogs exercise and a chance to go to the bathroom outside. Sniffing on walks also keeps their mind busy and happy."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:4:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What does a veterinarian do?",
+      "answer": "A veterinarian is a doctor for animals. They check pets when they are sick and help keep them healthy with vaccines and checkups."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:5:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do cats have whiskers?",
+      "answer": "Whiskers are long, stiff hairs that help cats feel nearby objects, even in the dark. They warn a cat if a space is too tight to fit through."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:6:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Hamsters need a _____ to run on, fresh water, and a clean cage with bedding.",
+      "answer": "wheel"
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:7:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why should you never leave a dog alone in a hot car?",
+      "answer": "Cars heat up very fast, even with windows cracked. A dog can get dangerously overheated in just a few minutes."
     },
     {
       "id": "cards/en/Geography/continents_early.md:1:1",
@@ -782,6 +2062,56 @@
       "answer": "Antarctica. It is very cold and covered in ice."
     },
     {
+      "id": "cards/en/Geography/continents_early.md:4:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a continent?",
+      "answer": "A continent is a very big piece of land on Earth. There are seven continents in all."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:5:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ is the biggest continent on Earth.",
+      "answer": "Asia"
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:6:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which continent has the Sahara Desert?",
+      "answer": "Africa. The Sahara is a huge hot desert in the north of Africa."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:7:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which continent has kangaroos in the wild?",
+      "answer": "Oceania. Kangaroos live in Australia, which is part of the continent of Oceania."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:8:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "North America and South America are two separate _____.",
+      "answer": "continents"
+    },
+    {
       "id": "cards/en/Geography/continents_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -810,6 +2140,26 @@
       "kind": "cloze",
       "question": "Australia is both a country and part of the continent called _____.",
       "answer": "Oceania"
+    },
+    {
+      "id": "cards/en/Geography/continents_middle.md:4:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Which continent has the Himalayan mountains?",
+      "answer": "Asia. The Himalayas are the highest mountains on Earth, and Mount Everest is there."
+    },
+    {
+      "id": "cards/en/Geography/continents_middle.md:5:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "On which continent is the Amazon rainforest?",
+      "answer": "South America. It is the largest rainforest in the world and home to jaguars, monkeys, and colorful birds."
     },
     {
       "id": "cards/en/Geography/countries_early.md:1:1",
@@ -872,6 +2222,56 @@
       "answer": "country"
     },
     {
+      "id": "cards/en/Geography/countries_middle.md:4:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How is a country different from a continent?",
+      "answer": "A continent is a huge piece of land, like Africa or South America. A country is one nation inside a continent, like Kenya in Africa or Chile in South America."
+    },
+    {
+      "id": "cards/en/Geography/countries_middle.md:5:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a national flag?",
+      "answer": "A flag is a colorful cloth that represents a country. People fly flags on buildings and at celebrations to show pride in their nation."
+    },
+    {
+      "id": "cards/en/Geography/countries_middle.md:6:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do countries have different languages?",
+      "answer": "Languages grew over thousands of years in different places. People in neighboring countries often speak different languages, or sometimes the same one."
+    },
+    {
+      "id": "cards/en/Geography/countries_middle.md:7:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Mexico City is the capital of _____.",
+      "answer": "Mexico"
+    },
+    {
+      "id": "cards/en/Geography/countries_middle.md:8:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What does it mean when two countries are neighbors?",
+      "answer": "They share a border and sit right next to each other on a map. For example, France and Germany are neighbor countries in Europe."
+    },
+    {
       "id": "cards/en/Geography/oceans_early.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -900,6 +2300,56 @@
       "kind": "qa",
       "question": "Is ocean water safe to drink?",
       "answer": "No. Ocean water is salty. People need fresh water from rivers, lakes, or rain."
+    },
+    {
+      "id": "cards/en/Geography/oceans_middle.md:1:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How many oceans are there on Earth?",
+      "answer": "Five: the Pacific, Atlantic, Indian, Southern, and Arctic Oceans. They all connect, so some scientists call them one world ocean."
+    },
+    {
+      "id": "cards/en/Geography/oceans_middle.md:2:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "About _____ of Earth's surface is covered by ocean water.",
+      "answer": "71 percent"
+    },
+    {
+      "id": "cards/en/Geography/oceans_middle.md:3:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why is ocean water salty?",
+      "answer": "Rivers carry tiny bits of rock and salt into the sea. Over millions of years the salt built up. The sun evaporates water but leaves the salt behind."
+    },
+    {
+      "id": "cards/en/Geography/oceans_middle.md:4:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the deepest part of the ocean?",
+      "answer": "The Mariana Trench in the Pacific Ocean. It is about 36,000 feet (11,000 meters) deep — deeper than Mount Everest is tall."
+    },
+    {
+      "id": "cards/en/Geography/oceans_middle.md:5:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a coral reef?",
+      "answer": "A coral reef is an underwater home built by tiny animals called corals. Reefs shelter fish and help protect coastlines from big waves."
     },
     {
       "id": "cards/en/Science/body_early.md:1:1",
@@ -932,6 +2382,26 @@
       "answer": "Your lungs. They take in oxygen from the air."
     },
     {
+      "id": "cards/en/Science/body_early.md:4:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "What does your skin do for you?",
+      "answer": "It covers your body and helps protect you from germs, sun, and little bumps."
+    },
+    {
+      "id": "cards/en/Science/body_early.md:5:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "You use your _____ to see light, shapes, and colors around you.",
+      "answer": "eyes"
+    },
+    {
       "id": "cards/en/Science/body_middle.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -950,6 +2420,56 @@
       "kind": "qa",
       "question": "What do bones do for your body?",
       "answer": "They give shape and support, protect organs like the brain, and work with muscles to help you move."
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:3:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do we need to breathe?",
+      "answer": "Our body needs oxygen from the air. Oxygen helps turn the food we eat into energy so we can move, think, and stay alive."
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:4:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "When you breathe in, your lungs take in _____ from the air.",
+      "answer": "oxygen"
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:5:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What does your brain do?",
+      "answer": "Your brain controls your body. It helps you think, remember things, feel emotions, and move your muscles on purpose."
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:6:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What are muscles for?",
+      "answer": "Muscles pull on your bones to make you move. They help you walk, run, smile, and even blink your eyes."
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:7:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What does your stomach do with the food you eat?",
+      "answer": "Your stomach breaks food into smaller pieces so your body can pull out the nutrients it needs for energy and growth."
     },
     {
       "id": "cards/en/Science/plants_early.md:1:1",
@@ -982,6 +2502,56 @@
       "answer": "They have a substance called chlorophyll that helps the plant make food from sunlight."
     },
     {
+      "id": "cards/en/Science/plants_early.md:4:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "What holds a plant up straight?",
+      "answer": "The stem. It carries water from the roots up to the leaves."
+    },
+    {
+      "id": "cards/en/Science/plants_early.md:5:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Many flowers turn into _____ after bees help them make seeds.",
+      "answer": "fruit"
+    },
+    {
+      "id": "cards/en/Science/plants_early.md:6:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is pollen?",
+      "answer": "Tiny yellow dust on flowers. Bees carry it from flower to flower so new seeds can grow."
+    },
+    {
+      "id": "cards/en/Science/plants_early.md:7:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Can plants grow without water?",
+      "answer": "No. Most plants need water every day or they wilt and stop growing."
+    },
+    {
+      "id": "cards/en/Science/plants_early.md:8:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "A carrot is a _____ vegetable that grows under the ground.",
+      "answer": "root"
+    },
+    {
       "id": "cards/en/Science/plants_middle.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -1000,6 +2570,86 @@
       "kind": "qa",
       "question": "Why do people and animals need plants to breathe?",
       "answer": "During photosynthesis, plants release oxygen into the air. We breathe in that oxygen to stay alive."
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:3:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "In photosynthesis, plants take in carbon dioxide and give off _____.",
+      "answer": "oxygen"
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:4:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What do roots do for a plant?",
+      "answer": "Roots hold the plant in the soil and soak up water and minerals. They also store some of the food the plant makes."
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:5:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How is a plant different from an animal when it comes to food?",
+      "answer": "Plants can make their own food using sunlight. Animals cannot make food that way, so they eat plants or other animals instead."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:1:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What makes rain?",
+      "answer": "Tiny drops of water in clouds grow bigger and heavier until they fall to the ground."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:2:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "cloze",
+      "question": "When the air is very cold, rain can freeze and fall as _____.",
+      "answer": "snow"
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:3:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "How many seasons are there in one year?",
+      "answer": "Four: spring, summer, fall, and winter."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:4:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What do you use to stay dry in the rain?",
+      "answer": "An umbrella or a raincoat keeps rain off your clothes."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:5:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a rainbow?",
+      "answer": "Colors in the sky that appear when sunlight shines through raindrops."
     },
     {
       "id": "cards/en/Science/weather_middle.md:1:1",
@@ -1032,6 +2682,56 @@
       "answer": "cloud"
     },
     {
+      "id": "cards/en/Science/weather_middle.md:4:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is rain?",
+      "answer": "Water that falls from clouds when droplets in the cloud grow heavy enough."
+    },
+    {
+      "id": "cards/en/Science/weather_middle.md:5:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do we have seasons?",
+      "answer": "Earth is tilted as it goes around the Sun. The tilt changes how directly sunlight hits each part of Earth during the year."
+    },
+    {
+      "id": "cards/en/Science/weather_middle.md:6:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "A _____ is made of tiny drops of water or ice floating in the air.",
+      "answer": "cloud"
+    },
+    {
+      "id": "cards/en/Science/weather_middle.md:7:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the water cycle?",
+      "answer": "Water moves in a loop. It evaporates from oceans and lakes, forms clouds, falls as rain or snow, then flows back to rivers and oceans."
+    },
+    {
+      "id": "cards/en/Science/weather_middle.md:8:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is wind?",
+      "answer": "Wind is moving air. Warm air rises and cool air moves in to take its place, which pushes the air around."
+    },
+    {
       "id": "cards/en/Space/moon_early.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -1060,6 +2760,126 @@
       "kind": "qa",
       "question": "Has anyone walked on the Moon?",
       "answer": "Yes. Astronauts from NASA walked on the Moon in 1969. Twelve people have walked there in total."
+    },
+    {
+      "id": "cards/en/Space/moon_early.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is the Moon?",
+      "answer": "A big rocky ball that travels around Earth. It is much smaller than our planet."
+    },
+    {
+      "id": "cards/en/Space/moon_early.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "cloze",
+      "question": "At _____, we often see the Moon shining in the sky.",
+      "answer": "night"
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:1:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How far away is the Moon?",
+      "answer": "About 238,900 miles (384,400 km). That sounds huge, but it is still close enough for astronauts to reach in a few days."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:2:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "The Moon's gravity is about _____ as strong as Earth's.",
+      "answer": "one-sixth"
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:3:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What causes ocean tides?",
+      "answer": "Mostly the Moon's gravity pulling on Earth's oceans. The Sun pulls too, but the Moon has the bigger effect."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Does the Moon make its own light?",
+      "answer": "No. The Moon reflects sunlight, like a bright mirror in the sky. The part we see lit up is sunlight bouncing off it."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do we always see the same side of the Moon from Earth?",
+      "answer": "The Moon takes the same time to spin once as it does to orbit Earth. So the same face stays turned toward us."
+    },
+    {
+      "id": "cards/en/Space/moon_teen.md:1:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "How did the Moon probably form?",
+      "answer": "Scientists think a Mars-sized object hit early Earth about 4.5 billion years ago. Debris flew into orbit and clumped together to make the Moon."
+    },
+    {
+      "id": "cards/en/Space/moon_teen.md:2:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Does the Moon have air or weather like Earth?",
+      "answer": "No. The Moon has almost no atmosphere. Without air, temperatures swing wildly between day and night, and there is no wind or rain."
+    },
+    {
+      "id": "cards/en/Space/moon_teen.md:3:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "During a solar eclipse, the _____ passes between Earth and the Sun and blocks sunlight for a short time.",
+      "answer": "Moon"
+    },
+    {
+      "id": "cards/en/Space/moon_teen.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Is there water on the Moon?",
+      "answer": "Yes. In some permanently shadowed craters near the poles, water is frozen as ice. Future explorers might melt it for drinking or split it to make rocket fuel."
+    },
+    {
+      "id": "cards/en/Space/moon_teen.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "What did Apollo astronauts bring back from the Moon?",
+      "answer": "Moon rocks and soil samples. Studying them showed the Moon is about 4.5 billion years old and helped scientists test ideas about how it formed."
     },
     {
       "id": "cards/en/Space/solar_system_early.md:1:1",
@@ -1122,6 +2942,56 @@
       "answer": "Venus. Mercury is closer to the Sun, but Venus has a thick blanket of clouds that traps heat, so it stays hotter."
     },
     {
+      "id": "cards/en/Space/solar_system_middle.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Which planet is the biggest in our solar system?",
+      "answer": "Jupiter. It is so big that all the other planets could fit inside it."
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "The planet closest to the Sun is _____.",
+      "answer": "Mercury"
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do we have day and night on Earth?",
+      "answer": "Earth spins once every 24 hours. When your part of Earth faces the Sun, it is day. When it faces away, it is night."
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Which planet is famous for spinning on its side?",
+      "answer": "Uranus. Most planets spin like a top, but Uranus rolls around the Sun more like a ball."
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:8:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Neptune is the planet _____ from the Sun in our solar system.",
+      "answer": "farthest"
+    },
+    {
       "id": "cards/en/Space/solar_system_teen.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -1140,6 +3010,56 @@
       "kind": "qa",
       "question": "What is the asteroid belt?",
       "answer": "A ring of rocky objects between Mars and Jupiter. Most asteroids stay there and do not hit planets."
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:1:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "When can you see stars in the sky?",
+      "answer": "On clear nights when the sky is dark. The bright Sun hides them during the day."
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:2:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Stars look like tiny bright _____ in the night sky.",
+      "answer": "dots"
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:3:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Why do stars seem to twinkle?",
+      "answer": "Starlight bends a little as it passes through the air around Earth. That makes them sparkle."
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a constellation?",
+      "answer": "A constellation is a group of stars that makes a picture in the sky. One famous one is the Big Dipper."
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Are stars close to Earth?",
+      "answer": "Most stars are very, very far away. They look small because they are so far from us."
     },
     {
       "id": "cards/en/Space/stars_middle.md:1:1",
@@ -1172,6 +3092,106 @@
       "answer": "8 minutes"
     },
     {
+      "id": "cards/en/Space/stars_middle.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the closest star to Earth besides the Sun?",
+      "answer": "Proxima Centauri. It is part of a group of three stars called Alpha Centauri. It is still trillions of miles away—much too far to visit in one lifetime."
+    },
+    {
+      "id": "cards/en/Space/stars_middle.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "A _____ is not really a star. It is a small bit of rock or dust burning up in Earth's atmosphere.",
+      "answer": "shooting star"
+    },
+    {
+      "id": "cards/en/Space/stars_middle.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do stars look white or different colors?",
+      "answer": "Stars come in different temperatures. Hotter stars can look bluish-white. Cooler stars look more yellow or red."
+    },
+    {
+      "id": "cards/en/Space/stars_middle.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How many stars might be in the Milky Way galaxy?",
+      "answer": "Scientists think there are hundreds of billions of stars. That is so many that no one could count them all by hand."
+    },
+    {
+      "id": "cards/en/Space/stars_middle.md:8:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why is it hard to see faint stars in a city at night?",
+      "answer": "Streetlights and car lights brighten the sky. This light pollution hides dimmer stars, so you see fewer of them than in the countryside."
+    },
+    {
+      "id": "cards/en/Space/stars_teen.md:1:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "How do stars make their own light?",
+      "answer": "Stars are giant balls of hot gas. Deep inside, hydrogen atoms smash together in nuclear fusion. That releases huge amounts of energy that shines out as light and heat."
+    },
+    {
+      "id": "cards/en/Space/stars_teen.md:2:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Astronomers measure how far away stars are using units called _____. One light year is how far light travels in one year.",
+      "answer": "light years"
+    },
+    {
+      "id": "cards/en/Space/stars_teen.md:3:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "What happens when a very big star runs out of fuel?",
+      "answer": "The core collapses and the star can explode in a supernova. That blast can create heavy elements and sometimes leave behind a neutron star or a black hole."
+    },
+    {
+      "id": "cards/en/Space/stars_teen.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "What is a nebula?",
+      "answer": "A nebula is a cloud of gas and dust in space. Some nebulas are where new stars are born. Others are leftover material from old stars that died."
+    },
+    {
+      "id": "cards/en/Space/stars_teen.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Can planets orbit stars other than the Sun?",
+      "answer": "Yes. Planets around other stars are called exoplanets. Scientists have found thousands of them by watching stars wobble slightly or dim when a planet passes in front."
+    },
+    {
       "id": "cards/en/Sports/basketball_early.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -1200,6 +3220,96 @@
       "kind": "qa",
       "question": "Is it okay to hold the ball and run without dribbling?",
       "answer": "No. That is called traveling and the other team gets the ball."
+    },
+    {
+      "id": "cards/en/Sports/basketball_early.md:4:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "What color is a basketball usually?",
+      "answer": "Orange with black lines. That makes it easy to see when it moves fast."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:1:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How many players from each team are on the court at once?",
+      "answer": "Five. Substitutes wait on the bench and can come in during breaks in play."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:2:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "A basketball game has four _____. Teams switch which basket they shoot at at halftime.",
+      "answer": "quarters"
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:3:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the difference between a two-point and a three-point shot?",
+      "answer": "A shot from close to the basket is worth two points. A shot from behind the three-point line is worth three points because it is much farther from the hoop."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:4:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the NBA?",
+      "answer": "The NBA is a professional basketball league in the United States and Canada. Some of the best players in the world compete in it."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:5:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a rebound in basketball?",
+      "answer": "When a shot misses the hoop, a player grabs the bouncing ball before the other team gets it. Getting rebounds helps a team keep possession."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:6:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "After a foul, a player may shoot _____ from the free-throw line without defenders blocking them.",
+      "answer": "free throws"
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:7:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How high is a standard basketball hoop?",
+      "answer": "Ten feet (about three meters) above the floor. That is why tall players and strong jumpers can reach the rim more easily."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:8:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a slam dunk?",
+      "answer": "A player jumps up high and pushes the ball down through the hoop. It is one of the most exciting plays in basketball."
     },
     {
       "id": "cards/en/Sports/football_early.md:1:1",
@@ -1232,6 +3342,46 @@
       "answer": "Eleven."
     },
     {
+      "id": "cards/en/Sports/football_early.md:4:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "qa",
+      "question": "Who guards the goal in football?",
+      "answer": "The goalkeeper. They try to stop the other team from scoring."
+    },
+    {
+      "id": "cards/en/Sports/football_early.md:5:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Only the _____ may use their hands to stop the ball during a football match.",
+      "answer": "goalkeeper"
+    },
+    {
+      "id": "cards/en/Sports/football_early.md:6:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "qa",
+      "question": "What does a referee do in football?",
+      "answer": "The referee makes sure players follow the rules. They blow a whistle and can give yellow or red cards for fouls."
+    },
+    {
+      "id": "cards/en/Sports/football_early.md:7:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Players pass the ball to their _____ to move it up the field together.",
+      "answer": "teammates"
+    },
+    {
       "id": "cards/en/Sports/football_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -1260,6 +3410,46 @@
       "kind": "qa",
       "question": "Why does the goalkeeper wear a different colored shirt?",
       "answer": "So everyone can tell the keeper apart from the other players. Only the goalkeeper may use their hands inside the penalty area to stop shots."
+    },
+    {
+      "id": "cards/en/Sports/olympics_early.md:1:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "What colors are the five Olympic rings?",
+      "answer": "Blue, yellow, black, green, and red. Each ring is a different color."
+    },
+    {
+      "id": "cards/en/Sports/olympics_early.md:2:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "cloze",
+      "question": "The Olympic Games take place every _____ years.",
+      "answer": "four"
+    },
+    {
+      "id": "cards/en/Sports/olympics_early.md:3:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "What do athletes win at the Olympics?",
+      "answer": "Medals. The best athletes can win gold, silver, or bronze."
+    },
+    {
+      "id": "cards/en/Sports/olympics_early.md:4:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Who takes part in the Olympic Games?",
+      "answer": "Athletes from many countries around the world. They travel to one city to compete in sports."
     },
     {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
@@ -1292,6 +3482,26 @@
       "answer": "They stand for five parts of the world coming together in sport. The rings are linked to show friendship."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:4:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Athletes from many countries compete in the _____.",
+      "answer": "Olympic Games"
+    },
+    {
+      "id": "cards/en/Sports/olympics_middle.md:5:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the difference between the Summer and Winter Games?",
+      "answer": "Summer Games include sports like running and swimming. Winter Games are about snow and ice, like skiing and skating. Both happen every four years."
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -1320,6 +3530,56 @@
       "kind": "qa",
       "question": "¿Qué sonido hace una oveja?",
       "answer": "¡Bee! Las ovejas viven en granjas y nos dan lana para ropa abrigada."
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:4:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué sonido hace una vaca?",
+      "answer": "¡Mu! Las vacas dicen mu cuando se comunican entre ellas."
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:5:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los bebés de la gallina se llaman _____.",
+      "answer": "pollitos"
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:6:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Para qué usan a menudo los granjeros los caballos?",
+      "answer": "Los caballos pueden tirar de carros, llevar jinetes y ayudar con el trabajo en la granja."
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:7:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Dónde les gusta nadar a los patos?",
+      "answer": "En estanques. Los patos tienen patas palmeadas que les ayudan a remar en el agua."
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:8:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué hace un gallo por la mañana?",
+      "answer": "Canta fuerte. Su canto suena como \"quiquiriquí\"."
     },
     {
       "id": "cards/es/Animals/farm_middle.md:1:1",
@@ -1422,6 +3682,56 @@
       "answer": "Pierden dientes a menudo y les salen nuevos. Muchas filas de dientes les ayudan a atrapar comida en el mar."
     },
     {
+      "id": "cards/es/Animals/ocean_middle.md:3:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cómo respiran los peces bajo el agua?",
+      "answer": "El agua pasa por sus branquias. Las branquias sacan oxígeno del agua para que el pez pueda vivir."
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:4:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Los _____ son peces, pero nadan erguidos y se agarran a las plantas con su cola rizada.",
+      "answer": "caballitos de mar"
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:5:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un banco de peces?",
+      "answer": "Es un grupo grande de peces que nadan juntos. Nadar en grupo puede ayudarles a esconderse de depredadores."
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:6:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué las focas suben a las playas?",
+      "answer": "Las focas son mamíferos que necesitan aire. Descansan, cuidan a sus crías y se calientan en tierra entre un baño y otro."
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:7:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Una _____ puede volver a crecer un brazo despacio si se le rompe uno.",
+      "answer": "estrella de mar"
+    },
+    {
       "id": "cards/es/Animals/pets_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -1450,6 +3760,76 @@
       "kind": "qa",
       "question": "¿Qué debes hacer siempre antes de comer después de tocar una mascota?",
       "answer": "Lavarte las manos con agua y jabón."
+    },
+    {
+      "id": "cards/es/Animals/pets_early.md:4:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué sonido hace a menudo un perro?",
+      "answer": "¡Guau! Los perros ladran para saludar a la gente o para avisar de algo que les sorprende."
+    },
+    {
+      "id": "cards/es/Animals/pets_early.md:5:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Un _____ mascota vive en una pecera con agua limpia.",
+      "answer": "pez"
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:1:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los perros necesitan paseos todos los días?",
+      "answer": "Los paseos les dan ejercicio y la oportunidad de hacer sus necesidades fuera. Olfatear durante el paseo también mantiene su mente activa y contenta."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:2:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué hace un veterinario?",
+      "answer": "Un veterinario es un médico para animales. Revisa a las mascotas cuando están enfermas y ayuda a mantenerlas sanas con vacunas y chequeos."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:3:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los gatos tienen bigotes?",
+      "answer": "Los bigotes son pelos largos y duros que ayudan a los gatos a sentir objetos cercanos, incluso en la oscuridad. Les avisan si un espacio es demasiado estrecho para pasar."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:4:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Los hámsters necesitan una _____ para correr, agua fresca y una jaula limpia con sábanas o viruta.",
+      "answer": "rueda"
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:5:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué nunca debes dejar a un perro solo en un coche caliente?",
+      "answer": "Los coches se calientan muy rápido, incluso con las ventanillas entreabiertas. Un perro puede sobrecalentarse de forma peligrosa en solo unos minutos."
     },
     {
       "id": "cards/es/Geography/continents_early.md:1:1",
@@ -1482,6 +3862,56 @@
       "answer": "En la Antártida. Hace mucho frío y está cubierta de hielo."
     },
     {
+      "id": "cards/es/Geography/continents_early.md:4:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es un continente?",
+      "answer": "Un continente es una pieza de tierra muy grande en la Tierra. Hay siete continentes en total."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:5:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ es el continente más grande de la Tierra.",
+      "answer": "Asia"
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:6:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué continente tiene el desierto del Sahara?",
+      "answer": "África. El Sahara es un desierto enorme y caliente en el norte de África."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:7:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué continente viven los canguros en la naturaleza?",
+      "answer": "En Oceanía. Los canguros viven en Australia, que forma parte del continente de Oceanía."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:8:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "América del Norte y América del Sur son dos _____ separados.",
+      "answer": "continentes"
+    },
+    {
       "id": "cards/es/Geography/continents_middle.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -1500,6 +3930,26 @@
       "kind": "qa",
       "question": "¿Por qué a veces se dice que Europa es una península?",
       "answer": "Porque es sobre todo una gran masa de tierra unida a Asia, con océanos y mares casi alrededor."
+    },
+    {
+      "id": "cards/es/Geography/continents_middle.md:3:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿En qué continente están los montes del Himalaya?",
+      "answer": "En Asia. El Himalaya tiene las montañas más altas de la Tierra, y allí está el monte Everest."
+    },
+    {
+      "id": "cards/es/Geography/continents_middle.md:4:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿En qué continente está la selva amazónica?",
+      "answer": "En América del Sur. Es la selva más grande del mundo y viven allí jaguares, monos y pájaros de muchos colores."
     },
     {
       "id": "cards/es/Geography/countries_early.md:1:1",
@@ -1532,6 +3982,56 @@
       "answer": "Sí. Un país puede tener millones de personas en muchas ciudades y pueblos. Otros países tienen menos gente y más campo."
     },
     {
+      "id": "cards/es/Geography/countries_middle.md:1:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cómo es diferente un país de un continente?",
+      "answer": "Un continente es una gran masa de tierra, como África o América del Sur. Un país es una nación dentro de un continente, como Kenia en África o Chile en América del Sur."
+    },
+    {
+      "id": "cards/es/Geography/countries_middle.md:2:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una bandera nacional?",
+      "answer": "Una bandera es una tela con colores que representa un país. La gente la pone en edificios y en fiestas para mostrar orgullo de su nación."
+    },
+    {
+      "id": "cards/es/Geography/countries_middle.md:3:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los países tienen idiomas distintos?",
+      "answer": "Los idiomas crecieron durante miles de años en sitios diferentes. En países vecinos la gente suele hablar idiomas distintos, o a veces el mismo."
+    },
+    {
+      "id": "cards/es/Geography/countries_middle.md:4:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ciudad de México es la capital de _____.",
+      "answer": "México"
+    },
+    {
+      "id": "cards/es/Geography/countries_middle.md:5:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué significa que dos países son vecinos?",
+      "answer": "Comparten una frontera y están uno al lado del otro en el mapa. Por ejemplo, Francia y Alemania son países vecinos en Europa."
+    },
+    {
       "id": "cards/es/Geography/oceans_early.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -1560,6 +4060,56 @@
       "kind": "qa",
       "question": "¿Se puede beber el agua del océano?",
       "answer": "No. El agua del mar es salada. Necesitamos agua dulce de ríos, lagos o lluvia."
+    },
+    {
+      "id": "cards/es/Geography/oceans_middle.md:1:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuántos océanos hay en la Tierra?",
+      "answer": "Cinco: el Pacífico, el Atlántico, el Índico, el Austral y el Ártico. Todos están conectados, así que algunos científicos los llaman un solo océano mundial."
+    },
+    {
+      "id": "cards/es/Geography/oceans_middle.md:2:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Aproximadamente el _____ de la superficie de la Tierra está cubierta por agua oceánica.",
+      "answer": "71 por ciento"
+    },
+    {
+      "id": "cards/es/Geography/oceans_middle.md:3:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué el agua del mar es salada?",
+      "answer": "Los ríos llevan pequeñas partículas de roca y sal al mar. Con millones de años, la sal se acumuló. El sol evapora el agua pero deja la sal."
+    },
+    {
+      "id": "cards/es/Geography/oceans_middle.md:4:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es la parte más profunda del océano?",
+      "answer": "La fosa de las Marianas en el océano Pacífico. Tiene unos 11.000 metros (36.000 pies) de profundidad — más profunda de lo que el monte Everest es alto."
+    },
+    {
+      "id": "cards/es/Geography/oceans_middle.md:5:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un arrecife de coral?",
+      "answer": "Un arrecife de coral es un hogar submarino construido por animalitos llamados corales. Los arrecifes dan refugio a los peces y ayudan a proteger las costas de las olas grandes."
     },
     {
       "id": "cards/es/Science/body_early.md:1:1",
@@ -1592,6 +4142,26 @@
       "answer": "Los pulmones. Toman oxígeno del aire."
     },
     {
+      "id": "cards/es/Science/body_early.md:4:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué hace tu piel por ti?",
+      "answer": "Cubre tu cuerpo y ayuda a protegerte de microbios, del sol y de pequeños golpes."
+    },
+    {
+      "id": "cards/es/Science/body_early.md:5:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Usas tus _____ para ver la luz, las formas y los colores a tu alrededor.",
+      "answer": "ojos"
+    },
+    {
       "id": "cards/es/Science/body_middle.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -1610,6 +4180,56 @@
       "kind": "qa",
       "question": "¿Para qué sirven los huesos?",
       "answer": "Dan forma y soporte, protegen órganos como el cerebro y trabajan con los músculos para moverte."
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:3:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué necesitamos respirar?",
+      "answer": "Nuestro cuerpo necesita oxígeno del aire. El oxígeno ayuda a convertir la comida que comemos en energía para movernos, pensar y mantenernos vivos."
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:4:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Cuando inhalas, tus pulmones absorben _____ del aire.",
+      "answer": "oxígeno"
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:5:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué hace tu cerebro?",
+      "answer": "Tu cerebro controla tu cuerpo. Te ayuda a pensar, recordar cosas, sentir emociones y mover los músculos cuando quieres."
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:6:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Para qué sirven los músculos?",
+      "answer": "Los músculos tiran de tus huesos para que te muevas. Te ayudan a caminar, correr, sonreír e incluso parpadear."
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:7:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué hace tu estómago con la comida que comes?",
+      "answer": "Tu estómago desmenuza la comida en trozos más pequeños para que tu cuerpo pueda sacar los nutrientes que necesita para tener energía y crecer."
     },
     {
       "id": "cards/es/Science/plants_early.md:1:1",
@@ -1642,6 +4262,56 @@
       "answer": "Tienen clorofila, que ayuda a la planta a hacer alimento con la luz del Sol."
     },
     {
+      "id": "cards/es/Science/plants_early.md:4:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué sostiene a la planta erguida?",
+      "answer": "El tallo. Lleva el agua desde las raíces hasta las hojas."
+    },
+    {
+      "id": "cards/es/Science/plants_early.md:5:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Muchas flores se convierten en _____ después de que las abejas ayudan a formar semillas.",
+      "answer": "fruta"
+    },
+    {
+      "id": "cards/es/Science/plants_early.md:6:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es el polen?",
+      "answer": "Un polvo amarillo muy pequeño en las flores. Las abejas lo llevan de flor en flor para que crezcan semillas nuevas."
+    },
+    {
+      "id": "cards/es/Science/plants_early.md:7:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Pueden crecer las plantas sin agua?",
+      "answer": "No. La mayoría necesita agua cada día o se marchitan y dejan de crecer."
+    },
+    {
+      "id": "cards/es/Science/plants_early.md:8:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Una zanahoria es una verdura de _____ que crece bajo la tierra.",
+      "answer": "raíz"
+    },
+    {
       "id": "cards/es/Science/plants_middle.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -1660,6 +4330,136 @@
       "kind": "qa",
       "question": "¿Por qué las personas y los animales necesitan plantas para respirar?",
       "answer": "Durante la fotosíntesis, las plantas liberan oxígeno al aire. Nosotros respiramos ese oxígeno para vivir."
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:3:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "En la fotosíntesis, las plantas toman dióxido de carbono y liberan _____.",
+      "answer": "oxígeno"
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:4:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué hacen las raíces por una planta?",
+      "answer": "Las raíces sujetan la planta en la tierra y absorben agua y minerales. También guardan parte del alimento que hace la planta."
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:5:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿En qué se diferencia una planta de un animal al alimentarse?",
+      "answer": "Las plantas pueden hacer su propio alimento con la luz del Sol. Los animales no pueden hacerlo así, así que comen plantas u otros animales."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:1:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué hace que llueva?",
+      "answer": "Gotitas de agua en las nubes se hacen más grandes y pesadas hasta que caen al suelo."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:2:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Cuando hace mucho frío, la lluvia puede congelarse y caer como _____.",
+      "answer": "nieve"
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:3:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Cuántas estaciones hay en un año?",
+      "answer": "Cuatro: primavera, verano, otoño e invierno."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:4:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué usas para no mojarte cuando llueve?",
+      "answer": "Un paraguas o un impermeable te protege de la lluvia."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:5:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es un arcoíris?",
+      "answer": "Colores en el cielo que aparecen cuando la luz del Sol atraviesa las gotas de lluvia."
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:1:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es la lluvia?",
+      "answer": "Agua que cae de las nubes cuando las gotitas en la nube se vuelven lo bastante pesadas."
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:2:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué tenemos estaciones?",
+      "answer": "La Tierra está inclinada mientras gira alrededor del Sol. La inclinación cambia cuán directamente llega la luz solar a cada parte de la Tierra durante el año."
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:3:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Una _____ está hecha de gotitas diminutas de agua o hielo flotando en el aire.",
+      "answer": "nube"
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:4:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es el ciclo del agua?",
+      "answer": "El agua se mueve en un ciclo. Se evapora de mares y lagos, forma nubes, cae como lluvia o nieve, y vuelve a ríos y mares."
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:5:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es el viento?",
+      "answer": "El viento es aire en movimiento. El aire caliente sube y el aire frío entra a ocupar su lugar, lo que empuja el aire de un lado a otro."
     },
     {
       "id": "cards/es/Space/moon_early.md:1:1",
@@ -1690,6 +4490,126 @@
       "kind": "qa",
       "question": "¿Ha caminado alguien sobre la Luna?",
       "answer": "Sí. Astronautas de la NASA caminaron en la Luna en 1969. Doce personas han estado allí en total."
+    },
+    {
+      "id": "cards/es/Space/moon_early.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es la Luna?",
+      "answer": "Una gran bola de roca que viaja alrededor de la Tierra. Es mucho más pequeña que nuestro planeta."
+    },
+    {
+      "id": "cards/es/Space/moon_early.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "cloze",
+      "question": "De _____, a menudo vemos brillar la Luna en el cielo.",
+      "answer": "noche"
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:1:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿A qué distancia está la Luna?",
+      "answer": "A unos 384.400 km (238.900 millas). Suena muchísimo, pero sigue lo bastante cerca como para que los astronautas lleguen en pocos días."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:2:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "La gravedad de la Luna es aproximadamente _____ de la de la Tierra.",
+      "answer": "una sexta parte"
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:3:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué provoca las mareas en el océano?",
+      "answer": "Sobre todo la gravedad de la Luna tirando de los océanos de la Tierra. El Sol también tira, pero la Luna tiene más efecto."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿La Luna produce su propia luz?",
+      "answer": "No. La Luna refleja la luz del Sol, como un espejo brillante en el cielo. La parte iluminada que vemos es luz solar que rebota en ella."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué siempre vemos el mismo lado de la Luna desde la Tierra?",
+      "answer": "La Luna tarda lo mismo en girar una vez que en orbitar la Tierra. Por eso la misma cara sigue mirando hacia nosotros."
+    },
+    {
+      "id": "cards/es/Space/moon_teen.md:1:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Cómo se formó probablemente la Luna?",
+      "answer": "Los científicos creen que hace unos 4.500 millones de años un objeto del tamaño de Marte chocó contra la Tierra joven. Los escombros quedaron en órbita y se juntaron para formar la Luna."
+    },
+    {
+      "id": "cards/es/Space/moon_teen.md:2:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿La Luna tiene aire o clima como la Tierra?",
+      "answer": "No. La Luna casi no tiene atmósfera. Sin aire, la temperatura cambia muchísimo entre el día y la noche, y no hay viento ni lluvia."
+    },
+    {
+      "id": "cards/es/Space/moon_teen.md:3:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Durante un eclipse solar, la _____ pasa entre la Tierra y el Sol y bloquea la luz del Sol por un rato.",
+      "answer": "Luna"
+    },
+    {
+      "id": "cards/es/Space/moon_teen.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Hay agua en la Luna?",
+      "answer": "Sí. En algunos cráteres siempre a la sombra cerca de los polos, el agua está congelada como hielo. Los exploradores del futuro podrían derretirla para beber o separarla para hacer combustible de cohetes."
+    },
+    {
+      "id": "cards/es/Space/moon_teen.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Qué trajeron los astronautas del Apolo de la Luna?",
+      "answer": "Rocas y muestras de suelo lunar. Al estudiarlas se vio que la Luna tiene unos 4.500 millones de años y ayudó a los científicos a probar ideas sobre cómo se formó."
     },
     {
       "id": "cards/es/Space/solar_system_early.md:1:1",
@@ -1752,6 +4672,56 @@
       "answer": "Venus. Mercurio está más cerca del Sol, pero Venus tiene una capa espesa de nubes que atrapa el calor, así que se queda más caliente."
     },
     {
+      "id": "cards/es/Space/solar_system_middle.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+      "answer": "Júpiter. Es tan grande que todos los demás planetas cabrían dentro de él."
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "El planeta más cercano al Sol es _____.",
+      "answer": "Mercurio"
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:6:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué tenemos día y noche en la Tierra?",
+      "answer": "La Tierra gira sobre sí misma cada 24 horas. Cuando tu parte de la Tierra mira hacia el Sol, es de día. Cuando mira hacia el lado opuesto, es de noche."
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:7:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué planeta es famoso por girar de lado?",
+      "answer": "Urano. La mayoría de los planetas giran como una peonza, pero Urano rueda alrededor del Sol más como una pelota."
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:8:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Neptuno es el planeta _____ del Sol en nuestro sistema solar.",
+      "answer": "más lejano"
+    },
+    {
       "id": "cards/es/Space/solar_system_teen.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -1772,6 +4742,156 @@
       "answer": "Un anillo de rocas entre Marte y Júpiter. La mayoría se queda allí y no golpea los planetas."
     },
     {
+      "id": "cards/es/Space/stars_early.md:1:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Cuándo puedes ver estrellas en el cielo?",
+      "answer": "En noches despejadas, cuando el cielo está oscuro. El Sol brillante las esconde durante el día."
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:2:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Las estrellas parecen pequeños _____ brillantes en el cielo nocturno.",
+      "answer": "puntos"
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:3:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Por qué parece que las estrellas titilan?",
+      "answer": "La luz de las estrellas se dobla un poco al pasar por el aire alrededor de la Tierra. Eso las hace brillar."
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es una constelación?",
+      "answer": "Una constelación es un grupo de estrellas que forma una figura en el cielo. Una famosa es la Osa Mayor."
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Están las estrellas cerca de la Tierra?",
+      "answer": "La mayoría de las estrellas están muy, muy lejos. Parecen pequeñas porque están tan lejos de nosotros."
+    },
+    {
+      "id": "cards/es/Space/stars_middle.md:1:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es la estrella más cercana a la Tierra además del Sol?",
+      "answer": "Próxima Centauri. Forma parte de un grupo de tres estrellas llamado Alfa Centauri. Sigue estando a billones de kilómetros—demasiado lejos para visitarla en una sola vida."
+    },
+    {
+      "id": "cards/es/Space/stars_middle.md:2:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Una _____ no es realmente una estrella. Es un pequeño trozo de roca o polvo que se quema en la atmósfera de la Tierra.",
+      "answer": "estrella fugaz"
+    },
+    {
+      "id": "cards/es/Space/stars_middle.md:3:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué las estrellas se ven blancas o de distintos colores?",
+      "answer": "Las estrellas tienen distintas temperaturas. Las más calientes pueden verse blanco azulado. Las más frías se ven más amarillas o rojas."
+    },
+    {
+      "id": "cards/es/Space/stars_middle.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuántas estrellas puede haber en la galaxia Vía Láctea?",
+      "answer": "Los científicos creen que hay cientos de miles de millones de estrellas. Son tantas que nadie podría contarlas todas a mano."
+    },
+    {
+      "id": "cards/es/Space/stars_middle.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué cuesta ver estrellas tenues en una ciudad de noche?",
+      "answer": "Las farolas y las luces de los coches iluminan el cielo. Esta contaminación lumínica oculta las estrellas más débiles, así que ves menos que en el campo."
+    },
+    {
+      "id": "cards/es/Space/stars_teen.md:1:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Cómo producen luz las estrellas?",
+      "answer": "Las estrellas son bolas gigantes de gas caliente. En su interior, los átomos de hidrógeno chocan en una fusión nuclear. Eso libera muchísima energía que sale como luz y calor."
+    },
+    {
+      "id": "cards/es/Space/stars_teen.md:2:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Los astrónomos miden la distancia a las estrellas con unidades llamadas _____. Un año luz es la distancia que recorre la luz en un año.",
+      "answer": "años luz"
+    },
+    {
+      "id": "cards/es/Space/stars_teen.md:3:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Qué pasa cuando una estrella muy grande se queda sin combustible?",
+      "answer": "El núcleo se colapsa y la estrella puede explotar en una supernova. Esa explosión puede crear elementos pesados y a veces deja una estrella de neutrones o un agujero negro."
+    },
+    {
+      "id": "cards/es/Space/stars_teen.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Qué es una nebulosa?",
+      "answer": "Una nebulosa es una nube de gas y polvo en el espacio. En algunas nacen estrellas nuevas. Otras son material que quedó de estrellas viejas que murieron."
+    },
+    {
+      "id": "cards/es/Space/stars_teen.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Pueden orbitar planetas alrededor de otras estrellas además del Sol?",
+      "answer": "Sí. Los planetas que giran alrededor de otras estrellas se llaman exoplanetas. Los científicos han encontrado miles observando cómo una estrella se mueve un poco o se oscurece cuando un planeta pasa delante."
+    },
+    {
       "id": "cards/es/Sports/basketball_early.md:1:1",
       "lang": "es",
       "topic": "Sports",
@@ -1780,6 +4900,96 @@
       "kind": "qa",
       "question": "¿Dónde lanzas el balón para anotar en baloncesto?",
       "answer": "A la canasta sobre la pista."
+    },
+    {
+      "id": "cards/es/Sports/basketball_early.md:2:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿De qué color suele ser un balón de baloncesto?",
+      "answer": "Naranja con líneas negras. Así se ve bien cuando se mueve rápido."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:1:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuántos jugadores de cada equipo están en la cancha a la vez?",
+      "answer": "Cinco. Los suplentes esperan en el banquillo y pueden entrar en las pausas del partido."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:2:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Un partido de baloncesto tiene cuatro _____. Los equipos cambian de canasta en el descanso.",
+      "answer": "cuartos"
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:3:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es la diferencia entre un tiro de dos y un tiro de tres puntos?",
+      "answer": "Un tiro cerca de la canasta vale dos puntos. Un tiro desde detrás de la línea de tres puntos vale tres puntos porque está mucho más lejos del aro."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:4:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es la NBA?",
+      "answer": "La NBA es una liga profesional de baloncesto en Estados Unidos y Canadá. Algunos de los mejores jugadores del mundo compiten en ella."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:5:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un rebote en baloncesto?",
+      "answer": "Cuando un tiro falla la canasta, un jugador atrapa el balón que rebota antes de que lo tome el otro equipo. Conseguir rebotes ayuda a un equipo a seguir atacando."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:6:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Después de una falta, un jugador puede tirar _____ desde la línea de tiros libres sin que los defensores lo bloqueen.",
+      "answer": "tiros libres"
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:7:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿A qué altura está una canasta de baloncesto estándar?",
+      "answer": "A diez pies (unos tres metros) del suelo. Por eso los jugadores altos y los que saltan bien llegan más fácil al aro."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:8:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una volcada?",
+      "answer": "Un jugador salta muy alto y empuja el balón hacia abajo a través de la canasta. Es una de las jugadas más emocionantes del baloncesto."
     },
     {
       "id": "cards/es/Sports/football_early.md:1:1",
@@ -1812,6 +5022,46 @@
       "answer": "Once."
     },
     {
+      "id": "cards/es/Sports/football_early.md:4:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Quién defiende la portería en el fútbol?",
+      "answer": "El portero. Intenta impedir que el otro equipo marque goles."
+    },
+    {
+      "id": "cards/es/Sports/football_early.md:5:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Solo el _____ puede usar las manos para parar el balón durante un partido de fútbol.",
+      "answer": "portero"
+    },
+    {
+      "id": "cards/es/Sports/football_early.md:6:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué hace el árbitro en el fútbol?",
+      "answer": "El árbitro se asegura de que los jugadores sigan las reglas. Pita el silbato y puede mostrar tarjetas amarillas o rojas por faltas."
+    },
+    {
+      "id": "cards/es/Sports/football_early.md:7:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los jugadores pasan el balón a sus _____ para avanzar juntos por el campo.",
+      "answer": "compañeros"
+    },
+    {
       "id": "cards/es/Sports/football_middle.md:1:1",
       "lang": "es",
       "topic": "Sports",
@@ -1842,6 +5092,46 @@
       "answer": "Para que todos puedan distinguirlo del resto de jugadores. Solo el portero puede usar las manos dentro del área para parar los tiros."
     },
     {
+      "id": "cards/es/Sports/olympics_early.md:1:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿De qué colores son los cinco anillos olímpicos?",
+      "answer": "Azul, amarillo, negro, verde y rojo. Cada anillo tiene un color distinto."
+    },
+    {
+      "id": "cards/es/Sports/olympics_early.md:2:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los Juegos Olímpicos se celebran cada _____ años.",
+      "answer": "cuatro"
+    },
+    {
+      "id": "cards/es/Sports/olympics_early.md:3:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué ganan los deportistas en los Juegos Olímpicos?",
+      "answer": "Medallas. Los mejores pueden ganar oro, plata o bronce."
+    },
+    {
+      "id": "cards/es/Sports/olympics_early.md:4:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Quién participa en los Juegos Olímpicos?",
+      "answer": "Deportistas de muchos países de todo el mundo. Viajan a una ciudad para competir en distintos deportes."
+    },
+    {
       "id": "cards/es/Sports/olympics_middle.md:1:1",
       "lang": "es",
       "topic": "Sports",
@@ -1850,6 +5140,36 @@
       "kind": "qa",
       "question": "¿Con qué frecuencia se celebran los Juegos Olímpicos de verano?",
       "answer": "Cada cuatro años. Cada vez una ciudad diferente organiza los juegos e invita a deportistas de todo el mundo."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:2:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué representan los cinco anillos olímpicos?",
+      "answer": "Representan cinco partes del mundo que se unen en el deporte. Los anillos están entrelazados para mostrar amistad."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:3:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Deportistas de muchos países compiten en los _____.",
+      "answer": "Juegos Olímpicos"
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:4:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es la diferencia entre los Juegos de verano y los de invierno?",
+      "answer": "En verano hay deportes como correr y nadar. En invierno hay nieve y hielo, como esquiar y patinar. Ambos se celebran cada cuatro años."
     }
   ]
 }
