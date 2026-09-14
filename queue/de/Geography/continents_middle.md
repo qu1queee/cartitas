@@ -1,17 +1,3 @@
-# Kontinente — middle (8–11)
-
-<!-- age: middle | lang: de | topic: geography | subtopic: continents -->
-
-Q: Auf welchem Kontinent liegen die Himalaya-Berge?
-A: In Asien. Der Himalaya hat die höchsten Berge der Erde, und dort liegt der Mount Everest.
-
----
-
-Q: Auf welchem Kontinent liegt der Amazonas-Regenwald?
-A: In Südamerika. Er ist der größte Regenwald der Welt und Heimat von Jaguaren, Affen und bunten Vögeln.
-
----
-
 C: Die Antarktis ist der einzige Kontinent ohne dauerhafte menschliche [Städte].
 
 ---

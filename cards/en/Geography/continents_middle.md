@@ -13,3 +13,17 @@ A: Because it is mostly one large piece of land connected to Asia, with oceans a
 ---
 
 C: Australia is both a country and part of the continent called [Oceania].
+
+---
+
+# Continents — middle (8–11)
+
+<!-- age: middle | lang: en | topic: geography | subtopic: continents -->
+
+Q: Which continent has the Himalayan mountains?
+A: Asia. The Himalayas are the highest mountains on Earth, and Mount Everest is there.
+
+---
+
+Q: On which continent is the Amazon rainforest?
+A: South America. It is the largest rainforest in the world and home to jaguars, monkeys, and colorful birds.

@@ -1,12 +1,3 @@
-# Basketball — early (5–7)
-
-<!-- age: early | lang: de | topic: sports | subtopic: basketball -->
-
-Q: Welche Farbe hat ein Basketball meistens?
-A: Orange mit schwarzen Linien. So sieht man ihn gut, wenn er sich schnell bewegt.
-
----
-
 C: Im Basketball erzielst du Punkte, wenn du den Ball durch den [Korb] wirfst.
 
 ---

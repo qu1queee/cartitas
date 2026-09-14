@@ -13,3 +13,16 @@ C: La [Luna] gira alrededor de la Tierra aproximadamente una vez al mes.
 
 Q: ¿Ha caminado alguien sobre la Luna?
 A: Sí. Astronautas de la NASA caminaron en la Luna en 1969. Doce personas han estado allí en total.
+
+---
+
+# La Luna — early (5–7)
+
+<!-- age: early | lang: es | topic: space | subtopic: moon -->
+
+Q: ¿Qué es la Luna?
+A: Una gran bola de roca que viaja alrededor de la Tierra. Es mucho más pequeña que nuestro planeta.
+
+---
+
+C: De [noche], a menudo vemos brillar la Luna en el cielo.

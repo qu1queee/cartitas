@@ -13,3 +13,16 @@ C: Eine [Katze] schnurrt oft, wenn sie ruhig und zufrieden ist.
 
 Q: Was solltest du immer tun, bevor du isst, nachdem du ein Haustier angefasst hast?
 A: Hände mit Seife und Wasser waschen.
+
+---
+
+# Haustiere — early (5–7)
+
+<!-- age: early | lang: de | topic: animals | subtopic: pets -->
+
+Q: Welches Geräusch macht ein Hund oft?
+A: Wuff! Hunde bellen, um Menschen zu begrüßen oder zu zeigen, dass sie etwas überrascht hat.
+
+---
+
+C: Ein [Fisch] als Haustier lebt in einem Aquarium mit sauberem Wasser.

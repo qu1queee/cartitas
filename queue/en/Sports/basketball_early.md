@@ -1,12 +1,3 @@
-# Basketball — early (5–7)
-
-<!-- age: early | lang: en | topic: sports | subtopic: basketball -->
-
-Q: What color is a basketball usually?
-A: Orange with black lines. That makes it easy to see when it moves fast.
-
----
-
 C: You score in basketball by throwing the ball through the [hoop].
 
 ---

@@ -9,3 +9,17 @@ A: Asien. Mehr als die Hälfte aller Menschen auf der Erde leben dort.
 
 Q: Warum nennt man Europa manchmal eine Halbinsel?
 A: Weil es meist ein großes Stück Land ist, das mit Asien verbunden ist, und Ozeane und Meere fast ringsherum liegen.
+
+---
+
+# Kontinente — middle (8–11)
+
+<!-- age: middle | lang: de | topic: geography | subtopic: continents -->
+
+Q: Auf welchem Kontinent liegen die Himalaya-Berge?
+A: In Asien. Der Himalaya hat die höchsten Berge der Erde, und dort liegt der Mount Everest.
+
+---
+
+Q: Auf welchem Kontinent liegt der Amazonas-Regenwald?
+A: In Südamerika. Er ist der größte Regenwald der Welt und Heimat von Jaguaren, Affen und bunten Vögeln.

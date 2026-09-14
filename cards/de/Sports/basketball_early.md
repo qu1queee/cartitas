@@ -4,3 +4,12 @@
 
 Q: Wohin wirfst du den Ball, um im Basketball zu punkten?
 A: In den Korb über dem Spielfeld.
+
+---
+
+# Basketball — early (5–7)
+
+<!-- age: early | lang: de | topic: sports | subtopic: basketball -->
+
+Q: Welche Farbe hat ein Basketball meistens?
+A: Orange mit schwarzen Linien. So sieht man ihn gut, wenn er sich schnell bewegt.

@@ -13,3 +13,16 @@ C: A [cat] often purrs when it feels calm and happy.
 
 Q: What should you always do before eating if you touched a pet?
 A: Wash your hands with soap and water.
+
+---
+
+# Pets — early (5–7)
+
+<!-- age: early | lang: en | topic: animals | subtopic: pets -->
+
+Q: What sound does a dog often make?
+A: Woof! Dogs bark to greet people and to say that something surprised them.
+
+---
+
+C: A pet [fish] lives in a tank with clean water.

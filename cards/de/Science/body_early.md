@@ -13,3 +13,16 @@ C: Dein [Herz] pumpt Tag und Nacht Blut durch deinen Körper.
 
 Q: Welches Organ hilft dir beim Atmen?
 A: Die Lungen. Sie nehmen Sauerstoff aus der Luft auf.
+
+---
+
+# Dein Körper — early (5–7)
+
+<!-- age: early | lang: de | topic: science | subtopic: body -->
+
+Q: Was macht deine Haut für dich?
+A: Sie bedeckt deinen Körper und schützt dich vor Keimen, Sonne und kleinen Stößen.
+
+---
+
+C: Mit deinen [Augen] siehst du Licht, Formen und Farben um dich herum.

@@ -1,16 +1,3 @@
-# The Moon — early (5–7)
-
-<!-- age: early | lang: en | topic: space | subtopic: moon -->
-
-Q: What is the Moon?
-A: A big rocky ball that travels around Earth. It is much smaller than our planet.
-
----
-
-C: At [night], we often see the Moon shining in the sky.
-
----
-
 Q: Why does the Moon look bright at night?
 A: It does not make its own light. Sunlight bounces off the Moon and reaches our eyes.
 

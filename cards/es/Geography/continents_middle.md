@@ -9,3 +9,17 @@ A: Asia. Más de la mitad de las personas del mundo viven allí.
 
 Q: ¿Por qué a veces se dice que Europa es una península?
 A: Porque es sobre todo una gran masa de tierra unida a Asia, con océanos y mares casi alrededor.
+
+---
+
+# Continentes — middle (8–11)
+
+<!-- age: middle | lang: es | topic: geography | subtopic: continents -->
+
+Q: ¿En qué continente están los montes del Himalaya?
+A: En Asia. El Himalaya tiene las montañas más altas de la Tierra, y allí está el monte Everest.
+
+---
+
+Q: ¿En qué continente está la selva amazónica?
+A: En América del Sur. Es la selva más grande del mundo y viven allí jaguares, monos y pájaros de muchos colores.

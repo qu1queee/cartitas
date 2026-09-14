@@ -13,3 +13,16 @@ C: The [Moon] goes around Earth about once every month.
 
 Q: Has anyone walked on the Moon?
 A: Yes. Astronauts from NASA walked on the Moon in 1969. Twelve people have walked there in total.
+
+---
+
+# The Moon — early (5–7)
+
+<!-- age: early | lang: en | topic: space | subtopic: moon -->
+
+Q: What is the Moon?
+A: A big rocky ball that travels around Earth. It is much smaller than our planet.
+
+---
+
+C: At [night], we often see the Moon shining in the sky.

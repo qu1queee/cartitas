@@ -1,16 +1,3 @@
-# Der Mond — early (5–7)
-
-<!-- age: early | lang: de | topic: space | subtopic: moon -->
-
-Q: Was ist der Mond?
-A: Eine große Felskugel, die die Erde umkreist. Er ist viel kleiner als unser Planet.
-
----
-
-C: In der [Nacht] sehen wir oft den Mond am Himmel leuchten.
-
----
-
 Q: Warum sieht der Mond nachts hell aus?
 A: Er erzeugt kein eigenes Licht. Sonnenlicht prallt vom Mond ab und gelangt zu unseren Augen.
 
