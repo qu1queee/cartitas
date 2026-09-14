@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Publish pushes with GITHUB_TOKEN do not trigger workflow `push` events.
+  # Rebuild Pages after a successful publish so the site picks up new cards.
+  workflow_run:
+    workflows: ["Publish cards"]
+    types: [completed]
 
 permissions:
   contents: read

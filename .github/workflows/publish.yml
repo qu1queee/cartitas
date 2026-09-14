@@ -63,6 +63,10 @@ jobs:
           go run ./cmd/cartitas validate
           hashcards check cards/ 2>/dev/null || true
 
+      - name: Export cards for GitHub Pages
+        if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
+        run: go run ./cmd/cartitas web-export
+
       - name: Commit and push
         if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
         run: |
@@ -72,7 +76,7 @@ jobs:
             echo "Nothing to publish."
             exit 0
           fi
-          git add cards/ queue/
+          git add cards/ queue/ docs/data/cards.json
           git commit \
             -m "publish: release queued cards (all languages)" \
             -m "Automated publish from queue/{lang}/ per publish.yaml rates."
