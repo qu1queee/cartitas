@@ -23,3 +23,12 @@ A: In Asien. Der Himalaya hat die höchsten Berge der Erde, und dort liegt der M
 
 Q: Auf welchem Kontinent liegt der Amazonas-Regenwald?
 A: In Südamerika. Er ist der größte Regenwald der Welt und Heimat von Jaguaren, Affen und bunten Vögeln.
+
+---
+
+C: Die Antarktis ist der einzige Kontinent ohne dauerhafte menschliche [Städte].
+
+---
+
+Q: Welche zwei Kontinente sind an ihrer Grenze durch Land verbunden?
+A: Europa und Asien. Zusammen nennt man sie manchmal Eurasien, weil kein Ozean zwischen ihnen liegt.

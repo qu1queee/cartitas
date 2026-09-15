@@ -10,3 +10,17 @@ A: Ein Huf ist eine harte Schutzschicht um den Zeh des Pferdes. Pferde laufen au
 
 Q: Welche Bauernhoftiere sind Säugetiere?
 A: Kühe, Schweine, Pferde, Schafe und Ziegen sind Säugetiere. Sie haben Haare oder Fell, atmen Luft und füttern ihre Jungen mit Milch. Hühner sind Vögel, keine Säugetiere.
+
+---
+
+# Bauernhoftiere — middle (8–11)
+
+<!-- age: middle | lang: de | topic: animals | subtopic: farm -->
+
+Q: Warum scheren Bauern Schafe im Frühling?
+A: Schafe bekommen dickes Wolle, die immer weiter wächst. Scheren hält sie in warmer Zeit kühl und liefert Wolle für Garn und Kleidung.
+
+---
+
+Q: Welche nützliche Arbeit leisten Bienen auf Höfen und in Gärten?
+A: Bienen besuchen Blumen und tragen Pollen von einer Blüte zur nächsten. So können Früchte und Gemüse wachsen.

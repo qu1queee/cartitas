@@ -10,3 +10,17 @@ A: A hoof is a hard covering that protects the horse's toe. Horses walk on one b
 
 Q: Which farm animals are mammals?
 A: Cows, pigs, horses, sheep, and goats are mammals. They have hair or fur, breathe air, and feed milk to their babies. Chickens are birds, not mammals.
+
+---
+
+# Farm animals — middle (8–11)
+
+<!-- age: middle | lang: en | topic: animals | subtopic: farm -->
+
+Q: Why do farmers shear sheep in spring?
+A: Sheep grow thick wool that keeps getting longer. Shearing keeps them cooler in warm weather and gives us wool for yarn and clothes.
+
+---
+
+Q: What helpful work do bees do on farms and gardens?
+A: Bees visit flowers and carry pollen from one bloom to another. That helps fruits and vegetables grow.

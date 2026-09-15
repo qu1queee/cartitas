@@ -27,3 +27,12 @@ A: Asia. The Himalayas are the highest mountains on Earth, and Mount Everest is 
 
 Q: On which continent is the Amazon rainforest?
 A: South America. It is the largest rainforest in the world and home to jaguars, monkeys, and colorful birds.
+
+---
+
+C: Antarctica is the only continent with no permanent human [cities].
+
+---
+
+Q: Which two continents are connected by land at their border?
+A: Europe and Asia. Together they are sometimes called Eurasia because there is no ocean between them.

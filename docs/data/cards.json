@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T17:59:57Z",
+  "generatedAt": "2026-09-15T13:09:54Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -110,6 +110,26 @@
       "kind": "qa",
       "question": "Welche Bauernhoftiere sind Säugetiere?",
       "answer": "Kühe, Schweine, Pferde, Schafe und Ziegen sind Säugetiere. Sie haben Haare oder Fell, atmen Luft und füttern ihre Jungen mit Milch. Hühner sind Vögel, keine Säugetiere."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:4:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum scheren Bauern Schafe im Frühling?",
+      "answer": "Schafe bekommen dickes Wolle, die immer weiter wächst. Scheren hält sie in warmer Zeit kühl und liefert Wolle für Garn und Kleidung."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:5:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welche nützliche Arbeit leisten Bienen auf Höfen und in Gärten?",
+      "answer": "Bienen besuchen Blumen und tragen Pollen von einer Blüte zur nächsten. So können Früchte und Gemüse wachsen."
     },
     {
       "id": "cards/de/Animals/ocean_early.md:1:1",
@@ -452,6 +472,26 @@
       "answer": "In Südamerika. Er ist der größte Regenwald der Welt und Heimat von Jaguaren, Affen und bunten Vögeln."
     },
     {
+      "id": "cards/de/Geography/continents_middle.md:5:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Die Antarktis ist der einzige Kontinent ohne dauerhafte menschliche _____.",
+      "answer": "Städte"
+    },
+    {
+      "id": "cards/de/Geography/continents_middle.md:6:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welche zwei Kontinente sind an ihrer Grenze durch Land verbunden?",
+      "answer": "Europa und Asien. Zusammen nennt man sie manchmal Eurasien, weil kein Ozean zwischen ihnen liegt."
+    },
+    {
       "id": "cards/de/Geography/countries_early.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -660,6 +700,26 @@
       "kind": "cloze",
       "question": "Mit deinen _____ siehst du Licht, Formen und Farben um dich herum.",
       "answer": "Augen"
+    },
+    {
+      "id": "cards/de/Science/body_early.md:6:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was hilft dir, dein Essen zu kauen?",
+      "answer": "Deine Zähne. Sie zerkleinern das Essen, damit du es leichter schlucken kannst."
+    },
+    {
+      "id": "cards/de/Science/body_early.md:7:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was fließt durch deinen Körper in Röhren, die Blutgefäße heißen?",
+      "answer": "Blut. Es bringt Sauerstoff und Nahrung zu den Körperteilen, die sie brauchen."
     },
     {
       "id": "cards/de/Science/body_middle.md:1:1",
@@ -1010,6 +1070,26 @@
       "kind": "cloze",
       "question": "In der _____ sehen wir oft den Mond am Himmel leuchten.",
       "answer": "Nacht"
+    },
+    {
+      "id": "cards/de/Space/moon_early.md:6:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "Warum sieht der Mond nachts hell aus?",
+      "answer": "Er erzeugt kein eigenes Licht. Sonnenlicht prallt vom Mond ab und gelangt zu unseren Augen."
+    },
+    {
+      "id": "cards/de/Space/moon_early.md:7:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist eine Mondsichel?",
+      "answer": "Ein dünner gebogener Streifen des Mondes. Man sieht sie, wenn nur ein kleiner Teil von der Sonne beleuchtet wird."
     },
     {
       "id": "cards/de/Space/moon_middle.md:1:1",
@@ -1412,6 +1492,16 @@
       "answer": "Orange mit schwarzen Linien. So sieht man ihn gut, wenn er sich schnell bewegt."
     },
     {
+      "id": "cards/de/Sports/basketball_early.md:3:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Im Basketball erzielst du Punkte, wenn du den Ball durch den _____ wirfst.",
+      "answer": "Korb"
+    },
+    {
       "id": "cards/de/Sports/basketball_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -1780,6 +1870,26 @@
       "kind": "qa",
       "question": "Which farm animals are mammals?",
       "answer": "Cows, pigs, horses, sheep, and goats are mammals. They have hair or fur, breathe air, and feed milk to their babies. Chickens are birds, not mammals."
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:4:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do farmers shear sheep in spring?",
+      "answer": "Sheep grow thick wool that keeps getting longer. Shearing keeps them cooler in warm weather and gives us wool for yarn and clothes."
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:5:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What helpful work do bees do on farms and gardens?",
+      "answer": "Bees visit flowers and carry pollen from one bloom to another. That helps fruits and vegetables grow."
     },
     {
       "id": "cards/en/Animals/ocean_early.md:1:1",
@@ -2162,6 +2272,26 @@
       "answer": "South America. It is the largest rainforest in the world and home to jaguars, monkeys, and colorful birds."
     },
     {
+      "id": "cards/en/Geography/continents_middle.md:6:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Antarctica is the only continent with no permanent human _____.",
+      "answer": "cities"
+    },
+    {
+      "id": "cards/en/Geography/continents_middle.md:7:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Which two continents are connected by land at their border?",
+      "answer": "Europe and Asia. Together they are sometimes called Eurasia because there is no ocean between them."
+    },
+    {
       "id": "cards/en/Geography/countries_early.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -2400,6 +2530,26 @@
       "kind": "cloze",
       "question": "You use your _____ to see light, shapes, and colors around you.",
       "answer": "eyes"
+    },
+    {
+      "id": "cards/en/Science/body_early.md:6:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "What helps you chew your food?",
+      "answer": "Your teeth. They break food into small pieces so it is easier to swallow."
+    },
+    {
+      "id": "cards/en/Science/body_early.md:7:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "What travels through your body in tubes called blood vessels?",
+      "answer": "Blood. It carries oxygen and food to the parts of your body that need them."
     },
     {
       "id": "cards/en/Science/body_middle.md:1:1",
@@ -2780,6 +2930,26 @@
       "kind": "cloze",
       "question": "At _____, we often see the Moon shining in the sky.",
       "answer": "night"
+    },
+    {
+      "id": "cards/en/Space/moon_early.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "Why does the Moon look bright at night?",
+      "answer": "It does not make its own light. Sunlight bounces off the Moon and reaches our eyes."
+    },
+    {
+      "id": "cards/en/Space/moon_early.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a crescent Moon?",
+      "answer": "A thin curved slice of the Moon. You see it when only a small part is lit by the Sun."
     },
     {
       "id": "cards/en/Space/moon_middle.md:1:1",
@@ -3232,6 +3402,16 @@
       "answer": "Orange with black lines. That makes it easy to see when it moves fast."
     },
     {
+      "id": "cards/en/Sports/basketball_early.md:5:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "cloze",
+      "question": "You score in basketball by throwing the ball through the _____.",
+      "answer": "hoop"
+    },
+    {
       "id": "cards/en/Sports/basketball_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -3612,6 +3792,26 @@
       "answer": "Las vacas, los cerdos, los caballos, las ovejas y las cabras son mamíferos. Tienen pelo o pelaje, respiran aire y dan leche a sus crías. Las gallinas son aves, no mamíferos."
     },
     {
+      "id": "cards/es/Animals/farm_middle.md:4:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los granjeros esquilan las ovejas en primavera?",
+      "answer": "Las ovejas tienen lana gruesa que sigue creciendo. Esquilarlas les ayuda a no pasar calor y nos da lana para hilo y ropa."
+    },
+    {
+      "id": "cards/es/Animals/farm_middle.md:5:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué trabajo útil hacen las abejas en granjas y huertos?",
+      "answer": "Las abejas visitan flores y llevan polen de una flor a otra. Eso ayuda a que crezcan frutas y verduras."
+    },
+    {
       "id": "cards/es/Animals/ocean_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -3952,6 +4152,26 @@
       "answer": "En América del Sur. Es la selva más grande del mundo y viven allí jaguares, monos y pájaros de muchos colores."
     },
     {
+      "id": "cards/es/Geography/continents_middle.md:5:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "La Antártida es el único continente sin _____ humanas permanentes.",
+      "answer": "ciudades"
+    },
+    {
+      "id": "cards/es/Geography/continents_middle.md:6:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué dos continentes están unidos por tierra en su frontera?",
+      "answer": "Europa y Asia. A veces se les llama Eurasia porque no hay un océano entre ellos."
+    },
+    {
       "id": "cards/es/Geography/countries_early.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -4160,6 +4380,26 @@
       "kind": "cloze",
       "question": "Usas tus _____ para ver la luz, las formas y los colores a tu alrededor.",
       "answer": "ojos"
+    },
+    {
+      "id": "cards/es/Science/body_early.md:6:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué te ayuda a masticar la comida?",
+      "answer": "Tus dientes. Rompen la comida en trozos pequeños para que sea más fácil tragarla."
+    },
+    {
+      "id": "cards/es/Science/body_early.md:7:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué viaja por tu cuerpo en tubos llamados vasos sanguíneos?",
+      "answer": "La sangre. Lleva oxígeno y alimento a las partes de tu cuerpo que los necesitan."
     },
     {
       "id": "cards/es/Science/body_middle.md:1:1",
@@ -4510,6 +4750,26 @@
       "kind": "cloze",
       "question": "De _____, a menudo vemos brillar la Luna en el cielo.",
       "answer": "noche"
+    },
+    {
+      "id": "cards/es/Space/moon_early.md:6:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Por qué la Luna se ve brillante de noche?",
+      "answer": "No produce su propia luz. La luz del Sol rebota en la Luna y llega a nuestros ojos."
+    },
+    {
+      "id": "cards/es/Space/moon_early.md:7:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es una Luna creciente?",
+      "answer": "Una fina curva de la Luna. La ves cuando solo una parte pequeña recibe luz del Sol."
     },
     {
       "id": "cards/es/Space/moon_middle.md:1:1",
@@ -4910,6 +5170,16 @@
       "kind": "qa",
       "question": "¿De qué color suele ser un balón de baloncesto?",
       "answer": "Naranja con líneas negras. Así se ve bien cuando se mueve rápido."
+    },
+    {
+      "id": "cards/es/Sports/basketball_early.md:3:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "cloze",
+      "question": "En baloncesto anotas lanzando el balón por la _____.",
+      "answer": "canasta"
     },
     {
       "id": "cards/es/Sports/basketball_middle.md:1:1",

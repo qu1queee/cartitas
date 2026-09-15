@@ -22,3 +22,7 @@ A: No. That is called traveling and the other team gets the ball.
 
 Q: What color is a basketball usually?
 A: Orange with black lines. That makes it easy to see when it moves fast.
+
+---
+
+C: You score in basketball by throwing the ball through the [hoop].

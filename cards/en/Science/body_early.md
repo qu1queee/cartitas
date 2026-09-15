@@ -26,3 +26,13 @@ A: It covers your body and helps protect you from germs, sun, and little bumps.
 ---
 
 C: You use your [eyes] to see light, shapes, and colors around you.
+
+---
+
+Q: What helps you chew your food?
+A: Your teeth. They break food into small pieces so it is easier to swallow.
+
+---
+
+Q: What travels through your body in tubes called blood vessels?
+A: Blood. It carries oxygen and food to the parts of your body that need them.

@@ -13,3 +13,7 @@ A: In den Korb über dem Spielfeld.
 
 Q: Welche Farbe hat ein Basketball meistens?
 A: Orange mit schwarzen Linien. So sieht man ihn gut, wenn er sich schnell bewegt.
+
+---
+
+C: Im Basketball erzielst du Punkte, wenn du den Ball durch den [Korb] wirfst.
