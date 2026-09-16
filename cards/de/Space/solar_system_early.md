@@ -13,3 +13,12 @@ C: [Mars] heißt der rote Planet, weil er am Himmel rötlich aussieht.
 
 Q: Welcher Planet ist berühmt für seine Ringe?
 A: Saturn. Seine Ringe bestehen aus Eis und Gestein.
+
+---
+
+# Sonnensystem — early (5–7)
+
+<!-- age: early | lang: de | topic: space | subtopic: solar_system -->
+
+Q: Was ist das Sonnensystem?
+A: Die Sonne und alles, was um sie herum kreist, zum Beispiel die Planeten und ihre Monde.

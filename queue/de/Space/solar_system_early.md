@@ -1,12 +1,3 @@
-# Sonnensystem — early (5–7)
-
-<!-- age: early | lang: de | topic: space | subtopic: solar_system -->
-
-Q: Was ist das Sonnensystem?
-A: Die Sonne und alles, was um sie herum kreist, zum Beispiel die Planeten und ihre Monde.
-
----
-
 C: Merkur und [Venus] sind die beiden Planeten, die der Sonne am nächsten sind.
 
 ---

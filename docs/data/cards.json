@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:09:54Z",
+  "generatedAt": "2026-09-16T13:10:10Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -130,6 +130,26 @@
       "kind": "qa",
       "question": "Welche nützliche Arbeit leisten Bienen auf Höfen und in Gärten?",
       "answer": "Bienen besuchen Blumen und tragen Pollen von einer Blüte zur nächsten. So können Früchte und Gemüse wachsen."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:6:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Viele Bauern lagern Heu in einer _____, um Tiere zu füttern, wenn kein Gras wächst.",
+      "answer": "Scheune"
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:7:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum fressen Ziegen an steilen Hängen Pflanzen, die Kühe meiden?",
+      "answer": "Ziegen klettern gut und haben starke Lippen und Beine. Sie erreichen Sträucher und Unkraut auf felsigen Hängen."
     },
     {
       "id": "cards/de/Animals/ocean_early.md:1:1",
@@ -492,6 +512,16 @@
       "answer": "Europa und Asien. Zusammen nennt man sie manchmal Eurasien, weil kein Ozean zwischen ihnen liegt."
     },
     {
+      "id": "cards/de/Geography/continents_middle.md:7:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum ist vieles in Zentralafrika das ganze Jahr warm?",
+      "answer": "Der Äquator verläuft durch die Mitte Afrikas. Orte am Äquator bekommen in jeder Jahreszeit viel Sonnenschein."
+    },
+    {
       "id": "cards/de/Geography/countries_early.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -600,6 +630,16 @@
       "kind": "qa",
       "question": "Kann man Meerwasser trinken?",
       "answer": "Nein. Meerwasser ist salzig. Menschen brauchen Süßwasser aus Flüssen, Seen oder Regen."
+    },
+    {
+      "id": "cards/de/Geography/oceans_early.md:4:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welche Farbe hat Meerwasser meistens?",
+      "answer": "Blau oder blaugrün. Sonnenlicht und der Himmel lassen es so aussehen."
     },
     {
       "id": "cards/de/Geography/oceans_middle.md:1:1",
@@ -720,6 +760,16 @@
       "kind": "qa",
       "question": "Was fließt durch deinen Körper in Röhren, die Blutgefäße heißen?",
       "answer": "Blut. Es bringt Sauerstoff und Nahrung zu den Körperteilen, die sie brauchen."
+    },
+    {
+      "id": "cards/de/Science/body_early.md:8:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Ein fester _____ umgibt dein Gehirn und hilft, es sicher im Kopf zu halten.",
+      "answer": "Schädel"
     },
     {
       "id": "cards/de/Science/body_middle.md:1:1",
@@ -1092,6 +1142,16 @@
       "answer": "Ein dünner gebogener Streifen des Mondes. Man sieht sie, wenn nur ein kleiner Teil von der Sonne beleuchtet wird."
     },
     {
+      "id": "cards/de/Space/moon_early.md:8:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wie viele Monde hat die Erde?",
+      "answer": "Einen. Unser Mond ist der helle runde Fleck, den wir am Nachthimmel sehen."
+    },
+    {
       "id": "cards/de/Space/moon_middle.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -1220,6 +1280,16 @@
       "kind": "qa",
       "question": "Welcher Planet ist berühmt für seine Ringe?",
       "answer": "Saturn. Seine Ringe bestehen aus Eis und Gestein."
+    },
+    {
+      "id": "cards/de/Space/solar_system_early.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist das Sonnensystem?",
+      "answer": "Die Sonne und alles, was um sie herum kreist, zum Beispiel die Planeten und ihre Monde."
     },
     {
       "id": "cards/de/Space/solar_system_middle.md:1:1",
@@ -1500,6 +1570,16 @@
       "kind": "cloze",
       "question": "Im Basketball erzielst du Punkte, wenn du den Ball durch den _____ wirfst.",
       "answer": "Korb"
+    },
+    {
+      "id": "cards/de/Sports/basketball_early.md:4:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wo spielt man Basketball?",
+      "answer": "Auf einem Spielfeld mit Körben an beiden Enden. Viele Spiele finden in einer Halle oder in einem Park im Freien statt."
     },
     {
       "id": "cards/de/Sports/basketball_middle.md:1:1",
@@ -1890,6 +1970,26 @@
       "kind": "qa",
       "question": "What helpful work do bees do on farms and gardens?",
       "answer": "Bees visit flowers and carry pollen from one bloom to another. That helps fruits and vegetables grow."
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:6:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Many farmers store hay in a _____ to feed animals when grass is not growing.",
+      "answer": "barn"
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:7:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why can goats eat plants on steep hills that cows avoid?",
+      "answer": "Goats are good climbers with tough lips and strong legs. They can reach brush and weeds on rocky slopes."
     },
     {
       "id": "cards/en/Animals/ocean_early.md:1:1",
@@ -2292,6 +2392,16 @@
       "answer": "Europe and Asia. Together they are sometimes called Eurasia because there is no ocean between them."
     },
     {
+      "id": "cards/en/Geography/continents_middle.md:8:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why is much of central Africa warm all year?",
+      "answer": "The equator runs through the middle of Africa. Places on the equator get strong sunshine in every season."
+    },
+    {
       "id": "cards/en/Geography/countries_early.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -2432,6 +2542,16 @@
       "answer": "No. Ocean water is salty. People need fresh water from rivers, lakes, or rain."
     },
     {
+      "id": "cards/en/Geography/oceans_early.md:4:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "What color does ocean water usually look?",
+      "answer": "Blue or blue-green. Sunlight and the sky help make it look that way."
+    },
+    {
       "id": "cards/en/Geography/oceans_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -2550,6 +2670,16 @@
       "kind": "qa",
       "question": "What travels through your body in tubes called blood vessels?",
       "answer": "Blood. It carries oxygen and food to the parts of your body that need them."
+    },
+    {
+      "id": "cards/en/Science/body_early.md:8:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "A hard _____ wraps around your brain to help keep it safe inside your head.",
+      "answer": "skull"
     },
     {
       "id": "cards/en/Science/body_middle.md:1:1",
@@ -2952,6 +3082,16 @@
       "answer": "A thin curved slice of the Moon. You see it when only a small part is lit by the Sun."
     },
     {
+      "id": "cards/en/Space/moon_early.md:8:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "How many moons does Earth have?",
+      "answer": "One. Our Moon is the bright round object we see in the night sky."
+    },
+    {
       "id": "cards/en/Space/moon_middle.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -3080,6 +3220,16 @@
       "kind": "qa",
       "question": "Which planet is famous for its rings?",
       "answer": "Saturn. Its rings are made of ice and rock."
+    },
+    {
+      "id": "cards/en/Space/solar_system_early.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is the solar system?",
+      "answer": "The Sun and everything that travels around it, like the planets and their moons."
     },
     {
       "id": "cards/en/Space/solar_system_middle.md:1:1",
@@ -3410,6 +3560,16 @@
       "kind": "cloze",
       "question": "You score in basketball by throwing the ball through the _____.",
       "answer": "hoop"
+    },
+    {
+      "id": "cards/en/Sports/basketball_early.md:6:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "Where do people play basketball?",
+      "answer": "On a court with hoops at each end. Many games happen in a gym or at an outdoor park."
     },
     {
       "id": "cards/en/Sports/basketball_middle.md:1:1",
@@ -3812,6 +3972,26 @@
       "answer": "Las abejas visitan flores y llevan polen de una flor a otra. Eso ayuda a que crezcan frutas y verduras."
     },
     {
+      "id": "cards/es/Animals/farm_middle.md:6:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Muchos granjeros guardan heno en un _____ para alimentar a los animales cuando no crece pasto.",
+      "answer": "granero"
+    },
+    {
+      "id": "cards/es/Animals/farm_middle.md:7:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué las cabras pueden comer plantas en laderas empinadas que las vacas evitan?",
+      "answer": "Las cabras trepan bien y tienen labios fuertes y patas resistentes. Llegan a matorrales y hierbas en pendientes rocosas."
+    },
+    {
       "id": "cards/es/Animals/ocean_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4172,6 +4352,16 @@
       "answer": "Europa y Asia. A veces se les llama Eurasia porque no hay un océano entre ellos."
     },
     {
+      "id": "cards/es/Geography/continents_middle.md:7:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué gran parte del centro de África es cálida todo el año?",
+      "answer": "El ecuador pasa por el medio de África. Los lugares en el ecuador reciben mucho sol en todas las estaciones."
+    },
+    {
       "id": "cards/es/Geography/countries_early.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -4280,6 +4470,16 @@
       "kind": "qa",
       "question": "¿Se puede beber el agua del océano?",
       "answer": "No. El agua del mar es salada. Necesitamos agua dulce de ríos, lagos o lluvia."
+    },
+    {
+      "id": "cards/es/Geography/oceans_early.md:4:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿De qué color suele verse el agua del océano?",
+      "answer": "Azul o azul verdoso. La luz del sol y el cielo ayudan a que se vea así."
     },
     {
       "id": "cards/es/Geography/oceans_middle.md:1:1",
@@ -4400,6 +4600,16 @@
       "kind": "qa",
       "question": "¿Qué viaja por tu cuerpo en tubos llamados vasos sanguíneos?",
       "answer": "La sangre. Lleva oxígeno y alimento a las partes de tu cuerpo que los necesitan."
+    },
+    {
+      "id": "cards/es/Science/body_early.md:8:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Un _____ duro rodea tu cerebro para ayudar a mantenerlo a salvo dentro de la cabeza.",
+      "answer": "cráneo"
     },
     {
       "id": "cards/es/Science/body_middle.md:1:1",
@@ -4772,6 +4982,16 @@
       "answer": "Una fina curva de la Luna. La ves cuando solo una parte pequeña recibe luz del Sol."
     },
     {
+      "id": "cards/es/Space/moon_early.md:8:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Cuántas lunas tiene la Tierra?",
+      "answer": "Una. Nuestra Luna es el objeto redondo y brillante que vemos en el cielo nocturno."
+    },
+    {
       "id": "cards/es/Space/moon_middle.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -4900,6 +5120,16 @@
       "kind": "qa",
       "question": "¿Qué planeta es famoso por sus anillos?",
       "answer": "Saturno. Sus anillos están hechos de hielo y roca."
+    },
+    {
+      "id": "cards/es/Space/solar_system_early.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es el sistema solar?",
+      "answer": "El Sol y todo lo que gira a su alrededor, como los planetas y sus lunas."
     },
     {
       "id": "cards/es/Space/solar_system_middle.md:1:1",
@@ -5180,6 +5410,16 @@
       "kind": "cloze",
       "question": "En baloncesto anotas lanzando el balón por la _____.",
       "answer": "canasta"
+    },
+    {
+      "id": "cards/es/Sports/basketball_early.md:4:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Dónde juega la gente al baloncesto?",
+      "answer": "En una pista con canastas en cada extremo. Muchos partidos se juegan en un gimnasio o en un parque al aire libre."
     },
     {
       "id": "cards/es/Sports/basketball_middle.md:1:1",

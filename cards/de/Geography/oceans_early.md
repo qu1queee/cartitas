@@ -13,3 +13,12 @@ C: Fische und Wale leben im [Ozean].
 
 Q: Kann man Meerwasser trinken?
 A: Nein. Meerwasser ist salzig. Menschen brauchen Süßwasser aus Flüssen, Seen oder Regen.
+
+---
+
+# Ozeane — early (5–7)
+
+<!-- age: early | lang: de | topic: geography | subtopic: oceans -->
+
+Q: Welche Farbe hat Meerwasser meistens?
+A: Blau oder blaugrün. Sonnenlicht und der Himmel lassen es so aussehen.

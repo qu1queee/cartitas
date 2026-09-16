@@ -1,12 +1,3 @@
-# Solar system — early (5–7)
-
-<!-- age: early | lang: en | topic: space | subtopic: solar_system -->
-
-Q: What is the solar system?
-A: The Sun and everything that travels around it, like the planets and their moons.
-
----
-
 C: Mercury and [Venus] are the two planets closest to the Sun.
 
 ---

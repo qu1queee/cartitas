@@ -1,12 +1,3 @@
-# Sistema solar — early (5–7)
-
-<!-- age: early | lang: es | topic: space | subtopic: solar_system -->
-
-Q: ¿Qué es el sistema solar?
-A: El Sol y todo lo que gira a su alrededor, como los planetas y sus lunas.
-
----
-
 C: Mercurio y [Venus] son los dos planetas más cercanos al Sol.
 
 ---

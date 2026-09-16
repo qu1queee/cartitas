@@ -24,3 +24,12 @@ A: Sheep grow thick wool that keeps getting longer. Shearing keeps them cooler i
 
 Q: What helpful work do bees do on farms and gardens?
 A: Bees visit flowers and carry pollen from one bloom to another. That helps fruits and vegetables grow.
+
+---
+
+C: Many farmers store hay in a [barn] to feed animals when grass is not growing.
+
+---
+
+Q: Why can goats eat plants on steep hills that cows avoid?
+A: Goats are good climbers with tough lips and strong legs. They can reach brush and weeds on rocky slopes.

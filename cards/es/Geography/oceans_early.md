@@ -13,3 +13,12 @@ C: Los peces y las ballenas viven en el [océano].
 
 Q: ¿Se puede beber el agua del océano?
 A: No. El agua del mar es salada. Necesitamos agua dulce de ríos, lagos o lluvia.
+
+---
+
+# Océanos — early (5–7)
+
+<!-- age: early | lang: es | topic: geography | subtopic: oceans -->
+
+Q: ¿De qué color suele verse el agua del océano?
+A: Azul o azul verdoso. La luz del sol y el cielo ayudan a que se vea así.

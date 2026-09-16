@@ -26,3 +26,8 @@ A: Orange with black lines. That makes it easy to see when it moves fast.
 ---
 
 C: You score in basketball by throwing the ball through the [hoop].
+
+---
+
+Q: Where do people play basketball?
+A: On a court with hoops at each end. Many games happen in a gym or at an outdoor park.

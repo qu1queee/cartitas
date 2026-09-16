@@ -24,3 +24,12 @@ A: Las ovejas tienen lana gruesa que sigue creciendo. Esquilarlas les ayuda a no
 
 Q: ¿Qué trabajo útil hacen las abejas en granjas y huertos?
 A: Las abejas visitan flores y llevan polen de una flor a otra. Eso ayuda a que crezcan frutas y verduras.
+
+---
+
+C: Muchos granjeros guardan heno en un [granero] para alimentar a los animales cuando no crece pasto.
+
+---
+
+Q: ¿Por qué las cabras pueden comer plantas en laderas empinadas que las vacas evitan?
+A: Las cabras trepan bien y tienen labios fuertes y patas resistentes. Llegan a matorrales y hierbas en pendientes rocosas.

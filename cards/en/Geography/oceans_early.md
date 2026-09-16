@@ -13,3 +13,12 @@ C: Fish and whales live in the [ocean].
 
 Q: Is ocean water safe to drink?
 A: No. Ocean water is salty. People need fresh water from rivers, lakes, or rain.
+
+---
+
+# Oceans — early (5–7)
+
+<!-- age: early | lang: en | topic: geography | subtopic: oceans -->
+
+Q: What color does ocean water usually look?
+A: Blue or blue-green. Sunlight and the sky help make it look that way.

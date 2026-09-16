@@ -17,3 +17,8 @@ A: Orange mit schwarzen Linien. So sieht man ihn gut, wenn er sich schnell beweg
 ---
 
 C: Im Basketball erzielst du Punkte, wenn du den Ball durch den [Korb] wirfst.
+
+---
+
+Q: Wo spielt man Basketball?
+A: Auf einem Spielfeld mit Körben an beiden Enden. Viele Spiele finden in einer Halle oder in einem Park im Freien statt.

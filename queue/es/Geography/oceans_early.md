@@ -1,12 +1,3 @@
-# Océanos — early (5–7)
-
-<!-- age: early | lang: es | topic: geography | subtopic: oceans -->
-
-Q: ¿De qué color suele verse el agua del océano?
-A: Azul o azul verdoso. La luz del sol y el cielo ayudan a que se vea así.
-
----
-
 Q: ¿Qué es una ola?
 A: Una montaña de agua que se mueve en el océano. El viento suele empujar las olas hacia la playa.
 
