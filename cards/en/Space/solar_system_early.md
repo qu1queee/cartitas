@@ -22,3 +22,12 @@ A: Saturn. Its rings are made of ice and rock.
 
 Q: What is the solar system?
 A: The Sun and everything that travels around it, like the planets and their moons.
+
+---
+
+C: Mercury and [Venus] are the two planets closest to the Sun.
+
+---
+
+Q: Which planet do we live on?
+A: Earth. It is the third planet from the Sun.

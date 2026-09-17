@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T13:10:10Z",
+  "generatedAt": "2026-09-17T13:04:21Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -150,6 +150,16 @@
       "kind": "qa",
       "question": "Warum fressen Ziegen an steilen Hängen Pflanzen, die Kühe meiden?",
       "answer": "Ziegen klettern gut und haben starke Lippen und Beine. Sie erreichen Sträucher und Unkraut auf felsigen Hängen."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:8:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welches Geräusch macht ein Esel, und warum halten Bauern manchmal einen?",
+      "answer": "Ein Esel iaht laut. Esel können Feinde verscheuchen und schwere Lasten auf Wegen tragen."
     },
     {
       "id": "cards/de/Animals/ocean_early.md:1:1",
@@ -320,6 +330,16 @@
       "kind": "cloze",
       "question": "Ein _____ als Haustier lebt in einem Aquarium mit sauberem Wasser.",
       "answer": "Fisch"
+    },
+    {
+      "id": "cards/de/Animals/pets_early.md:6:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "Warum haben Katzen scharfe Krallen?",
+      "answer": "Katzen benutzen ihre Krallen zum Klettern und Kratzen. Kratzen hält die Krallen gesund."
     },
     {
       "id": "cards/de/Animals/pets_middle.md:1:1",
@@ -640,6 +660,26 @@
       "kind": "qa",
       "question": "Welche Farbe hat Meerwasser meistens?",
       "answer": "Blau oder blaugrün. Sonnenlicht und der Himmel lassen es so aussehen."
+    },
+    {
+      "id": "cards/de/Geography/oceans_early.md:5:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist eine Welle?",
+      "answer": "Ein bewegter Wasserberg im Ozean. Wind schiebt Wellen oft Richtung Strand."
+    },
+    {
+      "id": "cards/de/Geography/oceans_early.md:6:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Krabben und Strandvögel leben oft am _____, wo Land und Ozean zusammentreffen.",
+      "answer": "Strand"
     },
     {
       "id": "cards/de/Geography/oceans_middle.md:1:1",
@@ -1072,6 +1112,26 @@
       "answer": "Wind ist bewegte Luft. Warme Luft steigt auf und kühle Luft strömt nach, wodurch sich die Luft bewegt."
     },
     {
+      "id": "cards/de/Science/weather_middle.md:6:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Hagel?",
+      "answer": "Hagel ist Eis, das aus starken Gewittern fällt. Aufwinde in der Wolke schleudern Regentropfen hin und her, bis sie zu harten Eiskugeln gefrieren."
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:7:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Wettervorhersage?",
+      "answer": "Das ist die beste Schätzung von Wissenschaftlern, was das Wetter bald machen wird. Sie nutzen Satelliten, Radar und Computer, um Wolken und Wind zu beobachten."
+    },
+    {
       "id": "cards/de/Space/moon_early.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -1290,6 +1350,26 @@
       "kind": "qa",
       "question": "Was ist das Sonnensystem?",
       "answer": "Die Sonne und alles, was um sie herum kreist, zum Beispiel die Planeten und ihre Monde."
+    },
+    {
+      "id": "cards/de/Space/solar_system_early.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Merkur und _____ sind die beiden Planeten, die der Sonne am nächsten sind.",
+      "answer": "Venus"
+    },
+    {
+      "id": "cards/de/Space/solar_system_early.md:6:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Planeten leben wir?",
+      "answer": "Auf der Erde. Sie ist der dritte Planet von der Sonne aus gezählt."
     },
     {
       "id": "cards/de/Space/solar_system_middle.md:1:1",
@@ -1580,6 +1660,16 @@
       "kind": "qa",
       "question": "Wo spielt man Basketball?",
       "answer": "Auf einem Spielfeld mit Körben an beiden Enden. Viele Spiele finden in einer Halle oder in einem Park im Freien statt."
+    },
+    {
+      "id": "cards/de/Sports/basketball_early.md:5:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was hängt unter dem Basketballring?",
+      "answer": "Ein Netz. Es fängt den Ball, wenn jemand punktet, damit er nicht direkt auf den Boden fällt."
     },
     {
       "id": "cards/de/Sports/basketball_middle.md:1:1",
@@ -1992,6 +2082,16 @@
       "answer": "Goats are good climbers with tough lips and strong legs. They can reach brush and weeds on rocky slopes."
     },
     {
+      "id": "cards/en/Animals/farm_middle.md:8:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What sound does a donkey make, and why might farmers keep one?",
+      "answer": "A donkey brays with a loud hee-haw. Donkeys can scare away predators and carry heavy packs on trails."
+    },
+    {
       "id": "cards/en/Animals/ocean_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2170,6 +2270,16 @@
       "kind": "cloze",
       "question": "A pet _____ lives in a tank with clean water.",
       "answer": "fish"
+    },
+    {
+      "id": "cards/en/Animals/pets_early.md:6:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "Why do cats have sharp claws?",
+      "answer": "Cats use their claws to climb and scratch. Scratching helps keep their claws healthy."
     },
     {
       "id": "cards/en/Animals/pets_middle.md:1:1",
@@ -2552,6 +2662,26 @@
       "answer": "Blue or blue-green. Sunlight and the sky help make it look that way."
     },
     {
+      "id": "cards/en/Geography/oceans_early.md:5:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a wave?",
+      "answer": "A moving hill of water on the ocean. Wind often pushes waves toward the beach."
+    },
+    {
+      "id": "cards/en/Geography/oceans_early.md:6:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Crabs and shorebirds often live near the _____ where land meets the ocean.",
+      "answer": "beach"
+    },
+    {
       "id": "cards/en/Geography/oceans_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -2932,6 +3062,16 @@
       "answer": "Colors in the sky that appear when sunlight shines through raindrops."
     },
     {
+      "id": "cards/en/Science/weather_middle.md:10:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a weather forecast?",
+      "answer": "It is a scientist's best guess about what the weather will do soon. They use satellites, radar, and computers to watch clouds and wind."
+    },
+    {
       "id": "cards/en/Science/weather_middle.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -3010,6 +3150,16 @@
       "kind": "qa",
       "question": "What is wind?",
       "answer": "Wind is moving air. Warm air rises and cool air moves in to take its place, which pushes the air around."
+    },
+    {
+      "id": "cards/en/Science/weather_middle.md:9:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is hail?",
+      "answer": "Hail is ice that falls from strong thunderstorms. Updrafts in the cloud toss raindrops up and down until they freeze into hard balls of ice."
     },
     {
       "id": "cards/en/Space/moon_early.md:1:1",
@@ -3230,6 +3380,26 @@
       "kind": "qa",
       "question": "What is the solar system?",
       "answer": "The Sun and everything that travels around it, like the planets and their moons."
+    },
+    {
+      "id": "cards/en/Space/solar_system_early.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Mercury and _____ are the two planets closest to the Sun.",
+      "answer": "Venus"
+    },
+    {
+      "id": "cards/en/Space/solar_system_early.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which planet do we live on?",
+      "answer": "Earth. It is the third planet from the Sun."
     },
     {
       "id": "cards/en/Space/solar_system_middle.md:1:1",
@@ -3570,6 +3740,16 @@
       "kind": "qa",
       "question": "Where do people play basketball?",
       "answer": "On a court with hoops at each end. Many games happen in a gym or at an outdoor park."
+    },
+    {
+      "id": "cards/en/Sports/basketball_early.md:7:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "What hangs below the basketball ring?",
+      "answer": "A net. It catches the ball when someone scores so it does not fall straight to the floor."
     },
     {
       "id": "cards/en/Sports/basketball_middle.md:1:1",
@@ -3992,6 +4172,16 @@
       "answer": "Las cabras trepan bien y tienen labios fuertes y patas resistentes. Llegan a matorrales y hierbas en pendientes rocosas."
     },
     {
+      "id": "cards/es/Animals/farm_middle.md:8:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué sonido hace un burro y por qué a veces lo cuida un granjero?",
+      "answer": "El burro rebuzna con un fuerte i-a. Puede ahuyentar depredadores y cargar bultos pesados por senderos."
+    },
+    {
       "id": "cards/es/Animals/ocean_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4160,6 +4350,16 @@
       "kind": "cloze",
       "question": "Un _____ mascota vive en una pecera con agua limpia.",
       "answer": "pez"
+    },
+    {
+      "id": "cards/es/Animals/pets_early.md:6:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Por qué los gatos tienen garras afiladas?",
+      "answer": "Los gatos usan las garras para trepar y arañar. Arañar les ayuda a mantener las garras sanas."
     },
     {
       "id": "cards/es/Animals/pets_middle.md:1:1",
@@ -4480,6 +4680,26 @@
       "kind": "qa",
       "question": "¿De qué color suele verse el agua del océano?",
       "answer": "Azul o azul verdoso. La luz del sol y el cielo ayudan a que se vea así."
+    },
+    {
+      "id": "cards/es/Geography/oceans_early.md:5:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es una ola?",
+      "answer": "Una montaña de agua que se mueve en el océano. El viento suele empujar las olas hacia la playa."
+    },
+    {
+      "id": "cards/es/Geography/oceans_early.md:6:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los cangrejos y las aves playeras suelen vivir cerca de la _____, donde la tierra se encuentra con el océano.",
+      "answer": "playa"
     },
     {
       "id": "cards/es/Geography/oceans_middle.md:1:1",
@@ -4912,6 +5132,26 @@
       "answer": "El viento es aire en movimiento. El aire caliente sube y el aire frío entra a ocupar su lugar, lo que empuja el aire de un lado a otro."
     },
     {
+      "id": "cards/es/Science/weather_middle.md:6:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es el granizo?",
+      "answer": "El granizo es hielo que cae de tormentas fuertes. Las corrientes de aire dentro de la nube suben y bajan las gotas de lluvia hasta que se congelan en bolas duras de hielo."
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:7:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un pronóstico del tiempo?",
+      "answer": "Es la mejor estimación de los científicos sobre lo que hará el clima pronto. Usan satélites, radar y computadoras para observar nubes y viento."
+    },
+    {
       "id": "cards/es/Space/moon_early.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -5130,6 +5370,26 @@
       "kind": "qa",
       "question": "¿Qué es el sistema solar?",
       "answer": "El Sol y todo lo que gira a su alrededor, como los planetas y sus lunas."
+    },
+    {
+      "id": "cards/es/Space/solar_system_early.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Mercurio y _____ son los dos planetas más cercanos al Sol.",
+      "answer": "Venus"
+    },
+    {
+      "id": "cards/es/Space/solar_system_early.md:6:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué planeta vivimos?",
+      "answer": "En la Tierra. Es el tercer planeta contando desde el Sol."
     },
     {
       "id": "cards/es/Space/solar_system_middle.md:1:1",
@@ -5420,6 +5680,16 @@
       "kind": "qa",
       "question": "¿Dónde juega la gente al baloncesto?",
       "answer": "En una pista con canastas en cada extremo. Muchos partidos se juegan en un gimnasio o en un parque al aire libre."
+    },
+    {
+      "id": "cards/es/Sports/basketball_early.md:5:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué cuelga debajo del aro de baloncesto?",
+      "answer": "Una red. Atrapa el balón cuando alguien anota para que no caiga directo al suelo."
     },
     {
       "id": "cards/es/Sports/basketball_middle.md:1:1",

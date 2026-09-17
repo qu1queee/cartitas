@@ -1,12 +1,3 @@
-C: Merkur und [Venus] sind die beiden Planeten, die der Sonne am nächsten sind.
-
----
-
-Q: Auf welchem Planeten leben wir?
-A: Auf der Erde. Sie ist der dritte Planet von der Sonne aus gezählt.
-
----
-
 Q: Was hält die Planeten davon ab, im Weltraum wegzudriften?
 A: Die Schwerkraft der Sonne. Sie zieht die Planeten an und hält sie auf ihrer Bahn um die Sonne.
 

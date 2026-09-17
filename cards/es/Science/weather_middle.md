@@ -23,3 +23,17 @@ A: El agua se mueve en un ciclo. Se evapora de mares y lagos, forma nubes, cae c
 
 Q: ¿Qué es el viento?
 A: El viento es aire en movimiento. El aire caliente sube y el aire frío entra a ocupar su lugar, lo que empuja el aire de un lado a otro.
+
+---
+
+# El clima — middle (8–11)
+
+<!-- age: middle | lang: es | topic: science | subtopic: weather -->
+
+Q: ¿Qué es el granizo?
+A: El granizo es hielo que cae de tormentas fuertes. Las corrientes de aire dentro de la nube suben y bajan las gotas de lluvia hasta que se congelan en bolas duras de hielo.
+
+---
+
+Q: ¿Qué es un pronóstico del tiempo?
+A: Es la mejor estimación de los científicos sobre lo que hará el clima pronto. Usan satélites, radar y computadoras para observar nubes y viento.

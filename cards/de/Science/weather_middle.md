@@ -23,3 +23,17 @@ A: Wasser bewegt sich im Kreis. Es verdunstet aus Meeren und Seen, bildet Wolken
 
 Q: Was ist Wind?
 A: Wind ist bewegte Luft. Warme Luft steigt auf und kühle Luft strömt nach, wodurch sich die Luft bewegt.
+
+---
+
+# Wetter — middle (8–11)
+
+<!-- age: middle | lang: de | topic: science | subtopic: weather -->
+
+Q: Was ist Hagel?
+A: Hagel ist Eis, das aus starken Gewittern fällt. Aufwinde in der Wolke schleudern Regentropfen hin und her, bis sie zu harten Eiskugeln gefrieren.
+
+---
+
+Q: Was ist eine Wettervorhersage?
+A: Das ist die beste Schätzung von Wissenschaftlern, was das Wetter bald machen wird. Sie nutzen Satelliten, Radar und Computer, um Wolken und Wind zu beobachten.

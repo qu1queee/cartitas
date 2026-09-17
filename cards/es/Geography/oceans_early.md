@@ -22,3 +22,12 @@ A: No. El agua del mar es salada. Necesitamos agua dulce de ríos, lagos o lluvi
 
 Q: ¿De qué color suele verse el agua del océano?
 A: Azul o azul verdoso. La luz del sol y el cielo ayudan a que se vea así.
+
+---
+
+Q: ¿Qué es una ola?
+A: Una montaña de agua que se mueve en el océano. El viento suele empujar las olas hacia la playa.
+
+---
+
+C: Los cangrejos y las aves playeras suelen vivir cerca de la [playa], donde la tierra se encuentra con el océano.

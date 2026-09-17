@@ -22,3 +22,12 @@ A: Saturno. Sus anillos están hechos de hielo y roca.
 
 Q: ¿Qué es el sistema solar?
 A: El Sol y todo lo que gira a su alrededor, como los planetas y sus lunas.
+
+---
+
+C: Mercurio y [Venus] son los dos planetas más cercanos al Sol.
+
+---
+
+Q: ¿En qué planeta vivimos?
+A: En la Tierra. Es el tercer planeta contando desde el Sol.

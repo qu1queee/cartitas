@@ -26,3 +26,8 @@ A: ¡Guau! Los perros ladran para saludar a la gente o para avisar de algo que l
 ---
 
 C: Un [pez] mascota vive en una pecera con agua limpia.
+
+---
+
+Q: ¿Por qué los gatos tienen garras afiladas?
+A: Los gatos usan las garras para trepar y arañar. Arañar les ayuda a mantener las garras sanas.

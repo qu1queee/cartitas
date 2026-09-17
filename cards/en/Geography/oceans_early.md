@@ -22,3 +22,12 @@ A: No. Ocean water is salty. People need fresh water from rivers, lakes, or rain
 
 Q: What color does ocean water usually look?
 A: Blue or blue-green. Sunlight and the sky help make it look that way.
+
+---
+
+Q: What is a wave?
+A: A moving hill of water on the ocean. Wind often pushes waves toward the beach.
+
+---
+
+C: Crabs and shorebirds often live near the [beach] where land meets the ocean.

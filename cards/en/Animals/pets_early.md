@@ -26,3 +26,8 @@ A: Woof! Dogs bark to greet people and to say that something surprised them.
 ---
 
 C: A pet [fish] lives in a tank with clean water.
+
+---
+
+Q: Why do cats have sharp claws?
+A: Cats use their claws to climb and scratch. Scratching helps keep their claws healthy.

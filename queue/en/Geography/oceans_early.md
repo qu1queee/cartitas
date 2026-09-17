@@ -1,12 +1,3 @@
-Q: What is a wave?
-A: A moving hill of water on the ocean. Wind often pushes waves toward the beach.
-
----
-
-C: Crabs and shorebirds often live near the [beach] where land meets the ocean.
-
----
-
 Q: How do fish breathe underwater?
 A: They use gills. Gills take oxygen from the water so fish can stay alive.
 

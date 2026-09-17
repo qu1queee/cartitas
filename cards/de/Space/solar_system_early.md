@@ -22,3 +22,12 @@ A: Saturn. Seine Ringe bestehen aus Eis und Gestein.
 
 Q: Was ist das Sonnensystem?
 A: Die Sonne und alles, was um sie herum kreist, zum Beispiel die Planeten und ihre Monde.
+
+---
+
+C: Merkur und [Venus] sind die beiden Planeten, die der Sonne am nächsten sind.
+
+---
+
+Q: Auf welchem Planeten leben wir?
+A: Auf der Erde. Sie ist der dritte Planet von der Sonne aus gezählt.

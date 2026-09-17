@@ -22,3 +22,12 @@ A: Nein. Meerwasser ist salzig. Menschen brauchen Süßwasser aus Flüssen, Seen
 
 Q: Welche Farbe hat Meerwasser meistens?
 A: Blau oder blaugrün. Sonnenlicht und der Himmel lassen es so aussehen.
+
+---
+
+Q: Was ist eine Welle?
+A: Ein bewegter Wasserberg im Ozean. Wind schiebt Wellen oft Richtung Strand.
+
+---
+
+C: Krabben und Strandvögel leben oft am [Strand], wo Land und Ozean zusammentreffen.

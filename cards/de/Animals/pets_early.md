@@ -26,3 +26,8 @@ A: Wuff! Hunde bellen, um Menschen zu begrüßen oder zu zeigen, dass sie etwas 
 ---
 
 C: Ein [Fisch] als Haustier lebt in einem Aquarium mit sauberem Wasser.
+
+---
+
+Q: Warum haben Katzen scharfe Krallen?
+A: Katzen benutzen ihre Krallen zum Klettern und Kratzen. Kratzen hält die Krallen gesund.
