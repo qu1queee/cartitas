@@ -37,3 +37,12 @@ A: El granizo es hielo que cae de tormentas fuertes. Las corrientes de aire dent
 
 Q: ¿Qué es un pronóstico del tiempo?
 A: Es la mejor estimación de los científicos sobre lo que hará el clima pronto. Usan satélites, radar y computadoras para observar nubes y viento.
+
+---
+
+C: Durante una tormenta, un destello brillante de [relámpago] puede cruzar el cielo segundos antes de que oigas el trueno.
+
+---
+
+Q: ¿Qué es una sequía?
+A: Una sequía es un periodo largo con mucha menos lluvia de lo normal. Los ríos y lagos pueden bajar, y las plantas y las granjas pueden necesitar agua extra.

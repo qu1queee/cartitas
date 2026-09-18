@@ -55,3 +55,12 @@ A: Hail is ice that falls from strong thunderstorms. Updrafts in the cloud toss 
 
 Q: What is a weather forecast?
 A: It is a scientist's best guess about what the weather will do soon. They use satellites, radar, and computers to watch clouds and wind.
+
+---
+
+C: During a storm, a bright flash of [lightning] can cross the sky seconds before you hear thunder.
+
+---
+
+Q: What is a drought?
+A: A drought is a long time with much less rain than usual. Rivers and lakes can shrink, and plants and farms may need extra water.

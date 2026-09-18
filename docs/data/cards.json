@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:04:21Z",
+  "generatedAt": "2026-09-18T12:44:33Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -342,6 +342,26 @@
       "answer": "Katzen benutzen ihre Krallen zum Klettern und Kratzen. Kratzen hält die Krallen gesund."
     },
     {
+      "id": "cards/de/Animals/pets_early.md:7:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welches Haustier hat weiches Fell und quiekt, wenn es glücklich ist?",
+      "answer": "Ein Meerschweinchen! Meerschweinchen mögen es, mit einem Freund zusammenzuleben und frisches Gemüse zu fressen."
+    },
+    {
+      "id": "cards/de/Animals/pets_early.md:8:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Vögel im Käfig brauchen eine _____, auf der sie stehen können, und Platz, um die Flügel zu strecken.",
+      "answer": "Sitzstange"
+    },
+    {
       "id": "cards/de/Animals/pets_middle.md:1:1",
       "lang": "de",
       "topic": "Animals",
@@ -680,6 +700,26 @@
       "kind": "cloze",
       "question": "Krabben und Strandvögel leben oft am _____, wo Land und Ozean zusammentreffen.",
       "answer": "Strand"
+    },
+    {
+      "id": "cards/de/Geography/oceans_early.md:7:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wie atmen Fische unter Wasser?",
+      "answer": "Mit Kiemen. Kiemen holen Sauerstoff aus dem Wasser, damit der Fisch leben kann."
+    },
+    {
+      "id": "cards/de/Geography/oceans_early.md:8:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "Woraus besteht Strandsand?",
+      "answer": "Aus winzigen Stücken von Gestein und zerbrochenen Muscheln. Wellen mahlen sie über lange Zeit klein."
     },
     {
       "id": "cards/de/Geography/oceans_middle.md:1:1",
@@ -1132,6 +1172,26 @@
       "answer": "Das ist die beste Schätzung von Wissenschaftlern, was das Wetter bald machen wird. Sie nutzen Satelliten, Radar und Computer, um Wolken und Wind zu beobachten."
     },
     {
+      "id": "cards/de/Science/weather_middle.md:8:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Bei einem Gewitter kann ein heller _____ über den Himmel zucken, Sekunden bevor du den Donner hörst.",
+      "answer": "Blitz"
+    },
+    {
+      "id": "cards/de/Science/weather_middle.md:9:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Dürre?",
+      "answer": "Eine Dürre ist eine lange Zeit mit viel weniger Regen als sonst. Flüsse und Seen können schrumpfen, und Pflanzen und Felder brauchen vielleicht extra Wasser."
+    },
+    {
       "id": "cards/de/Space/moon_early.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -1370,6 +1430,26 @@
       "kind": "qa",
       "question": "Auf welchem Planeten leben wir?",
       "answer": "Auf der Erde. Sie ist der dritte Planet von der Sonne aus gezählt."
+    },
+    {
+      "id": "cards/de/Space/solar_system_early.md:7:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was hält die Planeten davon ab, im Weltraum wegzudriften?",
+      "answer": "Die Schwerkraft der Sonne. Sie zieht die Planeten an und hält sie auf ihrer Bahn um die Sonne."
+    },
+    {
+      "id": "cards/de/Space/solar_system_early.md:8:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welcher Planet wird oft der Nachbar der Erde im Weltraum genannt?",
+      "answer": "Der Mars. Er ist der nächste Planet nach der Erde, wenn man von der Sonne weg zählt."
     },
     {
       "id": "cards/de/Space/solar_system_middle.md:1:1",
@@ -1932,6 +2012,16 @@
       "answer": "Bei den Sommerspielen gibt es Sportarten wie Laufen und Schwimmen. Bei den Winterspielen geht es um Schnee und Eis, zum Beispiel Skifahren und Eislaufen. Beide finden alle vier Jahre statt."
     },
     {
+      "id": "cards/de/Sports/olympics_middle.md:5:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der olympische Fackellauf?",
+      "answer": "Läufer tragen eine brennende Fackel von Griechenland zur Gastgeberstadt, bevor die Spiele beginnen. Die Flamme bleibt an, um Frieden und Freundschaft zwischen den Ländern zu zeigen."
+    },
+    {
       "id": "cards/en/Animals/farm_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2280,6 +2370,26 @@
       "kind": "qa",
       "question": "Why do cats have sharp claws?",
       "answer": "Cats use their claws to climb and scratch. Scratching helps keep their claws healthy."
+    },
+    {
+      "id": "cards/en/Animals/pets_early.md:7:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "What pet has soft fur and squeaks when it is happy?",
+      "answer": "A guinea pig! Guinea pigs like to live with a friend and eat fresh vegetables."
+    },
+    {
+      "id": "cards/en/Animals/pets_early.md:8:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Birds in cages need a _____ to stand on and room to stretch their wings.",
+      "answer": "perch"
     },
     {
       "id": "cards/en/Animals/pets_middle.md:1:1",
@@ -2682,6 +2792,26 @@
       "answer": "beach"
     },
     {
+      "id": "cards/en/Geography/oceans_early.md:7:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "How do fish breathe underwater?",
+      "answer": "They use gills. Gills take oxygen from the water so fish can stay alive."
+    },
+    {
+      "id": "cards/en/Geography/oceans_early.md:8:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is beach sand made of?",
+      "answer": "Tiny bits of rock and broken shells. Waves grind them small over a long time."
+    },
+    {
       "id": "cards/en/Geography/oceans_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -3072,6 +3202,26 @@
       "answer": "It is a scientist's best guess about what the weather will do soon. They use satellites, radar, and computers to watch clouds and wind."
     },
     {
+      "id": "cards/en/Science/weather_middle.md:11:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "During a storm, a bright flash of _____ can cross the sky seconds before you hear thunder.",
+      "answer": "lightning"
+    },
+    {
+      "id": "cards/en/Science/weather_middle.md:12:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a drought?",
+      "answer": "A drought is a long time with much less rain than usual. Rivers and lakes can shrink, and plants and farms may need extra water."
+    },
+    {
       "id": "cards/en/Science/weather_middle.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -3400,6 +3550,26 @@
       "kind": "qa",
       "question": "Which planet do we live on?",
       "answer": "Earth. It is the third planet from the Sun."
+    },
+    {
+      "id": "cards/en/Space/solar_system_early.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "What keeps the planets from drifting away into space?",
+      "answer": "The Sun's gravity. It pulls on the planets and keeps them orbiting the Sun."
+    },
+    {
+      "id": "cards/en/Space/solar_system_early.md:8:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which planet is often called Earth's neighbor in space?",
+      "answer": "Mars. It is the next planet out from the Sun after Earth."
     },
     {
       "id": "cards/en/Space/solar_system_middle.md:1:1",
@@ -4022,6 +4192,16 @@
       "answer": "Summer Games include sports like running and swimming. Winter Games are about snow and ice, like skiing and skating. Both happen every four years."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:6:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the Olympic torch relay?",
+      "answer": "Runners carry a lit torch from Greece toward the host city before the Games begin. The flame stays burning to show peace and friendship among nations."
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4362,6 +4542,26 @@
       "answer": "Los gatos usan las garras para trepar y arañar. Arañar les ayuda a mantener las garras sanas."
     },
     {
+      "id": "cards/es/Animals/pets_early.md:7:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué mascota tiene pelo suave y chilla cuando está contenta?",
+      "answer": "¡Una cobaya! A las cobayas les gusta vivir con una amiga y comer verduras frescas."
+    },
+    {
+      "id": "cards/es/Animals/pets_early.md:8:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los pájaros en jaulas necesitan una _____ donde posarse y espacio para estirar las alas.",
+      "answer": "percha"
+    },
+    {
       "id": "cards/es/Animals/pets_middle.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4700,6 +4900,26 @@
       "kind": "cloze",
       "question": "Los cangrejos y las aves playeras suelen vivir cerca de la _____, donde la tierra se encuentra con el océano.",
       "answer": "playa"
+    },
+    {
+      "id": "cards/es/Geography/oceans_early.md:7:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Cómo respiran los peces bajo el agua?",
+      "answer": "Usan las branquias. Las branquias sacan oxígeno del agua para que el pez pueda vivir."
+    },
+    {
+      "id": "cards/es/Geography/oceans_early.md:8:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿De qué está hecha la arena de la playa?",
+      "answer": "De pedacitos muy pequeños de roca y conchas rotas. Las olas las van moliendo con el tiempo."
     },
     {
       "id": "cards/es/Geography/oceans_middle.md:1:1",
@@ -5152,6 +5372,26 @@
       "answer": "Es la mejor estimación de los científicos sobre lo que hará el clima pronto. Usan satélites, radar y computadoras para observar nubes y viento."
     },
     {
+      "id": "cards/es/Science/weather_middle.md:8:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Durante una tormenta, un destello brillante de _____ puede cruzar el cielo segundos antes de que oigas el trueno.",
+      "answer": "relámpago"
+    },
+    {
+      "id": "cards/es/Science/weather_middle.md:9:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una sequía?",
+      "answer": "Una sequía es un periodo largo con mucha menos lluvia de lo normal. Los ríos y lagos pueden bajar, y las plantas y las granjas pueden necesitar agua extra."
+    },
+    {
       "id": "cards/es/Space/moon_early.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -5390,6 +5630,26 @@
       "kind": "qa",
       "question": "¿En qué planeta vivimos?",
       "answer": "En la Tierra. Es el tercer planeta contando desde el Sol."
+    },
+    {
+      "id": "cards/es/Space/solar_system_early.md:7:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué evita que los planetas se alejen flotando por el espacio?",
+      "answer": "La gravedad del Sol. Tira de los planetas y los mantiene girando alrededor del Sol."
+    },
+    {
+      "id": "cards/es/Space/solar_system_early.md:8:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué planeta suele llamarse el vecino de la Tierra en el espacio?",
+      "answer": "Marte. Es el siguiente planeta después de la Tierra alejándose del Sol."
     },
     {
       "id": "cards/es/Space/solar_system_middle.md:1:1",
@@ -5950,6 +6210,16 @@
       "kind": "qa",
       "question": "¿Cuál es la diferencia entre los Juegos de verano y los de invierno?",
       "answer": "En verano hay deportes como correr y nadar. En invierno hay nieve y hielo, como esquiar y patinar. Ambos se celebran cada cuatro años."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:5:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es el relevo de la antorcha olímpica?",
+      "answer": "Corredores llevan una antorcha encendida desde Grecia hacia la ciudad anfitriona antes de que empiecen los Juegos. La llama sigue encendida para mostrar paz y amistad entre los países."
     }
   ]
 }
