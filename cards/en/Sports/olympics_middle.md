@@ -27,3 +27,12 @@ C: Athletes from many countries compete in the [Olympic Games].
 
 Q: What is the difference between the Summer and Winter Games?
 A: Summer Games include sports like running and swimming. Winter Games are about snow and ice, like skiing and skating. Both happen every four years.
+
+---
+
+# Olympics — middle (8–11)
+
+<!-- age: middle | lang: en | topic: sports | subtopic: olympics -->
+
+Q: What is the Olympic torch relay?
+A: Runners carry a lit torch from Greece toward the host city before the Games begin. The flame stays burning to show peace and friendship among nations.

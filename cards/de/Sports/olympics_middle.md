@@ -18,3 +18,12 @@ C: Sportlerinnen und Sportler aus vielen Ländern treten bei den [Olympischen Sp
 
 Q: Was ist der Unterschied zwischen Sommer- und Winterspielen?
 A: Bei den Sommerspielen gibt es Sportarten wie Laufen und Schwimmen. Bei den Winterspielen geht es um Schnee und Eis, zum Beispiel Skifahren und Eislaufen. Beide finden alle vier Jahre statt.
+
+---
+
+# Olympische Spiele — middle (8–11)
+
+<!-- age: middle | lang: de | topic: sports | subtopic: olympics -->
+
+Q: Was ist der olympische Fackellauf?
+A: Läufer tragen eine brennende Fackel von Griechenland zur Gastgeberstadt, bevor die Spiele beginnen. Die Flamme bleibt an, um Frieden und Freundschaft zwischen den Ländern zu zeigen.
