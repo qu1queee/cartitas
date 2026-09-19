@@ -23,3 +23,16 @@ A: Nein. Der Mond spiegelt Sonnenlicht, wie ein heller Spiegel am Himmel. Der be
 
 Q: Warum sehen wir von der Erde immer dieselbe Seite des Mondes?
 A: Der Mond braucht für eine Umdrehung ungefähr so lange wie für eine Umkreisung der Erde. Deshalb bleibt dieselbe Seite zu uns gewandt.
+
+---
+
+# Der Mond — middle (8–11)
+
+<!-- age: middle | lang: de | topic: space | subtopic: moon -->
+
+Q: Was sind Mondphasen?
+A: Das sind die verschiedenen Formen, die der Mond am Himmel zu haben scheint, zum Beispiel eine dünne Sichel oder ein voller Kreis. Sie ändern sich, während der Mond die Erde umkreist und Sonnenlicht verschiedene Teile trifft.
+
+---
+
+C: Von Neumond bis zum nächsten Neumond dauert es etwa [29] Tage. Dieser Zyklus heißt manchmal Mondmonat.

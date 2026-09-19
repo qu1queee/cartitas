@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:44:33Z",
+  "generatedAt": "2026-09-19T12:17:51Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -592,6 +592,26 @@
       "answer": "Ja. In einem Land können Millionen Menschen in vielen Städten und Dörfern leben. Manche Länder haben weniger Menschen und mehr offenes Land."
     },
     {
+      "id": "cards/de/Geography/countries_early.md:4:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist ein Land?",
+      "answer": "Ein Land ist ein Ort mit eigenem Namen auf der Karte. Seine Führer machen Regeln für die Menschen, die dort leben."
+    },
+    {
+      "id": "cards/de/Geography/countries_early.md:5:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Die Stadt, in der die Führer eines Landes meist arbeiten, heißt _____.",
+      "answer": "Hauptstadt"
+    },
+    {
       "id": "cards/de/Geography/countries_middle.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -1102,6 +1122,16 @@
       "answer": "Farben am Himmel, die erscheinen, wenn Sonnenlicht durch Regentropfen scheint."
     },
     {
+      "id": "cards/de/Science/weather_middle.md:10:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum siehst du manchmal deinen Atem an einem kalten Morgen?",
+      "answer": "Dein warmer Atem enthält Wasserdampf. Wenn er auf die kalte Luft trifft, wird der Dampf zu winzigen Tröpfchen, die wie eine kleine Wolke aussehen."
+    },
+    {
       "id": "cards/de/Science/weather_middle.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -1320,6 +1350,26 @@
       "kind": "qa",
       "question": "Warum sehen wir von der Erde immer dieselbe Seite des Mondes?",
       "answer": "Der Mond braucht für eine Umdrehung ungefähr so lange wie für eine Umkreisung der Erde. Deshalb bleibt dieselbe Seite zu uns gewandt."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:6:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was sind Mondphasen?",
+      "answer": "Das sind die verschiedenen Formen, die der Mond am Himmel zu haben scheint, zum Beispiel eine dünne Sichel oder ein voller Kreis. Sie ändern sich, während der Mond die Erde umkreist und Sonnenlicht verschiedene Teile trifft."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:7:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Von Neumond bis zum nächsten Neumond dauert es etwa _____ Tage. Dieser Zyklus heißt manchmal Mondmonat.",
+      "answer": "29"
     },
     {
       "id": "cards/de/Space/moon_teen.md:1:1",
@@ -2022,6 +2072,16 @@
       "answer": "Läufer tragen eine brennende Fackel von Griechenland zur Gastgeberstadt, bevor die Spiele beginnen. Die Flamme bleibt an, um Frieden und Freundschaft zwischen den Ländern zu zeigen."
     },
     {
+      "id": "cards/de/Sports/olympics_middle.md:6:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Marathon?",
+      "answer": "Das ist ein sehr langer Lauf, etwa 42 Kilometer. Der Name kommt von einer alten griechischen Geschichte über einen Boten, der weit lief, um eine Nachricht zu bringen."
+    },
+    {
       "id": "cards/en/Animals/farm_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2652,6 +2712,26 @@
       "answer": "Yes. A country can have millions of people in many cities and towns. Some countries have fewer people and more open land."
     },
     {
+      "id": "cards/en/Geography/countries_early.md:4:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a country?",
+      "answer": "A country is a place with its own name on the map. Leaders there make rules for the people who live in it."
+    },
+    {
+      "id": "cards/en/Geography/countries_early.md:5:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "cloze",
+      "question": "The city where a country's leaders usually work is called the _____.",
+      "answer": "capital"
+    },
+    {
       "id": "cards/en/Geography/countries_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -3222,6 +3302,16 @@
       "answer": "A drought is a long time with much less rain than usual. Rivers and lakes can shrink, and plants and farms may need extra water."
     },
     {
+      "id": "cards/en/Science/weather_middle.md:13:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why can you sometimes see your breath on a cold morning?",
+      "answer": "Your warm breath holds water vapor. When it hits the cold air, the vapor turns into tiny drops that look like a little cloud."
+    },
+    {
       "id": "cards/en/Science/weather_middle.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -3440,6 +3530,26 @@
       "kind": "qa",
       "question": "Why do we always see the same side of the Moon from Earth?",
       "answer": "The Moon takes the same time to spin once as it does to orbit Earth. So the same face stays turned toward us."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What are the phases of the Moon?",
+      "answer": "They are the different shapes the Moon seems to have in the sky, like a thin crescent or a full circle. They change as the Moon orbits Earth and sunlight hits different parts of it."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "From new Moon to the next new Moon takes about _____ days. That cycle is sometimes called a lunar month.",
+      "answer": "29"
     },
     {
       "id": "cards/en/Space/moon_teen.md:1:1",
@@ -4202,6 +4312,16 @@
       "answer": "Runners carry a lit torch from Greece toward the host city before the Games begin. The flame stays burning to show peace and friendship among nations."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:7:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a marathon?",
+      "answer": "It is a very long running race, about 42 kilometers (26 miles). The name comes from an ancient Greek story about a messenger who ran a long way to bring news."
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4792,6 +4912,26 @@
       "answer": "Sí. Un país puede tener millones de personas en muchas ciudades y pueblos. Otros países tienen menos gente y más campo."
     },
     {
+      "id": "cards/es/Geography/countries_early.md:4:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es un país?",
+      "answer": "Un país es un lugar con su propio nombre en el mapa. Sus líderes hacen reglas para las personas que viven allí."
+    },
+    {
+      "id": "cards/es/Geography/countries_early.md:5:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "cloze",
+      "question": "La ciudad donde suelen trabajar los líderes de un país se llama _____.",
+      "answer": "capital"
+    },
+    {
       "id": "cards/es/Geography/countries_middle.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -5302,6 +5442,16 @@
       "answer": "Colores en el cielo que aparecen cuando la luz del Sol atraviesa las gotas de lluvia."
     },
     {
+      "id": "cards/es/Science/weather_middle.md:10:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué a veces ves tu aliento en una mañana fría?",
+      "answer": "Tu aliento caliente lleva vapor de agua. Cuando choca con el aire frío, el vapor se convierte en gotitas diminutas que parecen una nubecita."
+    },
+    {
       "id": "cards/es/Science/weather_middle.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -5520,6 +5670,26 @@
       "kind": "qa",
       "question": "¿Por qué siempre vemos el mismo lado de la Luna desde la Tierra?",
       "answer": "La Luna tarda lo mismo en girar una vez que en orbitar la Tierra. Por eso la misma cara sigue mirando hacia nosotros."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:6:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué son las fases de la Luna?",
+      "answer": "Son las distintas formas que parece tener la Luna en el cielo, como una media luna fina o un círculo completo. Cambian mientras la Luna orbita la Tierra y la luz del Sol ilumina partes distintas."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:7:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "De luna nueva a la siguiente luna nueva pasan unos _____ días. A ese ciclo a veces se le llama mes lunar.",
+      "answer": "29"
     },
     {
       "id": "cards/es/Space/moon_teen.md:1:1",
@@ -6220,6 +6390,16 @@
       "kind": "qa",
       "question": "¿Qué es el relevo de la antorcha olímpica?",
       "answer": "Corredores llevan una antorcha encendida desde Grecia hacia la ciudad anfitriona antes de que empiecen los Juegos. La llama sigue encendida para mostrar paz y amistad entre los países."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:6:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un maratón?",
+      "answer": "Es una carrera de mucha distancia, unos 42 kilómetros (26 millas). El nombre viene de una historia antigua de Grecia sobre un mensajero que corrió muy lejos para llevar una noticia."
     }
   ]
 }

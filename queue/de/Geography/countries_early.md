@@ -1,16 +1,3 @@
-# Länder — early (5–7)
-
-<!-- age: early | lang: de | topic: geography | subtopic: countries -->
-
-Q: Was ist ein Land?
-A: Ein Land ist ein Ort mit eigenem Namen auf der Karte. Seine Führer machen Regeln für die Menschen, die dort leben.
-
----
-
-C: Die Stadt, in der die Führer eines Landes meist arbeiten, heißt [Hauptstadt].
-
----
-
 Q: Warum haben Länder auf der Karte verschiedene Farben?
 A: Farben helfen dir zu sehen, wo ein Land aufhört und das nächste beginnt.
 

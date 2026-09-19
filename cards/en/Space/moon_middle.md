@@ -23,3 +23,16 @@ A: No. The Moon reflects sunlight, like a bright mirror in the sky. The part we 
 
 Q: Why do we always see the same side of the Moon from Earth?
 A: The Moon takes the same time to spin once as it does to orbit Earth. So the same face stays turned toward us.
+
+---
+
+# The Moon — middle (8–11)
+
+<!-- age: middle | lang: en | topic: space | subtopic: moon -->
+
+Q: What are the phases of the Moon?
+A: They are the different shapes the Moon seems to have in the sky, like a thin crescent or a full circle. They change as the Moon orbits Earth and sunlight hits different parts of it.
+
+---
+
+C: From new Moon to the next new Moon takes about [29] days. That cycle is sometimes called a lunar month.

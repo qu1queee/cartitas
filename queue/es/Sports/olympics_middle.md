@@ -1,8 +1,3 @@
-Q: ¿Qué es un maratón?
-A: Es una carrera de mucha distancia, unos 42 kilómetros (26 millas). El nombre viene de una historia antigua de Grecia sobre un mensajero que corrió muy lejos para llevar una noticia.
-
----
-
 C: Los deportistas [calientan] los músculos antes de competir para tener menos probabilidades de lastimarse.
 
 ---

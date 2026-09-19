@@ -1,16 +1,3 @@
-# Countries — early (5–7)
-
-<!-- age: early | lang: en | topic: geography | subtopic: countries -->
-
-Q: What is a country?
-A: A country is a place with its own name on the map. Leaders there make rules for the people who live in it.
-
----
-
-C: The city where a country's leaders usually work is called the [capital].
-
----
-
 Q: Why do maps use different colors for countries?
 A: Colors help you see where one country ends and the next one begins.
 

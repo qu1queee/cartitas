@@ -23,3 +23,16 @@ A: No. La Luna refleja la luz del Sol, como un espejo brillante en el cielo. La 
 
 Q: ¿Por qué siempre vemos el mismo lado de la Luna desde la Tierra?
 A: La Luna tarda lo mismo en girar una vez que en orbitar la Tierra. Por eso la misma cara sigue mirando hacia nosotros.
+
+---
+
+# La Luna — middle (8–11)
+
+<!-- age: middle | lang: es | topic: space | subtopic: moon -->
+
+Q: ¿Qué son las fases de la Luna?
+A: Son las distintas formas que parece tener la Luna en el cielo, como una media luna fina o un círculo completo. Cambian mientras la Luna orbita la Tierra y la luz del Sol ilumina partes distintas.
+
+---
+
+C: De luna nueva a la siguiente luna nueva pasan unos [29] días. A ese ciclo a veces se le llama mes lunar.
