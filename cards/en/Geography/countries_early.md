@@ -23,3 +23,13 @@ A: A country is a place with its own name on the map. Leaders there make rules f
 ---
 
 C: The city where a country's leaders usually work is called the [capital].
+
+---
+
+Q: Why do maps use different colors for countries?
+A: Colors help you see where one country ends and the next one begins.
+
+---
+
+Q: What is a passport?
+A: A passport is a small book that shows who you are. You often need one to visit another country.

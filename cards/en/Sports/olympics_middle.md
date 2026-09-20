@@ -41,3 +41,7 @@ A: Runners carry a lit torch from Greece toward the host city before the Games b
 
 Q: What is a marathon?
 A: It is a very long running race, about 42 kilometers (26 miles). The name comes from an ancient Greek story about a messenger who ran a long way to bring news.
+
+---
+
+C: Athletes [warm up] their muscles before competing so they are less likely to get hurt.

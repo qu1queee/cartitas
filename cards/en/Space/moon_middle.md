@@ -36,3 +36,13 @@ A: They are the different shapes the Moon seems to have in the sky, like a thin 
 ---
 
 C: From new Moon to the next new Moon takes about [29] days. That cycle is sometimes called a lunar month.
+
+---
+
+Q: Could you breathe on the Moon without a spacesuit?
+A: No. The Moon has almost no air. You would need a spacesuit with oxygen, like the astronauts who visited the Moon.
+
+---
+
+Q: What is a lunar eclipse?
+A: It happens when Earth passes between the Sun and the Moon. Earth's shadow falls on the Moon, so it can look dim or reddish for a while.

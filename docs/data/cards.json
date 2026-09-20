@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:17:51Z",
+  "generatedAt": "2026-09-20T12:52:52Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -610,6 +610,26 @@
       "kind": "cloze",
       "question": "Die Stadt, in der die Führer eines Landes meist arbeiten, heißt _____.",
       "answer": "Hauptstadt"
+    },
+    {
+      "id": "cards/de/Geography/countries_early.md:6:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "Warum haben Länder auf der Karte verschiedene Farben?",
+      "answer": "Farben helfen dir zu sehen, wo ein Land aufhört und das nächste beginnt."
+    },
+    {
+      "id": "cards/de/Geography/countries_early.md:7:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist ein Reisepass?",
+      "answer": "Ein Reisepass ist ein kleines Buch, das zeigt, wer du bist. Für viele Reisen in andere Länder brauchst du einen."
     },
     {
       "id": "cards/de/Geography/countries_middle.md:1:1",
@@ -1372,6 +1392,26 @@
       "answer": "29"
     },
     {
+      "id": "cards/de/Space/moon_middle.md:8:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Könntest du auf dem Mond ohne Raumanzug atmen?",
+      "answer": "Nein. Der Mond hat fast keine Luft. Du bräuchtest einen Anzug mit Sauerstoff, wie die Astronauten, die den Mond besuchten."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:9:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Mondfinsternis?",
+      "answer": "Sie entsteht, wenn die Erde zwischen Sonne und Mond steht. Der Schatten der Erde fällt auf den Mond, und er kann eine Weile blass oder rötlich aussehen."
+    },
+    {
       "id": "cards/de/Space/moon_teen.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -2082,6 +2122,16 @@
       "answer": "Das ist ein sehr langer Lauf, etwa 42 Kilometer. Der Name kommt von einer alten griechischen Geschichte über einen Boten, der weit lief, um eine Nachricht zu bringen."
     },
     {
+      "id": "cards/de/Sports/olympics_middle.md:7:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Sportler _____ ihre Muskeln vor dem Wettkampf auf, damit sie sich seltener verletzen.",
+      "answer": "wärmen"
+    },
+    {
       "id": "cards/en/Animals/farm_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2730,6 +2780,26 @@
       "kind": "cloze",
       "question": "The city where a country's leaders usually work is called the _____.",
       "answer": "capital"
+    },
+    {
+      "id": "cards/en/Geography/countries_early.md:6:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "Why do maps use different colors for countries?",
+      "answer": "Colors help you see where one country ends and the next one begins."
+    },
+    {
+      "id": "cards/en/Geography/countries_early.md:7:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a passport?",
+      "answer": "A passport is a small book that shows who you are. You often need one to visit another country."
     },
     {
       "id": "cards/en/Geography/countries_middle.md:1:1",
@@ -3552,6 +3622,26 @@
       "answer": "29"
     },
     {
+      "id": "cards/en/Space/moon_middle.md:8:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Could you breathe on the Moon without a spacesuit?",
+      "answer": "No. The Moon has almost no air. You would need a spacesuit with oxygen, like the astronauts who visited the Moon."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:9:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a lunar eclipse?",
+      "answer": "It happens when Earth passes between the Sun and the Moon. Earth's shadow falls on the Moon, so it can look dim or reddish for a while."
+    },
+    {
       "id": "cards/en/Space/moon_teen.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -4322,6 +4412,16 @@
       "answer": "It is a very long running race, about 42 kilometers (26 miles). The name comes from an ancient Greek story about a messenger who ran a long way to bring news."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:8:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Athletes _____ their muscles before competing so they are less likely to get hurt.",
+      "answer": "warm up"
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4930,6 +5030,26 @@
       "kind": "cloze",
       "question": "La ciudad donde suelen trabajar los líderes de un país se llama _____.",
       "answer": "capital"
+    },
+    {
+      "id": "cards/es/Geography/countries_early.md:6:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Por qué los mapas usan colores distintos para los países?",
+      "answer": "Los colores ayudan a ver dónde termina un país y empieza el siguiente."
+    },
+    {
+      "id": "cards/es/Geography/countries_early.md:7:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es un pasaporte?",
+      "answer": "Un pasaporte es un librito que muestra quién eres. Muchas veces lo necesitas para visitar otro país."
     },
     {
       "id": "cards/es/Geography/countries_middle.md:1:1",
@@ -5692,6 +5812,26 @@
       "answer": "29"
     },
     {
+      "id": "cards/es/Space/moon_middle.md:8:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Podrías respirar en la Luna sin traje espacial?",
+      "answer": "No. La Luna casi no tiene aire. Necesitarías un traje con oxígeno, como los astronautas que visitaron la Luna."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:9:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un eclipse lunar?",
+      "answer": "Ocurre cuando la Tierra pasa entre el Sol y la Luna. La sombra de la Tierra cae sobre la Luna y puede verse tenue o rojiza por un rato."
+    },
+    {
       "id": "cards/es/Space/moon_teen.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -6400,6 +6540,16 @@
       "kind": "qa",
       "question": "¿Qué es un maratón?",
       "answer": "Es una carrera de mucha distancia, unos 42 kilómetros (26 millas). El nombre viene de una historia antigua de Grecia sobre un mensajero que corrió muy lejos para llevar una noticia."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:7:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Los deportistas _____ los músculos antes de competir para tener menos probabilidades de lastimarse.",
+      "answer": "calientan"
     }
   ]
 }
