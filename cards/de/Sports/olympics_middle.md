@@ -32,3 +32,7 @@ A: Läufer tragen eine brennende Fackel von Griechenland zur Gastgeberstadt, bev
 
 Q: Was ist ein Marathon?
 A: Das ist ein sehr langer Lauf, etwa 42 Kilometer. Der Name kommt von einer alten griechischen Geschichte über einen Boten, der weit lief, um eine Nachricht zu bringen.
+
+---
+
+C: Sportler [wärmen] ihre Muskeln vor dem Wettkampf auf, damit sie sich seltener verletzen.
