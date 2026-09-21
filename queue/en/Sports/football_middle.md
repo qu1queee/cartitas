@@ -1,12 +1,3 @@
-# Football — middle (8–11)
-
-<!-- age: middle | lang: en | topic: sports | subtopic: football -->
-
-Q: When does the referee award a penalty kick?
-A: If a player fouls an opponent inside their own penalty area, the other team gets a penalty kick. One player shoots from the penalty spot with only the goalkeeper trying to stop it.
-
----
-
 C: If the ball crosses the goal line after a defender last touched it, the attacking team takes a [corner] kick from the corner flag.
 
 ---

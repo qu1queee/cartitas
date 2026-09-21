@@ -1,16 +1,3 @@
-# Meerestiere — middle (8–11)
-
-<!-- age: middle | lang: de | topic: animals | subtopic: ocean -->
-
-Q: Was ist eine Qualle?
-A: Eine Qualle ist ein weiches Meerestier mit einem glockenförmigen Körper. Sie schwimmt durch Pulsieren, und manche Arten haben Tentakel, die kleine Beute betäuben können.
-
----
-
-C: [Seeotter] halten sich manchmal an den Pfoten oder wickeln sich in Seetang, damit sie beim Schlafen auf dem Wasser nicht voneinander treiben.
-
----
-
 Q: Was ist Plankton?
 A: Plankton sind winzige Lebewesen, die im Ozean treiben. Viele Fische und Wale fressen Plankton, und ein Teil des Planktons hilft, Sauerstoff im Meer zu erzeugen.
 

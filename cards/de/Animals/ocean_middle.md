@@ -36,3 +36,16 @@ A: Robben sind Säugetiere und brauchen Luft zum Atmen. Auf dem Land ruhen sie, 
 ---
 
 C: Ein [Seestern] kann langsam einen neuen Arm nachwachsen lassen, wenn einer abbricht.
+
+---
+
+# Meerestiere — middle (8–11)
+
+<!-- age: middle | lang: de | topic: animals | subtopic: ocean -->
+
+Q: Was ist eine Qualle?
+A: Eine Qualle ist ein weiches Meerestier mit einem glockenförmigen Körper. Sie schwimmt durch Pulsieren, und manche Arten haben Tentakel, die kleine Beute betäuben können.
+
+---
+
+C: [Seeotter] halten sich manchmal an den Pfoten oder wickeln sich in Seetang, damit sie beim Schlafen auf dem Wasser nicht voneinander treiben.

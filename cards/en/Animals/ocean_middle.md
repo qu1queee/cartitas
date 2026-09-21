@@ -40,3 +40,16 @@ A: Seals are mammals that need air. They rest, nurse their babies, and warm up o
 ---
 
 C: A [starfish] can slowly grow a new arm if one breaks off.
+
+---
+
+# Ocean animals — middle (8–11)
+
+<!-- age: middle | lang: en | topic: animals | subtopic: ocean -->
+
+Q: What is a jellyfish?
+A: A jellyfish is a soft sea animal with a bell-shaped body. It swims by pulsing, and some kinds have tentacles that can sting tiny prey.
+
+---
+
+C: [Sea otters] sometimes hold hands or wrap kelp around themselves so they do not drift apart while they sleep on the water.

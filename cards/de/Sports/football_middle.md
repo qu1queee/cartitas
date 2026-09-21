@@ -9,3 +9,12 @@ C: Ein normales Fußballspiel hat zwei [Halbzeiten] von je fünfundvierzig Minut
 
 Q: Warum trägt der Torwart ein andersfarbiges Trikot?
 A: Damit jeder den Torwart von den anderen Spielern unterscheiden kann. Nur der Torwart darf im Strafraum die Hände benutzen, um Schüsse abzuwehren.
+
+---
+
+# Fußball — middle (8–11)
+
+<!-- age: middle | lang: de | topic: sports | subtopic: football -->
+
+Q: Wann gibt der Schiedsrichter einen Elfmeter?
+A: Wenn ein Spieler im eigenen Strafraum einen Gegner foult, bekommt die andere Mannschaft einen Elfmeter. Ein Spieler schießt vom Elfmeterpunkt, und nur der Torwart versucht zu parieren.

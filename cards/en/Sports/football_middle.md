@@ -9,3 +9,12 @@ C: A normal football match has two [halves] of forty-five minutes each.
 
 Q: Why does the goalkeeper wear a different colored shirt?
 A: So everyone can tell the keeper apart from the other players. Only the goalkeeper may use their hands inside the penalty area to stop shots.
+
+---
+
+# Football — middle (8–11)
+
+<!-- age: middle | lang: en | topic: sports | subtopic: football -->
+
+Q: When does the referee award a penalty kick?
+A: If a player fouls an opponent inside their own penalty area, the other team gets a penalty kick. One player shoots from the penalty spot with only the goalkeeper trying to stop it.

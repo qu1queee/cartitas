@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:52:52Z",
+  "generatedAt": "2026-09-21T14:52:06Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -280,6 +280,26 @@
       "kind": "cloze",
       "question": "Ein _____ kann langsam einen neuen Arm nachwachsen lassen, wenn einer abbricht.",
       "answer": "Seestern"
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:8:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Qualle?",
+      "answer": "Eine Qualle ist ein weiches Meerestier mit einem glockenförmigen Körper. Sie schwimmt durch Pulsieren, und manche Arten haben Tentakel, die kleine Beute betäuben können."
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:9:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "_____ halten sich manchmal an den Pfoten oder wickeln sich in Seetang, damit sie beim Schlafen auf dem Wasser nicht voneinander treiben.",
+      "answer": "Seeotter"
     },
     {
       "id": "cards/de/Animals/pets_early.md:1:1",
@@ -630,6 +650,16 @@
       "kind": "qa",
       "question": "Was ist ein Reisepass?",
       "answer": "Ein Reisepass ist ein kleines Buch, das zeigt, wer du bist. Für viele Reisen in andere Länder brauchst du einen."
+    },
+    {
+      "id": "cards/de/Geography/countries_early.md:8:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "Kann ein Land vom Ozean umgeben sein?",
+      "answer": "Ja. Inseln wie Japan und Kuba sind Länder mit Wasser ringsherum."
     },
     {
       "id": "cards/de/Geography/countries_middle.md:1:1",
@@ -1320,6 +1350,16 @@
       "kind": "qa",
       "question": "Wie viele Monde hat die Erde?",
       "answer": "Einen. Unser Mond ist der helle runde Fleck, den wir am Nachthimmel sehen."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:10:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie lange brauchten die Apollo-Astronauten bis zum Mond?",
+      "answer": "Etwa drei Tage hin mit der Rakete. Die ganze Reise hin und zurück dauerte ungefähr eine Woche oder länger, inklusive Zeit auf der Oberfläche."
     },
     {
       "id": "cards/de/Space/moon_middle.md:1:1",
@@ -2022,6 +2062,16 @@
       "answer": "Damit jeder den Torwart von den anderen Spielern unterscheiden kann. Nur der Torwart darf im Strafraum die Hände benutzen, um Schüsse abzuwehren."
     },
     {
+      "id": "cards/de/Sports/football_middle.md:4:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wann gibt der Schiedsrichter einen Elfmeter?",
+      "answer": "Wenn ein Spieler im eigenen Strafraum einen Gegner foult, bekommt die andere Mannschaft einen Elfmeter. Ein Spieler schießt vom Elfmeterpunkt, und nur der Torwart versucht zu parieren."
+    },
+    {
       "id": "cards/de/Sports/olympics_early.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -2342,6 +2392,16 @@
       "answer": "sideways"
     },
     {
+      "id": "cards/en/Animals/ocean_middle.md:10:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "_____ sometimes hold hands or wrap kelp around themselves so they do not drift apart while they sleep on the water.",
+      "answer": "Sea otters"
+    },
+    {
       "id": "cards/en/Animals/ocean_middle.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2420,6 +2480,16 @@
       "kind": "cloze",
       "question": "A _____ can slowly grow a new arm if one breaks off.",
       "answer": "starfish"
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:9:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a jellyfish?",
+      "answer": "A jellyfish is a soft sea animal with a bell-shaped body. It swims by pulsing, and some kinds have tentacles that can sting tiny prey."
     },
     {
       "id": "cards/en/Animals/pets_early.md:1:1",
@@ -2800,6 +2870,16 @@
       "kind": "qa",
       "question": "What is a passport?",
       "answer": "A passport is a small book that shows who you are. You often need one to visit another country."
+    },
+    {
+      "id": "cards/en/Geography/countries_early.md:8:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "Can a country be surrounded by ocean?",
+      "answer": "Yes. Islands like Japan and Cuba are countries with water all around them."
     },
     {
       "id": "cards/en/Geography/countries_middle.md:1:1",
@@ -3552,6 +3632,16 @@
       "answer": "One. Our Moon is the bright round object we see in the night sky."
     },
     {
+      "id": "cards/en/Space/moon_middle.md:10:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "How long did the Apollo astronauts take to reach the Moon?",
+      "answer": "About three days each way by rocket. The whole trip there and back took roughly a week or more, including time on the surface."
+    },
+    {
       "id": "cards/en/Space/moon_middle.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -4302,6 +4392,16 @@
       "answer": "So everyone can tell the keeper apart from the other players. Only the goalkeeper may use their hands inside the penalty area to stop shots."
     },
     {
+      "id": "cards/en/Sports/football_middle.md:4:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "When does the referee award a penalty kick?",
+      "answer": "If a player fouls an opponent inside their own penalty area, the other team gets a penalty kick. One player shoots from the penalty spot with only the goalkeeper trying to stop it."
+    },
+    {
       "id": "cards/en/Sports/olympics_early.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -4702,6 +4802,26 @@
       "answer": "estrella de mar"
     },
     {
+      "id": "cards/es/Animals/ocean_middle.md:8:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una medusa?",
+      "answer": "Una medusa es un animal marino blando con un cuerpo en forma de campana. Nada haciendo pulsos, y algunas tienen tentáculos que pueden picar presas pequeñas."
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:9:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Las _____ a veces se toman de las patas o se enrollan en algas para no separarse mientras duermen sobre el agua.",
+      "answer": "nutrias marinas"
+    },
+    {
       "id": "cards/es/Animals/pets_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -5050,6 +5170,16 @@
       "kind": "qa",
       "question": "¿Qué es un pasaporte?",
       "answer": "Un pasaporte es un librito que muestra quién eres. Muchas veces lo necesitas para visitar otro país."
+    },
+    {
+      "id": "cards/es/Geography/countries_early.md:8:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Puede un país estar rodeado de océano?",
+      "answer": "Sí. Islas como Japón y Cuba son países con agua alrededor."
     },
     {
       "id": "cards/es/Geography/countries_middle.md:1:1",
@@ -5740,6 +5870,16 @@
       "kind": "qa",
       "question": "¿Cuántas lunas tiene la Tierra?",
       "answer": "Una. Nuestra Luna es el objeto redondo y brillante que vemos en el cielo nocturno."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:10:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuánto tardaron los astronautas del Apolo en llegar a la Luna?",
+      "answer": "Unos tres días de ida en cohete. El viaje completo de ida y vuelta duró más o menos una semana o más, incluido el tiempo en la superficie."
     },
     {
       "id": "cards/es/Space/moon_middle.md:1:1",
@@ -6440,6 +6580,16 @@
       "kind": "qa",
       "question": "¿Por qué el portero lleva una camiseta de otro color?",
       "answer": "Para que todos puedan distinguirlo del resto de jugadores. Solo el portero puede usar las manos dentro del área para parar los tiros."
+    },
+    {
+      "id": "cards/es/Sports/football_middle.md:4:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuándo pita el árbitro un penalti?",
+      "answer": "Si un jugador hace falta a un rival dentro de su propia área, el otro equipo cobra un penalti. Un jugador chuta desde el punto de penalti y solo el portero intenta pararlo."
     },
     {
       "id": "cards/es/Sports/olympics_early.md:1:1",

@@ -1,12 +1,3 @@
-# Fußball — middle (8–11)
-
-<!-- age: middle | lang: de | topic: sports | subtopic: football -->
-
-Q: Wann gibt der Schiedsrichter einen Elfmeter?
-A: Wenn ein Spieler im eigenen Strafraum einen Gegner foult, bekommt die andere Mannschaft einen Elfmeter. Ein Spieler schießt vom Elfmeterpunkt, und nur der Torwart versucht zu parieren.
-
----
-
 C: Wenn der Ball die Torlinie überquert, nachdem ein Verteidiger ihn zuletzt berührt hat, darf die angreifende Mannschaft einen [Eckstoß] von der Eckfahne aus ausführen.
 
 ---
