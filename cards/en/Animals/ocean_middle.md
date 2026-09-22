@@ -53,3 +53,13 @@ A: A jellyfish is a soft sea animal with a bell-shaped body. It swims by pulsing
 ---
 
 C: [Sea otters] sometimes hold hands or wrap kelp around themselves so they do not drift apart while they sleep on the water.
+
+---
+
+Q: What is plankton?
+A: Plankton are tiny living things that drift in the ocean. Many fish and whales eat plankton, and some plankton helps make oxygen in the sea.
+
+---
+
+Q: Why do penguins have flipper-shaped wings?
+A: Penguins are birds that cannot fly in the air. Their wings work like flippers to help them swim fast after fish in cold ocean water.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:52:06Z",
+  "generatedAt": "2026-09-22T13:08:34Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -210,6 +210,26 @@
       "kind": "cloze",
       "question": "Viele Krabben laufen _____ über den Sand.",
       "answer": "seitwärts"
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:10:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Plankton?",
+      "answer": "Plankton sind winzige Lebewesen, die im Ozean treiben. Viele Fische und Wale fressen Plankton, und ein Teil des Planktons hilft, Sauerstoff im Meer zu erzeugen."
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:11:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum haben Pinguine flügelförmige Flügel?",
+      "answer": "Pinguine sind Vögel, die in der Luft nicht fliegen können. Ihre Flügel wirken wie Flossen, damit sie in kaltem Meerwasser schnell Fischen nachjagen können."
     },
     {
       "id": "cards/de/Animals/ocean_middle.md:1:1",
@@ -2072,6 +2092,16 @@
       "answer": "Wenn ein Spieler im eigenen Strafraum einen Gegner foult, bekommt die andere Mannschaft einen Elfmeter. Ein Spieler schießt vom Elfmeterpunkt, und nur der Torwart versucht zu parieren."
     },
     {
+      "id": "cards/de/Sports/football_middle.md:5:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Wenn der Ball die Torlinie überquert, nachdem ein Verteidiger ihn zuletzt berührt hat, darf die angreifende Mannschaft einen _____ von der Eckfahne aus ausführen.",
+      "answer": "Eckstoß"
+    },
+    {
       "id": "cards/de/Sports/olympics_early.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -2400,6 +2430,26 @@
       "kind": "cloze",
       "question": "_____ sometimes hold hands or wrap kelp around themselves so they do not drift apart while they sleep on the water.",
       "answer": "Sea otters"
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:11:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is plankton?",
+      "answer": "Plankton are tiny living things that drift in the ocean. Many fish and whales eat plankton, and some plankton helps make oxygen in the sea."
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:12:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do penguins have flipper-shaped wings?",
+      "answer": "Penguins are birds that cannot fly in the air. Their wings work like flippers to help them swim fast after fish in cold ocean water."
     },
     {
       "id": "cards/en/Animals/ocean_middle.md:1:1",
@@ -4402,6 +4452,16 @@
       "answer": "If a player fouls an opponent inside their own penalty area, the other team gets a penalty kick. One player shoots from the penalty spot with only the goalkeeper trying to stop it."
     },
     {
+      "id": "cards/en/Sports/football_middle.md:5:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "If the ball crosses the goal line after a defender last touched it, the attacking team takes a _____ kick from the corner flag.",
+      "answer": "corner"
+    },
+    {
       "id": "cards/en/Sports/olympics_early.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -4730,6 +4790,26 @@
       "kind": "cloze",
       "question": "Muchos cangrejos caminan de _____ por la arena.",
       "answer": "lado"
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:10:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es el plancton?",
+      "answer": "El plancton son seres vivos diminutos que flotan en el océano. Muchos peces y ballenas comen plancton, y parte del plancton ayuda a producir oxígeno en el mar."
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:11:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los pingüinos tienen alas en forma de aletas?",
+      "answer": "Los pingüinos son aves que no vuelan en el aire. Sus alas funcionan como aletas para nadar rápido tras los peces en agua fría del océano."
     },
     {
       "id": "cards/es/Animals/ocean_middle.md:1:1",
@@ -6590,6 +6670,16 @@
       "kind": "qa",
       "question": "¿Cuándo pita el árbitro un penalti?",
       "answer": "Si un jugador hace falta a un rival dentro de su propia área, el otro equipo cobra un penalti. Un jugador chuta desde el punto de penalti y solo el portero intenta pararlo."
+    },
+    {
+      "id": "cards/es/Sports/football_middle.md:5:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Si el balón cruza la línea de gol después de que un defensor lo tocó por último, el equipo atacante saca un _____ desde la banderita de esquina.",
+      "answer": "córner"
     },
     {
       "id": "cards/es/Sports/olympics_early.md:1:1",
