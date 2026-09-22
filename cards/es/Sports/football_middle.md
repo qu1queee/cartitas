@@ -18,3 +18,7 @@ A: Para que todos puedan distinguirlo del resto de jugadores. Solo el portero pu
 
 Q: ¿Cuándo pita el árbitro un penalti?
 A: Si un jugador hace falta a un rival dentro de su propia área, el otro equipo cobra un penalti. Un jugador chuta desde el punto de penalti y solo el portero intenta pararlo.
+
+---
+
+C: Si el balón cruza la línea de gol después de que un defensor lo tocó por último, el equipo atacante saca un [córner] desde la banderita de esquina.
