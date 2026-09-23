@@ -22,3 +22,8 @@ A: If a player fouls an opponent inside their own penalty area, the other team g
 ---
 
 C: If the ball crosses the goal line after a defender last touched it, the attacking team takes a [corner] kick from the corner flag.
+
+---
+
+Q: What is a throw-in in football?
+A: When the ball goes completely out over the sideline, the other team throws it back in with both hands from behind their head. Their feet must stay on the ground.
