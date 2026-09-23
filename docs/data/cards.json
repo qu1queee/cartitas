@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T13:08:34Z",
+  "generatedAt": "2026-09-23T13:22:50Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -230,6 +230,16 @@
       "kind": "qa",
       "question": "Warum haben Pinguine flügelförmige Flügel?",
       "answer": "Pinguine sind Vögel, die in der Luft nicht fliegen können. Ihre Flügel wirken wie Flossen, damit sie in kaltem Meerwasser schnell Fischen nachjagen können."
+    },
+    {
+      "id": "cards/de/Animals/ocean_middle.md:12:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist besonders an einem Mantarochen?",
+      "answer": "Mantarochen sind riesige flache Fische mit breiten Flossen, die wie Flügel aussehen. Sie gleiten durchs Wasser und nehmen winzige Tiere zum Fressen auf."
     },
     {
       "id": "cards/de/Animals/ocean_middle.md:1:1",
@@ -2102,6 +2112,16 @@
       "answer": "Eckstoß"
     },
     {
+      "id": "cards/de/Sports/football_middle.md:6:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Einwurf im Fußball?",
+      "answer": "Wenn der Ball vollständig über die Seitenlinie ausgeht, wirft die andere Mannschaft ihn mit beiden Händen von hinter dem Kopf zurück. Die Füße müssen auf dem Boden bleiben."
+    },
+    {
       "id": "cards/de/Sports/olympics_early.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -2450,6 +2470,16 @@
       "kind": "qa",
       "question": "Why do penguins have flipper-shaped wings?",
       "answer": "Penguins are birds that cannot fly in the air. Their wings work like flippers to help them swim fast after fish in cold ocean water."
+    },
+    {
+      "id": "cards/en/Animals/ocean_middle.md:13:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is special about a manta ray?",
+      "answer": "Manta rays are huge flat fish with wide fins that look like wings. They glide through the water and scoop up tiny animals to eat."
     },
     {
       "id": "cards/en/Animals/ocean_middle.md:1:1",
@@ -4462,6 +4492,16 @@
       "answer": "corner"
     },
     {
+      "id": "cards/en/Sports/football_middle.md:6:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a throw-in in football?",
+      "answer": "When the ball goes completely out over the sideline, the other team throws it back in with both hands from behind their head. Their feet must stay on the ground."
+    },
+    {
       "id": "cards/en/Sports/olympics_early.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -4810,6 +4850,16 @@
       "kind": "qa",
       "question": "¿Por qué los pingüinos tienen alas en forma de aletas?",
       "answer": "Los pingüinos son aves que no vuelan en el aire. Sus alas funcionan como aletas para nadar rápido tras los peces en agua fría del océano."
+    },
+    {
+      "id": "cards/es/Animals/ocean_middle.md:12:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué tiene de especial una manta raya?",
+      "answer": "Las mantas rayas son peces enormes y planos con aletas anchas que parecen alas. Se deslizan en el agua y recogen animalitos diminutos para comer."
     },
     {
       "id": "cards/es/Animals/ocean_middle.md:1:1",
@@ -6680,6 +6730,16 @@
       "kind": "cloze",
       "question": "Si el balón cruza la línea de gol después de que un defensor lo tocó por último, el equipo atacante saca un _____ desde la banderita de esquina.",
       "answer": "córner"
+    },
+    {
+      "id": "cards/es/Sports/football_middle.md:6:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un saque de banda en el fútbol?",
+      "answer": "Cuando el balón sale por completo por la línea lateral, el otro equipo lo devuelve lanzándolo con las dos manos desde detrás de la cabeza. Los pies deben quedarse en el suelo."
     },
     {
       "id": "cards/es/Sports/olympics_early.md:1:1",

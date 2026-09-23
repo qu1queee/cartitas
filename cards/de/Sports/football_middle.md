@@ -22,3 +22,8 @@ A: Wenn ein Spieler im eigenen Strafraum einen Gegner foult, bekommt die andere 
 ---
 
 C: Wenn der Ball die Torlinie überquert, nachdem ein Verteidiger ihn zuletzt berührt hat, darf die angreifende Mannschaft einen [Eckstoß] von der Eckfahne aus ausführen.
+
+---
+
+Q: Was ist ein Einwurf im Fußball?
+A: Wenn der Ball vollständig über die Seitenlinie ausgeht, wirft die andere Mannschaft ihn mit beiden Händen von hinter dem Kopf zurück. Die Füße müssen auf dem Boden bleiben.

@@ -22,3 +22,8 @@ A: Si un jugador hace falta a un rival dentro de su propia área, el otro equipo
 ---
 
 C: Si el balón cruza la línea de gol después de que un defensor lo tocó por último, el equipo atacante saca un [córner] desde la banderita de esquina.
+
+---
+
+Q: ¿Qué es un saque de banda en el fútbol?
+A: Cuando el balón sale por completo por la línea lateral, el otro equipo lo devuelve lanzándolo con las dos manos desde detrás de la cabeza. Los pies deben quedarse en el suelo.
