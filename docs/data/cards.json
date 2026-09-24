@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T13:22:50Z",
+  "generatedAt": "2026-09-24T13:15:15Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -2120,6 +2120,16 @@
       "kind": "qa",
       "question": "Was ist ein Einwurf im Fußball?",
       "answer": "Wenn der Ball vollständig über die Seitenlinie ausgeht, wirft die andere Mannschaft ihn mit beiden Händen von hinter dem Kopf zurück. Die Füße müssen auf dem Boden bleiben."
+    },
+    {
+      "id": "cards/de/Sports/football_middle.md:7:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist die FIFA-Weltmeisterschaft?",
+      "answer": "Das ist ein großes Fußballturnier, bei dem Nationalmannschaften aus vielen Ländern antreten. Es findet alle vier Jahre statt, und Fans auf der ganzen Welt feuern ihr Land an."
     },
     {
       "id": "cards/de/Sports/olympics_early.md:1:1",
@@ -4502,6 +4512,16 @@
       "answer": "When the ball goes completely out over the sideline, the other team throws it back in with both hands from behind their head. Their feet must stay on the ground."
     },
     {
+      "id": "cards/en/Sports/football_middle.md:7:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the FIFA World Cup?",
+      "answer": "It is a huge football tournament where national teams from many countries compete. It happens every four years, and fans all over the world cheer for their country."
+    },
+    {
       "id": "cards/en/Sports/olympics_early.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -6740,6 +6760,16 @@
       "kind": "qa",
       "question": "¿Qué es un saque de banda en el fútbol?",
       "answer": "Cuando el balón sale por completo por la línea lateral, el otro equipo lo devuelve lanzándolo con las dos manos desde detrás de la cabeza. Los pies deben quedarse en el suelo."
+    },
+    {
+      "id": "cards/es/Sports/football_middle.md:7:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "football",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es la Copa Mundial de la FIFA?",
+      "answer": "Es un torneo enorme de fútbol en el que compiten selecciones de muchos países. Se celebra cada cuatro años y millones de aficionados animan a su país."
     },
     {
       "id": "cards/es/Sports/olympics_early.md:1:1",
