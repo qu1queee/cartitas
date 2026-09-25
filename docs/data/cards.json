@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:15:15Z",
+  "generatedAt": "2026-09-25T13:16:08Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -2240,6 +2240,16 @@
       "kind": "cloze",
       "question": "Sportler _____ ihre Muskeln vor dem Wettkampf auf, damit sie sich seltener verletzen.",
       "answer": "wärmen"
+    },
+    {
+      "id": "cards/de/Sports/olympics_middle.md:8:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was passiert bei einer olympischen Medaillenzeremonie?",
+      "answer": "Die drei Besten stehen auf einem Podest. Gold steht in der Mitte auf der höchsten Stufe, Silber auf einer Seite und Bronze auf der anderen. Oft hört man die Nationalhymne des Goldmedaillengewinners."
     },
     {
       "id": "cards/en/Animals/farm_early.md:1:1",
@@ -4642,6 +4652,16 @@
       "answer": "warm up"
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:9:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What happens at an Olympic medal ceremony?",
+      "answer": "The top three athletes stand on a podium. Gold is in the middle on the highest step, silver on one side, and bronze on the other. The gold medalist often hears their country's anthem."
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -6880,6 +6900,16 @@
       "kind": "cloze",
       "question": "Los deportistas _____ los músculos antes de competir para tener menos probabilidades de lastimarse.",
       "answer": "calientan"
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:8:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué pasa en una ceremonia de entrega de medallas olímpicas?",
+      "answer": "Los tres mejores deportistas suben a un podio. El oro queda en el centro, en el escalón más alto; la plata a un lado y el bronce al otro. A menudo suena el himno del país del medallista de oro."
     }
   ]
 }
