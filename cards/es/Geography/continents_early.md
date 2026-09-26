@@ -40,3 +40,17 @@ A: En Oceanía. Los canguros viven en Australia, que forma parte del continente 
 ---
 
 C: América del Norte y América del Sur son dos [continentes] separados.
+
+---
+
+# Continentes — early (5–7)
+
+<!-- age: early | lang: es | topic: geography | subtopic: continents -->
+
+Q: ¿En qué continente están Estados Unidos, Canadá y México?
+A: En América del Norte. Los tres países están en el mismo continente.
+
+---
+
+Q: ¿En qué continente puedes ver las pirámides de Egipto?
+A: En África. Las pirámides se construyeron hace mucho tiempo cerca del río Nilo.

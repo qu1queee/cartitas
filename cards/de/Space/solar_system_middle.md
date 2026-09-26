@@ -36,3 +36,16 @@ A: Uranus. Die meisten Planeten drehen sich wie ein Kreisel, aber Uranus rollt e
 ---
 
 C: Neptun ist der Planet, der in unserem Sonnensystem am [weitesten] von der Sonne entfernt ist.
+
+---
+
+# Sonnensystem — middle (8–11)
+
+<!-- age: middle | lang: de | topic: space | subtopic: solar_system -->
+
+Q: Was ist Jupiters Großer Roter Fleck?
+A: Ein riesiger Sturm in Jupiters Wolken. Er wirbelt schon seit Hunderten von Jahren und ist größer als die Erde.
+
+---
+
+C: Ein [Komet] ist ein eisiger Himmelskörper, der nahe an der Sonne einen hellen Schweif bekommen kann.

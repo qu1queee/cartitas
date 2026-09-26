@@ -1,17 +1,3 @@
-# Farm animals — early (5–7)
-
-<!-- age: early | lang: en | topic: animals | subtopic: farm -->
-
-Q: What sound does a pig make?
-A: Oink! Pigs on farms grunt and oink when they are hungry or talking to each other.
-
----
-
-Q: What sound does a horse make?
-A: Neigh! Horses whinny and neigh. That is how they greet each other.
-
----
-
 C: Bees visit flowers and make sweet [honey] that people love to eat.
 
 ---

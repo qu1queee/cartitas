@@ -41,3 +41,17 @@ A: En estanques. Los patos tienen patas palmeadas que les ayudan a remar en el a
 
 Q: ¿Qué hace un gallo por la mañana?
 A: Canta fuerte. Su canto suena como "quiquiriquí".
+
+---
+
+# Animales de granja — early (5–7)
+
+<!-- age: early | lang: es | topic: animals | subtopic: farm -->
+
+Q: ¿Qué sonido hace un cerdo?
+A: ¡Oinc! Los cerdos en la granja gruñen cuando tienen hambre o se comunican entre ellos.
+
+---
+
+Q: ¿Qué sonido hace un caballo?
+A: ¡Relincho! Los caballos relinchan para saludarse.

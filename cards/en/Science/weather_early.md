@@ -23,3 +23,16 @@ A: An umbrella or a raincoat keeps rain off your clothes.
 
 Q: What is a rainbow?
 A: Colors in the sky that appear when sunlight shines through raindrops.
+
+---
+
+# Weather — early (5–7)
+
+<!-- age: early | lang: en | topic: science | subtopic: weather -->
+
+Q: What does the Sun do for weather on Earth?
+A: It warms the air, land, and water. That warmth helps make clouds, wind, and rain.
+
+---
+
+C: On a windy day, you can feel the [air] moving past your face.

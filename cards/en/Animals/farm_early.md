@@ -41,3 +41,17 @@ A: In ponds. Ducks have webbed feet that help them paddle through the water.
 
 Q: What does a rooster do in the morning?
 A: It crows loudly. Its call sounds like "cock-a-doodle-doo."
+
+---
+
+# Farm animals — early (5–7)
+
+<!-- age: early | lang: en | topic: animals | subtopic: farm -->
+
+Q: What sound does a pig make?
+A: Oink! Pigs on farms grunt and oink when they are hungry or talking to each other.
+
+---
+
+Q: What sound does a horse make?
+A: Neigh! Horses whinny and neigh. That is how they greet each other.

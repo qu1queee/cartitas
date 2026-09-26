@@ -36,3 +36,16 @@ A: Uranus. Most planets spin like a top, but Uranus rolls around the Sun more li
 ---
 
 C: Neptune is the planet [farthest] from the Sun in our solar system.
+
+---
+
+# Solar system — middle (8–11)
+
+<!-- age: middle | lang: en | topic: space | subtopic: solar_system -->
+
+Q: What is Jupiter's Great Red Spot?
+A: A giant storm in Jupiter's clouds. It has been swirling for hundreds of years and is bigger than Earth.
+
+---
+
+C: A [comet] is an icy object in space that can grow a bright tail when it passes close to the Sun.

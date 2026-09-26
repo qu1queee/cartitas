@@ -36,3 +36,16 @@ A: Urano. La mayoría de los planetas giran como una peonza, pero Urano rueda al
 ---
 
 C: Neptuno es el planeta [más lejano] del Sol en nuestro sistema solar.
+
+---
+
+# Sistema solar — middle (8–11)
+
+<!-- age: middle | lang: es | topic: space | subtopic: solar_system -->
+
+Q: ¿Qué es la Gran Mancha Roja de Júpiter?
+A: Una tormenta gigante en las nubes de Júpiter. Lleva cientos de años girando y es más grande que la Tierra.
+
+---
+
+C: Un [cometa] es un objeto helado en el espacio que puede formar una cola brillante cuando pasa cerca del Sol.

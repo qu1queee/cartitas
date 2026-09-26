@@ -40,3 +40,17 @@ A: In Ozeanien. Kängurus leben in Australien, das zum Kontinent Ozeanien gehör
 ---
 
 C: Nordamerika und Südamerika sind zwei verschiedene [Kontinente].
+
+---
+
+# Kontinente — early (5–7)
+
+<!-- age: early | lang: de | topic: geography | subtopic: continents -->
+
+Q: Auf welchem Kontinent liegen die Vereinigten Staaten, Kanada und Mexiko?
+A: In Nordamerika. Alle drei Länder liegen auf demselben Kontinent.
+
+---
+
+Q: Auf welchem Kontinent kann man die Pyramiden von Ägypten sehen?
+A: In Afrika. Die Pyramiden wurden lange vor unserer Zeit am Nil gebaut.

@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-09-25T13:16:08Z",
+  "generatedAt": "2026-09-26T12:41:12Z",
   "cards": [
+    {
+      "id": "cards/de/Animals/farm_early.md:10:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welches Geräusch macht ein Pferd?",
+      "answer": "Wiehern! Pferde wiehern, um sich zu begrüßen."
+    },
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
       "lang": "de",
@@ -80,6 +90,16 @@
       "kind": "qa",
       "question": "Was macht ein Hahn am Morgen?",
       "answer": "Er kräht laut. Sein Ruf klingt wie \"kikeriki\"."
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:9:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welches Geräusch macht ein Schwein?",
+      "answer": "Oink! Schweine auf dem Hof grunzen, wenn sie hungrig sind oder miteinander reden."
     },
     {
       "id": "cards/de/Animals/farm_middle.md:1:1",
@@ -462,6 +482,16 @@
       "answer": "Autos werden sehr schnell heiß, selbst mit gekippten Fenstern. Ein Hund kann schon nach wenigen Minuten lebensgefährlich überhitzen."
     },
     {
+      "id": "cards/de/Geography/continents_early.md:10:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent kann man die Pyramiden von Ägypten sehen?",
+      "answer": "In Afrika. Die Pyramiden wurden lange vor unserer Zeit am Nil gebaut."
+    },
+    {
       "id": "cards/de/Geography/continents_early.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -540,6 +570,16 @@
       "kind": "cloze",
       "question": "Nordamerika und Südamerika sind zwei verschiedene _____.",
       "answer": "Kontinente"
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:9:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent liegen die Vereinigten Staaten, Kanada und Mexiko?",
+      "answer": "In Nordamerika. Alle drei Länder liegen auf demselben Kontinent."
     },
     {
       "id": "cards/de/Geography/continents_middle.md:1:1",
@@ -1202,6 +1242,26 @@
       "answer": "Farben am Himmel, die erscheinen, wenn Sonnenlicht durch Regentropfen scheint."
     },
     {
+      "id": "cards/de/Science/weather_early.md:6:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was macht die Sonne mit dem Wetter auf der Erde?",
+      "answer": "Sie wärmt Luft, Land und Wasser. Diese Wärme hilft, Wolken, Wind und Regen zu machen."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:7:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "cloze",
+      "question": "An einem windigen Tag spürst du die _____, die an deinem Gesicht vorbeizieht.",
+      "answer": "Luft"
+    },
+    {
       "id": "cards/de/Science/weather_middle.md:10:1",
       "lang": "de",
       "topic": "Science",
@@ -1612,6 +1672,16 @@
       "answer": "Der Mars. Er ist der nächste Planet nach der Erde, wenn man von der Sonne weg zählt."
     },
     {
+      "id": "cards/de/Space/solar_system_middle.md:10:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ein _____ ist ein eisiger Himmelskörper, der nahe an der Sonne einen hellen Schweif bekommen kann.",
+      "answer": "Komet"
+    },
+    {
       "id": "cards/de/Space/solar_system_middle.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -1690,6 +1760,16 @@
       "kind": "cloze",
       "question": "Neptun ist der Planet, der in unserem Sonnensystem am _____ von der Sonne entfernt ist.",
       "answer": "weitesten"
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:9:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Jupiters Großer Roter Fleck?",
+      "answer": "Ein riesiger Sturm in Jupiters Wolken. Er wirbelt schon seit Hunderten von Jahren und ist größer als die Erde."
     },
     {
       "id": "cards/de/Space/solar_system_teen.md:1:1",
@@ -2252,6 +2332,16 @@
       "answer": "Die drei Besten stehen auf einem Podest. Gold steht in der Mitte auf der höchsten Stufe, Silber auf einer Seite und Bronze auf der anderen. Oft hört man die Nationalhymne des Goldmedaillengewinners."
     },
     {
+      "id": "cards/en/Animals/farm_early.md:10:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "What sound does a horse make?",
+      "answer": "Neigh! Horses whinny and neigh. That is how they greet each other."
+    },
+    {
       "id": "cards/en/Animals/farm_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2330,6 +2420,16 @@
       "kind": "qa",
       "question": "What does a rooster do in the morning?",
       "answer": "It crows loudly. Its call sounds like \"cock-a-doodle-doo.\""
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:9:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "What sound does a pig make?",
+      "answer": "Oink! Pigs on farms grunt and oink when they are hungry or talking to each other."
     },
     {
       "id": "cards/en/Animals/farm_middle.md:1:1",
@@ -2742,6 +2842,16 @@
       "answer": "Cars heat up very fast, even with windows cracked. A dog can get dangerously overheated in just a few minutes."
     },
     {
+      "id": "cards/en/Geography/continents_early.md:10:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "On which continent can you see the pyramids of Egypt?",
+      "answer": "Africa. The pyramids were built long ago near the Nile River."
+    },
+    {
       "id": "cards/en/Geography/continents_early.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -2820,6 +2930,16 @@
       "kind": "cloze",
       "question": "North America and South America are two separate _____.",
       "answer": "continents"
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:9:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which continent has the United States, Canada, and Mexico?",
+      "answer": "North America. All three countries are on the same continent."
     },
     {
       "id": "cards/en/Geography/continents_middle.md:1:1",
@@ -3522,6 +3642,26 @@
       "answer": "Colors in the sky that appear when sunlight shines through raindrops."
     },
     {
+      "id": "cards/en/Science/weather_early.md:6:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What does the Sun do for weather on Earth?",
+      "answer": "It warms the air, land, and water. That warmth helps make clouds, wind, and rain."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:7:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "cloze",
+      "question": "On a windy day, you can feel the _____ moving past your face.",
+      "answer": "air"
+    },
+    {
       "id": "cards/en/Science/weather_middle.md:10:1",
       "lang": "en",
       "topic": "Science",
@@ -3962,6 +4102,16 @@
       "answer": "Mars. It is the next planet out from the Sun after Earth."
     },
     {
+      "id": "cards/en/Space/solar_system_middle.md:10:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "A _____ is an icy object in space that can grow a bright tail when it passes close to the Sun.",
+      "answer": "comet"
+    },
+    {
       "id": "cards/en/Space/solar_system_middle.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -4040,6 +4190,16 @@
       "kind": "cloze",
       "question": "Neptune is the planet _____ from the Sun in our solar system.",
       "answer": "farthest"
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:9:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is Jupiter's Great Red Spot?",
+      "answer": "A giant storm in Jupiter's clouds. It has been swirling for hundreds of years and is bigger than Earth."
     },
     {
       "id": "cards/en/Space/solar_system_teen.md:1:1",
@@ -4662,6 +4822,16 @@
       "answer": "The top three athletes stand on a podium. Gold is in the middle on the highest step, silver on one side, and bronze on the other. The gold medalist often hears their country's anthem."
     },
     {
+      "id": "cards/es/Animals/farm_early.md:10:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué sonido hace un caballo?",
+      "answer": "¡Relincho! Los caballos relinchan para saludarse."
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -4740,6 +4910,16 @@
       "kind": "qa",
       "question": "¿Qué hace un gallo por la mañana?",
       "answer": "Canta fuerte. Su canto suena como \"quiquiriquí\"."
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:9:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué sonido hace un cerdo?",
+      "answer": "¡Oinc! Los cerdos en la granja gruñen cuando tienen hambre o se comunican entre ellos."
     },
     {
       "id": "cards/es/Animals/farm_middle.md:1:1",
@@ -5122,6 +5302,16 @@
       "answer": "Los coches se calientan muy rápido, incluso con las ventanillas entreabiertas. Un perro puede sobrecalentarse de forma peligrosa en solo unos minutos."
     },
     {
+      "id": "cards/es/Geography/continents_early.md:10:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué continente puedes ver las pirámides de Egipto?",
+      "answer": "En África. Las pirámides se construyeron hace mucho tiempo cerca del río Nilo."
+    },
+    {
       "id": "cards/es/Geography/continents_early.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -5200,6 +5390,16 @@
       "kind": "cloze",
       "question": "América del Norte y América del Sur son dos _____ separados.",
       "answer": "continentes"
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:9:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué continente están Estados Unidos, Canadá y México?",
+      "answer": "En América del Norte. Los tres países están en el mismo continente."
     },
     {
       "id": "cards/es/Geography/continents_middle.md:1:1",
@@ -5862,6 +6062,26 @@
       "answer": "Colores en el cielo que aparecen cuando la luz del Sol atraviesa las gotas de lluvia."
     },
     {
+      "id": "cards/es/Science/weather_early.md:6:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué hace el Sol con el clima en la Tierra?",
+      "answer": "Calienta el aire, la tierra y el agua. Ese calor ayuda a formar nubes, viento y lluvia."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:7:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "cloze",
+      "question": "En un día de viento, puedes sentir el _____ que pasa por tu cara.",
+      "answer": "aire"
+    },
+    {
       "id": "cards/es/Science/weather_middle.md:10:1",
       "lang": "es",
       "topic": "Science",
@@ -6272,6 +6492,16 @@
       "answer": "Marte. Es el siguiente planeta después de la Tierra alejándose del Sol."
     },
     {
+      "id": "cards/es/Space/solar_system_middle.md:10:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Un _____ es un objeto helado en el espacio que puede formar una cola brillante cuando pasa cerca del Sol.",
+      "answer": "cometa"
+    },
+    {
       "id": "cards/es/Space/solar_system_middle.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -6350,6 +6580,16 @@
       "kind": "cloze",
       "question": "Neptuno es el planeta _____ del Sol en nuestro sistema solar.",
       "answer": "más lejano"
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:9:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es la Gran Mancha Roja de Júpiter?",
+      "answer": "Una tormenta gigante en las nubes de Júpiter. Lleva cientos de años girando y es más grande que la Tierra."
     },
     {
       "id": "cards/es/Space/solar_system_teen.md:1:1",

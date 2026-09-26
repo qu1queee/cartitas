@@ -1,16 +1,3 @@
-# Weather — early (5–7)
-
-<!-- age: early | lang: en | topic: science | subtopic: weather -->
-
-Q: What does the Sun do for weather on Earth?
-A: It warms the air, land, and water. That warmth helps make clouds, wind, and rain.
-
----
-
-C: On a windy day, you can feel the [air] moving past your face.
-
----
-
 Q: What are gray clouds often telling us?
 A: They hold lots of tiny water drops. That often means rain may fall soon.
 

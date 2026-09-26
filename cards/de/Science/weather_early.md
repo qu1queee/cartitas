@@ -23,3 +23,16 @@ A: Einen Regenschirm oder eine Regenjacke schützt dich vor dem Regen.
 
 Q: Was ist ein Regenbogen?
 A: Farben am Himmel, die erscheinen, wenn Sonnenlicht durch Regentropfen scheint.
+
+---
+
+# Wetter — Anfänger (5–7)
+
+<!-- age: early | lang: de | topic: science | subtopic: weather -->
+
+Q: Was macht die Sonne mit dem Wetter auf der Erde?
+A: Sie wärmt Luft, Land und Wasser. Diese Wärme hilft, Wolken, Wind und Regen zu machen.
+
+---
+
+C: An einem windigen Tag spürst du die [Luft], die an deinem Gesicht vorbeizieht.

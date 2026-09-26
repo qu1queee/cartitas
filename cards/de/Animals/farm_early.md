@@ -41,3 +41,17 @@ A: In Teichen. Enten haben Schwimmhäute an den Füßen, die ihnen beim Paddeln 
 
 Q: Was macht ein Hahn am Morgen?
 A: Er kräht laut. Sein Ruf klingt wie "kikeriki".
+
+---
+
+# Bauernhoftiere — early (5–7)
+
+<!-- age: early | lang: de | topic: animals | subtopic: farm -->
+
+Q: Welches Geräusch macht ein Schwein?
+A: Oink! Schweine auf dem Hof grunzen, wenn sie hungrig sind oder miteinander reden.
+
+---
+
+Q: Welches Geräusch macht ein Pferd?
+A: Wiehern! Pferde wiehern, um sich zu begrüßen.
