@@ -55,3 +55,11 @@ A: Oink! Schweine auf dem Hof grunzen, wenn sie hungrig sind oder miteinander re
 
 Q: Welches Geräusch macht ein Pferd?
 A: Wiehern! Pferde wiehern, um sich zu begrüßen.
+
+---
+
+C: Bienen besuchen Blumen und machen süßen [Honig], den viele Menschen gerne essen.
+
+---
+
+C: Ein großer [Traktor] hilft Bauern, Felder zu pflügen und schwere Wagen zu ziehen.

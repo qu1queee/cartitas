@@ -36,3 +36,13 @@ A: Sie wärmt Luft, Land und Wasser. Diese Wärme hilft, Wolken, Wind und Regen 
 ---
 
 C: An einem windigen Tag spürst du die [Luft], die an deinem Gesicht vorbeizieht.
+
+---
+
+Q: Was sagen uns graue Wolken oft?
+A: Sie halten viele winzige Wassertropfen. Das bedeutet oft, dass bald Regen fallen könnte.
+
+---
+
+Q: Was ist Donner?
+A: Ein lautes Grollen bei einem Gewitter. Ein Blitz erhitzt die Luft sehr schnell, die Luft dehnt sich aus und macht den Knall.

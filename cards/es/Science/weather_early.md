@@ -36,3 +36,13 @@ A: Calienta el aire, la tierra y el agua. Ese calor ayuda a formar nubes, viento
 ---
 
 C: En un día de viento, puedes sentir el [aire] que pasa por tu cara.
+
+---
+
+Q: ¿Qué nos dicen a menudo las nubes grises?
+A: Guardan muchas gotitas de agua. Eso suele significar que pronto puede llover.
+
+---
+
+Q: ¿Qué es el trueno?
+A: Es un sonido fuerte y retumbante en una tormenta. El relámpago calienta el aire muy rápido y el aire se expande y hace el estruendo.
