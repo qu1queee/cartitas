@@ -49,3 +49,13 @@ A: Ein riesiger Sturm in Jupiters Wolken. Er wirbelt schon seit Hunderten von Ja
 ---
 
 C: Ein [Komet] ist ein eisiger Himmelskörper, der nahe an der Sonne einen hellen Schweif bekommen kann.
+
+---
+
+Q: Warum schicken Wissenschaftler Rover zum Mars?
+A: Auf dem Mars gab es früher Wasser. Rover untersuchen Gestein und Boden, um zu lernen, ob dort in der Vergangenheit winziges Leben möglich war.
+
+---
+
+Q: Welcher Planet braucht am wenigsten Zeit für eine Umlaufbahn um die Sonne?
+A: Merkur. Er umkreist die Sonne in nur etwa 88 Erdtagen.

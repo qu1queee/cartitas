@@ -55,3 +55,11 @@ A: ¡Oinc! Los cerdos en la granja gruñen cuando tienen hambre o se comunican e
 
 Q: ¿Qué sonido hace un caballo?
 A: ¡Relincho! Los caballos relinchan para saludarse.
+
+---
+
+C: Las abejas visitan flores y hacen dulce [miel] que a mucha gente le gusta comer.
+
+---
+
+C: Un gran [tractor] ayuda al granjero a labrar los campos y tirar de carros pesados.

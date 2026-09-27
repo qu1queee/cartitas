@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:41:12Z",
+  "generatedAt": "2026-09-27T13:32:45Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -10,6 +10,26 @@
       "kind": "qa",
       "question": "Welches Geräusch macht ein Pferd?",
       "answer": "Wiehern! Pferde wiehern, um sich zu begrüßen."
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:11:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Bienen besuchen Blumen und machen süßen _____, den viele Menschen gerne essen.",
+      "answer": "Honig"
+    },
+    {
+      "id": "cards/de/Animals/farm_early.md:12:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Ein großer _____ hilft Bauern, Felder zu pflügen und schwere Wagen zu ziehen.",
+      "answer": "Traktor"
     },
     {
       "id": "cards/de/Animals/farm_early.md:1:1",
@@ -490,6 +510,26 @@
       "kind": "qa",
       "question": "Auf welchem Kontinent kann man die Pyramiden von Ägypten sehen?",
       "answer": "In Afrika. Die Pyramiden wurden lange vor unserer Zeit am Nil gebaut."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:11:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ ist ein Kontinent mit vielen Ländern, zum Beispiel Frankreich, Spanien und Italien.",
+      "answer": "Europa"
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:12:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent liegt Brasilien?",
+      "answer": "In Südamerika. Brasilien ist das größte Land auf diesem Kontinent."
     },
     {
       "id": "cards/de/Geography/continents_early.md:1:1",
@@ -1262,6 +1302,26 @@
       "answer": "Luft"
     },
     {
+      "id": "cards/de/Science/weather_early.md:8:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was sagen uns graue Wolken oft?",
+      "answer": "Sie halten viele winzige Wassertropfen. Das bedeutet oft, dass bald Regen fallen könnte."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:9:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist Donner?",
+      "answer": "Ein lautes Grollen bei einem Gewitter. Ein Blitz erhitzt die Luft sehr schnell, die Luft dehnt sich aus und macht den Knall."
+    },
+    {
       "id": "cards/de/Science/weather_middle.md:10:1",
       "lang": "de",
       "topic": "Science",
@@ -1680,6 +1740,26 @@
       "kind": "cloze",
       "question": "Ein _____ ist ein eisiger Himmelskörper, der nahe an der Sonne einen hellen Schweif bekommen kann.",
       "answer": "Komet"
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:11:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum schicken Wissenschaftler Rover zum Mars?",
+      "answer": "Auf dem Mars gab es früher Wasser. Rover untersuchen Gestein und Boden, um zu lernen, ob dort in der Vergangenheit winziges Leben möglich war."
+    },
+    {
+      "id": "cards/de/Space/solar_system_middle.md:12:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welcher Planet braucht am wenigsten Zeit für eine Umlaufbahn um die Sonne?",
+      "answer": "Merkur. Er umkreist die Sonne in nur etwa 88 Erdtagen."
     },
     {
       "id": "cards/de/Space/solar_system_middle.md:1:1",
@@ -2342,6 +2422,26 @@
       "answer": "Neigh! Horses whinny and neigh. That is how they greet each other."
     },
     {
+      "id": "cards/en/Animals/farm_early.md:11:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Bees visit flowers and make sweet _____ that people love to eat.",
+      "answer": "honey"
+    },
+    {
+      "id": "cards/en/Animals/farm_early.md:12:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "A big _____ helps farmers plow fields and pull heavy wagons.",
+      "answer": "tractor"
+    },
+    {
       "id": "cards/en/Animals/farm_early.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2850,6 +2950,26 @@
       "kind": "qa",
       "question": "On which continent can you see the pyramids of Egypt?",
       "answer": "Africa. The pyramids were built long ago near the Nile River."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:11:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ is a continent with many countries such as France, Spain, and Italy.",
+      "answer": "Europe"
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:12:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which continent is home to Brazil?",
+      "answer": "South America. Brazil is the largest country on that continent."
     },
     {
       "id": "cards/en/Geography/continents_early.md:1:1",
@@ -3662,6 +3782,26 @@
       "answer": "air"
     },
     {
+      "id": "cards/en/Science/weather_early.md:8:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What are gray clouds often telling us?",
+      "answer": "They hold lots of tiny water drops. That often means rain may fall soon."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:9:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is thunder?",
+      "answer": "It is a loud rumbling sound during a storm. Lightning heats the air very fast, and the air expands and makes the boom."
+    },
+    {
       "id": "cards/en/Science/weather_middle.md:10:1",
       "lang": "en",
       "topic": "Science",
@@ -4110,6 +4250,26 @@
       "kind": "cloze",
       "question": "A _____ is an icy object in space that can grow a bright tail when it passes close to the Sun.",
       "answer": "comet"
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:11:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do scientists send rovers to Mars?",
+      "answer": "Mars had water long ago. Rovers study rocks and soil to learn whether tiny life could have lived there in the past."
+    },
+    {
+      "id": "cards/en/Space/solar_system_middle.md:12:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Which planet takes the shortest time to orbit the Sun?",
+      "answer": "Mercury. It goes around the Sun in only about 88 Earth days."
     },
     {
       "id": "cards/en/Space/solar_system_middle.md:1:1",
@@ -4832,6 +4992,26 @@
       "answer": "¡Relincho! Los caballos relinchan para saludarse."
     },
     {
+      "id": "cards/es/Animals/farm_early.md:11:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Las abejas visitan flores y hacen dulce _____ que a mucha gente le gusta comer.",
+      "answer": "miel"
+    },
+    {
+      "id": "cards/es/Animals/farm_early.md:12:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Un gran _____ ayuda al granjero a labrar los campos y tirar de carros pesados.",
+      "answer": "tractor"
+    },
+    {
       "id": "cards/es/Animals/farm_early.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -5310,6 +5490,26 @@
       "kind": "qa",
       "question": "¿En qué continente puedes ver las pirámides de Egipto?",
       "answer": "En África. Las pirámides se construyeron hace mucho tiempo cerca del río Nilo."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:11:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ es un continente con muchos países, como Francia, España e Italia.",
+      "answer": "Europa"
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:12:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué continente está Brasil?",
+      "answer": "En América del Sur. Brasil es el país más grande de ese continente."
     },
     {
       "id": "cards/es/Geography/continents_early.md:1:1",
@@ -6082,6 +6282,26 @@
       "answer": "aire"
     },
     {
+      "id": "cards/es/Science/weather_early.md:8:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué nos dicen a menudo las nubes grises?",
+      "answer": "Guardan muchas gotitas de agua. Eso suele significar que pronto puede llover."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:9:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es el trueno?",
+      "answer": "Es un sonido fuerte y retumbante en una tormenta. El relámpago calienta el aire muy rápido y el aire se expande y hace el estruendo."
+    },
+    {
       "id": "cards/es/Science/weather_middle.md:10:1",
       "lang": "es",
       "topic": "Science",
@@ -6500,6 +6720,26 @@
       "kind": "cloze",
       "question": "Un _____ es un objeto helado en el espacio que puede formar una cola brillante cuando pasa cerca del Sol.",
       "answer": "cometa"
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:11:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los científicos envían rovers a Marte?",
+      "answer": "Marte tuvo agua hace mucho tiempo. Los rovers estudian rocas y suelo para saber si pudo haber vida diminuta allí en el pasado."
+    },
+    {
+      "id": "cards/es/Space/solar_system_middle.md:12:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué planeta tarda menos tiempo en dar la vuelta al Sol?",
+      "answer": "Mercurio. Da la vuelta al Sol en solo unos 88 días terrestres."
     },
     {
       "id": "cards/es/Space/solar_system_middle.md:1:1",
