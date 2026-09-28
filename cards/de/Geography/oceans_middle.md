@@ -23,3 +23,12 @@ A: Der Marianengraben im Pazifik. Er ist etwa 11.000 Meter (36.000 Fuß) tief �
 
 Q: Was ist ein Korallenriff?
 A: Ein Korallenriff ist eine Unterwasserheimat, die von winzigen Tieren namens Korallen gebaut wird. Riffe geben Fischen Schutz und helfen Küsten vor großen Wellen zu schützen.
+
+---
+
+# Ozeane — middle (8–11)
+
+<!-- age: middle | lang: de | topic: geography | subtopic: oceans -->
+
+Q: Was ist ein Tsunami?
+A: Ein Tsunami ist eine sehr starke Welle, meist ausgelöst durch ein Erdbeben unter dem Ozean. Das Wasser kann weit ins Land laufen, wenn es die Küste erreicht.

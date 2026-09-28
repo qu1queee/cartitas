@@ -23,3 +23,12 @@ A: The Mariana Trench in the Pacific Ocean. It is about 36,000 feet (11,000 mete
 
 Q: What is a coral reef?
 A: A coral reef is an underwater home built by tiny animals called corals. Reefs shelter fish and help protect coastlines from big waves.
+
+---
+
+# Oceans — middle (8–11)
+
+<!-- age: middle | lang: en | topic: geography | subtopic: oceans -->
+
+Q: What is a tsunami?
+A: A tsunami is a very powerful wave, usually caused by an earthquake under the ocean. The water can rush far onto land when it reaches the shore.

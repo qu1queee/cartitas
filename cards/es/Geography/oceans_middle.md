@@ -23,3 +23,12 @@ A: La fosa de las Marianas en el océano Pacífico. Tiene unos 11.000 metros (36
 
 Q: ¿Qué es un arrecife de coral?
 A: Un arrecife de coral es un hogar submarino construido por animalitos llamados corales. Los arrecifes dan refugio a los peces y ayudan a proteger las costas de las olas grandes.
+
+---
+
+# Océanos — middle (8–11)
+
+<!-- age: middle | lang: es | topic: geography | subtopic: oceans -->
+
+Q: ¿Qué es un tsunami?
+A: Un tsunami es una ola muy poderosa, normalmente causada por un terremoto bajo el océano. El agua puede avanzar mucho tierra adentro cuando llega a la costa.

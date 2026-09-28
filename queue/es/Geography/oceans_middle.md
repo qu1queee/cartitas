@@ -1,12 +1,3 @@
-# Océanos — middle (8–11)
-
-<!-- age: middle | lang: es | topic: geography | subtopic: oceans -->
-
-Q: ¿Qué es un tsunami?
-A: Un tsunami es una ola muy poderosa, normalmente causada por un terremoto bajo el océano. El agua puede avanzar mucho tierra adentro cuando llega a la costa.
-
----
-
 Q: ¿Qué es un iceberg?
 A: Un bloque enorme de hielo que se desprendió de un glaciar y flota en el océano. La mayor parte de un iceberg está escondida bajo el agua.
 

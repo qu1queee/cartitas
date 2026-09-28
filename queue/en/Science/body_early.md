@@ -1,16 +1,3 @@
-# Your body — early (5–7)
-
-<!-- age: early | lang: en | topic: science | subtopic: body -->
-
-Q: Which body part helps you smell cookies or flowers?
-A: Your nose. It catches tiny bits in the air and tells your brain what something smells like.
-
----
-
-C: Your [tongue] helps you taste sweet, salty, and sour foods.
-
----
-
 Q: What do your eyebrows and eyelashes do?
 A: They help keep dust, sweat, and raindrops out of your eyes.
 

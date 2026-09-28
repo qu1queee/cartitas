@@ -40,3 +40,16 @@ A: Blood. It carries oxygen and food to the parts of your body that need them.
 ---
 
 C: A hard [skull] wraps around your brain to help keep it safe inside your head.
+
+---
+
+# Your body — early (5–7)
+
+<!-- age: early | lang: en | topic: science | subtopic: body -->
+
+Q: Which body part helps you smell cookies or flowers?
+A: Your nose. It catches tiny bits in the air and tells your brain what something smells like.
+
+---
+
+C: Your [tongue] helps you taste sweet, salty, and sour foods.

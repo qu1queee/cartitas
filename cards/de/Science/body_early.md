@@ -40,3 +40,16 @@ A: Blut. Es bringt Sauerstoff und Nahrung zu den Körperteilen, die sie brauchen
 ---
 
 C: Ein fester [Schädel] umgibt dein Gehirn und hilft, es sicher im Kopf zu halten.
+
+---
+
+# Dein Körper — early (5–7)
+
+<!-- age: early | lang: de | topic: science | subtopic: body -->
+
+Q: Welcher Körperteil hilft dir, Kekse oder Blumen zu riechen?
+A: Deine Nase. Sie fängt winzige Teilchen in der Luft ein und sagt deinem Gehirn, wie etwas riecht.
+
+---
+
+C: Deine [Zunge] hilft dir, süße, salzige und saure Speisen zu schmecken.

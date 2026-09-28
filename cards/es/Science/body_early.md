@@ -40,3 +40,16 @@ A: La sangre. Lleva oxígeno y alimento a las partes de tu cuerpo que los necesi
 ---
 
 C: Un [cráneo] duro rodea tu cerebro para ayudar a mantenerlo a salvo dentro de la cabeza.
+
+---
+
+# Tu cuerpo — early (5–7)
+
+<!-- age: early | lang: es | topic: science | subtopic: body -->
+
+Q: ¿Qué parte del cuerpo te ayuda a oler galletas o flores?
+A: La nariz. Atrapa pedacitos diminutos en el aire y le dice a tu cerebro cómo huele algo.
+
+---
+
+C: Tu [lengua] te ayuda a saborear comidas dulces, saladas y ácidas.

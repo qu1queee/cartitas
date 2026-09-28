@@ -1,16 +1,3 @@
-# Dein Körper — early (5–7)
-
-<!-- age: early | lang: de | topic: science | subtopic: body -->
-
-Q: Welcher Körperteil hilft dir, Kekse oder Blumen zu riechen?
-A: Deine Nase. Sie fängt winzige Teilchen in der Luft ein und sagt deinem Gehirn, wie etwas riecht.
-
----
-
-C: Deine [Zunge] hilft dir, süße, salzige und saure Speisen zu schmecken.
-
----
-
 Q: Was machen deine Augenbrauen und Wimpern?
 A: Sie helfen, Staub, Schweiß und Regentropfen aus deinen Augen fernzuhalten.
 

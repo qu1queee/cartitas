@@ -1,12 +1,3 @@
-# Ozeane — middle (8–11)
-
-<!-- age: middle | lang: de | topic: geography | subtopic: oceans -->
-
-Q: Was ist ein Tsunami?
-A: Ein Tsunami ist eine sehr starke Welle, meist ausgelöst durch ein Erdbeben unter dem Ozean. Das Wasser kann weit ins Land laufen, wenn es die Küste erreicht.
-
----
-
 Q: Was ist ein Eisberg?
 A: Ein riesiger Eisblock, der von einem Gletscher abbrach und im Ozean treibt. Der größte Teil eines Eisbergs ist unter Wasser verborgen.
 
