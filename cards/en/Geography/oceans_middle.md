@@ -32,3 +32,12 @@ A: A coral reef is an underwater home built by tiny animals called corals. Reefs
 
 Q: What is a tsunami?
 A: A tsunami is a very powerful wave, usually caused by an earthquake under the ocean. The water can rush far onto land when it reaches the shore.
+
+---
+
+Q: What is an iceberg?
+A: A huge chunk of ice that broke off from a glacier and floats in the ocean. Most of an iceberg is hidden underwater.
+
+---
+
+C: Warm ocean [currents] can carry heat from place to place and change the weather nearby.

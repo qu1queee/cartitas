@@ -32,3 +32,12 @@ A: Un arrecife de coral es un hogar submarino construido por animalitos llamados
 
 Q: ¿Qué es un tsunami?
 A: Un tsunami es una ola muy poderosa, normalmente causada por un terremoto bajo el océano. El agua puede avanzar mucho tierra adentro cuando llega a la costa.
+
+---
+
+Q: ¿Qué es un iceberg?
+A: Un bloque enorme de hielo que se desprendió de un glaciar y flota en el océano. La mayor parte de un iceberg está escondida bajo el agua.
+
+---
+
+C: Las [corrientes] cálidas del océano pueden llevar calor de un lugar a otro y cambiar el clima de cerca.
