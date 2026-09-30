@@ -23,3 +23,16 @@ A: A constellation is a group of stars that makes a picture in the sky. One famo
 
 Q: Are stars close to Earth?
 A: Most stars are very, very far away. They look small because they are so far from us.
+
+---
+
+# Stars — early (5–7)
+
+<!-- age: early | lang: en | topic: space | subtopic: stars -->
+
+C: At [night], when the sky is dark, you can look up and spot many stars.
+
+---
+
+Q: What colors can stars look like?
+A: Many look white or yellow to our eyes. Some look reddish. They can seem different colors because they are different temperatures.

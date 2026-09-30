@@ -23,3 +23,16 @@ A: Una constelación es un grupo de estrellas que forma una figura en el cielo. 
 
 Q: ¿Están las estrellas cerca de la Tierra?
 A: La mayoría de las estrellas están muy, muy lejos. Parecen pequeñas porque están tan lejos de nosotros.
+
+---
+
+# Estrellas — early (5–7)
+
+<!-- age: early | lang: es | topic: space | subtopic: stars -->
+
+C: De [noche], cuando el cielo está oscuro, puedes mirar hacia arriba y ver muchas estrellas.
+
+---
+
+Q: ¿De qué colores pueden verse las estrellas?
+A: Muchas se ven blancas o amarillas a nuestros ojos. Algunas se ven rojizas. Pueden parecer de distintos colores porque tienen temperaturas diferentes.

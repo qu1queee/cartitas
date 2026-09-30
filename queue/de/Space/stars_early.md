@@ -1,16 +1,3 @@
-# Sterne — early (5–7)
-
-<!-- age: early | lang: de | topic: space | subtopic: stars -->
-
-C: In der [Nacht], wenn der Himmel dunkel ist, kannst du nach oben schauen und viele Sterne sehen.
-
----
-
-Q: In welchen Farben können Sterne aussehen?
-A: Viele sehen für uns weiß oder gelb aus. Einige wirken rötlich. Sie können verschiedene Farben haben, weil sie unterschiedlich heiß sind.
-
----
-
 Q: Machen Sterne Geräusche, die wir von der Erde hören können?
 A: Nein. Im Weltraum gibt es fast keine Luft, die Schall trägt. Sterne sind still—sogar die Sonne würde von hier kein Geräusch machen, das wir hören könnten.
 
