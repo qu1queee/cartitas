@@ -1,16 +1,3 @@
-# Estrellas — early (5–7)
-
-<!-- age: early | lang: es | topic: space | subtopic: stars -->
-
-C: De [noche], cuando el cielo está oscuro, puedes mirar hacia arriba y ver muchas estrellas.
-
----
-
-Q: ¿De qué colores pueden verse las estrellas?
-A: Muchas se ven blancas o amarillas a nuestros ojos. Algunas se ven rojizas. Pueden parecer de distintos colores porque tienen temperaturas diferentes.
-
----
-
 Q: ¿Las estrellas hacen sonidos que podamos oír desde la Tierra?
 A: No. En el espacio casi no hay aire para llevar el sonido. Las estrellas son silenciosas—incluso el Sol no haría un ruido que pudiéramos oír desde aquí.
 

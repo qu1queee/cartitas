@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:38:29Z",
+  "generatedAt": "2026-09-30T14:38:51Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -922,6 +922,16 @@
       "answer": "Aus winzigen Stücken von Gestein und zerbrochenen Muscheln. Wellen mahlen sie über lange Zeit klein."
     },
     {
+      "id": "cards/de/Geography/oceans_middle.md:10:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum erforschen Wissenschaftler den Meeresboden?",
+      "answer": "Sie kartieren Berge, Gräben und Vulkane unter dem Wasser. Wenn wir den Meeresgrund verstehen, lernen wir mehr über Erdbeben und wie sich die Erde verändert."
+    },
+    {
       "id": "cards/de/Geography/oceans_middle.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -1002,6 +1012,16 @@
       "answer": "Meeresströmungen"
     },
     {
+      "id": "cards/de/Geography/oceans_middle.md:9:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der Unterschied zwischen einem Ozean und einem Meer?",
+      "answer": "Ein Ozean ist eines der fünf riesigen Salzwassergebiete der Welt. Ein Meer ist kleiner und oft teilweise von Land umgeben, wie das Mittelmeer."
+    },
+    {
       "id": "cards/de/Science/body_early.md:10:1",
       "lang": "de",
       "topic": "Science",
@@ -1030,6 +1050,16 @@
       "kind": "qa",
       "question": "Was ist Speichel?",
       "answer": "Die feuchte Flüssigkeit in deinem Mund. Sie macht Essen weicher, damit Kauen und Schlucken leichter sind."
+    },
+    {
+      "id": "cards/de/Science/body_early.md:13:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Die _____ ist eine Reihe von Knochen im Rücken, die dir hilft, gerade zu stehen.",
+      "answer": "Wirbelsäule"
     },
     {
       "id": "cards/de/Science/body_early.md:1:1",
@@ -1320,6 +1350,16 @@
       "kind": "qa",
       "question": "Worin unterscheidet sich eine Pflanze von einem Tier beim Essen?",
       "answer": "Pflanzen können mit Sonnenlicht ihre eigene Nahrung herstellen. Tiere können das nicht, deshalb essen sie Pflanzen oder andere Tiere."
+    },
+    {
+      "id": "cards/de/Science/weather_early.md:10:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist eine Pfütze?",
+      "answer": "Eine kleine Wasserlache auf dem Boden nach dem Regen. Die Sonne kann sie erwärmen, bis das Wasser verdunstet und als Dampf in die Luft geht."
     },
     {
       "id": "cards/de/Science/weather_early.md:1:1",
@@ -2020,6 +2060,26 @@
       "kind": "qa",
       "question": "Sind Sterne nah an der Erde?",
       "answer": "Die meisten Sterne sind sehr, sehr weit weg. Sie wirken klein, weil sie so weit von uns entfernt sind."
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:6:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "cloze",
+      "question": "In der _____, wenn der Himmel dunkel ist, kannst du nach oben schauen und viele Sterne sehen.",
+      "answer": "Nacht"
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:7:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "In welchen Farben können Sterne aussehen?",
+      "answer": "Viele sehen für uns weiß oder gelb aus. Einige wirken rötlich. Sie können verschiedene Farben haben, weil sie unterschiedlich heiß sind."
     },
     {
       "id": "cards/de/Space/stars_middle.md:1:1",
@@ -3502,6 +3562,16 @@
       "answer": "Tiny bits of rock and broken shells. Waves grind them small over a long time."
     },
     {
+      "id": "cards/en/Geography/oceans_middle.md:10:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do scientists study the ocean floor?",
+      "answer": "They map mountains, trenches, and volcanoes under the water. Learning about the seafloor helps us understand earthquakes and how Earth changes."
+    },
+    {
       "id": "cards/en/Geography/oceans_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -3582,6 +3652,16 @@
       "answer": "currents"
     },
     {
+      "id": "cards/en/Geography/oceans_middle.md:9:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the difference between an ocean and a sea?",
+      "answer": "An ocean is one of the world's five huge salt-water bodies. A sea is smaller and often partly surrounded by land, like the Mediterranean Sea."
+    },
+    {
       "id": "cards/en/Science/body_early.md:10:1",
       "lang": "en",
       "topic": "Science",
@@ -3610,6 +3690,16 @@
       "kind": "qa",
       "question": "What is saliva?",
       "answer": "The wet liquid in your mouth. It softens food so chewing and swallowing are easier."
+    },
+    {
+      "id": "cards/en/Science/body_early.md:13:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "The _____ is a row of bones in your back that helps you stand up straight.",
+      "answer": "spine"
     },
     {
       "id": "cards/en/Science/body_early.md:1:1",
@@ -3900,6 +3990,16 @@
       "kind": "qa",
       "question": "How is a plant different from an animal when it comes to food?",
       "answer": "Plants can make their own food using sunlight. Animals cannot make food that way, so they eat plants or other animals instead."
+    },
+    {
+      "id": "cards/en/Science/weather_early.md:10:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a puddle?",
+      "answer": "A small pool of water on the ground after rain. The Sun can warm it until the water dries up and floats away as vapor in the air."
     },
     {
       "id": "cards/en/Science/weather_early.md:1:1",
@@ -4630,6 +4730,26 @@
       "kind": "qa",
       "question": "Are stars close to Earth?",
       "answer": "Most stars are very, very far away. They look small because they are so far from us."
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "cloze",
+      "question": "At _____, when the sky is dark, you can look up and spot many stars.",
+      "answer": "night"
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "What colors can stars look like?",
+      "answer": "Many look white or yellow to our eyes. Some look reddish. They can seem different colors because they are different temperatures."
     },
     {
       "id": "cards/en/Space/stars_middle.md:1:1",
@@ -6102,6 +6222,16 @@
       "answer": "De pedacitos muy pequeños de roca y conchas rotas. Las olas las van moliendo con el tiempo."
     },
     {
+      "id": "cards/es/Geography/oceans_middle.md:10:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los científicos estudian el fondo del océano?",
+      "answer": "Mapean montañas, fosas y volcanes bajo el agua. Aprender sobre el fondo marino nos ayuda a entender los terremotos y cómo cambia la Tierra."
+    },
+    {
       "id": "cards/es/Geography/oceans_middle.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -6182,6 +6312,16 @@
       "answer": "corrientes"
     },
     {
+      "id": "cards/es/Geography/oceans_middle.md:9:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "oceans",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es la diferencia entre un océano y un mar?",
+      "answer": "Un océano es uno de los cinco cuerpos enormes de agua salada del mundo. Un mar es más pequeño y a menudo está rodeado en parte por tierra, como el mar Mediterráneo."
+    },
+    {
       "id": "cards/es/Science/body_early.md:10:1",
       "lang": "es",
       "topic": "Science",
@@ -6210,6 +6350,16 @@
       "kind": "qa",
       "question": "¿Qué es la saliva?",
       "answer": "El líquido húmedo de tu boca. Ablanda la comida para que sea más fácil masticar y tragar."
+    },
+    {
+      "id": "cards/es/Science/body_early.md:13:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "early",
+      "kind": "cloze",
+      "question": "La _____ es una fila de huesos en la espalda que te ayuda a estar erguido.",
+      "answer": "columna vertebral"
     },
     {
       "id": "cards/es/Science/body_early.md:1:1",
@@ -6500,6 +6650,16 @@
       "kind": "qa",
       "question": "¿En qué se diferencia una planta de un animal al alimentarse?",
       "answer": "Las plantas pueden hacer su propio alimento con la luz del Sol. Los animales no pueden hacerlo así, así que comen plantas u otros animales."
+    },
+    {
+      "id": "cards/es/Science/weather_early.md:10:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "weather",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es un charco?",
+      "answer": "Un poquito de agua en el suelo después de llover. El Sol puede calentarlo hasta que el agua se seca y sube como vapor en el aire."
     },
     {
       "id": "cards/es/Science/weather_early.md:1:1",
@@ -7200,6 +7360,26 @@
       "kind": "qa",
       "question": "¿Están las estrellas cerca de la Tierra?",
       "answer": "La mayoría de las estrellas están muy, muy lejos. Parecen pequeñas porque están tan lejos de nosotros."
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:6:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "cloze",
+      "question": "De _____, cuando el cielo está oscuro, puedes mirar hacia arriba y ver muchas estrellas.",
+      "answer": "noche"
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:7:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿De qué colores pueden verse las estrellas?",
+      "answer": "Muchas se ven blancas o amarillas a nuestros ojos. Algunas se ven rojizas. Pueden parecer de distintos colores porque tienen temperaturas diferentes."
     },
     {
       "id": "cards/es/Space/stars_middle.md:1:1",
