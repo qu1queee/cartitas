@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:38:51Z",
+  "generatedAt": "2026-10-01T15:07:40Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -510,6 +510,26 @@
       "kind": "qa",
       "question": "Warum solltest du einen Hund nie allein in einem heißen Auto lassen?",
       "answer": "Autos werden sehr schnell heiß, selbst mit gekippten Fenstern. Ein Hund kann schon nach wenigen Minuten lebensgefährlich überhitzen."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:6:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum schnüffeln Hunde beim Spaziergang draußen so viel?",
+      "answer": "Die Nase eines Hundes ist sehr fein. Beim Schnüffeln erfährt er, wer vorbeigegangen ist, wo Futter sein könnte und was in der Nachbarschaft neu ist."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:7:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Haustier-Mikrochip?",
+      "answer": "Das ist ein winziger Chip, den der Tierarzt unter die Haut des Tieres setzt. Wenn es verloren geht, kann ein Scanner den Chip lesen und helfen, es zur Familie zurückzubringen."
     },
     {
       "id": "cards/de/Geography/continents_early.md:10:1",
@@ -2082,6 +2102,26 @@
       "answer": "Viele sehen für uns weiß oder gelb aus. Einige wirken rötlich. Sie können verschiedene Farben haben, weil sie unterschiedlich heiß sind."
     },
     {
+      "id": "cards/de/Space/stars_early.md:8:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Machen Sterne Geräusche, die wir von der Erde hören können?",
+      "answer": "Nein. Im Weltraum gibt es fast keine Luft, die Schall trägt. Sterne sind still—sogar die Sonne würde von hier kein Geräusch machen, das wir hören könnten."
+    },
+    {
+      "id": "cards/de/Space/stars_early.md:9:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Warum können Wolken es schwer machen, Sterne zu sehen?",
+      "answer": "Wolken verdecken die Sicht wie eine graue Decke am Himmel. Wenn der Himmel klar ist, kann viel mehr Sternenlicht durchscheinen."
+    },
+    {
       "id": "cards/de/Space/stars_middle.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -2310,6 +2350,16 @@
       "kind": "qa",
       "question": "Was ist ein Dunk?",
       "answer": "Ein Spieler springt hoch und drückt den Ball nach unten durch den Korb. Es ist einer der aufregendsten Spielzüge im Basketball."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:9:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Assist im Basketball?",
+      "answer": "Wenn ein Spieler den Ball zu einem Mitspieler passt und dieser sofort punktet, bekommt der Passgeber einen Assist. Wenn alle den Ball teilen, erzielt das Team mehr Körbe."
     },
     {
       "id": "cards/de/Sports/football_early.md:1:1",
@@ -3110,6 +3160,26 @@
       "kind": "qa",
       "question": "Why should you never leave a dog alone in a hot car?",
       "answer": "Cars heat up very fast, even with windows cracked. A dog can get dangerously overheated in just a few minutes."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:8:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do dogs sniff so much when they walk outside?",
+      "answer": "A dog's nose is very strong. Sniffing tells them who walked by, where food might be, and what is new in the neighborhood."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:9:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a pet microchip?",
+      "answer": "It is a tiny chip a vet puts under a pet's skin. If the pet gets lost, a scanner can read the chip and help return the animal to its family."
     },
     {
       "id": "cards/en/Geography/continents_early.md:10:1",
@@ -4752,6 +4822,26 @@
       "answer": "Many look white or yellow to our eyes. Some look reddish. They can seem different colors because they are different temperatures."
     },
     {
+      "id": "cards/en/Space/stars_early.md:8:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Do stars make sounds we can hear from Earth?",
+      "answer": "No. Space has almost no air to carry sound. Stars are silent—even the Sun would not make a noise we could hear from here."
+    },
+    {
+      "id": "cards/en/Space/stars_early.md:9:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Why can clouds make it hard to see stars?",
+      "answer": "Clouds block your view like a gray blanket over the sky. When the sky is clear, many more stars can shine through."
+    },
+    {
       "id": "cards/en/Space/stars_middle.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -5030,6 +5120,16 @@
       "kind": "qa",
       "question": "What is a slam dunk?",
       "answer": "A player jumps up high and pushes the ball down through the hoop. It is one of the most exciting plays in basketball."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:9:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is an assist in basketball?",
+      "answer": "When one player passes the ball to a teammate who scores right away, the passer gets an assist. Sharing the ball helps the whole team score more."
     },
     {
       "id": "cards/en/Sports/football_early.md:1:1",
@@ -5810,6 +5910,26 @@
       "kind": "qa",
       "question": "¿Por qué nunca debes dejar a un perro solo en un coche caliente?",
       "answer": "Los coches se calientan muy rápido, incluso con las ventanillas entreabiertas. Un perro puede sobrecalentarse de forma peligrosa en solo unos minutos."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:6:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los perros huelen tanto cuando pasean fuera?",
+      "answer": "La nariz de un perro es muy sensible. Al olfatear sabe quién pasó, dónde puede haber comida y qué hay de nuevo en el barrio."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:7:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un microchip para mascotas?",
+      "answer": "Es un chip muy pequeño que el veterinario coloca bajo la piel de la mascota. Si se pierde, un escáner puede leerlo y ayudar a devolverla a su familia."
     },
     {
       "id": "cards/es/Geography/continents_early.md:10:1",
@@ -7382,6 +7502,26 @@
       "answer": "Muchas se ven blancas o amarillas a nuestros ojos. Algunas se ven rojizas. Pueden parecer de distintos colores porque tienen temperaturas diferentes."
     },
     {
+      "id": "cards/es/Space/stars_early.md:8:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Las estrellas hacen sonidos que podamos oír desde la Tierra?",
+      "answer": "No. En el espacio casi no hay aire para llevar el sonido. Las estrellas son silenciosas—incluso el Sol no haría un ruido que pudiéramos oír desde aquí."
+    },
+    {
+      "id": "cards/es/Space/stars_early.md:9:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Por qué las nubes pueden dificultar ver las estrellas?",
+      "answer": "Las nubes tapan la vista como una manta gris en el cielo. Cuando el cielo está despejado, muchas más estrellas pueden brillar."
+    },
+    {
       "id": "cards/es/Space/stars_middle.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -7610,6 +7750,16 @@
       "kind": "qa",
       "question": "¿Qué es una volcada?",
       "answer": "Un jugador salta muy alto y empuja el balón hacia abajo a través de la canasta. Es una de las jugadas más emocionantes del baloncesto."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:9:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una asistencia en baloncesto?",
+      "answer": "Cuando un jugador pasa el balón a un compañero y este anota enseguida, quien pasó recibe una asistencia. Compartir el balón ayuda a que todo el equipo anote más."
     },
     {
       "id": "cards/es/Sports/football_early.md:1:1",

@@ -41,3 +41,12 @@ A: Ten feet (about three meters) above the floor. That is why tall players and s
 
 Q: What is a slam dunk?
 A: A player jumps up high and pushes the ball down through the hoop. It is one of the most exciting plays in basketball.
+
+---
+
+# Basketball — middle (8–11)
+
+<!-- age: middle | lang: en | topic: sports | subtopic: basketball -->
+
+Q: What is an assist in basketball?
+A: When one player passes the ball to a teammate who scores right away, the passer gets an assist. Sharing the ball helps the whole team score more.

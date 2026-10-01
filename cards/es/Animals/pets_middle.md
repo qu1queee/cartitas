@@ -23,3 +23,17 @@ C: Los hámsters necesitan una [rueda] para correr, agua fresca y una jaula limp
 
 Q: ¿Por qué nunca debes dejar a un perro solo en un coche caliente?
 A: Los coches se calientan muy rápido, incluso con las ventanillas entreabiertas. Un perro puede sobrecalentarse de forma peligrosa en solo unos minutos.
+
+---
+
+# Mascotas — middle (8–11)
+
+<!-- age: middle | lang: es | topic: animals | subtopic: pets -->
+
+Q: ¿Por qué los perros huelen tanto cuando pasean fuera?
+A: La nariz de un perro es muy sensible. Al olfatear sabe quién pasó, dónde puede haber comida y qué hay de nuevo en el barrio.
+
+---
+
+Q: ¿Qué es un microchip para mascotas?
+A: Es un chip muy pequeño que el veterinario coloca bajo la piel de la mascota. Si se pierde, un escáner puede leerlo y ayudar a devolverla a su familia.

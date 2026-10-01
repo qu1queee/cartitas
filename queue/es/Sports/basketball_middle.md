@@ -1,12 +1,3 @@
-# Baloncesto — middle (8–11)
-
-<!-- age: middle | lang: es | topic: sports | subtopic: basketball -->
-
-Q: ¿Qué es una asistencia en baloncesto?
-A: Cuando un jugador pasa el balón a un compañero y este anota enseguida, quien pasó recibe una asistencia. Compartir el balón ayuda a que todo el equipo anote más.
-
----
-
 C: Si un jugador corre con el balón sin [botarlo], el árbitro pita pasos y el otro equipo recupera la posesión.
 
 ---

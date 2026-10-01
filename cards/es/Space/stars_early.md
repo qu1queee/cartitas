@@ -36,3 +36,13 @@ C: De [noche], cuando el cielo está oscuro, puedes mirar hacia arriba y ver muc
 
 Q: ¿De qué colores pueden verse las estrellas?
 A: Muchas se ven blancas o amarillas a nuestros ojos. Algunas se ven rojizas. Pueden parecer de distintos colores porque tienen temperaturas diferentes.
+
+---
+
+Q: ¿Las estrellas hacen sonidos que podamos oír desde la Tierra?
+A: No. En el espacio casi no hay aire para llevar el sonido. Las estrellas son silenciosas—incluso el Sol no haría un ruido que pudiéramos oír desde aquí.
+
+---
+
+Q: ¿Por qué las nubes pueden dificultar ver las estrellas?
+A: Las nubes tapan la vista como una manta gris en el cielo. Cuando el cielo está despejado, muchas más estrellas pueden brillar.

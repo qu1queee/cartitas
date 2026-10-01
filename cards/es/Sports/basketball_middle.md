@@ -41,3 +41,12 @@ A: A diez pies (unos tres metros) del suelo. Por eso los jugadores altos y los q
 
 Q: ¿Qué es una volcada?
 A: Un jugador salta muy alto y empuja el balón hacia abajo a través de la canasta. Es una de las jugadas más emocionantes del baloncesto.
+
+---
+
+# Baloncesto — middle (8–11)
+
+<!-- age: middle | lang: es | topic: sports | subtopic: basketball -->
+
+Q: ¿Qué es una asistencia en baloncesto?
+A: Cuando un jugador pasa el balón a un compañero y este anota enseguida, quien pasó recibe una asistencia. Compartir el balón ayuda a que todo el equipo anote más.

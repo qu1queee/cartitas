@@ -37,3 +37,17 @@ C: Hamsters need a [wheel] to run on, fresh water, and a clean cage with bedding
 
 Q: Why should you never leave a dog alone in a hot car?
 A: Cars heat up very fast, even with windows cracked. A dog can get dangerously overheated in just a few minutes.
+
+---
+
+# Pets — middle (8–11)
+
+<!-- age: middle | lang: en | topic: animals | subtopic: pets -->
+
+Q: Why do dogs sniff so much when they walk outside?
+A: A dog's nose is very strong. Sniffing tells them who walked by, where food might be, and what is new in the neighborhood.
+
+---
+
+Q: What is a pet microchip?
+A: It is a tiny chip a vet puts under a pet's skin. If the pet gets lost, a scanner can read the chip and help return the animal to its family.
