@@ -50,3 +50,7 @@ A: Un jugador salta muy alto y empuja el balón hacia abajo a través de la cana
 
 Q: ¿Qué es una asistencia en baloncesto?
 A: Cuando un jugador pasa el balón a un compañero y este anota enseguida, quien pasó recibe una asistencia. Compartir el balón ayuda a que todo el equipo anote más.
+
+---
+
+C: Si un jugador corre con el balón sin [botarlo], el árbitro pita pasos y el otro equipo recupera la posesión.
