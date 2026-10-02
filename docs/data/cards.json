@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:07:40Z",
+  "generatedAt": "2026-10-02T14:28:50Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -530,6 +530,26 @@
       "kind": "qa",
       "question": "Was ist ein Haustier-Mikrochip?",
       "answer": "Das ist ein winziger Chip, den der Tierarzt unter die Haut des Tieres setzt. Wenn es verloren geht, kann ein Scanner den Chip lesen und helfen, es zur Familie zurückzubringen."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:8:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum kneten Katzen manchmal mit den Vorderpfoten?",
+      "answer": "Kätzchen kneten an der Mutter, um Milch zu bekommen, und viele Katzen behalten das, wenn sie sich sicher fühlen. Das zeigt, dass sie dir vertrauen."
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:9:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "_____ als Haustiere brauchen sauberes Wasser zum Schwimmen und einen trockenen Platz mit einer warmen Lampe zum Ruhen und Sonnen.",
+      "answer": "Schildkröten"
     },
     {
       "id": "cards/de/Geography/continents_early.md:10:1",
@@ -2032,6 +2052,16 @@
       "answer": "Ein Ring aus Felsbrocken zwischen Mars und Jupiter. Die meisten bleiben dort und treffen keine Planeten."
     },
     {
+      "id": "cards/de/Space/stars_early.md:10:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist Sternegucken?",
+      "answer": "In den Nachthimmel schauen und die Sterne genießen. Du kannst nur deine Augen oder ein einfaches Fernglas an einer klaren, dunklen Nacht benutzen."
+    },
+    {
       "id": "cards/de/Space/stars_early.md:1:1",
       "lang": "de",
       "topic": "Space",
@@ -2270,6 +2300,16 @@
       "kind": "qa",
       "question": "Was hängt unter dem Basketballring?",
       "answer": "Ein Netz. Es fängt den Ball, wenn jemand punktet, damit er nicht direkt auf den Boden fällt."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:10:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Läuft ein Spieler mit dem Ball, ohne ihn zu _____, pfeift der Schiedsrichter Schritte und die andere Mannschaft bekommt den Ball.",
+      "answer": "dribbeln"
     },
     {
       "id": "cards/de/Sports/basketball_middle.md:1:1",
@@ -3090,6 +3130,26 @@
       "kind": "cloze",
       "question": "Birds in cages need a _____ to stand on and room to stretch their wings.",
       "answer": "perch"
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:10:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do cats sometimes knead with their front paws?",
+      "answer": "Kittens knead their mother for milk, and many cats keep the habit when they feel safe. It is a cozy sign that they trust you."
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:11:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Pet _____ need clean water to swim and a dry spot with a warm lamp where they can rest and bask.",
+      "answer": "turtles"
     },
     {
       "id": "cards/en/Animals/pets_middle.md:1:1",
@@ -4752,6 +4812,16 @@
       "answer": "A ring of rocky objects between Mars and Jupiter. Most asteroids stay there and do not hit planets."
     },
     {
+      "id": "cards/en/Space/stars_early.md:10:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is stargazing?",
+      "answer": "Looking up at the night sky to enjoy the stars. You can use just your eyes or simple binoculars on a clear, dark night."
+    },
+    {
       "id": "cards/en/Space/stars_early.md:1:1",
       "lang": "en",
       "topic": "Space",
@@ -5040,6 +5110,16 @@
       "kind": "qa",
       "question": "What hangs below the basketball ring?",
       "answer": "A net. It catches the ball when someone scores so it does not fall straight to the floor."
+    },
+    {
+      "id": "cards/en/Sports/basketball_middle.md:10:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "If a player runs with the ball without _____, the referee calls a traveling violation and the other team gets the ball.",
+      "answer": "dribbling"
     },
     {
       "id": "cards/en/Sports/basketball_middle.md:1:1",
@@ -5930,6 +6010,26 @@
       "kind": "qa",
       "question": "¿Qué es un microchip para mascotas?",
       "answer": "Es un chip muy pequeño que el veterinario coloca bajo la piel de la mascota. Si se pierde, un escáner puede leerlo y ayudar a devolverla a su familia."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:8:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué a veces los gatos amasan con las patas delanteras?",
+      "answer": "Los gatitos amasan a su madre para tomar leche, y muchos gatos siguen haciéndolo cuando se sienten seguros. Es una señal de que confían en ti."
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:9:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Las _____ mascota necesitan agua limpia para nadar y un lugar seco con una lámpara cálida donde descansar y tomar el sol.",
+      "answer": "tortugas"
     },
     {
       "id": "cards/es/Geography/continents_early.md:10:1",
@@ -7432,6 +7532,16 @@
       "answer": "Un anillo de rocas entre Marte y Júpiter. La mayoría se queda allí y no golpea los planetas."
     },
     {
+      "id": "cards/es/Space/stars_early.md:10:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "stars",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es observar las estrellas?",
+      "answer": "Mirar el cielo nocturno para disfrutar de las estrellas. Puedes usar solo tus ojos o unos binoculares sencillos en una noche clara y oscura."
+    },
+    {
       "id": "cards/es/Space/stars_early.md:1:1",
       "lang": "es",
       "topic": "Space",
@@ -7670,6 +7780,16 @@
       "kind": "qa",
       "question": "¿Qué cuelga debajo del aro de baloncesto?",
       "answer": "Una red. Atrapa el balón cuando alguien anota para que no caiga directo al suelo."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:10:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Si un jugador corre con el balón sin _____, el árbitro pita pasos y el otro equipo recupera la posesión.",
+      "answer": "botarlo"
     },
     {
       "id": "cards/es/Sports/basketball_middle.md:1:1",

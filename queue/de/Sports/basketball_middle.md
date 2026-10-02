@@ -1,7 +1,3 @@
-C: Läuft ein Spieler mit dem Ball, ohne ihn zu [dribbeln], pfeift der Schiedsrichter Schritte und die andere Mannschaft bekommt den Ball.
-
----
-
 Q: Was ist eine Auszeit im Basketball?
 A: Der Trainer kann die Uhr kurz anhalten; das heißt Auszeit. Die Spieler schnaufen durch, trinken Wasser und hören den Plan für die nächsten Züge.
 

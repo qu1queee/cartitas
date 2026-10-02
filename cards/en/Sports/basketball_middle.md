@@ -50,3 +50,7 @@ A: A player jumps up high and pushes the ball down through the hoop. It is one o
 
 Q: What is an assist in basketball?
 A: When one player passes the ball to a teammate who scores right away, the passer gets an assist. Sharing the ball helps the whole team score more.
+
+---
+
+C: If a player runs with the ball without [dribbling], the referee calls a traveling violation and the other team gets the ball.

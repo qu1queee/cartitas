@@ -46,3 +46,8 @@ A: Nein. Im Weltraum gibt es fast keine Luft, die Schall trägt. Sterne sind sti
 
 Q: Warum können Wolken es schwer machen, Sterne zu sehen?
 A: Wolken verdecken die Sicht wie eine graue Decke am Himmel. Wenn der Himmel klar ist, kann viel mehr Sternenlicht durchscheinen.
+
+---
+
+Q: Was ist Sternegucken?
+A: In den Nachthimmel schauen und die Sterne genießen. Du kannst nur deine Augen oder ein einfaches Fernglas an einer klaren, dunklen Nacht benutzen.

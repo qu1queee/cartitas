@@ -37,3 +37,12 @@ A: La nariz de un perro es muy sensible. Al olfatear sabe quién pasó, dónde p
 
 Q: ¿Qué es un microchip para mascotas?
 A: Es un chip muy pequeño que el veterinario coloca bajo la piel de la mascota. Si se pierde, un escáner puede leerlo y ayudar a devolverla a su familia.
+
+---
+
+Q: ¿Por qué a veces los gatos amasan con las patas delanteras?
+A: Los gatitos amasan a su madre para tomar leche, y muchos gatos siguen haciéndolo cuando se sienten seguros. Es una señal de que confían en ti.
+
+---
+
+C: Las [tortugas] mascota necesitan agua limpia para nadar y un lugar seco con una lámpara cálida donde descansar y tomar el sol.
