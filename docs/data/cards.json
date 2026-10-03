@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:28:50Z",
+  "generatedAt": "2026-10-03T13:03:44Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -460,6 +460,16 @@
       "kind": "cloze",
       "question": "Vögel im Käfig brauchen eine _____, auf der sie stehen können, und Platz, um die Flügel zu strecken.",
       "answer": "Sitzstange"
+    },
+    {
+      "id": "cards/de/Animals/pets_middle.md:10:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was solltest du tun, wenn dein Haustier krank oder verletzt wirkt?",
+      "answer": "Sofort einem Erwachsenen Bescheid sagen. Er oder sie kann den Tierarzt anrufen, der Tiere untersucht und bei Bedarf Medizin gibt."
     },
     {
       "id": "cards/de/Animals/pets_middle.md:1:1",
@@ -2312,6 +2322,16 @@
       "answer": "dribbeln"
     },
     {
+      "id": "cards/de/Sports/basketball_middle.md:11:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Auszeit im Basketball?",
+      "answer": "Der Trainer kann die Uhr kurz anhalten; das heißt Auszeit. Die Spieler schnaufen durch, trinken Wasser und hören den Plan für die nächsten Züge."
+    },
+    {
       "id": "cards/de/Sports/basketball_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -3150,6 +3170,16 @@
       "kind": "cloze",
       "question": "Pet _____ need clean water to swim and a dry spot with a warm lamp where they can rest and bask.",
       "answer": "turtles"
+    },
+    {
+      "id": "cards/en/Animals/pets_middle.md:12:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What should you do if your pet seems sick or hurt?",
+      "answer": "Tell a grown-up right away. They can call a veterinarian, who knows how to check animals and give medicine if needed."
     },
     {
       "id": "cards/en/Animals/pets_middle.md:1:1",
@@ -5122,6 +5152,16 @@
       "answer": "dribbling"
     },
     {
+      "id": "cards/en/Sports/basketball_middle.md:11:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a timeout in basketball?",
+      "answer": "A coach can stop the clock for a short break called a timeout. Players catch their breath, drink water, and hear the plan for the next few plays."
+    },
+    {
       "id": "cards/en/Sports/basketball_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -5940,6 +5980,16 @@
       "kind": "cloze",
       "question": "Los pájaros en jaulas necesitan una _____ donde posarse y espacio para estirar las alas.",
       "answer": "percha"
+    },
+    {
+      "id": "cards/es/Animals/pets_middle.md:10:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "pets",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué debes hacer si tu mascota parece enferma o lastimada?",
+      "answer": "Avisar enseguida a un adulto. Puede llamar al veterinario, que sabe revisar animales y darles medicina si hace falta."
     },
     {
       "id": "cards/es/Animals/pets_middle.md:1:1",
@@ -7790,6 +7840,16 @@
       "kind": "cloze",
       "question": "Si un jugador corre con el balón sin _____, el árbitro pita pasos y el otro equipo recupera la posesión.",
       "answer": "botarlo"
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:11:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un tiempo muerto en baloncesto?",
+      "answer": "El entrenador puede parar el reloj un momento; eso se llama tiempo muerto. Los jugadores recuperan el aliento, beben agua y escuchan el plan para las siguientes jugadas."
     },
     {
       "id": "cards/es/Sports/basketball_middle.md:1:1",
