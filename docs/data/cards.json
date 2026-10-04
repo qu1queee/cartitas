@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:03:44Z",
+  "generatedAt": "2026-10-04T13:42:51Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -2330,6 +2330,16 @@
       "kind": "qa",
       "question": "Was ist eine Auszeit im Basketball?",
       "answer": "Der Trainer kann die Uhr kurz anhalten; das heißt Auszeit. Die Spieler schnaufen durch, trinken Wasser und hören den Plan für die nächsten Züge."
+    },
+    {
+      "id": "cards/de/Sports/basketball_middle.md:12:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wie heißt das gemalte Rechteck direkt unter dem Korb?",
+      "answer": "Diese Zone nennt man oft die Zone oder der Farbraum. Viele Punkte kommen aus Würfen ganz nah am Korb in diesem Bereich."
     },
     {
       "id": "cards/de/Sports/basketball_middle.md:1:1",
@@ -5162,6 +5172,16 @@
       "answer": "A coach can stop the clock for a short break called a timeout. Players catch their breath, drink water, and hear the plan for the next few plays."
     },
     {
+      "id": "cards/en/Sports/basketball_middle.md:12:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the painted rectangle under the basket called?",
+      "answer": "That area is often called the paint or the key. Many points come from shots taken close to the hoop inside that zone."
+    },
+    {
       "id": "cards/en/Sports/basketball_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -7850,6 +7870,16 @@
       "kind": "qa",
       "question": "¿Qué es un tiempo muerto en baloncesto?",
       "answer": "El entrenador puede parar el reloj un momento; eso se llama tiempo muerto. Los jugadores recuperan el aliento, beben agua y escuchan el plan para las siguientes jugadas."
+    },
+    {
+      "id": "cards/es/Sports/basketball_middle.md:12:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "basketball",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cómo se llama el rectángulo pintado bajo la canasta?",
+      "answer": "Esa zona suele llamarse la pintura o la zona. Muchos puntos salen de tiros cerca del aro dentro de ese espacio."
     },
     {
       "id": "cards/es/Sports/basketball_middle.md:1:1",
