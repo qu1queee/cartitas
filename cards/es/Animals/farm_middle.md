@@ -38,3 +38,17 @@ A: Las cabras trepan bien y tienen labios fuertes y patas resistentes. Llegan a 
 
 Q: ¿Qué sonido hace un burro y por qué a veces lo cuida un granjero?
 A: El burro rebuzna con un fuerte i-a. Puede ahuyentar depredadores y cargar bultos pesados por senderos.
+
+---
+
+# Animales de granja — middle (8–11)
+
+<!-- age: middle | lang: es | topic: animals | subtopic: farm -->
+
+Q: ¿Por qué las gallinas arañan y picotean el suelo?
+A: Buscan semillas, insectos y plantitas. Al arañar encuentran comida y remueven un poco la tierra.
+
+---
+
+Q: ¿Qué es un silo y qué guardan los granjeros dentro?
+A: Un silo es un edificio alto y redondo en muchas granjas. Ahí se guarda grano seco, como maíz o trigo, para que no se moje con la lluvia ni lo roen los ratones.

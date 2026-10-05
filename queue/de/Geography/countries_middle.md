@@ -1,16 +1,3 @@
-# Länder — middle (8–11)
-
-<!-- age: middle | lang: de | topic: geography | subtopic: countries -->
-
-C: Ottawa ist die Hauptstadt von [Kanada].
-
----
-
-Q: Welches Land ist flächenmäßig das größte der Welt?
-A: Russland. Es reicht durch Osteuropa und Nordasien und ist größer als jedes andere einzelne Land auf der Erde.
-
----
-
 Q: Warum teilen sich einige Länder dieselbe Währung?
 A: Nachbarländer nutzen manchmal eine gemeinsame Währung, damit der Handel einfacher wird. Viele Länder in Europa verwenden zum Beispiel den Euro.
 

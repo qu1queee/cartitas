@@ -1,16 +1,3 @@
-# Countries — middle (8–11)
-
-<!-- age: middle | lang: en | topic: geography | subtopic: countries -->
-
-C: Ottawa is the capital of [Canada].
-
----
-
-Q: What is the largest country in the world by land area?
-A: Russia. It stretches across eastern Europe and northern Asia, and it is bigger than any other single country on Earth.
-
----
-
 Q: Why do some countries share the same money?
 A: Neighboring countries sometimes use one currency to make trade simpler. Many countries in Europe use the euro, for example.
 

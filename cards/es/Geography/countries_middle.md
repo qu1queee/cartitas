@@ -23,3 +23,16 @@ C: Ciudad de México es la capital de [México].
 
 Q: ¿Qué significa que dos países son vecinos?
 A: Comparten una frontera y están uno al lado del otro en el mapa. Por ejemplo, Francia y Alemania son países vecinos en Europa.
+
+---
+
+# Países — middle (8–11)
+
+<!-- age: middle | lang: es | topic: geography | subtopic: countries -->
+
+C: Ottawa es la capital de [Canadá].
+
+---
+
+Q: ¿Cuál es el país más grande del mundo por superficie?
+A: Rusia. Se extiende por el este de Europa y el norte de Asia, y es más grande que cualquier otro país solo en la Tierra.

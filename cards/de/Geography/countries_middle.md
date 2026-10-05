@@ -23,3 +23,16 @@ C: Mexiko-Stadt ist die Hauptstadt von [Mexiko].
 
 Q: Was heißt es, wenn zwei Länder Nachbarn sind?
 A: Sie teilen eine Grenze und liegen auf der Karte direkt nebeneinander. Zum Beispiel sind Frankreich und Deutschland Nachbarländer in Europa.
+
+---
+
+# Länder — middle (8–11)
+
+<!-- age: middle | lang: de | topic: geography | subtopic: countries -->
+
+C: Ottawa ist die Hauptstadt von [Kanada].
+
+---
+
+Q: Welches Land ist flächenmäßig das größte der Welt?
+A: Russland. Es reicht durch Osteuropa und Nordasien und ist größer als jedes andere einzelne Land auf der Erde.

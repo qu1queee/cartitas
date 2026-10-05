@@ -1,16 +1,3 @@
-# Plants — middle (8–11)
-
-<!-- age: middle | lang: en | topic: science | subtopic: plants -->
-
-Q: Why do some trees drop their leaves in fall?
-A: Deciduous trees shed leaves to save water and energy before winter. New leaves grow back when warm weather returns.
-
----
-
-C: Some seeds hitch a ride on an animal's fur or float on the [wind] until they land in new soil.
-
----
-
 Q: What is tree sap?
 A: Sap is a watery liquid inside a plant. It carries water and food up and down the stem, like a slow elevator.
 

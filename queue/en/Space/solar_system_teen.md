@@ -1,17 +1,3 @@
-# Solar system — teen (12+)
-
-<!-- age: teen | lang: en | topic: space | subtopic: solar_system -->
-
-Q: What is the Kuiper Belt?
-A: A broad region beyond Neptune packed with icy objects, including Pluto and many dwarf planets. It is colder and farther out than the rocky asteroid belt between Mars and Jupiter.
-
----
-
-Q: Why can Pluto sometimes be closer to the Sun than Neptune?
-A: Pluto follows an oval orbit. For part of each long trip around the Sun, it swings inside Neptune's path even though Neptune is usually the farther planet.
-
----
-
 C: Dwarf planets such as Pluto and [Ceres] are round, but they share their orbital zone with many similar bodies, so they are not counted as full planets.
 
 ---

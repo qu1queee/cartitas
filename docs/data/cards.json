@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T13:42:51Z",
+  "generatedAt": "2026-10-05T16:49:43Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -132,6 +132,16 @@
       "answer": "Oink! Schweine auf dem Hof grunzen, wenn sie hungrig sind oder miteinander reden."
     },
     {
+      "id": "cards/de/Animals/farm_middle.md:10:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist ein Silo, und was lagern Bauern darin?",
+      "answer": "Ein Silo ist ein hohes, rundes Gebäude auf vielen Höfen. Darin wird trockenes Getreide wie Mais oder Weizen gelagert, damit es nicht nass wird und keine Mäuse es fressen."
+    },
+    {
       "id": "cards/de/Animals/farm_middle.md:1:1",
       "lang": "de",
       "topic": "Animals",
@@ -210,6 +220,16 @@
       "kind": "qa",
       "question": "Welches Geräusch macht ein Esel, und warum halten Bauern manchmal einen?",
       "answer": "Ein Esel iaht laut. Esel können Feinde verscheuchen und schwere Lasten auf Wegen tragen."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:9:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum kratzen Hühner im Boden und picken danach?",
+      "answer": "Sie suchen Körner, Insekten und kleine Pflanzen. Beim Kratzen finden sie Futter und lockern den Boden ein wenig auf."
     },
     {
       "id": "cards/de/Animals/ocean_early.md:1:1",
@@ -892,6 +912,26 @@
       "answer": "Sie teilen eine Grenze und liegen auf der Karte direkt nebeneinander. Zum Beispiel sind Frankreich und Deutschland Nachbarländer in Europa."
     },
     {
+      "id": "cards/de/Geography/countries_middle.md:6:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ottawa ist die Hauptstadt von _____.",
+      "answer": "Kanada"
+    },
+    {
+      "id": "cards/de/Geography/countries_middle.md:7:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welches Land ist flächenmäßig das größte der Welt?",
+      "answer": "Russland. Es reicht durch Osteuropa und Nordasien und ist größer als jedes andere einzelne Land auf der Erde."
+    },
+    {
       "id": "cards/de/Geography/oceans_early.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -1400,6 +1440,26 @@
       "kind": "qa",
       "question": "Worin unterscheidet sich eine Pflanze von einem Tier beim Essen?",
       "answer": "Pflanzen können mit Sonnenlicht ihre eigene Nahrung herstellen. Tiere können das nicht, deshalb essen sie Pflanzen oder andere Tiere."
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:6:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum verlieren manche Bäume im Herbst ihre Blätter?",
+      "answer": "Laubbäume werfen Blätter ab, um vor dem Winter Wasser und Energie zu sparen. Wenn es wieder warm wird, wachsen neue Blätter nach."
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:7:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Manche Samen kleben am Fell eines Tiers oder schweben mit dem _____, bis sie auf neuer Erde landen.",
+      "answer": "Wind"
     },
     {
       "id": "cards/de/Science/weather_early.md:10:1",
@@ -2060,6 +2120,26 @@
       "kind": "qa",
       "question": "Was ist der Asteroidengürtel?",
       "answer": "Ein Ring aus Felsbrocken zwischen Mars und Jupiter. Die meisten bleiben dort und treffen keine Planeten."
+    },
+    {
+      "id": "cards/de/Space/solar_system_teen.md:3:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Was ist der Kuipergürtel?",
+      "answer": "Eine weite Zone jenseits des Neptun voller Eiskörper, darunter Pluto und viele Zwergplaneten. Er ist kälter und weiter draußen als der steinige Asteroidengürtel zwischen Mars und Jupiter."
+    },
+    {
+      "id": "cards/de/Space/solar_system_teen.md:4:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Warum kann Pluto manchmal näher an der Sonne sein als Neptun?",
+      "answer": "Pluto läuft auf einer ovalen Bahn. Einen Teil seines langen Wegs um die Sonne schwingt er innerhalb von Neptuns Bahn, obwohl Neptun normalerweise der weiter entfernte Planet ist."
     },
     {
       "id": "cards/de/Space/stars_early.md:10:1",
@@ -2822,6 +2902,16 @@
       "answer": "Oink! Pigs on farms grunt and oink when they are hungry or talking to each other."
     },
     {
+      "id": "cards/en/Animals/farm_middle.md:10:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a silo, and what do farmers keep inside it?",
+      "answer": "A silo is a tall round building on many farms. Farmers store dry grain like corn or wheat there so it stays safe from rain and mice."
+    },
+    {
       "id": "cards/en/Animals/farm_middle.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -2900,6 +2990,16 @@
       "kind": "qa",
       "question": "What sound does a donkey make, and why might farmers keep one?",
       "answer": "A donkey brays with a loud hee-haw. Donkeys can scare away predators and carry heavy packs on trails."
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:9:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do chickens scratch and peck at the ground?",
+      "answer": "Chickens hunt for seeds, bugs, and tiny plants. Scratching helps them find food and stir up the soil."
     },
     {
       "id": "cards/en/Animals/ocean_early.md:1:1",
@@ -3572,6 +3672,16 @@
       "answer": "Yes. Islands like Japan and Cuba are countries with water all around them."
     },
     {
+      "id": "cards/en/Geography/countries_middle.md:10:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the largest country in the world by land area?",
+      "answer": "Russia. It stretches across eastern Europe and northern Asia, and it is bigger than any other single country on Earth."
+    },
+    {
       "id": "cards/en/Geography/countries_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -3650,6 +3760,16 @@
       "kind": "qa",
       "question": "What does it mean when two countries are neighbors?",
       "answer": "They share a border and sit right next to each other on a map. For example, France and Germany are neighbor countries in Europe."
+    },
+    {
+      "id": "cards/en/Geography/countries_middle.md:9:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ottawa is the capital of _____.",
+      "answer": "Canada"
     },
     {
       "id": "cards/en/Geography/oceans_early.md:1:1",
@@ -4160,6 +4280,26 @@
       "kind": "qa",
       "question": "How is a plant different from an animal when it comes to food?",
       "answer": "Plants can make their own food using sunlight. Animals cannot make food that way, so they eat plants or other animals instead."
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:6:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do some trees drop their leaves in fall?",
+      "answer": "Deciduous trees shed leaves to save water and energy before winter. New leaves grow back when warm weather returns."
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:7:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Some seeds hitch a ride on an animal's fur or float on the _____ until they land in new soil.",
+      "answer": "wind"
     },
     {
       "id": "cards/en/Science/weather_early.md:10:1",
@@ -4850,6 +4990,26 @@
       "kind": "qa",
       "question": "What is the asteroid belt?",
       "answer": "A ring of rocky objects between Mars and Jupiter. Most asteroids stay there and do not hit planets."
+    },
+    {
+      "id": "cards/en/Space/solar_system_teen.md:3:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "What is the Kuiper Belt?",
+      "answer": "A broad region beyond Neptune packed with icy objects, including Pluto and many dwarf planets. It is colder and farther out than the rocky asteroid belt between Mars and Jupiter."
+    },
+    {
+      "id": "cards/en/Space/solar_system_teen.md:4:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Why can Pluto sometimes be closer to the Sun than Neptune?",
+      "answer": "Pluto follows an oval orbit. For part of each long trip around the Sun, it swings inside Neptune's path even though Neptune is usually the farther planet."
     },
     {
       "id": "cards/en/Space/stars_early.md:10:1",
@@ -5672,6 +5832,16 @@
       "answer": "¡Oinc! Los cerdos en la granja gruñen cuando tienen hambre o se comunican entre ellos."
     },
     {
+      "id": "cards/es/Animals/farm_middle.md:10:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un silo y qué guardan los granjeros dentro?",
+      "answer": "Un silo es un edificio alto y redondo en muchas granjas. Ahí se guarda grano seco, como maíz o trigo, para que no se moje con la lluvia ni lo roen los ratones."
+    },
+    {
       "id": "cards/es/Animals/farm_middle.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -5750,6 +5920,16 @@
       "kind": "qa",
       "question": "¿Qué sonido hace un burro y por qué a veces lo cuida un granjero?",
       "answer": "El burro rebuzna con un fuerte i-a. Puede ahuyentar depredadores y cargar bultos pesados por senderos."
+    },
+    {
+      "id": "cards/es/Animals/farm_middle.md:9:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué las gallinas arañan y picotean el suelo?",
+      "answer": "Buscan semillas, insectos y plantitas. Al arañar encuentran comida y remueven un poco la tierra."
     },
     {
       "id": "cards/es/Animals/ocean_early.md:1:1",
@@ -6432,6 +6612,26 @@
       "answer": "Comparten una frontera y están uno al lado del otro en el mapa. Por ejemplo, Francia y Alemania son países vecinos en Europa."
     },
     {
+      "id": "cards/es/Geography/countries_middle.md:6:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Ottawa es la capital de _____.",
+      "answer": "Canadá"
+    },
+    {
+      "id": "cards/es/Geography/countries_middle.md:7:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es el país más grande del mundo por superficie?",
+      "answer": "Rusia. Se extiende por el este de Europa y el norte de Asia, y es más grande que cualquier otro país solo en la Tierra."
+    },
+    {
       "id": "cards/es/Geography/oceans_early.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -6940,6 +7140,26 @@
       "kind": "qa",
       "question": "¿En qué se diferencia una planta de un animal al alimentarse?",
       "answer": "Las plantas pueden hacer su propio alimento con la luz del Sol. Los animales no pueden hacerlo así, así que comen plantas u otros animales."
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:6:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué algunos árboles pierden las hojas en otoño?",
+      "answer": "Los árboles de hoja caduca sueltan las hojas para ahorrar agua y energía antes del invierno. Cuando vuelve el calor, brotan hojas nuevas."
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:7:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Algunas semillas viajan pegadas al pelo de un animal o flotan con el _____ hasta caer en tierra nueva.",
+      "answer": "viento"
     },
     {
       "id": "cards/es/Science/weather_early.md:10:1",
@@ -7600,6 +7820,26 @@
       "kind": "qa",
       "question": "¿Qué es el cinturón de asteroides?",
       "answer": "Un anillo de rocas entre Marte y Júpiter. La mayoría se queda allí y no golpea los planetas."
+    },
+    {
+      "id": "cards/es/Space/solar_system_teen.md:3:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Qué es el cinturón de Kuiper?",
+      "answer": "Una zona ancha más allá de Neptuno llena de objetos helados, incluido Plutón y muchos planetas enanos. Está más fría y más lejos que el cinturón de asteroides rocosos entre Marte y Júpiter."
+    },
+    {
+      "id": "cards/es/Space/solar_system_teen.md:4:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Por qué Plutón a veces está más cerca del Sol que Neptuno?",
+      "answer": "Plutón sigue una órbita ovalada. En parte de su largo viaje alrededor del Sol se mete dentro de la ruta de Neptuno, aunque Neptuno suele ser el planeta más lejano."
     },
     {
       "id": "cards/es/Space/stars_early.md:10:1",

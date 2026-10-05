@@ -23,3 +23,16 @@ A: Roots hold the plant in the soil and soak up water and minerals. They also st
 
 Q: How is a plant different from an animal when it comes to food?
 A: Plants can make their own food using sunlight. Animals cannot make food that way, so they eat plants or other animals instead.
+
+---
+
+# Plants — middle (8–11)
+
+<!-- age: middle | lang: en | topic: science | subtopic: plants -->
+
+Q: Why do some trees drop their leaves in fall?
+A: Deciduous trees shed leaves to save water and energy before winter. New leaves grow back when warm weather returns.
+
+---
+
+C: Some seeds hitch a ride on an animal's fur or float on the [wind] until they land in new soil.

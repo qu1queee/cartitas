@@ -23,3 +23,16 @@ A: Wurzeln halten die Pflanze im Boden und nehmen Wasser und Mineralstoffe auf. 
 
 Q: Worin unterscheidet sich eine Pflanze von einem Tier beim Essen?
 A: Pflanzen können mit Sonnenlicht ihre eigene Nahrung herstellen. Tiere können das nicht, deshalb essen sie Pflanzen oder andere Tiere.
+
+---
+
+# Pflanzen — middle (8–11)
+
+<!-- age: middle | lang: de | topic: science | subtopic: plants -->
+
+Q: Warum verlieren manche Bäume im Herbst ihre Blätter?
+A: Laubbäume werfen Blätter ab, um vor dem Winter Wasser und Energie zu sparen. Wenn es wieder warm wird, wachsen neue Blätter nach.
+
+---
+
+C: Manche Samen kleben am Fell eines Tiers oder schweben mit dem [Wind], bis sie auf neuer Erde landen.

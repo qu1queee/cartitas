@@ -1,17 +1,3 @@
-# Bauernhoftiere — middle (8–11)
-
-<!-- age: middle | lang: de | topic: animals | subtopic: farm -->
-
-Q: Warum kratzen Hühner im Boden und picken danach?
-A: Sie suchen Körner, Insekten und kleine Pflanzen. Beim Kratzen finden sie Futter und lockern den Boden ein wenig auf.
-
----
-
-Q: Was ist ein Silo, und was lagern Bauern darin?
-A: Ein Silo ist ein hohes, rundes Gebäude auf vielen Höfen. Darin wird trockenes Getreide wie Mais oder Weizen gelagert, damit es nicht nass wird und keine Mäuse es fressen.
-
----
-
 C: Bauern bringen Schafe und Kühe manchmal auf eine neue [Weide], damit das Gras auf der alten Fläche wieder nachwachsen kann.
 
 ---

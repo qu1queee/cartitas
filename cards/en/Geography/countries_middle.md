@@ -41,3 +41,16 @@ C: Mexico City is the capital of [Mexico].
 
 Q: What does it mean when two countries are neighbors?
 A: They share a border and sit right next to each other on a map. For example, France and Germany are neighbor countries in Europe.
+
+---
+
+# Countries — middle (8–11)
+
+<!-- age: middle | lang: en | topic: geography | subtopic: countries -->
+
+C: Ottawa is the capital of [Canada].
+
+---
+
+Q: What is the largest country in the world by land area?
+A: Russia. It stretches across eastern Europe and northern Asia, and it is bigger than any other single country on Earth.

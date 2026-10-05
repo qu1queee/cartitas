@@ -9,3 +9,17 @@ A: In 2006, astronomers made a clearer rule: a planet must clear other objects f
 
 Q: What is the asteroid belt?
 A: A ring of rocky objects between Mars and Jupiter. Most asteroids stay there and do not hit planets.
+
+---
+
+# Solar system — teen (12+)
+
+<!-- age: teen | lang: en | topic: space | subtopic: solar_system -->
+
+Q: What is the Kuiper Belt?
+A: A broad region beyond Neptune packed with icy objects, including Pluto and many dwarf planets. It is colder and farther out than the rocky asteroid belt between Mars and Jupiter.
+
+---
+
+Q: Why can Pluto sometimes be closer to the Sun than Neptune?
+A: Pluto follows an oval orbit. For part of each long trip around the Sun, it swings inside Neptune's path even though Neptune is usually the farther planet.

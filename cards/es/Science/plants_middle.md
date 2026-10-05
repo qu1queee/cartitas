@@ -23,3 +23,16 @@ A: Las raíces sujetan la planta en la tierra y absorben agua y minerales. Tambi
 
 Q: ¿En qué se diferencia una planta de un animal al alimentarse?
 A: Las plantas pueden hacer su propio alimento con la luz del Sol. Los animales no pueden hacerlo así, así que comen plantas u otros animales.
+
+---
+
+# Plantas — middle (8–11)
+
+<!-- age: middle | lang: es | topic: science | subtopic: plants -->
+
+Q: ¿Por qué algunos árboles pierden las hojas en otoño?
+A: Los árboles de hoja caduca sueltan las hojas para ahorrar agua y energía antes del invierno. Cuando vuelve el calor, brotan hojas nuevas.
+
+---
+
+C: Algunas semillas viajan pegadas al pelo de un animal o flotan con el [viento] hasta caer en tierra nueva.

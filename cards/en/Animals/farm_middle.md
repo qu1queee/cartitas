@@ -38,3 +38,17 @@ A: Goats are good climbers with tough lips and strong legs. They can reach brush
 
 Q: What sound does a donkey make, and why might farmers keep one?
 A: A donkey brays with a loud hee-haw. Donkeys can scare away predators and carry heavy packs on trails.
+
+---
+
+# Farm animals — middle (8–11)
+
+<!-- age: middle | lang: en | topic: animals | subtopic: farm -->
+
+Q: Why do chickens scratch and peck at the ground?
+A: Chickens hunt for seeds, bugs, and tiny plants. Scratching helps them find food and stir up the soil.
+
+---
+
+Q: What is a silo, and what do farmers keep inside it?
+A: A silo is a tall round building on many farms. Farmers store dry grain like corn or wheat there so it stays safe from rain and mice.

@@ -38,3 +38,17 @@ A: Ziegen klettern gut und haben starke Lippen und Beine. Sie erreichen Sträuch
 
 Q: Welches Geräusch macht ein Esel, und warum halten Bauern manchmal einen?
 A: Ein Esel iaht laut. Esel können Feinde verscheuchen und schwere Lasten auf Wegen tragen.
+
+---
+
+# Bauernhoftiere — middle (8–11)
+
+<!-- age: middle | lang: de | topic: animals | subtopic: farm -->
+
+Q: Warum kratzen Hühner im Boden und picken danach?
+A: Sie suchen Körner, Insekten und kleine Pflanzen. Beim Kratzen finden sie Futter und lockern den Boden ein wenig auf.
+
+---
+
+Q: Was ist ein Silo, und was lagern Bauern darin?
+A: Ein Silo ist ein hohes, rundes Gebäude auf vielen Höfen. Darin wird trockenes Getreide wie Mais oder Weizen gelagert, damit es nicht nass wird und keine Mäuse es fressen.
