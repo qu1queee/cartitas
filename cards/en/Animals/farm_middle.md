@@ -52,3 +52,12 @@ A: Chickens hunt for seeds, bugs, and tiny plants. Scratching helps them find fo
 
 Q: What is a silo, and what do farmers keep inside it?
 A: A silo is a tall round building on many farms. Farmers store dry grain like corn or wheat there so it stays safe from rain and mice.
+
+---
+
+C: Farmers sometimes move sheep and cows to a new [pasture] so the grass in the old field can grow back.
+
+---
+
+Q: What is the difference between a lamb and a sheep?
+A: A lamb is a young sheep, usually less than a year old. When it grows up, we call it a sheep, or a ewe if it is female.

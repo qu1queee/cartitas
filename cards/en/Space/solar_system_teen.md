@@ -23,3 +23,12 @@ A: A broad region beyond Neptune packed with icy objects, including Pluto and ma
 
 Q: Why can Pluto sometimes be closer to the Sun than Neptune?
 A: Pluto follows an oval orbit. For part of each long trip around the Sun, it swings inside Neptune's path even though Neptune is usually the farther planet.
+
+---
+
+C: Dwarf planets such as Pluto and [Ceres] are round, but they share their orbital zone with many similar bodies, so they are not counted as full planets.
+
+---
+
+Q: How old is the solar system?
+A: About 4.6 billion years old. Scientists estimate that age from very ancient meteorites and from models of how the spinning cloud that became the Sun and planets cooled and clumped together.

@@ -23,3 +23,12 @@ A: Una zona ancha más allá de Neptuno llena de objetos helados, incluido Plut�
 
 Q: ¿Por qué Plutón a veces está más cerca del Sol que Neptuno?
 A: Plutón sigue una órbita ovalada. En parte de su largo viaje alrededor del Sol se mete dentro de la ruta de Neptuno, aunque Neptuno suele ser el planeta más lejano.
+
+---
+
+C: Los planetas enanos como Plutón y [Ceres] son redondos, pero comparten su zona orbital con muchos cuerpos parecidos, así que no cuentan como planetas completos.
+
+---
+
+Q: ¿Qué edad tiene el sistema solar?
+A: Unos 4 600 millones de años. Los científicos calculan esa edad con meteoritos muy antiguos y con modelos de cómo la nube giratoria que formó el Sol y los planetas se enfrió y formó grumos.

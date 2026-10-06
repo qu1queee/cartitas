@@ -23,3 +23,12 @@ A: Eine weite Zone jenseits des Neptun voller Eiskörper, darunter Pluto und vie
 
 Q: Warum kann Pluto manchmal näher an der Sonne sein als Neptun?
 A: Pluto läuft auf einer ovalen Bahn. Einen Teil seines langen Wegs um die Sonne schwingt er innerhalb von Neptuns Bahn, obwohl Neptun normalerweise der weiter entfernte Planet ist.
+
+---
+
+C: Zwergplaneten wie Pluto und [Ceres] sind rund, teilen sich ihre Umlaufbahn aber mit vielen ähnlichen Körpern und gelten deshalb nicht als volle Planeten.
+
+---
+
+Q: Wie alt ist das Sonnensystem?
+A: Etwa 4,6 Milliarden Jahre. Forscher schätzen dieses Alter anhand sehr alter Meteoriten und anhand von Modellen, wie sich die wirbelnde Wolke, aus der Sonne und Planeten entstanden, abkühlte und Klumpen bildete.
