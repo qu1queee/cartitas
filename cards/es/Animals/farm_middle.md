@@ -52,3 +52,12 @@ A: Buscan semillas, insectos y plantitas. Al arañar encuentran comida y remueve
 
 Q: ¿Qué es un silo y qué guardan los granjeros dentro?
 A: Un silo es un edificio alto y redondo en muchas granjas. Ahí se guarda grano seco, como maíz o trigo, para que no se moje con la lluvia ni lo roen los ratones.
+
+---
+
+C: A veces los granjeros llevan ovejas y vacas a un [pasto] nuevo para que el pasto del campo viejo vuelva a crecer.
+
+---
+
+Q: ¿Cuál es la diferencia entre un cordero y una oveja?
+A: Un cordero es una oveja joven, normalmente de menos de un año. Cuando crece, la llamamos oveja, o borrega si es hembra.

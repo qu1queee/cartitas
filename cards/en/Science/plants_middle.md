@@ -36,3 +36,13 @@ A: Deciduous trees shed leaves to save water and energy before winter. New leave
 ---
 
 C: Some seeds hitch a ride on an animal's fur or float on the [wind] until they land in new soil.
+
+---
+
+Q: What is tree sap?
+A: Sap is a watery liquid inside a plant. It carries water and food up and down the stem, like a slow elevator.
+
+---
+
+Q: Why do cactus plants have sharp spines?
+A: Spines protect the cactus from animals that might bite it. They also shade the plant a little and help trap moisture from the air.

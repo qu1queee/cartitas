@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:49:43Z",
+  "generatedAt": "2026-10-06T14:46:01Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -140,6 +140,26 @@
       "kind": "qa",
       "question": "Was ist ein Silo, und was lagern Bauern darin?",
       "answer": "Ein Silo ist ein hohes, rundes Gebäude auf vielen Höfen. Darin wird trockenes Getreide wie Mais oder Weizen gelagert, damit es nicht nass wird und keine Mäuse es fressen."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:11:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Bauern bringen Schafe und Kühe manchmal auf eine neue _____, damit das Gras auf der alten Fläche wieder nachwachsen kann.",
+      "answer": "Weide"
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:12:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist der Unterschied zwischen einem Lamm und einem Schaf?",
+      "answer": "Ein Lamm ist ein junges Schaf, meist jünger als ein Jahr. Wenn es erwachsen ist, nennen wir es Schaf, oder Mutterschaf, wenn es weiblich ist."
     },
     {
       "id": "cards/de/Animals/farm_middle.md:1:1",
@@ -932,6 +952,26 @@
       "answer": "Russland. Es reicht durch Osteuropa und Nordasien und ist größer als jedes andere einzelne Land auf der Erde."
     },
     {
+      "id": "cards/de/Geography/countries_middle.md:8:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum teilen sich einige Länder dieselbe Währung?",
+      "answer": "Nachbarländer nutzen manchmal eine gemeinsame Währung, damit der Handel einfacher wird. Viele Länder in Europa verwenden zum Beispiel den Euro."
+    },
+    {
+      "id": "cards/de/Geography/countries_middle.md:9:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine Hemisphäre?",
+      "answer": "Eine Hemisphäre ist eine Hälfte der Erde. Der Äquator ist eine gedachte Linie, die die nördliche von der südlichen Hemisphäre trennt."
+    },
+    {
       "id": "cards/de/Geography/oceans_early.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -1460,6 +1500,26 @@
       "kind": "cloze",
       "question": "Manche Samen kleben am Fell eines Tiers oder schweben mit dem _____, bis sie auf neuer Erde landen.",
       "answer": "Wind"
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:8:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Baumsaft?",
+      "answer": "Saft ist eine Flüssigkeit in der Pflanze. Er transportiert Wasser und Nahrung im Stängel nach oben und unten – wie ein sehr langsamer Aufzug."
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:9:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum haben Kakteen scharfe Dornen?",
+      "answer": "Dornen schützen den Kaktus vor Tieren, die ihn fressen wollen. Sie geben auch etwas Schatten und helfen, Feuchtigkeit aus der Luft zu halten."
     },
     {
       "id": "cards/de/Science/weather_early.md:10:1",
@@ -2140,6 +2200,26 @@
       "kind": "qa",
       "question": "Warum kann Pluto manchmal näher an der Sonne sein als Neptun?",
       "answer": "Pluto läuft auf einer ovalen Bahn. Einen Teil seines langen Wegs um die Sonne schwingt er innerhalb von Neptuns Bahn, obwohl Neptun normalerweise der weiter entfernte Planet ist."
+    },
+    {
+      "id": "cards/de/Space/solar_system_teen.md:5:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Zwergplaneten wie Pluto und _____ sind rund, teilen sich ihre Umlaufbahn aber mit vielen ähnlichen Körpern und gelten deshalb nicht als volle Planeten.",
+      "answer": "Ceres"
+    },
+    {
+      "id": "cards/de/Space/solar_system_teen.md:6:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Wie alt ist das Sonnensystem?",
+      "answer": "Etwa 4,6 Milliarden Jahre. Forscher schätzen dieses Alter anhand sehr alter Meteoriten und anhand von Modellen, wie sich die wirbelnde Wolke, aus der Sonne und Planeten entstanden, abkühlte und Klumpen bildete."
     },
     {
       "id": "cards/de/Space/stars_early.md:10:1",
@@ -2912,6 +2992,26 @@
       "answer": "A silo is a tall round building on many farms. Farmers store dry grain like corn or wheat there so it stays safe from rain and mice."
     },
     {
+      "id": "cards/en/Animals/farm_middle.md:11:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Farmers sometimes move sheep and cows to a new _____ so the grass in the old field can grow back.",
+      "answer": "pasture"
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:12:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the difference between a lamb and a sheep?",
+      "answer": "A lamb is a young sheep, usually less than a year old. When it grows up, we call it a sheep, or a ewe if it is female."
+    },
+    {
       "id": "cards/en/Animals/farm_middle.md:1:1",
       "lang": "en",
       "topic": "Animals",
@@ -3682,6 +3782,26 @@
       "answer": "Russia. It stretches across eastern Europe and northern Asia, and it is bigger than any other single country on Earth."
     },
     {
+      "id": "cards/en/Geography/countries_middle.md:11:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do some countries share the same money?",
+      "answer": "Neighboring countries sometimes use one currency to make trade simpler. Many countries in Europe use the euro, for example."
+    },
+    {
+      "id": "cards/en/Geography/countries_middle.md:12:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a hemisphere?",
+      "answer": "A hemisphere is half of Earth. The equator is an imaginary line that splits the Northern Hemisphere from the Southern Hemisphere."
+    },
+    {
       "id": "cards/en/Geography/countries_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -4300,6 +4420,26 @@
       "kind": "cloze",
       "question": "Some seeds hitch a ride on an animal's fur or float on the _____ until they land in new soil.",
       "answer": "wind"
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:8:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is tree sap?",
+      "answer": "Sap is a watery liquid inside a plant. It carries water and food up and down the stem, like a slow elevator."
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:9:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why do cactus plants have sharp spines?",
+      "answer": "Spines protect the cactus from animals that might bite it. They also shade the plant a little and help trap moisture from the air."
     },
     {
       "id": "cards/en/Science/weather_early.md:10:1",
@@ -5010,6 +5150,26 @@
       "kind": "qa",
       "question": "Why can Pluto sometimes be closer to the Sun than Neptune?",
       "answer": "Pluto follows an oval orbit. For part of each long trip around the Sun, it swings inside Neptune's path even though Neptune is usually the farther planet."
+    },
+    {
+      "id": "cards/en/Space/solar_system_teen.md:5:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Dwarf planets such as Pluto and _____ are round, but they share their orbital zone with many similar bodies, so they are not counted as full planets.",
+      "answer": "Ceres"
+    },
+    {
+      "id": "cards/en/Space/solar_system_teen.md:6:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "How old is the solar system?",
+      "answer": "About 4.6 billion years old. Scientists estimate that age from very ancient meteorites and from models of how the spinning cloud that became the Sun and planets cooled and clumped together."
     },
     {
       "id": "cards/en/Space/stars_early.md:10:1",
@@ -5842,6 +6002,26 @@
       "answer": "Un silo es un edificio alto y redondo en muchas granjas. Ahí se guarda grano seco, como maíz o trigo, para que no se moje con la lluvia ni lo roen los ratones."
     },
     {
+      "id": "cards/es/Animals/farm_middle.md:11:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "A veces los granjeros llevan ovejas y vacas a un _____ nuevo para que el pasto del campo viejo vuelva a crecer.",
+      "answer": "pasto"
+    },
+    {
+      "id": "cards/es/Animals/farm_middle.md:12:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Cuál es la diferencia entre un cordero y una oveja?",
+      "answer": "Un cordero es una oveja joven, normalmente de menos de un año. Cuando crece, la llamamos oveja, o borrega si es hembra."
+    },
+    {
       "id": "cards/es/Animals/farm_middle.md:1:1",
       "lang": "es",
       "topic": "Animals",
@@ -6632,6 +6812,26 @@
       "answer": "Rusia. Se extiende por el este de Europa y el norte de Asia, y es más grande que cualquier otro país solo en la Tierra."
     },
     {
+      "id": "cards/es/Geography/countries_middle.md:8:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué algunos países comparten la misma moneda?",
+      "answer": "Países vecinos a veces usan una sola moneda para facilitar el comercio. Muchos países de Europa usan el euro, por ejemplo."
+    },
+    {
+      "id": "cards/es/Geography/countries_middle.md:9:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es un hemisferio?",
+      "answer": "Un hemisferio es la mitad de la Tierra. El ecuador es una línea imaginaria que separa el hemisferio norte del hemisferio sur."
+    },
+    {
       "id": "cards/es/Geography/oceans_early.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -7160,6 +7360,26 @@
       "kind": "cloze",
       "question": "Algunas semillas viajan pegadas al pelo de un animal o flotan con el _____ hasta caer en tierra nueva.",
       "answer": "viento"
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:8:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es la savia de un árbol?",
+      "answer": "La savia es un líquido dentro de la planta. Lleva agua y alimento arriba y abajo por el tallo, como un ascensor muy lento."
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:9:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué los cactus tienen espinas tan puntiagudas?",
+      "answer": "Las espinas protegen al cactus de animales que podrían morderlo. También le dan un poco de sombra y ayudan a atrapar humedad del aire."
     },
     {
       "id": "cards/es/Science/weather_early.md:10:1",
@@ -7840,6 +8060,26 @@
       "kind": "qa",
       "question": "¿Por qué Plutón a veces está más cerca del Sol que Neptuno?",
       "answer": "Plutón sigue una órbita ovalada. En parte de su largo viaje alrededor del Sol se mete dentro de la ruta de Neptuno, aunque Neptuno suele ser el planeta más lejano."
+    },
+    {
+      "id": "cards/es/Space/solar_system_teen.md:5:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "cloze",
+      "question": "Los planetas enanos como Plutón y _____ son redondos, pero comparten su zona orbital con muchos cuerpos parecidos, así que no cuentan como planetas completos.",
+      "answer": "Ceres"
+    },
+    {
+      "id": "cards/es/Space/solar_system_teen.md:6:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Qué edad tiene el sistema solar?",
+      "answer": "Unos 4 600 millones de años. Los científicos calculan esa edad con meteoritos muy antiguos y con modelos de cómo la nube giratoria que formó el Sol y los planetas se enfrió y formó grumos."
     },
     {
       "id": "cards/es/Space/stars_early.md:10:1",

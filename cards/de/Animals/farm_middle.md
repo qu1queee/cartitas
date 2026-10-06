@@ -52,3 +52,12 @@ A: Sie suchen Körner, Insekten und kleine Pflanzen. Beim Kratzen finden sie Fut
 
 Q: Was ist ein Silo, und was lagern Bauern darin?
 A: Ein Silo ist ein hohes, rundes Gebäude auf vielen Höfen. Darin wird trockenes Getreide wie Mais oder Weizen gelagert, damit es nicht nass wird und keine Mäuse es fressen.
+
+---
+
+C: Bauern bringen Schafe und Kühe manchmal auf eine neue [Weide], damit das Gras auf der alten Fläche wieder nachwachsen kann.
+
+---
+
+Q: Was ist der Unterschied zwischen einem Lamm und einem Schaf?
+A: Ein Lamm ist ein junges Schaf, meist jünger als ein Jahr. Wenn es erwachsen ist, nennen wir es Schaf, oder Mutterschaf, wenn es weiblich ist.
