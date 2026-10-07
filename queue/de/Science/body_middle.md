@@ -1,12 +1,3 @@
-Q: Wofür sind deine Därme da?
-A: Nachdem das Essen den Magen verlässt, geht es durch deine langen Därme. Sie nehmen Wasser und Nährstoffe auf, die dein Körper braucht, und schicken den Rest als Abfall weiter.
-
----
-
-C: Deine [weißen Blutkörperchen] helfen, Keime zu bekämpfen, die dich krank machen könnten.
-
----
-
 Q: Warum können sich deine Gelenke beugen, statt steif zu bleiben?
 A: Gelenke sind Stellen, an denen zwei Knochen aufeinandertreffen. Weicher Knorpel und eine glitschige Flüssigkeit helfen den Knochen, sich glatt zu bewegen, ohne aneinander zu schleifen.
 

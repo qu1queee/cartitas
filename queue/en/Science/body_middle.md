@@ -1,12 +1,3 @@
-Q: What are your intestines for?
-A: After food leaves your stomach, it travels through your long intestines. They soak up water and nutrients your body needs and push out the rest as waste.
-
----
-
-C: Your [white blood cells] help fight germs that could make you sick.
-
----
-
 Q: Why can your joints bend instead of staying stiff?
 A: Joints are places where two bones meet. Soft cartilage and slippery fluid help the bones move smoothly without grinding together.
 

@@ -18,3 +18,12 @@ A: Medallas. Los mejores pueden ganar oro, plata o bronce.
 
 Q: ¿Quién participa en los Juegos Olímpicos?
 A: Deportistas de muchos países de todo el mundo. Viajan a una ciudad para competir en distintos deportes.
+
+---
+
+# Juegos Olímpicos — early (5–7)
+
+<!-- age: early | lang: es | topic: sports | subtopic: olympics -->
+
+Q: ¿Dónde empezaron los Juegos Olímpicos hace mucho tiempo?
+A: En Grecia, en la antigüedad. Allí se reunían deportistas para competir en carreras, saltos y otros deportes.

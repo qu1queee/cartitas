@@ -18,3 +18,12 @@ A: Medals. The best athletes can win gold, silver, or bronze.
 
 Q: Who takes part in the Olympic Games?
 A: Athletes from many countries around the world. They travel to one city to compete in sports.
+
+---
+
+# Olympics — early (5–7)
+
+<!-- age: early | lang: en | topic: sports | subtopic: olympics -->
+
+Q: Where did the Olympic Games start long ago?
+A: In Greece, in ancient times. Athletes met there to compete in running, jumping, and other sports.

@@ -37,3 +37,12 @@ A: Los músculos tiran de tus huesos para que te muevas. Te ayudan a caminar, co
 
 Q: ¿Qué hace tu estómago con la comida que comes?
 A: Tu estómago desmenuza la comida en trozos más pequeños para que tu cuerpo pueda sacar los nutrientes que necesita para tener energía y crecer.
+
+---
+
+Q: ¿Para qué sirven tus intestinos?
+A: Después de que la comida sale del estómago, pasa por tus intestinos largos. Absorben agua y nutrientes que tu cuerpo necesita y expulsan el resto como desecho.
+
+---
+
+C: Tus [glóbulos blancos] ayudan a combatir los microbios que podrían enfermarte.

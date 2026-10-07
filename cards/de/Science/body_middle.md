@@ -37,3 +37,12 @@ A: Muskeln ziehen an deinen Knochen und lassen dich dich bewegen. Sie helfen dir
 
 Q: Was macht dein Magen mit dem Essen?
 A: Dein Magen zerlegt das Essen in kleinere Stücke, damit dein Körper die Nährstoffe aufnehmen kann, die er für Energie und Wachstum braucht.
+
+---
+
+Q: Wofür sind deine Därme da?
+A: Nachdem das Essen den Magen verlässt, geht es durch deine langen Därme. Sie nehmen Wasser und Nährstoffe auf, die dein Körper braucht, und schicken den Rest als Abfall weiter.
+
+---
+
+C: Deine [weißen Blutkörperchen] helfen, Keime zu bekämpfen, die dich krank machen könnten.

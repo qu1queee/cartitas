@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T14:46:01Z",
+  "generatedAt": "2026-10-07T15:06:32Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -160,6 +160,16 @@
       "kind": "qa",
       "question": "Was ist der Unterschied zwischen einem Lamm und einem Schaf?",
       "answer": "Ein Lamm ist ein junges Schaf, meist jünger als ein Jahr. Wenn es erwachsen ist, nennen wir es Schaf, oder Mutterschaf, wenn es weiblich ist."
+    },
+    {
+      "id": "cards/de/Animals/farm_middle.md:13:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Warum sammelt ein Bauer vielleicht jeden Tag die Hühnereier ein?",
+      "answer": "Hennen legen Eier, auch wenn kein Hahn in der Nähe ist. Wenn man sie oft einsammelt, bleiben sie sauber und die Henne brütet nicht, wenn der Bauer die Eier zum Essen möchte."
     },
     {
       "id": "cards/de/Animals/farm_middle.md:1:1",
@@ -882,6 +892,16 @@
       "answer": "Ja. Inseln wie Japan und Kuba sind Länder mit Wasser ringsherum."
     },
     {
+      "id": "cards/de/Geography/countries_middle.md:10:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was sind die Alpen?",
+      "answer": "Die Alpen sind ein langes Gebirge in Europa. Sie ziehen sich durch mehrere Länder, darunter Frankreich, Italien und die Schweiz."
+    },
+    {
       "id": "cards/de/Geography/countries_middle.md:1:1",
       "lang": "de",
       "topic": "Geography",
@@ -1350,6 +1370,26 @@
       "kind": "qa",
       "question": "Was macht dein Magen mit dem Essen?",
       "answer": "Dein Magen zerlegt das Essen in kleinere Stücke, damit dein Körper die Nährstoffe aufnehmen kann, die er für Energie und Wachstum braucht."
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:8:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wofür sind deine Därme da?",
+      "answer": "Nachdem das Essen den Magen verlässt, geht es durch deine langen Därme. Sie nehmen Wasser und Nährstoffe auf, die dein Körper braucht, und schicken den Rest als Abfall weiter."
+    },
+    {
+      "id": "cards/de/Science/body_middle.md:9:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Deine _____ helfen, Keime zu bekämpfen, die dich krank machen könnten.",
+      "answer": "weißen Blutkörperchen"
     },
     {
       "id": "cards/de/Science/plants_early.md:1:1",
@@ -2222,6 +2262,16 @@
       "answer": "Etwa 4,6 Milliarden Jahre. Forscher schätzen dieses Alter anhand sehr alter Meteoriten und anhand von Modellen, wie sich die wirbelnde Wolke, aus der Sonne und Planeten entstanden, abkühlte und Klumpen bildete."
     },
     {
+      "id": "cards/de/Space/solar_system_teen.md:7:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "Was ist die Oortsche Wolke?",
+      "answer": "Eine ferne Hülle aus Eiskörpern weit jenseits der Planeten. Manche Kometen mit sehr langen Bahnen könnten von dort kommen, wenn die Schwerkraft sie nach innen stößt."
+    },
+    {
       "id": "cards/de/Space/stars_early.md:10:1",
       "lang": "de",
       "topic": "Space",
@@ -2772,6 +2822,16 @@
       "answer": "Sportlerinnen und Sportler aus vielen Ländern auf der Welt. Sie reisen in eine Stadt und treten in verschiedenen Sportarten an."
     },
     {
+      "id": "cards/de/Sports/olympics_early.md:5:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wo haben die Olympischen Spiele vor langer Zeit begonnen?",
+      "answer": "In Griechenland, in alter Zeit. Dort trafen sich Sportlerinnen und Sportler zum Laufen, Springen und in anderen Sportarten."
+    },
+    {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -3010,6 +3070,16 @@
       "kind": "qa",
       "question": "What is the difference between a lamb and a sheep?",
       "answer": "A lamb is a young sheep, usually less than a year old. When it grows up, we call it a sheep, or a ewe if it is female."
+    },
+    {
+      "id": "cards/en/Animals/farm_middle.md:13:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Why might a farmer collect chicken eggs every day?",
+      "answer": "Hens lay eggs whether or not a rooster is nearby. Collecting eggs often keeps them clean and stops hens from sitting on them to hatch chicks when the farmer wants eggs for food."
     },
     {
       "id": "cards/en/Animals/farm_middle.md:1:1",
@@ -3802,6 +3872,16 @@
       "answer": "A hemisphere is half of Earth. The equator is an imaginary line that splits the Northern Hemisphere from the Southern Hemisphere."
     },
     {
+      "id": "cards/en/Geography/countries_middle.md:13:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What are the Alps?",
+      "answer": "The Alps are a long mountain range in Europe. They cross several countries, including France, Italy, and Switzerland."
+    },
+    {
       "id": "cards/en/Geography/countries_middle.md:1:1",
       "lang": "en",
       "topic": "Geography",
@@ -4270,6 +4350,26 @@
       "kind": "qa",
       "question": "What does your stomach do with the food you eat?",
       "answer": "Your stomach breaks food into smaller pieces so your body can pull out the nutrients it needs for energy and growth."
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:8:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What are your intestines for?",
+      "answer": "After food leaves your stomach, it travels through your long intestines. They soak up water and nutrients your body needs and push out the rest as waste."
+    },
+    {
+      "id": "cards/en/Science/body_middle.md:9:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Your _____ help fight germs that could make you sick.",
+      "answer": "white blood cells"
     },
     {
       "id": "cards/en/Science/plants_early.md:1:1",
@@ -5172,6 +5272,16 @@
       "answer": "About 4.6 billion years old. Scientists estimate that age from very ancient meteorites and from models of how the spinning cloud that became the Sun and planets cooled and clumped together."
     },
     {
+      "id": "cards/en/Space/solar_system_teen.md:7:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "What is the Oort Cloud?",
+      "answer": "A distant shell of icy objects far beyond the planets. Some comets with very long orbits may come from there when gravity nudges them inward."
+    },
+    {
       "id": "cards/en/Space/stars_early.md:10:1",
       "lang": "en",
       "topic": "Space",
@@ -5772,6 +5882,16 @@
       "answer": "Athletes from many countries around the world. They travel to one city to compete in sports."
     },
     {
+      "id": "cards/en/Sports/olympics_early.md:5:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Where did the Olympic Games start long ago?",
+      "answer": "In Greece, in ancient times. Athletes met there to compete in running, jumping, and other sports."
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -6020,6 +6140,16 @@
       "kind": "qa",
       "question": "¿Cuál es la diferencia entre un cordero y una oveja?",
       "answer": "Un cordero es una oveja joven, normalmente de menos de un año. Cuando crece, la llamamos oveja, o borrega si es hembra."
+    },
+    {
+      "id": "cards/es/Animals/farm_middle.md:13:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "farm",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Por qué un granjero puede recoger los huevos de gallina cada día?",
+      "answer": "Las gallinas ponen huevos aunque no haya gallo cerca. Recogerlos a menudo los mantiene limpios y evita que la gallina se siente encima para empollar cuando el granjero quiere los huevos para comer."
     },
     {
       "id": "cards/es/Animals/farm_middle.md:1:1",
@@ -6742,6 +6872,16 @@
       "answer": "Sí. Islas como Japón y Cuba son países con agua alrededor."
     },
     {
+      "id": "cards/es/Geography/countries_middle.md:10:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "countries",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué son los Alpes?",
+      "answer": "Los Alpes son una larga cordillera en Europa. Cruzan varios países, como Francia, Italia y Suiza."
+    },
+    {
       "id": "cards/es/Geography/countries_middle.md:1:1",
       "lang": "es",
       "topic": "Geography",
@@ -7210,6 +7350,26 @@
       "kind": "qa",
       "question": "¿Qué hace tu estómago con la comida que comes?",
       "answer": "Tu estómago desmenuza la comida en trozos más pequeños para que tu cuerpo pueda sacar los nutrientes que necesita para tener energía y crecer."
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:8:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Para qué sirven tus intestinos?",
+      "answer": "Después de que la comida sale del estómago, pasa por tus intestinos largos. Absorben agua y nutrientes que tu cuerpo necesita y expulsan el resto como desecho."
+    },
+    {
+      "id": "cards/es/Science/body_middle.md:9:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Tus _____ ayudan a combatir los microbios que podrían enfermarte.",
+      "answer": "glóbulos blancos"
     },
     {
       "id": "cards/es/Science/plants_early.md:1:1",
@@ -8082,6 +8242,16 @@
       "answer": "Unos 4 600 millones de años. Los científicos calculan esa edad con meteoritos muy antiguos y con modelos de cómo la nube giratoria que formó el Sol y los planetas se enfrió y formó grumos."
     },
     {
+      "id": "cards/es/Space/solar_system_teen.md:7:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "solar_system",
+      "age": "teen",
+      "kind": "qa",
+      "question": "¿Qué es la nube de Oort?",
+      "answer": "Una cáscara lejana de objetos helados muy lejos de los planetas. Algunos cometas con órbitas muy largas pueden venir de allí cuando la gravedad los empuja hacia dentro."
+    },
+    {
       "id": "cards/es/Space/stars_early.md:10:1",
       "lang": "es",
       "topic": "Space",
@@ -8630,6 +8800,16 @@
       "kind": "qa",
       "question": "¿Quién participa en los Juegos Olímpicos?",
       "answer": "Deportistas de muchos países de todo el mundo. Viajan a una ciudad para competir en distintos deportes."
+    },
+    {
+      "id": "cards/es/Sports/olympics_early.md:5:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Dónde empezaron los Juegos Olímpicos hace mucho tiempo?",
+      "answer": "En Grecia, en la antigüedad. Allí se reunían deportistas para competir en carreras, saltos y otros deportes."
     },
     {
       "id": "cards/es/Sports/olympics_middle.md:1:1",

@@ -37,3 +37,12 @@ A: Muscles pull on your bones to make you move. They help you walk, run, smile, 
 
 Q: What does your stomach do with the food you eat?
 A: Your stomach breaks food into smaller pieces so your body can pull out the nutrients it needs for energy and growth.
+
+---
+
+Q: What are your intestines for?
+A: After food leaves your stomach, it travels through your long intestines. They soak up water and nutrients your body needs and push out the rest as waste.
+
+---
+
+C: Your [white blood cells] help fight germs that could make you sick.

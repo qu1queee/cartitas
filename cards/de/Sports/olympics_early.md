@@ -18,3 +18,12 @@ A: Medaillen. Die Besten können Gold, Silber oder Bronze gewinnen.
 
 Q: Wer nimmt an den Olympischen Spielen teil?
 A: Sportlerinnen und Sportler aus vielen Ländern auf der Welt. Sie reisen in eine Stadt und treten in verschiedenen Sportarten an.
+
+---
+
+# Olympische Spiele — early (5–7)
+
+<!-- age: early | lang: de | topic: sports | subtopic: olympics -->
+
+Q: Wo haben die Olympischen Spiele vor langer Zeit begonnen?
+A: In Griechenland, in alter Zeit. Dort trafen sich Sportlerinnen und Sportler zum Laufen, Springen und in anderen Sportarten.

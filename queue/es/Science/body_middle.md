@@ -1,12 +1,3 @@
-Q: ¿Para qué sirven tus intestinos?
-A: Después de que la comida sale del estómago, pasa por tus intestinos largos. Absorben agua y nutrientes que tu cuerpo necesita y expulsan el resto como desecho.
-
----
-
-C: Tus [glóbulos blancos] ayudan a combatir los microbios que podrían enfermarte.
-
----
-
 Q: ¿Por qué tus articulaciones pueden doblarse en lugar de quedarse rígidas?
 A: Las articulaciones son lugares donde se encuentran dos huesos. El cartílago blando y un líquido resbaladizo ayudan a que los huesos se muevan con suavidad sin rozarse.
 
