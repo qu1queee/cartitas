@@ -1,8 +1,3 @@
-Q: ¿Qué es la llama olímpica?
-A: Es un fuego especial que arde durante los Juegos. Recuerda la paz y la amistad entre los países.
-
----
-
 C: En la ceremonia de apertura, los deportistas entran detrás de la [bandera] de su país.
 
 ---

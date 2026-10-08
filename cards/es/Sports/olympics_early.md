@@ -27,3 +27,8 @@ A: Deportistas de muchos países de todo el mundo. Viajan a una ciudad para comp
 
 Q: ¿Dónde empezaron los Juegos Olímpicos hace mucho tiempo?
 A: En Grecia, en la antigüedad. Allí se reunían deportistas para competir en carreras, saltos y otros deportes.
+
+---
+
+Q: ¿Qué es la llama olímpica?
+A: Es un fuego especial que arde durante los Juegos. Recuerda la paz y la amistad entre los países.

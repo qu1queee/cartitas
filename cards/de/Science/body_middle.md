@@ -46,3 +46,13 @@ A: Nachdem das Essen den Magen verlässt, geht es durch deine langen Därme. Sie
 ---
 
 C: Deine [weißen Blutkörperchen] helfen, Keime zu bekämpfen, die dich krank machen könnten.
+
+---
+
+Q: Warum können sich deine Gelenke beugen, statt steif zu bleiben?
+A: Gelenke sind Stellen, an denen zwei Knochen aufeinandertreffen. Weicher Knorpel und eine glitschige Flüssigkeit helfen den Knochen, sich glatt zu bewegen, ohne aneinander zu schleifen.
+
+---
+
+Q: Wie helfen deine Ohren dir beim Balancehalten?
+A: Tief in deinem Innenohr spüren winzige Kanäle, wenn sich dein Kopf neigt oder dreht. So kannst du stabil bleiben, wenn du gehst oder Fahrrad fährst.

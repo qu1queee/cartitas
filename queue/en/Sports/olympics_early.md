@@ -1,8 +1,3 @@
-Q: What is the Olympic flame?
-A: It is a special fire that burns during the Games. It reminds people of peace and friendship among nations.
-
----
-
 C: At the opening ceremony, athletes walk in behind their country's [flag].
 
 ---
