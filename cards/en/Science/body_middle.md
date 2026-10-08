@@ -46,3 +46,13 @@ A: After food leaves your stomach, it travels through your long intestines. They
 ---
 
 C: Your [white blood cells] help fight germs that could make you sick.
+
+---
+
+Q: Why can your joints bend instead of staying stiff?
+A: Joints are places where two bones meet. Soft cartilage and slippery fluid help the bones move smoothly without grinding together.
+
+---
+
+Q: How do your ears help you keep your balance?
+A: Deep inside your inner ear, tiny canals sense when your head tilts or spins. That helps you stay steady when you walk or ride a bike.
