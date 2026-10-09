@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:14:32Z",
+  "generatedAt": "2026-10-09T14:59:47Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -1322,6 +1322,16 @@
       "answer": "Tief in deinem Innenohr spüren winzige Kanäle, wenn sich dein Kopf neigt oder dreht. So kannst du stabil bleiben, wenn du gehst oder Fahrrad fährst."
     },
     {
+      "id": "cards/de/Science/body_middle.md:12:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was macht deine Leber für dich?",
+      "answer": "Deine Leber hilft, dein Blut zu reinigen, speichert Energie aus der Nahrung und bildet Stoffe, die dir beim Verdauen von Fetten helfen."
+    },
+    {
       "id": "cards/de/Science/body_middle.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -1490,6 +1500,16 @@
       "kind": "cloze",
       "question": "Eine Karotte ist ein _____gemüse, das unter der Erde wächst.",
       "answer": "Wurzel"
+    },
+    {
+      "id": "cards/de/Science/plants_middle.md:10:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Wofür ist die Rinde an einem Baum da?",
+      "answer": "Rinde ist die harte Schicht außen am Stamm und an den Ästen. Sie schützt den Baum vor Insekten, Krankheiten und Kratzern."
     },
     {
       "id": "cards/de/Science/plants_middle.md:1:1",
@@ -2860,6 +2880,16 @@
       "kind": "qa",
       "question": "Was ist die olympische Flamme?",
       "answer": "Es ist ein besonderes Feuer, das während der Spiele brennt. Es erinnert an Frieden und Freundschaft zwischen den Nationen."
+    },
+    {
+      "id": "cards/de/Sports/olympics_early.md:7:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Bei der Eröffnungsfeier laufen die Sportler hinter der _____ ihres Landes ein.",
+      "answer": "Fahne"
     },
     {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
@@ -4332,6 +4362,16 @@
       "answer": "Deep inside your inner ear, tiny canals sense when your head tilts or spins. That helps you stay steady when you walk or ride a bike."
     },
     {
+      "id": "cards/en/Science/body_middle.md:12:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What does your liver do for you?",
+      "answer": "Your liver helps clean your blood, stores energy from food, and makes substances that help you digest fats."
+    },
+    {
       "id": "cards/en/Science/body_middle.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -4500,6 +4540,16 @@
       "kind": "cloze",
       "question": "A carrot is a _____ vegetable that grows under the ground.",
       "answer": "root"
+    },
+    {
+      "id": "cards/en/Science/plants_middle.md:10:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What does bark do on a tree?",
+      "answer": "Bark is the tough outer layer on the trunk and branches. It helps shield the tree from insects, disease, and scrapes."
     },
     {
       "id": "cards/en/Science/plants_middle.md:1:1",
@@ -5952,6 +6002,16 @@
       "answer": "It is a special fire that burns during the Games. It reminds people of peace and friendship among nations."
     },
     {
+      "id": "cards/en/Sports/olympics_early.md:7:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "cloze",
+      "question": "At the opening ceremony, athletes walk in behind their country's _____.",
+      "answer": "flag"
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -7362,6 +7422,16 @@
       "answer": "En lo profundo del oído interno, unos conductos diminutos detectan cuando tu cabeza se inclina o gira. Eso te ayuda a mantenerte firme cuando caminas o montas en bicicleta."
     },
     {
+      "id": "cards/es/Science/body_middle.md:12:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "body",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué hace el hígado por ti?",
+      "answer": "Tu hígado ayuda a limpiar la sangre, guarda energía de los alimentos y fabrica sustancias que te ayudan a digerir las grasas."
+    },
+    {
       "id": "cards/es/Science/body_middle.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -7530,6 +7600,16 @@
       "kind": "cloze",
       "question": "Una zanahoria es una verdura de _____ que crece bajo la tierra.",
       "answer": "raíz"
+    },
+    {
+      "id": "cards/es/Science/plants_middle.md:10:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Para qué sirve la corteza de un árbol?",
+      "answer": "La corteza es la capa dura por fuera del tronco y las ramas. Ayuda a proteger al árbol de insectos, enfermedades y rasguños."
     },
     {
       "id": "cards/es/Science/plants_middle.md:1:1",
@@ -8900,6 +8980,16 @@
       "kind": "qa",
       "question": "¿Qué es la llama olímpica?",
       "answer": "Es un fuego especial que arde durante los Juegos. Recuerda la paz y la amistad entre los países."
+    },
+    {
+      "id": "cards/es/Sports/olympics_early.md:7:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "cloze",
+      "question": "En la ceremonia de apertura, los deportistas entran detrás de la _____ de su país.",
+      "answer": "bandera"
     },
     {
       "id": "cards/es/Sports/olympics_middle.md:1:1",
