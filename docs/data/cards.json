@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:59:47Z",
+  "generatedAt": "2026-10-10T14:15:26Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -2890,6 +2890,16 @@
       "kind": "cloze",
       "question": "Bei der Eröffnungsfeier laufen die Sportler hinter der _____ ihres Landes ein.",
       "answer": "Fahne"
+    },
+    {
+      "id": "cards/de/Sports/olympics_early.md:8:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was sind die Olympischen Winterspiele?",
+      "answer": "Das sind Olympische Spiele auf Schnee und Eis. Die Athleten fahren Ski, skaten und rutschen in Sportarten wie Eishockey und Snowboarden."
     },
     {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
@@ -6012,6 +6022,16 @@
       "answer": "flag"
     },
     {
+      "id": "cards/en/Sports/olympics_early.md:8:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "What are the Winter Olympics?",
+      "answer": "They are Olympic Games on snow and ice. Athletes ski, skate, and slide in sports like hockey and snowboarding."
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -8990,6 +9010,16 @@
       "kind": "cloze",
       "question": "En la ceremonia de apertura, los deportistas entran detrás de la _____ de su país.",
       "answer": "bandera"
+    },
+    {
+      "id": "cards/es/Sports/olympics_early.md:8:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué son los Juegos Olímpicos de invierno?",
+      "answer": "Son Juegos Olímpicos sobre nieve y hielo. Los deportistas esquían, patinan y se deslizan en deportes como el hockey y el snowboard."
     },
     {
       "id": "cards/es/Sports/olympics_middle.md:1:1",
