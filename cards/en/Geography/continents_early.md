@@ -68,3 +68,16 @@ A: South America. Brazil is the largest country on that continent.
 
 Q: What covers almost all of Antarctica?
 A: Thick ice and snow. It is the coldest of the seven continents.
+
+---
+
+# Continents — early (5–7)
+
+<!-- age: early | lang: en | topic: geography | subtopic: continents -->
+
+Q: Which continent has the Taj Mahal?
+A: Asia. The Taj Mahal is a beautiful building in India, a country in Asia.
+
+---
+
+C: The [Great Lakes] are huge freshwater lakes in North America.

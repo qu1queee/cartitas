@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T14:15:26Z",
+  "generatedAt": "2026-10-12T17:25:00Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -310,6 +310,26 @@
       "kind": "cloze",
       "question": "Viele Krabben laufen _____ über den Sand.",
       "answer": "seitwärts"
+    },
+    {
+      "id": "cards/de/Animals/ocean_early.md:6:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was fressen viele riesige Wale?",
+      "answer": "Winzige Tiere im Meer und kleine Fische. Wale schlucken Wasser und filtern ihr Futter heraus."
+    },
+    {
+      "id": "cards/de/Animals/ocean_early.md:7:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Manchmal siehst du eine _____flosse über den Wellen, wenn er nah an der Oberfläche schwimmt.",
+      "answer": "Hai"
     },
     {
       "id": "cards/de/Animals/ocean_middle.md:10:1",
@@ -650,6 +670,26 @@
       "kind": "qa",
       "question": "Was bedeckt fast die ganze Antarktis?",
       "answer": "Dicke Eis- und Schneeschichten. Sie ist der kälteste der sieben Kontinente."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:14:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent steht das Taj Mahal?",
+      "answer": "In Asien. Das Taj Mahal ist ein schönes Gebäude in Indien, einem Land in Asien."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:15:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Die _____ sind riesige Süßwasserseen in Nordamerika.",
+      "answer": "Großen Seen"
     },
     {
       "id": "cards/de/Geography/continents_early.md:1:1",
@@ -1422,6 +1462,16 @@
       "answer": "weißen Blutkörperchen"
     },
     {
+      "id": "cards/de/Science/plants_early.md:10:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Ein _____ speichert Wasser im dicken Stängel, damit er an trockenen Orten leben kann.",
+      "answer": "Kaktus"
+    },
+    {
       "id": "cards/de/Science/plants_early.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -1500,6 +1550,16 @@
       "kind": "cloze",
       "question": "Eine Karotte ist ein _____gemüse, das unter der Erde wächst.",
       "answer": "Wurzel"
+    },
+    {
+      "id": "cards/de/Science/plants_early.md:9:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist Erde im Garten?",
+      "answer": "Der Boden, in dem Pflanzen wachsen. Er speichert Wasser und gibt den Wurzeln Halt."
     },
     {
       "id": "cards/de/Science/plants_middle.md:10:1",
@@ -1890,6 +1950,26 @@
       "kind": "qa",
       "question": "Wie lange brauchten die Apollo-Astronauten bis zum Mond?",
       "answer": "Etwa drei Tage hin mit der Rakete. Die ganze Reise hin und zurück dauerte ungefähr eine Woche oder länger, inklusive Zeit auf der Oberfläche."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:11:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Welche Farbe hat der Mond von der Erde aus meistens?",
+      "answer": "Meist grau. Seine Oberfläche ist staubiger Fels, der Sonnenlicht zu uns zurückwirft."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:12:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was sind Krater auf dem Mond?",
+      "answer": "Runde Schüsseln, die bleiben, wenn Gestein aus dem Weltraum auf den Mond kracht. Einige Krater sind breiter als eine Stadt."
     },
     {
       "id": "cards/de/Space/moon_middle.md:1:1",
@@ -2982,6 +3062,16 @@
       "answer": "Die drei Besten stehen auf einem Podest. Gold steht in der Mitte auf der höchsten Stufe, Silber auf einer Seite und Bronze auf der anderen. Oft hört man die Nationalhymne des Goldmedaillengewinners."
     },
     {
+      "id": "cards/de/Sports/olympics_middle.md:9:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was sind die Paralympics?",
+      "answer": "Das ist ein großes Sportfest wie die Olympischen Spiele für Sportlerinnen und Sportler mit Behinderung. Radfahrer, Läufer und Schwimmer treten an und versuchen, Medaillen zu gewinnen."
+    },
+    {
       "id": "cards/en/Animals/farm_early.md:10:1",
       "lang": "en",
       "topic": "Animals",
@@ -3290,6 +3380,26 @@
       "kind": "cloze",
       "question": "Many crabs walk _____ on the sand.",
       "answer": "sideways"
+    },
+    {
+      "id": "cards/en/Animals/ocean_early.md:6:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "What do many huge whales eat?",
+      "answer": "Tiny ocean animals and small fish. Whales gulp water and filter out their food."
+    },
+    {
+      "id": "cards/en/Animals/ocean_early.md:7:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "cloze",
+      "question": "You might see a _____ fin sticking up above the waves when it swims near the surface.",
+      "answer": "shark"
     },
     {
       "id": "cards/en/Animals/ocean_middle.md:10:1",
@@ -3660,6 +3770,26 @@
       "kind": "qa",
       "question": "What covers almost all of Antarctica?",
       "answer": "Thick ice and snow. It is the coldest of the seven continents."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:14:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which continent has the Taj Mahal?",
+      "answer": "Asia. The Taj Mahal is a beautiful building in India, a country in Asia."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:15:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "The _____ are huge freshwater lakes in North America.",
+      "answer": "Great Lakes"
     },
     {
       "id": "cards/en/Geography/continents_early.md:1:1",
@@ -4472,6 +4602,16 @@
       "answer": "white blood cells"
     },
     {
+      "id": "cards/en/Science/plants_early.md:10:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "A _____ stores water in its thick stem so it can live in dry places.",
+      "answer": "cactus"
+    },
+    {
       "id": "cards/en/Science/plants_early.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -4550,6 +4690,16 @@
       "kind": "cloze",
       "question": "A carrot is a _____ vegetable that grows under the ground.",
       "answer": "root"
+    },
+    {
+      "id": "cards/en/Science/plants_early.md:9:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is soil?",
+      "answer": "The dirt where plants grow. It holds water and gives roots a place to grab on."
     },
     {
       "id": "cards/en/Science/plants_middle.md:10:1",
@@ -4970,6 +5120,26 @@
       "kind": "qa",
       "question": "How long did the Apollo astronauts take to reach the Moon?",
       "answer": "About three days each way by rocket. The whole trip there and back took roughly a week or more, including time on the surface."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:11:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What color does the Moon usually look from Earth?",
+      "answer": "Mostly gray. Its surface is dusty rock that bounces sunlight back to us."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:12:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What are craters on the Moon?",
+      "answer": "Round bowl-shaped scars left when rocks from space crash into the Moon. Some craters are wider than a city."
     },
     {
       "id": "cards/en/Space/moon_middle.md:1:1",
@@ -6032,6 +6202,16 @@
       "answer": "They are Olympic Games on snow and ice. Athletes ski, skate, and slide in sports like hockey and snowboarding."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:10:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What are the Paralympics?",
+      "answer": "They are a huge sports event like the Olympics for athletes with disabilities. Riders, runners, and swimmers compete and try to win medals."
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -6432,6 +6612,26 @@
       "answer": "lado"
     },
     {
+      "id": "cards/es/Animals/ocean_early.md:6:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué comen muchas ballenas enormes?",
+      "answer": "Animalitos muy pequeños del mar y peces pequeños. Las ballenas tragan agua y filtran su comida."
+    },
+    {
+      "id": "cards/es/Animals/ocean_early.md:7:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "cloze",
+      "question": "A veces ves la aleta de un _____ saliendo de las olas cuando nada cerca de la superficie.",
+      "answer": "tiburón"
+    },
+    {
       "id": "cards/es/Animals/ocean_middle.md:10:1",
       "lang": "es",
       "topic": "Animals",
@@ -6770,6 +6970,26 @@
       "kind": "qa",
       "question": "¿Qué cubre casi toda la Antártida?",
       "answer": "Hielo y nieve muy gruesos. Es el continente más frío de los siete."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:14:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué continente está el Taj Mahal?",
+      "answer": "En Asia. El Taj Mahal es un edificio hermoso en la India, un país de Asia."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:15:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los _____ son lagos enormes de agua dulce en América del Norte.",
+      "answer": "Grandes Lagos"
     },
     {
       "id": "cards/es/Geography/continents_early.md:1:1",
@@ -7542,6 +7762,16 @@
       "answer": "glóbulos blancos"
     },
     {
+      "id": "cards/es/Science/plants_early.md:10:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Un _____ guarda agua en su tallo grueso para poder vivir en lugares secos.",
+      "answer": "cactus"
+    },
+    {
       "id": "cards/es/Science/plants_early.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -7620,6 +7850,16 @@
       "kind": "cloze",
       "question": "Una zanahoria es una verdura de _____ que crece bajo la tierra.",
       "answer": "raíz"
+    },
+    {
+      "id": "cards/es/Science/plants_early.md:9:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es el suelo?",
+      "answer": "La tierra donde crecen las plantas. Guarda agua y da a las raíces un lugar donde afirmarse."
     },
     {
       "id": "cards/es/Science/plants_middle.md:10:1",
@@ -8010,6 +8250,26 @@
       "kind": "qa",
       "question": "¿Cuánto tardaron los astronautas del Apolo en llegar a la Luna?",
       "answer": "Unos tres días de ida en cohete. El viaje completo de ida y vuelta duró más o menos una semana o más, incluido el tiempo en la superficie."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:11:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿De qué color suele verse la Luna desde la Tierra?",
+      "answer": "En general gris. Su superficie es roca polvorienta que devuelve la luz del Sol hacia nosotros."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:12:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué son los cráteres en la Luna?",
+      "answer": "Huecos redondos que dejan las rocas del espacio al chocar con la Luna. Algunos cráteres son más anchos que una ciudad."
     },
     {
       "id": "cards/es/Space/moon_middle.md:1:1",
@@ -9100,6 +9360,16 @@
       "kind": "qa",
       "question": "¿Qué pasa en una ceremonia de entrega de medallas olímpicas?",
       "answer": "Los tres mejores deportistas suben a un podio. El oro queda en el centro, en el escalón más alto; la plata a un lado y el bronce al otro. A menudo suena el himno del país del medallista de oro."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:9:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué son los Juegos Paralímpicos?",
+      "answer": "Son un gran evento deportivo como los Olímpicos para deportistas con discapacidad. Ciclistas, corredores y nadadores compiten e intentan ganar medallas."
     }
   ]
 }

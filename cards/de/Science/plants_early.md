@@ -40,3 +40,16 @@ A: Nein. Die meisten brauchen jeden Tag Wasser, sonst welken sie und wachsen nic
 ---
 
 C: Eine Karotte ist ein [Wurzel]gemüse, das unter der Erde wächst.
+
+---
+
+# Pflanzen — early (5–7)
+
+<!-- age: early | lang: de | topic: science | subtopic: plants -->
+
+Q: Was ist Erde im Garten?
+A: Der Boden, in dem Pflanzen wachsen. Er speichert Wasser und gibt den Wurzeln Halt.
+
+---
+
+C: Ein [Kaktus] speichert Wasser im dicken Stängel, damit er an trockenen Orten leben kann.

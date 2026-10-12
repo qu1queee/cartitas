@@ -22,3 +22,16 @@ A: Nein. Delfine kommen an die Oberfläche, um Luft zu holen. Sie leben im Meer,
 ---
 
 C: Viele Krabben laufen [seitwärts] über den Sand.
+
+---
+
+# Meerestiere — early (5–7)
+
+<!-- age: early | lang: de | topic: animals | subtopic: ocean -->
+
+Q: Was fressen viele riesige Wale?
+A: Winzige Tiere im Meer und kleine Fische. Wale schlucken Wasser und filtern ihr Futter heraus.
+
+---
+
+C: Manchmal siehst du eine [Hai]flosse über den Wellen, wenn er nah an der Oberfläche schwimmt.

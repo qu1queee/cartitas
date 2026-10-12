@@ -68,3 +68,16 @@ A: En América del Sur. Brasil es el país más grande de ese continente.
 
 Q: ¿Qué cubre casi toda la Antártida?
 A: Hielo y nieve muy gruesos. Es el continente más frío de los siete.
+
+---
+
+# Continentes — early (5–7)
+
+<!-- age: early | lang: es | topic: geography | subtopic: continents -->
+
+Q: ¿En qué continente está el Taj Mahal?
+A: En Asia. El Taj Mahal es un edificio hermoso en la India, un país de Asia.
+
+---
+
+C: Los [Grandes Lagos] son lagos enormes de agua dulce en América del Norte.

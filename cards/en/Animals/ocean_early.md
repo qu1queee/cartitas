@@ -22,3 +22,16 @@ A: No. Dolphins come to the surface to breathe air. They live in the sea but bre
 ---
 
 C: Many crabs walk [sideways] on the sand.
+
+---
+
+# Ocean animals — early (5–7)
+
+<!-- age: early | lang: en | topic: animals | subtopic: ocean -->
+
+Q: What do many huge whales eat?
+A: Tiny ocean animals and small fish. Whales gulp water and filter out their food.
+
+---
+
+C: You might see a [shark] fin sticking up above the waves when it swims near the surface.

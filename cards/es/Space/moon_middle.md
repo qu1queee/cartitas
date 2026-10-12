@@ -51,3 +51,17 @@ A: Ocurre cuando la Tierra pasa entre el Sol y la Luna. La sombra de la Tierra c
 
 Q: ¿Cuánto tardaron los astronautas del Apolo en llegar a la Luna?
 A: Unos tres días de ida en cohete. El viaje completo de ida y vuelta duró más o menos una semana o más, incluido el tiempo en la superficie.
+
+---
+
+# La Luna — middle (8–11)
+
+<!-- age: middle | lang: es | topic: space | subtopic: moon -->
+
+Q: ¿De qué color suele verse la Luna desde la Tierra?
+A: En general gris. Su superficie es roca polvorienta que devuelve la luz del Sol hacia nosotros.
+
+---
+
+Q: ¿Qué son los cráteres en la Luna?
+A: Huecos redondos que dejan las rocas del espacio al chocar con la Luna. Algunos cráteres son más anchos que una ciudad.

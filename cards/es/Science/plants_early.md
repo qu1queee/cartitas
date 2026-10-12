@@ -40,3 +40,16 @@ A: No. La mayoría necesita agua cada día o se marchitan y dejan de crecer.
 ---
 
 C: Una zanahoria es una verdura de [raíz] que crece bajo la tierra.
+
+---
+
+# Plantas — early (5–7)
+
+<!-- age: early | lang: es | topic: science | subtopic: plants -->
+
+Q: ¿Qué es el suelo?
+A: La tierra donde crecen las plantas. Guarda agua y da a las raíces un lugar donde afirmarse.
+
+---
+
+C: Un [cactus] guarda agua en su tallo grueso para poder vivir en lugares secos.

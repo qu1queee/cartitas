@@ -1,12 +1,3 @@
-# Olympics — middle (8–11)
-
-<!-- age: middle | lang: en | topic: sports | subtopic: olympics -->
-
-Q: What are the Paralympics?
-A: They are a huge sports event like the Olympics for athletes with disabilities. Riders, runners, and swimmers compete and try to win medals.
-
----
-
 Q: What is the Olympic Village?
 A: It is a neighborhood of buildings where athletes sleep, eat, and meet during the Games. It helps people from different countries get to know one another.
 

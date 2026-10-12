@@ -51,3 +51,17 @@ A: Sie entsteht, wenn die Erde zwischen Sonne und Mond steht. Der Schatten der E
 
 Q: Wie lange brauchten die Apollo-Astronauten bis zum Mond?
 A: Etwa drei Tage hin mit der Rakete. Die ganze Reise hin und zurück dauerte ungefähr eine Woche oder länger, inklusive Zeit auf der Oberfläche.
+
+---
+
+# Der Mond — middle (8–11)
+
+<!-- age: middle | lang: de | topic: space | subtopic: moon -->
+
+Q: Welche Farbe hat der Mond von der Erde aus meistens?
+A: Meist grau. Seine Oberfläche ist staubiger Fels, der Sonnenlicht zu uns zurückwirft.
+
+---
+
+Q: Was sind Krater auf dem Mond?
+A: Runde Schüsseln, die bleiben, wenn Gestein aus dem Weltraum auf den Mond kracht. Einige Krater sind breiter als eine Stadt.

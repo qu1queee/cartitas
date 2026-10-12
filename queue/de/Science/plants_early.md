@@ -1,16 +1,3 @@
-# Pflanzen — early (5–7)
-
-<!-- age: early | lang: de | topic: science | subtopic: plants -->
-
-Q: Was ist Erde im Garten?
-A: Der Boden, in dem Pflanzen wachsen. Er speichert Wasser und gibt den Wurzeln Halt.
-
----
-
-C: Ein [Kaktus] speichert Wasser im dicken Stängel, damit er an trockenen Orten leben kann.
-
----
-
 Q: Brauchen alle Pflanzen gleich viel Sonnenlicht?
 A: Nein. Manche mögen viel Sonne, andere wachsen besser im Schatten unter Bäumen.
 

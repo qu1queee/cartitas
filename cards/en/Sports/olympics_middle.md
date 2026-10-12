@@ -50,3 +50,12 @@ C: Athletes [warm up] their muscles before competing so they are less likely to 
 
 Q: What happens at an Olympic medal ceremony?
 A: The top three athletes stand on a podium. Gold is in the middle on the highest step, silver on one side, and bronze on the other. The gold medalist often hears their country's anthem.
+
+---
+
+# Olympics — middle (8–11)
+
+<!-- age: middle | lang: en | topic: sports | subtopic: olympics -->
+
+Q: What are the Paralympics?
+A: They are a huge sports event like the Olympics for athletes with disabilities. Riders, runners, and swimmers compete and try to win medals.

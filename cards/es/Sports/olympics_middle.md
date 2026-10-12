@@ -41,3 +41,12 @@ C: Los deportistas [calientan] los músculos antes de competir para tener menos 
 
 Q: ¿Qué pasa en una ceremonia de entrega de medallas olímpicas?
 A: Los tres mejores deportistas suben a un podio. El oro queda en el centro, en el escalón más alto; la plata a un lado y el bronce al otro. A menudo suena el himno del país del medallista de oro.
+
+---
+
+# Juegos Olímpicos — middle (8–11)
+
+<!-- age: middle | lang: es | topic: sports | subtopic: olympics -->
+
+Q: ¿Qué son los Juegos Paralímpicos?
+A: Son un gran evento deportivo como los Olímpicos para deportistas con discapacidad. Ciclistas, corredores y nadadores compiten e intentan ganar medallas.

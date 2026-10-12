@@ -41,3 +41,12 @@ C: Sportler [wärmen] ihre Muskeln vor dem Wettkampf auf, damit sie sich seltene
 
 Q: Was passiert bei einer olympischen Medaillenzeremonie?
 A: Die drei Besten stehen auf einem Podest. Gold steht in der Mitte auf der höchsten Stufe, Silber auf einer Seite und Bronze auf der anderen. Oft hört man die Nationalhymne des Goldmedaillengewinners.
+
+---
+
+# Olympische Spiele — middle (8–11)
+
+<!-- age: middle | lang: de | topic: sports | subtopic: olympics -->
+
+Q: Was sind die Paralympics?
+A: Das ist ein großes Sportfest wie die Olympischen Spiele für Sportlerinnen und Sportler mit Behinderung. Radfahrer, Läufer und Schwimmer treten an und versuchen, Medaillen zu gewinnen.
