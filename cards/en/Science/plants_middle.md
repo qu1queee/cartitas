@@ -26,10 +26,6 @@ A: Plants can make their own food using sunlight. Animals cannot make food that 
 
 ---
 
-# Plants — middle (8–11)
-
-<!-- age: middle | lang: en | topic: science | subtopic: plants -->
-
 Q: Why do some trees drop their leaves in fall?
 A: Deciduous trees shed leaves to save water and energy before winter. New leaves grow back when warm weather returns.
 
