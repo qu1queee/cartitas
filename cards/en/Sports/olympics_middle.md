@@ -59,3 +59,8 @@ A: The top three athletes stand on a podium. Gold is in the middle on the highes
 
 Q: What are the Paralympics?
 A: They are a huge sports event like the Olympics for athletes with disabilities. Riders, runners, and swimmers compete and try to win medals.
+
+---
+
+Q: What is the Olympic Village?
+A: It is a neighborhood of buildings where athletes sleep, eat, and meet during the Games. It helps people from different countries get to know one another.

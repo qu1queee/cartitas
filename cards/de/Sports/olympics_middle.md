@@ -50,3 +50,8 @@ A: Die drei Besten stehen auf einem Podest. Gold steht in der Mitte auf der höc
 
 Q: Was sind die Paralympics?
 A: Das ist ein großes Sportfest wie die Olympischen Spiele für Sportlerinnen und Sportler mit Behinderung. Radfahrer, Läufer und Schwimmer treten an und versuchen, Medaillen zu gewinnen.
+
+---
+
+Q: Was ist das Olympische Dorf?
+A: Es ist eine Siedlung mit Gebäuden, in der die Sportler während der Spiele schlafen, essen und sich treffen. So lernen Menschen aus verschiedenen Ländern einander kennen.

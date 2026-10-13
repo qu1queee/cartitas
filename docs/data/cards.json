@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:25:00Z",
+  "generatedAt": "2026-10-13T15:36:48Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -330,6 +330,26 @@
       "kind": "cloze",
       "question": "Manchmal siehst du eine _____flosse über den Wellen, wenn er nah an der Oberfläche schwimmt.",
       "answer": "Hai"
+    },
+    {
+      "id": "cards/de/Animals/ocean_early.md:8:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist Seetang?",
+      "answer": "Seetang ist eine Pflanze, die im Ozean wächst. Fische und kleine Meerestiere verstecken sich in seinen welligen Blättern."
+    },
+    {
+      "id": "cards/de/Animals/ocean_early.md:9:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "Wo leben Seesterne meistens?",
+      "answer": "Auf dem Meeresboden, auf Felsen oder Sand. Sie bewegen sich langsam mit kleinen Röhrenfüßen unter ihren Armen."
     },
     {
       "id": "cards/de/Animals/ocean_middle.md:10:1",
@@ -690,6 +710,26 @@
       "kind": "cloze",
       "question": "Die _____ sind riesige Süßwasserseen in Nordamerika.",
       "answer": "Großen Seen"
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:16:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Welcher ist der kleinste Kontinent?",
+      "answer": "Australien. Es gehört zum Kontinent, der Ozeanien heißt."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:17:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Auf welchem Kontinent leben Tiger in der Natur?",
+      "answer": "In Asien. Viele Tiger leben in Wäldern in Ländern wie Indien und Indonesien."
     },
     {
       "id": "cards/de/Geography/continents_early.md:1:1",
@@ -1472,6 +1512,26 @@
       "answer": "Kaktus"
     },
     {
+      "id": "cards/de/Science/plants_early.md:11:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Brauchen alle Pflanzen gleich viel Sonnenlicht?",
+      "answer": "Nein. Manche mögen viel Sonne, andere wachsen besser im Schatten unter Bäumen."
+    },
+    {
+      "id": "cards/de/Science/plants_early.md:12:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Was ist ein Keimling?",
+      "answer": "Eine winzige neue Pflanze, die gerade aus einem Samen gekommen ist. Sie hat kleine Blätter und einen kurzen Stängel."
+    },
+    {
       "id": "cards/de/Science/plants_early.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -1970,6 +2030,26 @@
       "kind": "qa",
       "question": "Was sind Krater auf dem Mond?",
       "answer": "Runde Schüsseln, die bleiben, wenn Gestein aus dem Weltraum auf den Mond kracht. Einige Krater sind breiter als eine Stadt."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:13:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist Vollmond?",
+      "answer": "Wenn wir die ganze helle Seite des Mondes sehen, die von der Sonne beleuchtet ist. Das passiert im Mondzyklus etwa einmal im Monat."
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:14:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Beim _____ steht der Mond zwischen Erde und Sonne, deshalb wirkt die uns zugewandte Seite dunkel.",
+      "answer": "Neumond"
     },
     {
       "id": "cards/de/Space/moon_middle.md:1:1",
@@ -2982,6 +3062,16 @@
       "answer": "Das sind Olympische Spiele auf Schnee und Eis. Die Athleten fahren Ski, skaten und rutschen in Sportarten wie Eishockey und Snowboarden."
     },
     {
+      "id": "cards/de/Sports/olympics_middle.md:10:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist das Olympische Dorf?",
+      "answer": "Es ist eine Siedlung mit Gebäuden, in der die Sportler während der Spiele schlafen, essen und sich treffen. So lernen Menschen aus verschiedenen Ländern einander kennen."
+    },
+    {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -3402,6 +3492,26 @@
       "answer": "shark"
     },
     {
+      "id": "cards/en/Animals/ocean_early.md:8:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is seaweed?",
+      "answer": "Seaweed is a plant that grows in the ocean. Fish and little sea creatures hide among its wavy leaves."
+    },
+    {
+      "id": "cards/en/Animals/ocean_early.md:9:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "Where do starfish usually live?",
+      "answer": "On the ocean floor, on rocks or sand. They move slowly on tiny tube feet under their arms."
+    },
+    {
       "id": "cards/en/Animals/ocean_middle.md:10:1",
       "lang": "en",
       "topic": "Animals",
@@ -3790,6 +3900,26 @@
       "kind": "cloze",
       "question": "The _____ are huge freshwater lakes in North America.",
       "answer": "Great Lakes"
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:16:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "Which is the smallest continent?",
+      "answer": "Australia. It is part of the continent called Oceania."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:17:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "On which continent would you find tigers in the wild?",
+      "answer": "Asia. Many tigers live in forests in countries like India and Indonesia."
     },
     {
       "id": "cards/en/Geography/continents_early.md:1:1",
@@ -4612,6 +4742,26 @@
       "answer": "cactus"
     },
     {
+      "id": "cards/en/Science/plants_early.md:11:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "Do all plants need the same amount of sunlight?",
+      "answer": "No. Some like lots of sun, and some grow better in shade under trees."
+    },
+    {
+      "id": "cards/en/Science/plants_early.md:12:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "What is a sprout?",
+      "answer": "A tiny new plant that just popped up from a seed. It has small leaves and a short stem."
+    },
+    {
       "id": "cards/en/Science/plants_early.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -5140,6 +5290,26 @@
       "kind": "qa",
       "question": "What are craters on the Moon?",
       "answer": "Round bowl-shaped scars left when rocks from space crash into the Moon. Some craters are wider than a city."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:13:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a full Moon?",
+      "answer": "When we see the whole bright face of the Moon lit by the Sun. It happens about once a month in the Moon's cycle."
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:14:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "During a _____, the Moon is between Earth and the Sun, so the side facing us looks dark.",
+      "answer": "new Moon"
     },
     {
       "id": "cards/en/Space/moon_middle.md:1:1",
@@ -6212,6 +6382,16 @@
       "answer": "They are a huge sports event like the Olympics for athletes with disabilities. Riders, runners, and swimmers compete and try to win medals."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:11:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is the Olympic Village?",
+      "answer": "It is a neighborhood of buildings where athletes sleep, eat, and meet during the Games. It helps people from different countries get to know one another."
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -6632,6 +6812,26 @@
       "answer": "tiburón"
     },
     {
+      "id": "cards/es/Animals/ocean_early.md:8:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es el alga marina?",
+      "answer": "El alga marina es una planta que crece en el océano. Los peces y otros animalitos del mar se esconden entre sus hojas onduladas."
+    },
+    {
+      "id": "cards/es/Animals/ocean_early.md:9:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Dónde viven normalmente las estrellas de mar?",
+      "answer": "En el fondo del océano, sobre rocas o arena. Se mueven despacio con pequeños pies en tubo debajo de los brazos."
+    },
+    {
       "id": "cards/es/Animals/ocean_middle.md:10:1",
       "lang": "es",
       "topic": "Animals",
@@ -6990,6 +7190,26 @@
       "kind": "cloze",
       "question": "Los _____ son lagos enormes de agua dulce en América del Norte.",
       "answer": "Grandes Lagos"
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:16:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Cuál es el continente más pequeño?",
+      "answer": "Australia. Forma parte del continente llamado Oceanía."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:17:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿En qué continente viven los tigres en la naturaleza?",
+      "answer": "En Asia. Muchos tigres viven en bosques de países como la India e Indonesia."
     },
     {
       "id": "cards/es/Geography/continents_early.md:1:1",
@@ -7772,6 +7992,26 @@
       "answer": "cactus"
     },
     {
+      "id": "cards/es/Science/plants_early.md:11:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Todas las plantas necesitan la misma cantidad de luz del Sol?",
+      "answer": "No. A algunas les gusta mucho sol y otras crecen mejor a la sombra bajo los árboles."
+    },
+    {
+      "id": "cards/es/Science/plants_early.md:12:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "qa",
+      "question": "¿Qué es un brote?",
+      "answer": "Una plantita nueva que acaba de salir de una semilla. Tiene hojas pequeñas y un tallo corto."
+    },
+    {
       "id": "cards/es/Science/plants_early.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -8270,6 +8510,26 @@
       "kind": "qa",
       "question": "¿Qué son los cráteres en la Luna?",
       "answer": "Huecos redondos que dejan las rocas del espacio al chocar con la Luna. Algunos cráteres son más anchos que una ciudad."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:13:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una luna llena?",
+      "answer": "Cuando vemos toda la cara brillante de la Luna iluminada por el Sol. Pasa más o menos una vez al mes en el ciclo lunar."
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:14:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "En _____, la Luna queda entre la Tierra y el Sol, así que el lado que miramos a nosotros se ve oscuro.",
+      "answer": "luna nueva"
     },
     {
       "id": "cards/es/Space/moon_middle.md:1:1",
@@ -9280,6 +9540,16 @@
       "kind": "qa",
       "question": "¿Qué son los Juegos Olímpicos de invierno?",
       "answer": "Son Juegos Olímpicos sobre nieve y hielo. Los deportistas esquían, patinan y se deslizan en deportes como el hockey y el snowboard."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:10:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es la Villa Olímpica?",
+      "answer": "Es un conjunto de edificios donde los deportistas duermen, comen y se reúnen durante los Juegos. Ayuda a que personas de distintos países se conozcan."
     },
     {
       "id": "cards/es/Sports/olympics_middle.md:1:1",
