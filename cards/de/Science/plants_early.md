@@ -53,3 +53,13 @@ A: Der Boden, in dem Pflanzen wachsen. Er speichert Wasser und gibt den Wurzeln 
 ---
 
 C: Ein [Kaktus] speichert Wasser im dicken Stängel, damit er an trockenen Orten leben kann.
+
+---
+
+Q: Brauchen alle Pflanzen gleich viel Sonnenlicht?
+A: Nein. Manche mögen viel Sonne, andere wachsen besser im Schatten unter Bäumen.
+
+---
+
+Q: Was ist ein Keimling?
+A: Eine winzige neue Pflanze, die gerade aus einem Samen gekommen ist. Sie hat kleine Blätter und einen kurzen Stängel.

@@ -81,3 +81,13 @@ A: Asia. The Taj Mahal is a beautiful building in India, a country in Asia.
 ---
 
 C: The [Great Lakes] are huge freshwater lakes in North America.
+
+---
+
+Q: Which is the smallest continent?
+A: Australia. It is part of the continent called Oceania.
+
+---
+
+Q: On which continent would you find tigers in the wild?
+A: Asia. Many tigers live in forests in countries like India and Indonesia.

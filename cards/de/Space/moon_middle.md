@@ -65,3 +65,12 @@ A: Meist grau. Seine Oberfläche ist staubiger Fels, der Sonnenlicht zu uns zur�
 
 Q: Was sind Krater auf dem Mond?
 A: Runde Schüsseln, die bleiben, wenn Gestein aus dem Weltraum auf den Mond kracht. Einige Krater sind breiter als eine Stadt.
+
+---
+
+Q: Was ist Vollmond?
+A: Wenn wir die ganze helle Seite des Mondes sehen, die von der Sonne beleuchtet ist. Das passiert im Mondzyklus etwa einmal im Monat.
+
+---
+
+C: Beim [Neumond] steht der Mond zwischen Erde und Sonne, deshalb wirkt die uns zugewandte Seite dunkel.
