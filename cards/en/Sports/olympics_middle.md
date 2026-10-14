@@ -64,3 +64,7 @@ A: They are a huge sports event like the Olympics for athletes with disabilities
 
 Q: What is the Olympic Village?
 A: It is a neighborhood of buildings where athletes sleep, eat, and meet during the Games. It helps people from different countries get to know one another.
+
+---
+
+C: Breaking an Olympic [record] means doing something faster, higher, or stronger than anyone has before at the Games.

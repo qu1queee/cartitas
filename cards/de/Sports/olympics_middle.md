@@ -55,3 +55,7 @@ A: Das ist ein großes Sportfest wie die Olympischen Spiele für Sportlerinnen u
 
 Q: Was ist das Olympische Dorf?
 A: Es ist eine Siedlung mit Gebäuden, in der die Sportler während der Spiele schlafen, essen und sich treffen. So lernen Menschen aus verschiedenen Ländern einander kennen.
+
+---
+
+C: Einen olympischen [Rekord] zu brechen heißt, etwas schneller, höher oder stärker zu sein als je zuvor bei den Spielen.
