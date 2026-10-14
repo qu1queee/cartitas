@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:36:48Z",
+  "generatedAt": "2026-10-14T13:20:03Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -260,6 +260,16 @@
       "kind": "qa",
       "question": "Warum kratzen Hühner im Boden und picken danach?",
       "answer": "Sie suchen Körner, Insekten und kleine Pflanzen. Beim Kratzen finden sie Futter und lockern den Boden ein wenig auf."
+    },
+    {
+      "id": "cards/de/Animals/ocean_early.md:10:1",
+      "lang": "de",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Orangefarbene _____ schwimmen oft sicher zwischen den Wassertentakeln einer Seeanemone.",
+      "answer": "Anemonenfische"
     },
     {
       "id": "cards/de/Animals/ocean_early.md:1:1",
@@ -730,6 +740,16 @@
       "kind": "qa",
       "question": "Auf welchem Kontinent leben Tiger in der Natur?",
       "answer": "In Asien. Viele Tiger leben in Wäldern in Ländern wie Indien und Indonesien."
+    },
+    {
+      "id": "cards/de/Geography/continents_early.md:18:1",
+      "lang": "de",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Die _____ liegt am Südpol und ist mit dickem Eis bedeckt.",
+      "answer": "Antarktis"
     },
     {
       "id": "cards/de/Geography/continents_early.md:1:1",
@@ -1532,6 +1552,16 @@
       "answer": "Eine winzige neue Pflanze, die gerade aus einem Samen gekommen ist. Sie hat kleine Blätter und einen kurzen Stängel."
     },
     {
+      "id": "cards/de/Science/plants_early.md:13:1",
+      "lang": "de",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Wenn du eine welke Zimmerpflanze gießt, richten sich die Blätter oft wieder auf, weil die Pflanze _____ getrunken hat.",
+      "answer": "Wasser"
+    },
+    {
       "id": "cards/de/Science/plants_early.md:1:1",
       "lang": "de",
       "topic": "Science",
@@ -2050,6 +2080,16 @@
       "kind": "cloze",
       "question": "Beim _____ steht der Mond zwischen Erde und Sonne, deshalb wirkt die uns zugewandte Seite dunkel.",
       "answer": "Neumond"
+    },
+    {
+      "id": "cards/de/Space/moon_middle.md:15:1",
+      "lang": "de",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Kann man auf dem Mond Geräusche hören?",
+      "answer": "Nicht außerhalb eines Raumanzugs. Der Mond hat fast keine Luft, und Schall braucht Luft, um sich fortzupflanzen."
     },
     {
       "id": "cards/de/Space/moon_middle.md:1:1",
@@ -3072,6 +3112,16 @@
       "answer": "Es ist eine Siedlung mit Gebäuden, in der die Sportler während der Spiele schlafen, essen und sich treffen. So lernen Menschen aus verschiedenen Ländern einander kennen."
     },
     {
+      "id": "cards/de/Sports/olympics_middle.md:11:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Einen olympischen _____ zu brechen heißt, etwas schneller, höher oder stärker zu sein als je zuvor bei den Spielen.",
+      "answer": "Rekord"
+    },
+    {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
       "lang": "de",
       "topic": "Sports",
@@ -3420,6 +3470,16 @@
       "kind": "qa",
       "question": "Why do chickens scratch and peck at the ground?",
       "answer": "Chickens hunt for seeds, bugs, and tiny plants. Scratching helps them find food and stir up the soil."
+    },
+    {
+      "id": "cards/en/Animals/ocean_early.md:10:1",
+      "lang": "en",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Bright orange _____ often swim safely among the waving tentacles of a sea anemone.",
+      "answer": "clownfish"
     },
     {
       "id": "cards/en/Animals/ocean_early.md:1:1",
@@ -3920,6 +3980,16 @@
       "kind": "qa",
       "question": "On which continent would you find tigers in the wild?",
       "answer": "Asia. Many tigers live in forests in countries like India and Indonesia."
+    },
+    {
+      "id": "cards/en/Geography/continents_early.md:18:1",
+      "lang": "en",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "_____ sits at the South Pole and is covered with thick ice.",
+      "answer": "Antarctica"
     },
     {
       "id": "cards/en/Geography/continents_early.md:1:1",
@@ -4762,6 +4832,16 @@
       "answer": "A tiny new plant that just popped up from a seed. It has small leaves and a short stem."
     },
     {
+      "id": "cards/en/Science/plants_early.md:13:1",
+      "lang": "en",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "When you water a wilted houseplant, the leaves often stand up again because the plant drank the _____.",
+      "answer": "water"
+    },
+    {
       "id": "cards/en/Science/plants_early.md:1:1",
       "lang": "en",
       "topic": "Science",
@@ -5310,6 +5390,16 @@
       "kind": "cloze",
       "question": "During a _____, the Moon is between Earth and the Sun, so the side facing us looks dark.",
       "answer": "new Moon"
+    },
+    {
+      "id": "cards/en/Space/moon_middle.md:15:1",
+      "lang": "en",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Can you hear sounds on the Moon?",
+      "answer": "Not outside a spacesuit. The Moon has almost no air, and sound needs air to travel."
     },
     {
       "id": "cards/en/Space/moon_middle.md:1:1",
@@ -6392,6 +6482,16 @@
       "answer": "It is a neighborhood of buildings where athletes sleep, eat, and meet during the Games. It helps people from different countries get to know one another."
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:12:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Breaking an Olympic _____ means doing something faster, higher, or stronger than anyone has before at the Games.",
+      "answer": "record"
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -6740,6 +6840,16 @@
       "kind": "qa",
       "question": "¿Por qué las gallinas arañan y picotean el suelo?",
       "answer": "Buscan semillas, insectos y plantitas. Al arañar encuentran comida y remueven un poco la tierra."
+    },
+    {
+      "id": "cards/es/Animals/ocean_early.md:10:1",
+      "lang": "es",
+      "topic": "Animals",
+      "subtopic": "ocean",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Los _____ naranjas a menudo nadan a salvo entre los tentáculos de una anémona de mar.",
+      "answer": "peces payaso"
     },
     {
       "id": "cards/es/Animals/ocean_early.md:1:1",
@@ -7210,6 +7320,16 @@
       "kind": "qa",
       "question": "¿En qué continente viven los tigres en la naturaleza?",
       "answer": "En Asia. Muchos tigres viven en bosques de países como la India e Indonesia."
+    },
+    {
+      "id": "cards/es/Geography/continents_early.md:18:1",
+      "lang": "es",
+      "topic": "Geography",
+      "subtopic": "continents",
+      "age": "early",
+      "kind": "cloze",
+      "question": "La _____ está en el Polo Sur y está cubierta de hielo grueso.",
+      "answer": "Antártida"
     },
     {
       "id": "cards/es/Geography/continents_early.md:1:1",
@@ -8012,6 +8132,16 @@
       "answer": "Una plantita nueva que acaba de salir de una semilla. Tiene hojas pequeñas y un tallo corto."
     },
     {
+      "id": "cards/es/Science/plants_early.md:13:1",
+      "lang": "es",
+      "topic": "Science",
+      "subtopic": "plants",
+      "age": "early",
+      "kind": "cloze",
+      "question": "Cuando riegas una planta de casa marchita, las hojas a menudo se enderezan otra vez porque la planta bebió _____.",
+      "answer": "agua"
+    },
+    {
       "id": "cards/es/Science/plants_early.md:1:1",
       "lang": "es",
       "topic": "Science",
@@ -8530,6 +8660,16 @@
       "kind": "cloze",
       "question": "En _____, la Luna queda entre la Tierra y el Sol, así que el lado que miramos a nosotros se ve oscuro.",
       "answer": "luna nueva"
+    },
+    {
+      "id": "cards/es/Space/moon_middle.md:15:1",
+      "lang": "es",
+      "topic": "Space",
+      "subtopic": "moon",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Se pueden oír sonidos en la Luna?",
+      "answer": "No fuera de un traje espacial. La Luna casi no tiene aire, y el sonido necesita aire para viajar."
     },
     {
       "id": "cards/es/Space/moon_middle.md:1:1",
@@ -9550,6 +9690,16 @@
       "kind": "qa",
       "question": "¿Qué es la Villa Olímpica?",
       "answer": "Es un conjunto de edificios donde los deportistas duermen, comen y se reúnen durante los Juegos. Ayuda a que personas de distintos países se conozcan."
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:11:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "cloze",
+      "question": "Batir un _____ olímpico significa hacer algo más rápido, más alto o más fuerte que nadie antes en los Juegos.",
+      "answer": "récord"
     },
     {
       "id": "cards/es/Sports/olympics_middle.md:1:1",
