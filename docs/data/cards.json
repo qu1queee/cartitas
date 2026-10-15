@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T13:20:03Z",
+  "generatedAt": "2026-10-15T13:05:25Z",
   "cards": [
     {
       "id": "cards/de/Animals/farm_early.md:10:1",
@@ -3120,6 +3120,16 @@
       "kind": "cloze",
       "question": "Einen olympischen _____ zu brechen heißt, etwas schneller, höher oder stärker zu sein als je zuvor bei den Spielen.",
       "answer": "Rekord"
+    },
+    {
+      "id": "cards/de/Sports/olympics_middle.md:12:1",
+      "lang": "de",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "Was ist eine persönliche Bestleistung für einen Sportler?",
+      "answer": "Das ist die beste Zeit, Punktzahl oder Weite, die dieser Sportler je geschafft hat. Olympioniken hoffen oft, ihre eigene Bestleistung zu verbessern, auch wenn sie keine Medaille gewinnen."
     },
     {
       "id": "cards/de/Sports/olympics_middle.md:1:1",
@@ -6492,6 +6502,16 @@
       "answer": "record"
     },
     {
+      "id": "cards/en/Sports/olympics_middle.md:13:1",
+      "lang": "en",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "What is a personal best for an athlete?",
+      "answer": "It is the best time, score, or distance that athlete has ever achieved. Olympians often hope to beat their own personal best, even if they do not win a medal."
+    },
+    {
       "id": "cards/en/Sports/olympics_middle.md:1:1",
       "lang": "en",
       "topic": "Sports",
@@ -9700,6 +9720,16 @@
       "kind": "cloze",
       "question": "Batir un _____ olímpico significa hacer algo más rápido, más alto o más fuerte que nadie antes en los Juegos.",
       "answer": "récord"
+    },
+    {
+      "id": "cards/es/Sports/olympics_middle.md:12:1",
+      "lang": "es",
+      "topic": "Sports",
+      "subtopic": "olympics",
+      "age": "middle",
+      "kind": "qa",
+      "question": "¿Qué es una marca personal para un deportista?",
+      "answer": "Es el mejor tiempo, puntuación o distancia que ese deportista ha logrado alguna vez. Muchos olímpicos quieren superar su propia marca personal, aunque no ganen una medalla."
     },
     {
       "id": "cards/es/Sports/olympics_middle.md:1:1",
